@@ -2089,7 +2089,7 @@
     </node>
     <node ID="1.119" type="FN">
       <attributes />
-      <edge toID="1.120" type="E">
+      <edge toID="1.120" type="F">
         <attributes />
       </edge>
       <edge toID="1.121" type="C">
@@ -2335,7 +2335,7 @@
       <edge toID="1.158" type="R">
         <attributes />
       </edge>
-      <edge toID="1.159" type="E">
+      <edge toID="1.159" type="F">
         <attributes />
       </edge>
       <edge toID="1.160" type="C">
@@ -2518,7 +2518,7 @@
     </node>
     <node ID="1.191" type="FN">
       <attributes />
-      <edge toID="1.192" type="E">
+      <edge toID="1.192" type="F">
         <attributes />
       </edge>
       <edge toID="1.193" type="E">
@@ -2560,7 +2560,7 @@
       <edge toID="1.198" type="R">
         <attributes />
       </edge>
-      <edge toID="1.199" type="E">
+      <edge toID="1.199" type="F">
         <attributes />
       </edge>
       <edge toID="1.200" type="E">
@@ -2860,7 +2860,7 @@
       <edge toID="1.240" type="R">
         <attributes />
       </edge>
-      <edge toID="1.241" type="E">
+      <edge toID="1.241" type="F">
         <attributes />
       </edge>
       <edge toID="1.242" type="C">
@@ -3160,7 +3160,7 @@
       <edge toID="1.283" type="R">
         <attributes />
       </edge>
-      <edge toID="1.284" type="E">
+      <edge toID="1.284" type="F">
         <attributes />
       </edge>
       <edge toID="1.285" type="E">
@@ -3508,7 +3508,7 @@
     </node>
     <node ID="1.336" type="FN">
       <attributes />
-      <edge toID="1.337" type="E">
+      <edge toID="1.337" type="F">
         <attributes />
       </edge>
       <edge toID="1.339" type="C">
@@ -3562,7 +3562,7 @@
     </node>
     <node ID="1.344" type="FN">
       <attributes />
-      <edge toID="1.345" type="E">
+      <edge toID="1.345" type="F">
         <attributes />
       </edge>
       <edge toID="1.346" type="C">
@@ -3832,7 +3832,7 @@
       <edge toID="1.378" type="R">
         <attributes />
       </edge>
-      <edge toID="1.379" type="E">
+      <edge toID="1.379" type="F">
         <attributes />
       </edge>
       <edge toID="1.382" type="E">
