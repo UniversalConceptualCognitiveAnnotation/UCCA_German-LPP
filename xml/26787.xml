@@ -877,7 +877,7 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <edge toID="1.7" type="E">
+      <edge toID="1.7" type="F">
         <attributes />
       </edge>
       <edge toID="1.8" type="E">
@@ -955,7 +955,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <edge toID="1.17" type="E">
+      <edge toID="1.17" type="F">
         <attributes />
       </edge>
       <edge toID="1.18" type="C">
@@ -1939,7 +1939,7 @@
     </node>
     <node ID="1.141" type="FN">
       <attributes />
-      <edge toID="1.142" type="E">
+      <edge toID="1.142" type="F">
         <attributes />
       </edge>
       <edge toID="1.143" type="C">

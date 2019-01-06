@@ -2077,7 +2077,7 @@
     </node>
     <node ID="1.152" type="FN">
       <attributes />
-      <edge toID="1.153" type="E">
+      <edge toID="1.153" type="F">
         <attributes />
       </edge>
       <edge toID="1.154" type="C">
