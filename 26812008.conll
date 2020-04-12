@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26812008
+1	Sie	_	Word	Word	_	4	A	_	_
+1	Sie	_	Word	Word	_	9	A*	_	_
+2	haben	_	Word	Word	_	4	F	_	_
+3	nicht	_	Word	Word	_	4	D	_	_
+4	ausreichend	_	Word	Word	_	0	H	_	_
+5	Gift	_	Word	Word	_	4	A	_	_
+6	für	_	Word	Word	_	9	R	_	_
+7	einen	_	Word	Word	_	9	F	_	_
+8	zweiten	_	Word	Word	_	9	E	_	_
+9	Biss	_	Word	Word	_	4	A	_	_
+10	...	_	Punctuation	Punctuation	_	4	U	_	_
+11	"	_	Punctuation	Punctuation	_	4	U	_	_
+12	In	_	Word	Word	_	14	R	_	_
+13	dieser	_	Word	Word	_	14	E	_	_
+14	Nacht	_	Word	Word	_	18	T	_	_
+15	habe	_	Word	Word	_	18	F	_	_
+16	ich	_	Word	Word	_	18	A	_	_
+17	nicht	_	Word	Word	_	18	D	_	_
+18	gesehen	_	Word	Word	_	4	H	_	_
+19	,	_	Punctuation	Punctuation	_	18	U	_	_
+20	wie	_	Word	Word	_	22	R	_	_
+21	er	_	Word	Word	_	22	A	_	_
+22	sich	_	Word	Word	_	18	A	_	_
+23	auf	_	Word	Word	_	22	Terminal	_	_
+24	den	_	Word	Word	_	22	Terminal	_	_
+25	Weg	_	Word	Word	_	22	Terminal	_	_
+26	machte	_	Word	Word	_	22	Terminal	_	_
+27	.	_	Punctuation	Punctuation	_	22	U	_	_
+

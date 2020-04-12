@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 26751003
+1	Ich	_	Word	Word	_	2	A	_	_
+2	erinnerte	_	Word	Word	_	0	H	_	_
+3	mich	_	Word	Word	_	2	Terminal	_	_
+4	daran	_	Word	Word	_	2	F	_	_
+5	,	_	Punctuation	Punctuation	_	2	U	_	_
+6	dass	_	Word	Word	_	17	R	_	_
+7	ich	_	Word	Word	_	17	A	_	_
+8	vor	_	Word	Word	_	9	R	_	_
+9	allem	_	Word	Word	_	17	D	_	_
+10	Geographie	_	Word	Word	_	17	A	_	_
+11	,	_	Punctuation	Punctuation	_	10	U	_	_
+12	Geschichte	_	Word	Word	_	10	C	_	_
+13	,	_	Punctuation	Punctuation	_	10	U	_	_
+14	Mathematik	_	Word	Word	_	10	C	_	_
+15	und	_	Word	Word	_	10	N	_	_
+16	Grammatik	_	Word	Word	_	10	C	_	_
+17	erlernt	_	Word	Word	_	2	A	_	_
+18	hatte	_	Word	Word	_	17	F	_	_
+19	und	_	Word	Word	_	2	L	_	_
+20	so	_	Word	Word	_	21	D	_	_
+21	sagte	_	Word	Word	_	2	H	_	_
+22	ich	_	Word	Word	_	21	A	_	_
+23	schlecht	_	Word	Word	_	24	D	_	_
+24	gelaunt	_	Word	Word	_	22	E	_	_
+25	zu	_	Word	Word	_	28	R	_	_
+26	dem	_	Word	Word	_	28	F	_	_
+27	kleinen	_	Word	Word	_	28	E	_	_
+28	Männchen	_	Word	Word	_	21	A	_	_
+29	,	_	Punctuation	Punctuation	_	21	U	_	_
+30	dass	_	Word	Word	_	33	R	_	_
+31	ich	_	Word	Word	_	33	A	_	_
+32	nicht	_	Word	Word	_	33	D	_	_
+33	zeichnen	_	Word	Word	_	21	A	_	_
+34	könne	_	Word	Word	_	33	D	_	_
+35	.	_	Punctuation	Punctuation	_	33	U	_	_
+

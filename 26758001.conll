@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26758001
+1	Und	_	Word	Word	_	4	L	_	_
+2	eines	_	Word	Word	_	3	F	_	_
+3	Tages	_	Word	Word	_	4	T	_	_
+4	riet	_	Word	Word	_	0	H	_	_
+5	er	_	Word	Word	_	4	A	_	_
+6	mir	_	Word	Word	_	4	A	_	_
+7	,	_	Punctuation	Punctuation	_	4	U	_	_
+8	mich	_	Word	Word	_	4	H	_	_
+9	doch	_	Word	Word	_	8	D	_	_
+10	zu	_	Word	Word	_	8	F	_	_
+11	bemühen	_	Word	Word	_	8	Terminal	_	_
+12	,	_	Punctuation	Punctuation	_	4	U	_	_
+13	eine	_	Word	Word	_	15	F	_	_
+14	schöne	_	Word	Word	_	15	E	_	_
+15	Zeichnung	_	Word	Word	_	16	A	_	_
+16	zu	_	Word	Word	_	4	H	_	_
+17	Stande	_	Word	Word	_	16	Terminal	_	_
+18	zu	_	Word	Word	_	16	Terminal	_	_
+19	bringen	_	Word	Word	_	16	Terminal	_	_
+20	,	_	Punctuation	Punctuation	_	4	U	_	_
+21	damit	_	Word	Word	_	4	L	_	_
+22	die	_	Word	Word	_	23	F	_	_
+23	Kinder	_	Word	Word	_	26	A	_	_
+24	bei	_	Word	Word	_	26	R	_	_
+25	mir	_	Word	Word	_	26	A	_	_
+26	zuhause	_	Word	Word	_	28	A	_	_
+27	es	_	Word	Word	_	28	A	_	_
+28	sich	_	Word	Word	_	4	H	_	_
+29	einprägten	_	Word	Word	_	28	Terminal	_	_
+30	.	_	Punctuation	Punctuation	_	28	U	_	_
+31	-	_	Punctuation	Punctuation	_	28	U	_	_
+32	"	_	Punctuation	Punctuation	_	28	U	_	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26777011
+1	Aber	_	Word	Word	_	7	L	_	_
+2	ich	_	Word	Word	_	7	A	_	_
+3	habe	_	Word	Word	_	7	F	_	_
+4	schon	_	Word	Word	_	7	D	_	_
+5	einen	_	Word	Word	_	6	F	_	_
+6	König	_	Word	Word	_	7	A	_	_
+7	getroffen	_	Word	Word	_	0	H	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	der	_	Word	Word	_	6	E	_	_
+10	...	_	Punctuation	Punctuation	_	7	U	_	_
+11	"	_	Punctuation	Punctuation	_	7	U	_	_
+12	-	_	Punctuation	Punctuation	_	7	U	_	_
+13	"	_	Punctuation	Punctuation	_	7	U	_	_
+14	Könige	_	Word	Word	_	15	A	_	_
+15	besitzen	_	Word	Word	_	7	H	_	_
+16	nichts	_	Word	Word	_	15	A	_	_
+17	.	_	Punctuation	Punctuation	_	15	U	_	_
+18	Sie	_	Word	Word	_	20	A	_	_
+19	,	_	Punctuation	Punctuation	_	20	U	_	_
+20	regieren	_	Word	Word	_	15	H	_	_
+21	über	_	Word	Word	_	20	R	_	_
+22	'	_	Punctuation	Punctuation	_	15	U	_	_
+23	.	_	Punctuation	Punctuation	_	15	U	_	_
+24	Das	_	Word	Word	_	28	A	_	_
+25	ist	_	Word	Word	_	28	F	_	_
+26	etwas	_	Word	Word	_	28	A	_	_
+27	ganz	_	Word	Word	_	28	D	_	_
+28	anderes	_	Word	Word	_	15	H	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+30	"	_	Punctuation	Punctuation	_	28	U	_	_
+31	-	_	Punctuation	Punctuation	_	28	U	_	_
+32	"	_	Punctuation	Punctuation	_	28	U	_	_
+

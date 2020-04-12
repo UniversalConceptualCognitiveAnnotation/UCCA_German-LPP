@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 26805017
+1	Genau	_	Word	Word	_	3	D	_	_
+2	so	_	Word	Word	_	1	Terminal	_	_
+3	machten	_	Word	Word	_	0	H	_	_
+4	-	_	Punctuation	Punctuation	_	3	U	_	_
+5	als	_	Word	Word	_	3	L	_	_
+6	ich	_	Word	Word	_	10	A	_	_
+7	ein	_	Word	Word	_	9	F	_	_
+8	kleiner	_	Word	Word	_	9	E	_	_
+9	Junge	_	Word	Word	_	10	A	_	_
+10	war	_	Word	Word	_	3	H	_	_
+11	-	_	Punctuation	Punctuation	_	3	U	_	_
+12	das	_	Word	Word	_	13	F	_	_
+13	Licht	_	Word	Word	_	3	A	_	_
+14	des	_	Word	Word	_	16	R	_	_
+15	Weihnachts	_	Word	Word	_	16	E	_	_
+16	baums	_	Word	Word	_	13	A	_	_
+17	,	_	Punctuation	Punctuation	_	13	U	_	_
+18	die	_	Word	Word	_	19	F	_	_
+19	Musik	_	Word	Word	_	13	C	_	_
+20	der	_	Word	Word	_	22	R	_	_
+21	Mitternachts	_	Word	Word	_	22	E	_	_
+22	messe	_	Word	Word	_	19	A	_	_
+23	,	_	Punctuation	Punctuation	_	13	U	_	_
+24	die	_	Word	Word	_	25	F	_	_
+25	Milde	_	Word	Word	_	13	C	_	_
+26	des	_	Word	Word	_	27	R	_	_
+27	Lächelns	_	Word	Word	_	25	A	_	_
+28	den	_	Word	Word	_	30	F	_	_
+29	ganzen	_	Word	Word	_	30	D	_	_
+30	Zauber	_	Word	Word	_	3	A	_	_
+31	des	_	Word	Word	_	32	R	_	_
+32	Geschenks	_	Word	Word	_	30	A	_	_
+33	aus	_	Word	Word	_	3	Terminal	_	_
+34	,	_	Punctuation	Punctuation	_	3	U	_	_
+35	das	_	Word	Word	_	37	R	_	_
+36	ich	_	Word	Word	_	37	A	_	_
+37	bekam	_	Word	Word	_	32	E	_	_
+38	.	_	Punctuation	Punctuation	_	37	U	_	_
+

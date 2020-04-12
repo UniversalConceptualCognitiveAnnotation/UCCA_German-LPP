@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26785012
+1	Aber	_	Word	Word	_	3	L	_	_
+2	er	_	Word	Word	_	3	A	_	_
+3	fasste	_	Word	Word	_	0	H	_	_
+4	neuen	_	Word	Word	_	3	D	_	_
+5	Mut	_	Word	Word	_	3	Terminal	_	_
+6	:	_	Punctuation	Punctuation	_	3	U	_	_
+7	-	_	Punctuation	Punctuation	_	3	U	_	_
+8	"	_	Punctuation	Punctuation	_	3	U	_	_
+9	Was	_	Word	Word	_	10	A	_	_
+10	empfehlen	_	Word	Word	_	19	A	_	_
+11	Sie	_	Word	Word	_	10	A	_	_
+12	mir	_	Word	Word	_	10	A	_	_
+12	mir	_	Word	Word	_	15	A*	_	_
+13	für	_	Word	Word	_	15	R	_	_
+14	einen	_	Word	Word	_	15	F	_	_
+15	Besuch	_	Word	Word	_	10	A	_	_
+16	?	_	Punctuation	Punctuation	_	19	U	_	_
+17	"	_	Punctuation	Punctuation	_	19	U	_	_
+18	,	_	Punctuation	Punctuation	_	19	U	_	_
+19	fragte	_	Word	Word	_	3	H	_	_
+20	er	_	Word	Word	_	19	A	_	_
+21	.	_	Punctuation	Punctuation	_	19	U	_	_
+22	-	_	Punctuation	Punctuation	_	19	U	_	_
+23	"	_	Punctuation	Punctuation	_	19	U	_	_
+

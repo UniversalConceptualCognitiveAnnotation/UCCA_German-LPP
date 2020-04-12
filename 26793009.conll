@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26793009
+1	Ah	_	Word	Word	_	5	A	_	_
+2	!	_	Punctuation	Punctuation	_	5	U	_	_
+3	"	_	Punctuation	Punctuation	_	5	U	_	_
+4	,	_	Punctuation	Punctuation	_	5	U	_	_
+5	machte	_	Word	Word	_	0	H	_	_
+6	der	_	Word	Word	_	8	F	_	_
+7	kleine	_	Word	Word	_	8	E	_	_
+8	Prinz	_	Word	Word	_	5	A	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

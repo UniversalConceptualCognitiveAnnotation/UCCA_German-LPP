@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26803019
+1	Ich	_	Word	Word	_	3	A	_	_
+2	bin	_	Word	Word	_	3	F	_	_
+3	zufrieden	_	Word	Word	_	6	A	_	_
+4	"	_	Punctuation	Punctuation	_	6	U	_	_
+5	,	_	Punctuation	Punctuation	_	6	U	_	_
+6	sagte	_	Word	Word	_	0	H	_	_
+7	er	_	Word	Word	_	6	A	_	_
+8	,	_	Punctuation	Punctuation	_	6	U	_	_
+9	"	_	Punctuation	Punctuation	_	6	U	_	_
+10	dass	_	Word	Word	_	14	R	_	_
+11	du	_	Word	Word	_	14	A	_	_
+12	es	_	Word	Word	_	14	F	_	_
+13	genauso	_	Word	Word	_	14	D	_	_
+14	siehst	_	Word	Word	_	3	A	_	_
+15	wie	_	Word	Word	_	17	R	_	_
+16	mein	_	Word	Word	_	17	E	_	_
+17	Fuchs	_	Word	Word	_	14	A	_	_
+18	.	_	Punctuation	Punctuation	_	17	U	_	_
+19	"	_	Punctuation	Punctuation	_	17	U	_	_
+

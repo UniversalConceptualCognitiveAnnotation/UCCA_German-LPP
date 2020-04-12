@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26750014
+1	Hier	_	Word	Word	_	0	H	_	_
+2	das	_	Word	Word	_	4	F	_	_
+3	beste	_	Word	Word	_	4	E	_	_
+4	Porträt	_	Word	Word	_	1	A	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	das	_	Word	Word	_	11	R	_	_
+7	ich	_	Word	Word	_	11	A	_	_
+8	später	_	Word	Word	_	11	T	_	_
+9	von	_	Word	Word	_	10	R	_	_
+10	ihm	_	Word	Word	_	11	A	_	_
+11	zu	_	Word	Word	_	4	E	_	_
+12	Stande	_	Word	Word	_	11	Terminal	_	_
+13	brachte	_	Word	Word	_	11	Terminal	_	_
+14	.	_	Punctuation	Punctuation	_	11	U	_	_
+

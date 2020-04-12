@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 26764004
+1	Eines	_	Word	Word	_	2	F	_	_
+2	Tages	_	Word	Word	_	22	T	_	_
+3	zu	_	Word	Word	_	22	G	_	_
+4	dem	_	Word	Word	_	3	Terminal	_	_
+5	Beispiel	_	Word	Word	_	3	Terminal	_	_
+6	,	_	Punctuation	Punctuation	_	22	U	_	_
+7	als	_	Word	Word	_	22	L	_	_
+8	sie	_	Word	Word	_	16	A	_	_
+9	dem	_	Word	Word	_	11	F	_	_
+10	kleinen	_	Word	Word	_	11	E	_	_
+11	Prinzen	_	Word	Word	_	16	A	_	_
+12	von	_	Word	Word	_	15	R	_	_
+13	ihren	_	Word	Word	_	15	E	_	_
+14	vier	_	Word	Word	_	15	Q	_	_
+15	Dornen	_	Word	Word	_	16	A	_	_
+16	erzählte	_	Word	Word	_	22	H	_	_
+17	,	_	Punctuation	Punctuation	_	22	U	_	_
+18	hatte	_	Word	Word	_	22	F	_	_
+19	sie	_	Word	Word	_	22	A	_	_
+20	zu	_	Word	Word	_	21	R	_	_
+21	ihm	_	Word	Word	_	22	A	_	_
+22	gesagt	_	Word	Word	_	0	H	_	_
+23	:	_	Punctuation	Punctuation	_	22	U	_	_
+24	-	_	Punctuation	Punctuation	_	22	U	_	_
+25	"	_	Punctuation	Punctuation	_	22	U	_	_
+26	Die	_	Word	Word	_	27	F	_	_
+27	Tiger	_	Word	Word	_	30	A	_	_
+28	sollen	_	Word	Word	_	30	D	_	_
+29	nur	_	Word	Word	_	30	D	_	_
+30	kommen	_	Word	Word	_	22	A	_	_
+31	mit	_	Word	Word	_	33	R	_	_
+32	ihren	_	Word	Word	_	33	E	_	_
+33	Krallen	_	Word	Word	_	30	A	_	_
+34	!	_	Punctuation	Punctuation	_	33	U	_	_
+35	"	_	Punctuation	Punctuation	_	33	U	_	_
+36	-	_	Punctuation	Punctuation	_	33	U	_	_
+37	"	_	Punctuation	Punctuation	_	33	U	_	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26810008
+1	Mein	_	Word	Word	_	2	E	_	_
+2	Stern	_	Word	Word	_	5	A	_	_
+3	ist	_	Word	Word	_	5	F	_	_
+4	so	_	Word	Word	_	5	D	_	_
+5	klein	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	dass	_	Word	Word	_	11	R	_	_
+8	ich	_	Word	Word	_	11	A	_	_
+9	dir	_	Word	Word	_	11	A	_	_
+10	nicht	_	Word	Word	_	11	D	_	_
+11	zeigen	_	Word	Word	_	5	A	_	_
+12	kann	_	Word	Word	_	11	D	_	_
+13	,	_	Punctuation	Punctuation	_	11	U	_	_
+14	wo	_	Word	Word	_	17	A	_	_
+15	genau	_	Word	Word	_	17	D	_	_
+16	er	_	Word	Word	_	17	A	_	_
+17	sich	_	Word	Word	_	11	A	_	_
+18	befindet	_	Word	Word	_	17	Terminal	_	_
+19	.	_	Punctuation	Punctuation	_	17	U	_	_
+

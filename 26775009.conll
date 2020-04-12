@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26775009
+1	Und	_	Word	Word	_	4	L	_	_
+2	ganz	_	Word	Word	_	3	E	_	_
+3	perplex	_	Word	Word	_	4	D	_	_
+4	machte	_	Word	Word	_	0	H	_	_
+5	sich	_	Word	Word	_	4	Terminal	_	_
+6	der	_	Word	Word	_	8	F	_	_
+7	kleine	_	Word	Word	_	8	E	_	_
+8	Prinz	_	Word	Word	_	4	A	_	_
+9	wieder	_	Word	Word	_	4	D	_	_
+10	auf	_	Word	Word	_	4	Terminal	_	_
+11	und	_	Word	Word	_	4	Terminal	_	_
+12	davon	_	Word	Word	_	4	Terminal	_	_
+13	.	_	Punctuation	Punctuation	_	4	U	_	_
+14	-	_	Punctuation	Punctuation	_	4	U	_	_
+15	"	_	Punctuation	Punctuation	_	4	U	_	_
+

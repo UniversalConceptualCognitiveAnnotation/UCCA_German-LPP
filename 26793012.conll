@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26793012
+1	Und	_	Word	Word	_	3	L	_	_
+2	hier	_	Word	Word	_	3	A	_	_
+3	gab	_	Word	Word	_	0	H	_	_
+4	es	_	Word	Word	_	3	F	_	_
+5	gleich	_	Word	Word	_	3	D	_	_
+6	fünftausend	_	Word	Word	_	8	Q	_	_
+7	von	_	Word	Word	_	8	R	_	_
+8	ihnen	_	Word	Word	_	3	A	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	die	_	Word	Word	_	13	R	_	_
+11	alle	_	Word	Word	_	13	A	_	_
+12	gleich	_	Word	Word	_	13	D	_	_
+13	aussahen	_	Word	Word	_	8	E	_	_
+14	,	_	Punctuation	Punctuation	_	3	U	_	_
+15	in	_	Word	Word	_	18	R	_	_
+16	einem	_	Word	Word	_	18	F	_	_
+17	einzigen	_	Word	Word	_	18	E	_	_
+18	Garten	_	Word	Word	_	3	A	_	_
+19	!	_	Punctuation	Punctuation	_	18	U	_	_
+20	"	_	Punctuation	Punctuation	_	18	U	_	_
+

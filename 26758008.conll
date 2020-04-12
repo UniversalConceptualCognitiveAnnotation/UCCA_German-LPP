@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26758008
+1	Ihr	_	Word	Word	_	2	A	_	_
+2	fragt	_	Word	Word	_	0	H	_	_
+3	euch	_	Word	Word	_	2	A	_	_
+4	vielleicht	_	Word	Word	_	2	G	_	_
+5	:	_	Punctuation	Punctuation	_	2	U	_	_
+6	"	_	Punctuation	Punctuation	_	2	U	_	_
+7	Warum	_	Word	Word	_	8	A	_	_
+8	gibt	_	Word	Word	_	2	A	_	_
+9	es	_	Word	Word	_	8	F	_	_
+10	in	_	Word	Word	_	12	R	_	_
+11	diesem	_	Word	Word	_	12	E	_	_
+12	Buch	_	Word	Word	_	8	A	_	_
+13	nicht	_	Word	Word	_	8	D	_	_
+14	noch	_	Word	Word	_	17	D	_	_
+15	andere	_	Word	Word	_	17	D	_	_
+16	so	_	Word	Word	_	17	D	_	_
+17	großartige	_	Word	Word	_	8	A	_	_
+18	Bilder	_	Word	Word	_	17	A	_	_
+18	Bilder	_	Word	Word	_	20	C*	_	_
+19	wie	_	Word	Word	_	20	R	_	_
+20	jenes	_	Word	Word	_	17	A	_	_
+21	mit	_	Word	Word	_	23	R	_	_
+22	den	_	Word	Word	_	23	F	_	_
+23	Affenbrotbäumen	_	Word	Word	_	20	E	_	_
+24	?	_	Punctuation	Punctuation	_	23	U	_	_
+25	"	_	Punctuation	Punctuation	_	23	U	_	_
+

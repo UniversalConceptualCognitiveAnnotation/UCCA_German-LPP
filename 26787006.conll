@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26787006
+1	Zuerst	_	Word	Word	_	9	D	_	_
+2	waren	_	Word	Word	_	9	F	_	_
+3	die	_	Word	Word	_	4	F	_	_
+4	Anzünder	_	Word	Word	_	9	A	_	_
+5	in	_	Word	Word	_	6	R	_	_
+6	Neuseeland	_	Word	Word	_	4	E	_	_
+7	und	_	Word	Word	_	6	N	_	_
+8	Australien	_	Word	Word	_	6	C	_	_
+9	an	_	Word	Word	_	0	H	_	_
+10	der	_	Word	Word	_	9	Terminal	_	_
+11	Reihe	_	Word	Word	_	9	Terminal	_	_
+12	.	_	Punctuation	Punctuation	_	9	U	_	_
+

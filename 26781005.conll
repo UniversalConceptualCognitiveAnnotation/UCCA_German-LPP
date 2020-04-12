@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26781005
+1	Das	_	Word	Word	_	3	A	_	_
+2	ist	_	Word	Word	_	3	F	_	_
+3	lustig	_	Word	Word	_	0	H	_	_
+4	.	_	Punctuation	Punctuation	_	3	U	_	_
+5	Bei	_	Word	Word	_	6	R	_	_
+6	dir	_	Word	Word	_	7	A	_	_
+7	dauern	_	Word	Word	_	3	H	_	_
+8	die	_	Word	Word	_	9	F	_	_
+9	Tage	_	Word	Word	_	7	A	_	_
+10	nur	_	Word	Word	_	7	D	_	_
+11	eine	_	Word	Word	_	12	F	_	_
+12	Minute	_	Word	Word	_	7	A	_	_
+13	!	_	Punctuation	Punctuation	_	12	U	_	_
+14	"	_	Punctuation	Punctuation	_	12	U	_	_
+15	-	_	Punctuation	Punctuation	_	12	U	_	_
+16	"	_	Punctuation	Punctuation	_	12	U	_	_
+

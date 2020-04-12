@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26755010
+1	Zu	_	Word	Word	_	9	G	_	_
+2	dem	_	Word	Word	_	1	Terminal	_	_
+3	Glück	_	Word	Word	_	1	Terminal	_	_
+4	für	_	Word	Word	_	6	R	_	_
+5	den	_	Word	Word	_	6	F	_	_
+6	Asteroiden	_	Word	Word	_	9	A	_	_
+7	B	_	Word	Word	_	6	Terminal	_	_
+8	612	_	Word	Word	_	6	Terminal	_	_
+9	zwang	_	Word	Word	_	0	H	_	_
+10	ein	_	Word	Word	_	12	F	_	_
+11	türkischer	_	Word	Word	_	12	E	_	_
+12	Diktator	_	Word	Word	_	0	S	_	_
+12	Diktator	_	Word	Word	_	16	A*	_	_
+13	sein	_	Word	Word	_	14	E	_	_
+14	Volk	_	Word	Word	_	9	A	_	_
+15	unter	_	Word	Word	_	16	R	_	_
+16	Androhung	_	Word	Word	_	9	A	_	_
+17	der	_	Word	Word	_	19	R	_	_
+18	Todes	_	Word	Word	_	19	D	_	_
+19	strafe	_	Word	Word	_	16	A	_	_
+20	,	_	Punctuation	Punctuation	_	9	U	_	_
+21	sich	_	Word	Word	_	9	A	_	_
+22	nach	_	Word	Word	_	24	R	_	_
+23	europäischer	_	Word	Word	_	24	E	_	_
+24	Art	_	Word	Word	_	21	A	_	_
+25	zu	_	Word	Word	_	9	F	_	_
+26	kleiden	_	Word	Word	_	21	Terminal	_	_
+27	.	_	Punctuation	Punctuation	_	21	U	_	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26749002
+1	Aber	_	Word	Word	_	7	L	_	_
+2	meine	_	Word	Word	_	3	A	_	_
+3	Meinung	_	Word	Word	_	7	A	_	_
+4	über	_	Word	Word	_	5	R	_	_
+5	sie	_	Word	Word	_	3	A	_	_
+6	hat	_	Word	Word	_	7	F	_	_
+7	sich	_	Word	Word	_	0	H	_	_
+8	deshalb	_	Word	Word	_	7	A	_	_
+9	nicht	_	Word	Word	_	7	D	_	_
+10	sonderlich	_	Word	Word	_	7	D	_	_
+11	verbessert	_	Word	Word	_	7	Terminal	_	_
+12	.	_	Punctuation	Punctuation	_	7	U	_	_
+

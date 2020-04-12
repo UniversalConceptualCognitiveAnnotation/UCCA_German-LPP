@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 26770001
+1	Wenn	_	Word	Word	_	5	L	_	_
+2	er	_	Word	Word	_	5	A	_	_
+3	sie	_	Word	Word	_	5	A	_	_
+4	selbst	_	Word	Word	_	5	D	_	_
+5	besäße	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	könnte	_	Word	Word	_	24	D	_	_
+8	er	_	Word	Word	_	24	A	_	_
+8	er	_	Word	Word	_	34	A*	_	_
+9	nicht	_	Word	Word	_	11	N	_	_
+10	nur	_	Word	Word	_	9	Terminal	_	_
+11	vierundvierzig	_	Word	Word	_	24	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	sondern	_	Word	Word	_	11	N	_	_
+14	zweiundsiebzig	_	Word	Word	_	11	C	_	_
+15	oder	_	Word	Word	_	11	N	_	_
+16	gar	_	Word	Word	_	17	E	_	_
+17	hundert	_	Word	Word	_	11	C	_	_
+18	oder	_	Word	Word	_	11	N	_	_
+19	zweihundert	_	Word	Word	_	20	Q	_	_
+20	Sonnenuntergänge	_	Word	Word	_	0	C	_	_
+20	Sonnenuntergänge	_	Word	Word	_	11	C*	_	_
+20	Sonnenuntergänge	_	Word	Word	_	14	C*	_	_
+20	Sonnenuntergänge	_	Word	Word	_	17	C*	_	_
+21	an	_	Word	Word	_	23	R	_	_
+22	einem	_	Word	Word	_	23	Q	_	_
+23	Tag	_	Word	Word	_	24	T	_	_
+24	sehen	_	Word	Word	_	5	H	_	_
+25	,	_	Punctuation	Punctuation	_	5	U	_	_
+26	ohne	_	Word	Word	_	5	L	_	_
+26	ohne	_	Word	Word	_	34	D*	_	_
+27	nur	_	Word	Word	_	34	D	_	_
+28	ein	_	Word	Word	_	34	D	_	_
+29	einziges	_	Word	Word	_	28	Terminal	_	_
+30	Mal	_	Word	Word	_	28	Terminal	_	_
+31	seinen	_	Word	Word	_	32	E	_	_
+32	Stuhl	_	Word	Word	_	34	A	_	_
+33	zu	_	Word	Word	_	34	F	_	_
+34	verrücken	_	Word	Word	_	5	H	_	_
+35	!	_	Punctuation	Punctuation	_	34	U	_	_
+

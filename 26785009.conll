@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26785009
+1	Meine	_	Word	Word	_	2	E	_	_
+2	Blume	_	Word	Word	_	0	C	_	_
+2	Blume	_	Word	Word	_	6	A*	_	_
+2	Blume	_	Word	Word	_	12	A*	_	_
+3	ist	_	Word	Word	_	7	F	_	_
+4	von	_	Word	Word	_	6	R	_	_
+5	baldigem	_	Word	Word	_	6	T	_	_
+6	Verschwinden	_	Word	Word	_	7	A	_	_
+7	bedroht	_	Word	Word	_	0	S	_	_
+7	bedroht	_	Word	Word	_	12	S*	_	_
+8	?	_	Punctuation	Punctuation	_	12	U	_	_
+9	"	_	Punctuation	Punctuation	_	12	U	_	_
+10	-	_	Punctuation	Punctuation	_	12	U	_	_
+11	"	_	Punctuation	Punctuation	_	12	U	_	_
+12	Natürlich	_	Word	Word	_	7	H	_	_
+13	!	_	Punctuation	Punctuation	_	12	U	_	_
+14	"	_	Punctuation	Punctuation	_	12	U	_	_
+

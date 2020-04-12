@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 26754000
+1	Er	_	Word	Word	_	2	A	_	_
+1	Er	_	Word	Word	_	7	A*	_	_
+2	antwortete	_	Word	Word	_	0	H	_	_
+3	mir	_	Word	Word	_	2	A	_	_
+4	nach	_	Word	Word	_	2	L	_	_
+5	einem	_	Word	Word	_	7	F	_	_
+6	nachdenklichen	_	Word	Word	_	7	D	_	_
+7	Schweigen	_	Word	Word	_	2	H	_	_
+8	:	_	Punctuation	Punctuation	_	2	U	_	_
+9	-	_	Punctuation	Punctuation	_	2	U	_	_
+10	"	_	Punctuation	Punctuation	_	2	U	_	_
+11	Das	_	Word	Word	_	12	F	_	_
+12	Gute	_	Word	Word	_	2	A	_	_
+13	an	_	Word	Word	_	15	R	_	_
+14	der	_	Word	Word	_	15	F	_	_
+15	Kiste	_	Word	Word	_	12	A	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	die	_	Word	Word	_	20	R	_	_
+18	du	_	Word	Word	_	20	A	_	_
+19	mir	_	Word	Word	_	20	A	_	_
+20	gegeben	_	Word	Word	_	15	E	_	_
+21	hast	_	Word	Word	_	20	F	_	_
+22	,	_	Punctuation	Punctuation	_	12	U	_	_
+23	ist	_	Word	Word	_	12	F	_	_
+24	,	_	Punctuation	Punctuation	_	12	U	_	_
+25	dass	_	Word	Word	_	30	R	_	_
+26	sie	_	Word	Word	_	30	A	_	_
+27	ihm	_	Word	Word	_	30	A	_	_
+28	als	_	Word	Word	_	29	R	_	_
+29	Haus	_	Word	Word	_	30	A	_	_
+30	dienen	_	Word	Word	_	12	A	_	_
+31	wird	_	Word	Word	_	30	F	_	_
+32	in	_	Word	Word	_	34	R	_	_
+33	der	_	Word	Word	_	34	F	_	_
+34	Nacht	_	Word	Word	_	30	T	_	_
+35	.	_	Punctuation	Punctuation	_	34	U	_	_
+36	"	_	Punctuation	Punctuation	_	34	U	_	_
+37	-	_	Punctuation	Punctuation	_	34	U	_	_
+38	"	_	Punctuation	Punctuation	_	34	U	_	_
+

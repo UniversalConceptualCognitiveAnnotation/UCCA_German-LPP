@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26750003
+1	Dabei	_	Word	Word	_	2	A	_	_
+2	ging	_	Word	Word	_	0	H	_	_
+3	es	_	Word	Word	_	2	Terminal	_	_
+4	für	_	Word	Word	_	5	R	_	_
+5	mich	_	Word	Word	_	2	A	_	_
+6	um	_	Word	Word	_	7	R	_	_
+7	Leben	_	Word	Word	_	2	A	_	_
+8	und	_	Word	Word	_	7	N	_	_
+9	Tod	_	Word	Word	_	7	C	_	_
+10	.	_	Punctuation	Punctuation	_	7	U	_	_
+

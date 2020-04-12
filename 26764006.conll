@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26764006
+1	Ich	_	Word	Word	_	2	A	_	_
+2	bin	_	Word	Word	_	7	A	_	_
+3	kein	_	Word	Word	_	2	D	_	_
+4	Gras	_	Word	Word	_	2	A	_	_
+5	"	_	Punctuation	Punctuation	_	7	U	_	_
+6	,	_	Punctuation	Punctuation	_	7	U	_	_
+7	antwortete	_	Word	Word	_	0	H	_	_
+8	die	_	Word	Word	_	9	F	_	_
+9	Blume	_	Word	Word	_	7	A	_	_
+10	sanft	_	Word	Word	_	7	D	_	_
+11	.	_	Punctuation	Punctuation	_	7	U	_	_
+12	-	_	Punctuation	Punctuation	_	7	U	_	_
+13	"	_	Punctuation	Punctuation	_	7	U	_	_
+

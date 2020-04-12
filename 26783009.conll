@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26783009
+1	Das	_	Word	Word	_	2	A	_	_
+2	ist	_	Word	Word	_	0	H	_	_
+3	ein	_	Word	Word	_	4	F	_	_
+4	Wissenschaftler	_	Word	Word	_	2	A	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	der	_	Word	Word	_	7	R	_	_
+7	weiß	_	Word	Word	_	4	E	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	wo	_	Word	Word	_	10	A	_	_
+10	sich	_	Word	Word	_	7	A	_	_
+11	die	_	Word	Word	_	12	F	_	_
+12	Meere	_	Word	Word	_	10	A	_	_
+13	befinden	_	Word	Word	_	10	Terminal	_	_
+14	,	_	Punctuation	Punctuation	_	10	U	_	_
+15	die	_	Word	Word	_	16	F	_	_
+16	Flüsse	_	Word	Word	_	12	C	_	_
+17	,	_	Punctuation	Punctuation	_	12	U	_	_
+18	die	_	Word	Word	_	19	F	_	_
+19	Städte	_	Word	Word	_	12	C	_	_
+20	,	_	Punctuation	Punctuation	_	12	U	_	_
+21	die	_	Word	Word	_	22	F	_	_
+22	Berge	_	Word	Word	_	12	C	_	_
+23	und	_	Word	Word	_	12	N	_	_
+24	die	_	Word	Word	_	25	F	_	_
+25	Wüsten	_	Word	Word	_	12	C	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+27	"	_	Punctuation	Punctuation	_	25	U	_	_
+28	-	_	Punctuation	Punctuation	_	25	U	_	_
+29	"	_	Punctuation	Punctuation	_	25	U	_	_
+

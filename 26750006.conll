@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26750006
+1	Ich	_	Word	Word	_	4	A	_	_
+2	war	_	Word	Word	_	4	F	_	_
+3	viel	_	Word	Word	_	4	D	_	_
+4	abgeschiedener	_	Word	Word	_	0	H	_	_
+5	als	_	Word	Word	_	7	R	_	_
+6	ein	_	Word	Word	_	7	F	_	_
+7	Schiffbrüchiger	_	Word	Word	_	4	A	_	_
+8	mitten	_	Word	Word	_	11	E	_	_
+9	in	_	Word	Word	_	11	R	_	_
+10	dem	_	Word	Word	_	11	F	_	_
+11	Ozean	_	Word	Word	_	7	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

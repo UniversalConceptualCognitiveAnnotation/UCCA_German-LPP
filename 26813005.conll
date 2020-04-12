@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26813005
+1	Ich	_	Word	Word	_	2	A	_	_
+2	sagte	_	Word	Word	_	0	H	_	_
+3	:	_	Punctuation	Punctuation	_	2	U	_	_
+4	-	_	Punctuation	Punctuation	_	2	U	_	_
+5	"	_	Punctuation	Punctuation	_	2	U	_	_
+6	Hier	_	Word	Word	_	10	A	_	_
+7	...	_	Punctuation	Punctuation	_	10	U	_	_
+8	Das	_	Word	Word	_	10	A	_	_
+9	ist	_	Word	Word	_	10	F	_	_
+10	alles	_	Word	Word	_	2	A	_	_
+11	...	_	Punctuation	Punctuation	_	2	U	_	_
+12	"	_	Punctuation	Punctuation	_	2	U	_	_
+13	Er	_	Word	Word	_	14	A	_	_
+14	zögerte	_	Word	Word	_	2	H	_	_
+15	noch	_	Word	Word	_	14	D	_	_
+16	kurz	_	Word	Word	_	14	D	_	_
+17	,	_	Punctuation	Punctuation	_	2	U	_	_
+18	dann	_	Word	Word	_	2	L	_	_
+19	stand	_	Word	Word	_	2	H	_	_
+20	er	_	Word	Word	_	19	A	_	_
+21	auf	_	Word	Word	_	19	Terminal	_	_
+22	.	_	Punctuation	Punctuation	_	19	U	_	_
+

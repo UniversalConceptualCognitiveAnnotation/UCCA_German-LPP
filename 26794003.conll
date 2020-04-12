@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26794003
+1	Hier	_	Word	Word	_	11	A	_	_
+2	bin	_	Word	Word	_	11	F	_	_
+3	ich	_	Word	Word	_	11	A	_	_
+4	"	_	Punctuation	Punctuation	_	6	U	_	_
+5	,	_	Punctuation	Punctuation	_	6	U	_	_
+6	sagte	_	Word	Word	_	0	H	_	_
+7	die	_	Word	Word	_	8	F	_	_
+8	Stimme	_	Word	Word	_	6	A	_	_
+9	,	_	Punctuation	Punctuation	_	6	U	_	_
+10	"	_	Punctuation	Punctuation	_	6	U	_	_
+11	unter	_	Word	Word	_	6	A	_	_
+12	dem	_	Word	Word	_	14	F	_	_
+13	Apfel	_	Word	Word	_	14	E	_	_
+14	baum	_	Word	Word	_	11	A	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+16	"	_	Punctuation	Punctuation	_	14	U	_	_
+17	-	_	Punctuation	Punctuation	_	14	U	_	_
+18	"	_	Punctuation	Punctuation	_	14	U	_	_
+

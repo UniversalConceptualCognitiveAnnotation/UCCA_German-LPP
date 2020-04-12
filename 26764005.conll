@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 26764005
+1	Auf	_	Word	Word	_	3	R	_	_
+2	meinem	_	Word	Word	_	3	E	_	_
+3	Planeten	_	Word	Word	_	4	A	_	_
+4	gibt	_	Word	Word	_	10	A	_	_
+5	es	_	Word	Word	_	4	F	_	_
+6	keine	_	Word	Word	_	4	D	_	_
+7	Tiger	_	Word	Word	_	4	A	_	_
+8	"	_	Punctuation	Punctuation	_	10	U	_	_
+9	,	_	Punctuation	Punctuation	_	10	U	_	_
+10	erwiderte	_	Word	Word	_	0	H	_	_
+11	der	_	Word	Word	_	13	F	_	_
+12	kleine	_	Word	Word	_	13	E	_	_
+13	Prinz	_	Word	Word	_	10	A	_	_
+14	.	_	Punctuation	Punctuation	_	10	U	_	_
+15	"	_	Punctuation	Punctuation	_	10	U	_	_
+16	Und	_	Word	Word	_	4	L	_	_
+17	außerdem	_	Word	Word	_	18	D	_	_
+18	fressen	_	Word	Word	_	4	H	_	_
+19	Tiger	_	Word	Word	_	18	A	_	_
+20	kein	_	Word	Word	_	18	D	_	_
+21	Gras	_	Word	Word	_	18	A	_	_
+22	.	_	Punctuation	Punctuation	_	18	U	_	_
+23	"	_	Punctuation	Punctuation	_	18	U	_	_
+24	-	_	Punctuation	Punctuation	_	18	U	_	_
+25	"	_	Punctuation	Punctuation	_	18	U	_	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 26771010
+1	Oh	_	Word	Word	_	12	A	_	_
+2	!	_	Punctuation	Punctuation	_	1	U	_	_
+3	Aber	_	Word	Word	_	1	L	_	_
+4	ich	_	Word	Word	_	8	A	_	_
+5	habe	_	Word	Word	_	8	F	_	_
+6	es	_	Word	Word	_	8	A	_	_
+7	schon	_	Word	Word	_	8	D	_	_
+8	gesehen	_	Word	Word	_	1	H	_	_
+9	.	_	Punctuation	Punctuation	_	12	U	_	_
+10	"	_	Punctuation	Punctuation	_	12	U	_	_
+11	,	_	Punctuation	Punctuation	_	12	U	_	_
+12	sagte	_	Word	Word	_	0	H	_	_
+13	der	_	Word	Word	_	15	F	_	_
+14	kleine	_	Word	Word	_	15	E	_	_
+15	Prinz	_	Word	Word	_	0	C	_	_
+15	Prinz	_	Word	Word	_	17	A*	_	_
+15	Prinz	_	Word	Word	_	30	A*	_	_
+16	und	_	Word	Word	_	12	L	_	_
+17	neigte	_	Word	Word	_	12	H	_	_
+18	seinen	_	Word	Word	_	19	E	_	_
+19	Kopf	_	Word	Word	_	17	A	_	_
+20	,	_	Punctuation	Punctuation	_	12	U	_	_
+21	um	_	Word	Word	_	12	L	_	_
+22	nochmals	_	Word	Word	_	30	D	_	_
+23	auf	_	Word	Word	_	26	R	_	_
+24	die	_	Word	Word	_	26	F	_	_
+25	andere	_	Word	Word	_	26	E	_	_
+26	Seite	_	Word	Word	_	30	A	_	_
+27	des	_	Word	Word	_	28	R	_	_
+28	Planeten	_	Word	Word	_	26	E	_	_
+29	zu	_	Word	Word	_	30	F	_	_
+30	schauen	_	Word	Word	_	12	H	_	_
+31	.	_	Punctuation	Punctuation	_	30	U	_	_
+32	"	_	Punctuation	Punctuation	_	30	U	_	_
+

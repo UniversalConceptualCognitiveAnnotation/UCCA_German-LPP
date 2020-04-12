@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 26753003
+1	Als	_	Word	Word	_	8	L	_	_
+2	er	_	Word	Word	_	8	A	_	_
+3	das	_	Word	Word	_	8	T	_	_
+4	erste	_	Word	Word	_	3	Terminal	_	_
+5	Mal	_	Word	Word	_	3	Terminal	_	_
+6	mein	_	Word	Word	_	7	E	_	_
+7	Flugzeug	_	Word	Word	_	8	A	_	_
+8	sah	_	Word	Word	_	0	H	_	_
+9	(	_	Punctuation	Punctuation	_	8	U	_	_
+10	ich	_	Word	Word	_	11	A	_	_
+11	zeichne	_	Word	Word	_	8	H	_	_
+12	mein	_	Word	Word	_	13	E	_	_
+13	Flugzeug	_	Word	Word	_	11	A	_	_
+14	hier	_	Word	Word	_	11	A	_	_
+15	nicht	_	Word	Word	_	11	D	_	_
+16	,	_	Punctuation	Punctuation	_	8	U	_	_
+17	denn	_	Word	Word	_	8	L	_	_
+18	das	_	Word	Word	_	22	A	_	_
+19	ist	_	Word	Word	_	22	F	_	_
+20	viel	_	Word	Word	_	22	D	_	_
+21	zu	_	Word	Word	_	20	Terminal	_	_
+22	schwierig	_	Word	Word	_	8	H	_	_
+23	für	_	Word	Word	_	24	R	_	_
+24	mich	_	Word	Word	_	22	A	_	_
+25	)	_	Punctuation	Punctuation	_	8	U	_	_
+26	,	_	Punctuation	Punctuation	_	8	U	_	_
+27	da	_	Word	Word	_	8	L	_	_
+28	fragte	_	Word	Word	_	8	H	_	_
+29	er	_	Word	Word	_	28	A	_	_
+30	mich	_	Word	Word	_	28	A	_	_
+31	:	_	Punctuation	Punctuation	_	28	U	_	_
+32	-	_	Punctuation	Punctuation	_	28	U	_	_
+33	"	_	Punctuation	Punctuation	_	28	U	_	_
+34	Was	_	Word	Word	_	35	A	_	_
+35	ist	_	Word	Word	_	28	A	_	_
+36	dieses	_	Word	Word	_	37	E	_	_
+37	Ding	_	Word	Word	_	35	A	_	_
+38	?	_	Punctuation	Punctuation	_	37	U	_	_
+39	"	_	Punctuation	Punctuation	_	37	U	_	_
+40	-	_	Punctuation	Punctuation	_	37	U	_	_
+41	"	_	Punctuation	Punctuation	_	37	U	_	_
+

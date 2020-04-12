@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26750021
+1	Es	_	Word	Word	_	2	A	_	_
+2	wirkte	_	Word	Word	_	0	H	_	_
+3	ganz	_	Word	Word	_	6	E	_	_
+4	und	_	Word	Word	_	3	Terminal	_	_
+5	gar	_	Word	Word	_	3	Terminal	_	_
+6	nicht	_	Word	Word	_	2	D	_	_
+7	wie	_	Word	Word	_	9	R	_	_
+8	ein	_	Word	Word	_	9	F	_	_
+9	Kind	_	Word	Word	_	2	A	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	verloren	_	Word	Word	_	9	E	_	_
+12	inmitten	_	Word	Word	_	14	R	_	_
+13	der	_	Word	Word	_	14	F	_	_
+14	Wüste	_	Word	Word	_	11	A	_	_
+15	,	_	Punctuation	Punctuation	_	11	U	_	_
+16	tausend	_	Word	Word	_	17	Q	_	_
+17	Meilen	_	Word	Word	_	18	A	_	_
+18	entfernt	_	Word	Word	_	11	H	_	_
+19	von	_	Word	Word	_	21	R	_	_
+20	jeglicher	_	Word	Word	_	21	E	_	_
+21	Zivilisation	_	Word	Word	_	18	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

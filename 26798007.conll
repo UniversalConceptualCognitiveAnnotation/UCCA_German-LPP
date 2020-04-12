@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 26798007
+1	Die	_	Word	Word	_	2	F	_	_
+2	Menschen	_	Word	Word	_	6	A	_	_
+3	haben	_	Word	Word	_	6	F	_	_
+4	diese	_	Word	Word	_	5	E	_	_
+5	Wahrheit	_	Word	Word	_	6	A	_	_
+6	vergessen	_	Word	Word	_	9	A	_	_
+7	"	_	Punctuation	Punctuation	_	9	U	_	_
+8	,	_	Punctuation	Punctuation	_	9	U	_	_
+9	sagte	_	Word	Word	_	0	H	_	_
+10	der	_	Word	Word	_	11	F	_	_
+11	Fuchs	_	Word	Word	_	9	A	_	_
+12	.	_	Punctuation	Punctuation	_	9	U	_	_
+13	Aber	_	Word	Word	_	6	L	_	_
+14	du	_	Word	Word	_	18	A	_	_
+15	sollst	_	Word	Word	_	18	D	_	_
+16	sie	_	Word	Word	_	18	A	_	_
+17	nicht	_	Word	Word	_	18	D	_	_
+18	vergessen	_	Word	Word	_	6	H	_	_
+19	.	_	Punctuation	Punctuation	_	6	U	_	_
+20	Du	_	Word	Word	_	23	A	_	_
+21	wirst	_	Word	Word	_	23	F	_	_
+22	immer	_	Word	Word	_	23	T	_	_
+23	verantwortlich	_	Word	Word	_	6	H	_	_
+24	sein	_	Word	Word	_	23	F	_	_
+25	für	_	Word	Word	_	26	R	_	_
+26	das	_	Word	Word	_	23	A	_	_
+27	,	_	Punctuation	Punctuation	_	26	U	_	_
+28	was	_	Word	Word	_	30	R	_	_
+29	du	_	Word	Word	_	30	A	_	_
+30	zähmst	_	Word	Word	_	26	E	_	_
+31	.	_	Punctuation	Punctuation	_	6	U	_	_
+32	Du	_	Word	Word	_	34	A	_	_
+33	bist	_	Word	Word	_	34	F	_	_
+34	verantwortlich	_	Word	Word	_	6	H	_	_
+35	für	_	Word	Word	_	37	R	_	_
+36	deine	_	Word	Word	_	37	E	_	_
+37	Rose	_	Word	Word	_	34	A	_	_
+38	...	_	Punctuation	Punctuation	_	37	U	_	_
+39	"	_	Punctuation	Punctuation	_	37	U	_	_
+

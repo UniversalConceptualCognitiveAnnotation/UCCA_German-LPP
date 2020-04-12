@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26768000
+1	Kapitel	_	Word	Word	_	2	E	_	_
+2	X	_	Word	Word	_	0	H	_	_
+3	Er	_	Word	Word	_	4	A	_	_
+4	befand	_	Word	Word	_	2	H	_	_
+5	sich	_	Word	Word	_	4	Terminal	_	_
+6	in	_	Word	Word	_	8	R	_	_
+7	der	_	Word	Word	_	8	F	_	_
+8	Gegend	_	Word	Word	_	4	A	_	_
+9	der	_	Word	Word	_	10	R	_	_
+10	Asteroiden	_	Word	Word	_	8	E	_	_
+11	325	_	Word	Word	_	10	E	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	326	_	Word	Word	_	11	C	_	_
+14	,	_	Punctuation	Punctuation	_	11	U	_	_
+15	327	_	Word	Word	_	11	C	_	_
+16	,	_	Punctuation	Punctuation	_	11	U	_	_
+17	328	_	Word	Word	_	11	C	_	_
+18	,	_	Punctuation	Punctuation	_	11	U	_	_
+19	329	_	Word	Word	_	11	C	_	_
+20	und	_	Word	Word	_	11	N	_	_
+21	330	_	Word	Word	_	11	C	_	_
+22	.	_	Punctuation	Punctuation	_	11	U	_	_
+

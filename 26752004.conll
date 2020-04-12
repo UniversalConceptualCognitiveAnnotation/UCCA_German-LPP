@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26752004
+1	Er	_	Word	Word	_	2	A	_	_
+1	Er	_	Word	Word	_	13	A*	_	_
+2	beugte	_	Word	Word	_	0	H	_	_
+3	den	_	Word	Word	_	4	F	_	_
+4	Kopf	_	Word	Word	_	2	A	_	_
+5	über	_	Word	Word	_	7	R	_	_
+6	die	_	Word	Word	_	7	F	_	_
+7	Zeichnung	_	Word	Word	_	2	A	_	_
+8	:	_	Punctuation	Punctuation	_	2	U	_	_
+9	-	_	Punctuation	Punctuation	_	2	U	_	_
+10	"	_	Punctuation	Punctuation	_	2	U	_	_
+11	Na	_	Word	Word	_	13	F	_	_
+12	so	_	Word	Word	_	13	D	_	_
+13	klein	_	Word	Word	_	2	H	_	_
+14	auch	_	Word	Word	_	15	E	_	_
+15	nicht	_	Word	Word	_	13	D	_	_
+16	...	_	Punctuation	Punctuation	_	13	U	_	_
+17	Schau	_	Word	Word	_	13	H	_	_
+18	!	_	Punctuation	Punctuation	_	13	U	_	_
+19	Es	_	Word	Word	_	21	A	_	_
+20	ist	_	Word	Word	_	21	F	_	_
+21	eingeschlafen	_	Word	Word	_	13	H	_	_
+22	...	_	Punctuation	Punctuation	_	2	U	_	_
+23	"	_	Punctuation	Punctuation	_	2	U	_	_
+24	Und	_	Word	Word	_	2	L	_	_
+25	so	_	Word	Word	_	31	D	_	_
+26	habe	_	Word	Word	_	31	F	_	_
+27	ich	_	Word	Word	_	31	A	_	_
+28	den	_	Word	Word	_	30	F	_	_
+29	kleinen	_	Word	Word	_	30	E	_	_
+30	Prinzen	_	Word	Word	_	31	A	_	_
+31	kennengelernt	_	Word	Word	_	2	H	_	_
+32	.	_	Punctuation	Punctuation	_	31	U	_	_
+

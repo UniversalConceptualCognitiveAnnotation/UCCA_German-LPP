@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26757024
+1	So	_	Word	Word	_	3	E	_	_
+2	einen	_	Word	Word	_	3	F	_	_
+3	Affenbrotbaum	_	Word	Word	_	4	A	_	_
+4	wird	_	Word	Word	_	0	H	_	_
+5	man	_	Word	Word	_	4	A	_	_
+6	nicht	_	Word	Word	_	4	D	_	_
+7	mehr	_	Word	Word	_	6	E	_	_
+8	los	_	Word	Word	_	4	Terminal	_	_
+9	,	_	Punctuation	Punctuation	_	4	U	_	_
+10	wenn	_	Word	Word	_	4	L	_	_
+11	man	_	Word	Word	_	12	A	_	_
+12	sich	_	Word	Word	_	4	H	_	_
+13	zu	_	Word	Word	_	14	E	_	_
+14	spät	_	Word	Word	_	12	T	_	_
+15	darum	_	Word	Word	_	12	A	_	_
+16	kümmert	_	Word	Word	_	12	Terminal	_	_
+17	.	_	Punctuation	Punctuation	_	12	U	_	_
+

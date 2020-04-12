@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26800004
+1	Und	_	Word	Word	_	17	L	_	_
+2	ein	_	Word	Word	_	5	F	_	_
+3	erleuchteter	_	Word	Word	_	5	E	_	_
+4	Schnell	_	Word	Word	_	5	E	_	_
+5	zug	_	Word	Word	_	17	A	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	der	_	Word	Word	_	10	R	_	_
+8	wie	_	Word	Word	_	9	D	_	_
+9	Donner	_	Word	Word	_	10	A	_	_
+10	grollte	_	Word	Word	_	5	E	_	_
+11	,	_	Punctuation	Punctuation	_	17	U	_	_
+12	ließ	_	Word	Word	_	17	D	_	_
+13	das	_	Word	Word	_	14	F	_	_
+14	Häuschen	_	Word	Word	_	17	A	_	_
+15	des	_	Word	Word	_	16	R	_	_
+16	Weichenstellers	_	Word	Word	_	14	E	_	_
+17	erzittern	_	Word	Word	_	0	H	_	_
+18	.	_	Punctuation	Punctuation	_	17	U	_	_
+19	-	_	Punctuation	Punctuation	_	17	U	_	_
+20	"	_	Punctuation	Punctuation	_	17	U	_	_
+

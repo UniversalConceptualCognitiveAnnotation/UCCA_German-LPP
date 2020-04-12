@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 26810006
+1	Natürlich	_	Word	Word	_	0	H	_	_
+2	...	_	Punctuation	Punctuation	_	1	U	_	_
+3	"	_	Punctuation	Punctuation	_	1	U	_	_
+4	-	_	Punctuation	Punctuation	_	1	U	_	_
+5	"	_	Punctuation	Punctuation	_	1	U	_	_
+6	Es	_	Word	Word	_	7	F	_	_
+7	ist	_	Word	Word	_	1	H	_	_
+8	so	_	Word	Word	_	7	F	_	_
+9	wie	_	Word	Word	_	7	D	_	_
+10	mit	_	Word	Word	_	12	R	_	_
+11	dem	_	Word	Word	_	12	F	_	_
+12	Wasser	_	Word	Word	_	7	A	_	_
+13	.	_	Punctuation	Punctuation	_	7	U	_	_
+14	Was	_	Word	Word	_	19	A	_	_
+15	du	_	Word	Word	_	19	A	_	_
+16	mir	_	Word	Word	_	19	A	_	_
+16	mir	_	Word	Word	_	18	A*	_	_
+17	zu	_	Word	Word	_	18	F	_	_
+18	trinken	_	Word	Word	_	19	A	_	_
+19	gabst	_	Word	Word	_	7	H	_	_
+20	,	_	Punctuation	Punctuation	_	7	U	_	_
+21	war	_	Word	Word	_	7	H	_	_
+22	wie	_	Word	Word	_	21	D	_	_
+23	Musik	_	Word	Word	_	21	A	_	_
+24	,	_	Punctuation	Punctuation	_	7	U	_	_
+25	wegen	_	Word	Word	_	27	D	_	_
+26	der	_	Word	Word	_	27	R	_	_
+27	Rolle	_	Word	Word	_	7	H	_	_
+28	und	_	Word	Word	_	27	N	_	_
+29	des	_	Word	Word	_	30	R	_	_
+30	Seils	_	Word	Word	_	27	C	_	_
+31	...	_	Punctuation	Punctuation	_	7	U	_	_
+32	erinnerst	_	Word	Word	_	7	H	_	_
+33	du	_	Word	Word	_	32	A	_	_
+34	dich	_	Word	Word	_	32	Terminal	_	_
+35	...	_	Punctuation	Punctuation	_	7	U	_	_
+36	es	_	Word	Word	_	38	A	_	_
+37	war	_	Word	Word	_	38	F	_	_
+38	köstlich	_	Word	Word	_	7	H	_	_
+39	.	_	Punctuation	Punctuation	_	38	U	_	_
+40	"	_	Punctuation	Punctuation	_	38	U	_	_
+41	-	_	Punctuation	Punctuation	_	38	U	_	_
+42	"	_	Punctuation	Punctuation	_	38	U	_	_
+

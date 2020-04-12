@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26769018
+1	Denn	_	Word	Word	_	3	L	_	_
+2	er	_	Word	Word	_	3	A	_	_
+2	er	_	Word	Word	_	8	A*	_	_
+2	er	_	Word	Word	_	12	A*	_	_
+3	war	_	Word	Word	_	0	H	_	_
+4	nicht	_	Word	Word	_	8	N	_	_
+5	nur	_	Word	Word	_	4	Terminal	_	_
+6	ein	_	Word	Word	_	8	F	_	_
+7	absoluter	_	Word	Word	_	8	D	_	_
+8	Monarch	_	Word	Word	_	3	A	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	sondern	_	Word	Word	_	8	N	_	_
+11	ein	_	Word	Word	_	12	F	_	_
+12	universeller	_	Word	Word	_	8	C	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+14	-	_	Punctuation	Punctuation	_	12	U	_	_
+15	"	_	Punctuation	Punctuation	_	12	U	_	_
+

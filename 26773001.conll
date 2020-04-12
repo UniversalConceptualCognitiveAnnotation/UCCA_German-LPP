@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26773001
+1	Ah	_	Word	Word	_	5	F	_	_
+2	,	_	Punctuation	Punctuation	_	5	U	_	_
+3	ah	_	Word	Word	_	5	F	_	_
+4	!	_	Punctuation	Punctuation	_	5	U	_	_
+5	Besuch	_	Word	Word	_	11	A	_	_
+6	eines	_	Word	Word	_	7	R	_	_
+7	Verehrers	_	Word	Word	_	5	A	_	_
+8	!	_	Punctuation	Punctuation	_	11	U	_	_
+9	"	_	Punctuation	Punctuation	_	11	U	_	_
+10	,	_	Punctuation	Punctuation	_	11	U	_	_
+11	freute	_	Word	Word	_	0	H	_	_
+12	sich	_	Word	Word	_	11	Terminal	_	_
+13	der	_	Word	Word	_	14	F	_	_
+14	Eitle	_	Word	Word	_	11	A	_	_
+15	als	_	Word	Word	_	11	L	_	_
+16	er	_	Word	Word	_	20	A	_	_
+17	den	_	Word	Word	_	19	F	_	_
+18	kleinen	_	Word	Word	_	19	E	_	_
+19	Prinzen	_	Word	Word	_	20	A	_	_
+20	sah	_	Word	Word	_	11	H	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 26769000
+1	-	_	Punctuation	Punctuation	_	8	U	_	_
+2	"	_	Punctuation	Punctuation	_	8	U	_	_
+3	Hm	_	Word	Word	_	8	A	_	_
+4	!	_	Punctuation	Punctuation	_	3	U	_	_
+5	Hm	_	Word	Word	_	3	F	_	_
+6	!	_	Punctuation	Punctuation	_	8	U	_	_
+7	"	_	Punctuation	Punctuation	_	8	U	_	_
+8	machte	_	Word	Word	_	0	H	_	_
+9	der	_	Word	Word	_	10	F	_	_
+10	König	_	Word	Word	_	8	A	_	_
+11	...	_	Punctuation	Punctuation	_	8	U	_	_
+12	Dann	_	Word	Word	_	3	L	_	_
+13	befehle	_	Word	Word	_	3	H	_	_
+14	ich	_	Word	Word	_	13	A	_	_
+15	dir	_	Word	Word	_	13	A	_	_
+15	dir	_	Word	Word	_	18	A*	_	_
+15	dir	_	Word	Word	_	20	A*	_	_
+16	mal	_	Word	Word	_	18	D	_	_
+17	zu	_	Word	Word	_	18	F	_	_
+18	gähnen	_	Word	Word	_	13	A	_	_
+19	und	_	Word	Word	_	18	L	_	_
+20	mal	_	Word	Word	_	18	H	_	_
+21	zu	_	Word	Word	_	20	F	_	_
+22	...	_	Punctuation	Punctuation	_	8	U	_	_
+23	"	_	Punctuation	Punctuation	_	8	U	_	_
+24	Er	_	Word	Word	_	25	A	_	_
+24	Er	_	Word	Word	_	30	A*	_	_
+25	stammelte	_	Word	Word	_	8	H	_	_
+26	ein	_	Word	Word	_	25	D	_	_
+27	wenig	_	Word	Word	_	26	Terminal	_	_
+28	und	_	Word	Word	_	8	L	_	_
+29	schien	_	Word	Word	_	30	G	_	_
+30	verärgert	_	Word	Word	_	8	H	_	_
+31	.	_	Punctuation	Punctuation	_	30	U	_	_
+

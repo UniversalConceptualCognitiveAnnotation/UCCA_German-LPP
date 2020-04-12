@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26769010
+1	Über	_	Word	Word	_	2	R	_	_
+2	wen	_	Word	Word	_	7	A	_	_
+3	konnte	_	Word	Word	_	7	D	_	_
+4	der	_	Word	Word	_	5	F	_	_
+5	König	_	Word	Word	_	7	A	_	_
+6	denn	_	Word	Word	_	7	F	_	_
+7	regieren	_	Word	Word	_	0	H	_	_
+8	?	_	Punctuation	Punctuation	_	7	U	_	_
+9	-	_	Punctuation	Punctuation	_	7	U	_	_
+10	"	_	Punctuation	Punctuation	_	7	U	_	_
+

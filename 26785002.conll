@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26785002
+1	Wir	_	Word	Word	_	2	A	_	_
+2	schreiben	_	Word	Word	_	8	A	_	_
+3	keine	_	Word	Word	_	2	D	_	_
+4	Blumen	_	Word	Word	_	2	A	_	_
+5	auf	_	Word	Word	_	2	Terminal	_	_
+6	"	_	Punctuation	Punctuation	_	8	U	_	_
+7	,	_	Punctuation	Punctuation	_	8	U	_	_
+8	sagte	_	Word	Word	_	0	H	_	_
+9	der	_	Word	Word	_	10	F	_	_
+10	Geograph	_	Word	Word	_	8	A	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+12	-	_	Punctuation	Punctuation	_	10	U	_	_
+13	"	_	Punctuation	Punctuation	_	10	U	_	_
+

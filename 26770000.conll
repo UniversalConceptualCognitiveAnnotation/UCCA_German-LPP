@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26770000
+1	-	_	Punctuation	Punctuation	_	5	U	_	_
+2	Der	_	Word	Word	_	4	F	_	_
+3	kleine	_	Word	Word	_	4	E	_	_
+4	Prinz	_	Word	Word	_	5	A	_	_
+5	bewunderte	_	Word	Word	_	0	H	_	_
+6	solch	_	Word	Word	_	5	D	_	_
+7	eine	_	Word	Word	_	9	F	_	_
+8	große	_	Word	Word	_	9	D	_	_
+9	Macht	_	Word	Word	_	5	A	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

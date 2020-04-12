@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26788000
+1	Kapitel	_	Word	Word	_	2	E	_	_
+2	XVII	_	Word	Word	_	0	H	_	_
+3	Wenn	_	Word	Word	_	2	L	_	_
+4	man	_	Word	Word	_	5	A	_	_
+5	klug	_	Word	Word	_	2	H	_	_
+6	wirken	_	Word	Word	_	5	D	_	_
+7	will	_	Word	Word	_	5	D	_	_
+8	,	_	Punctuation	Punctuation	_	2	U	_	_
+9	passiert	_	Word	Word	_	2	H	_	_
+10	es	_	Word	Word	_	9	F	_	_
+11	,	_	Punctuation	Punctuation	_	9	U	_	_
+12	dass	_	Word	Word	_	16	R	_	_
+13	man	_	Word	Word	_	16	A	_	_
+14	ein	_	Word	Word	_	16	D	_	_
+15	wenig	_	Word	Word	_	14	Terminal	_	_
+16	schwindelt	_	Word	Word	_	9	A	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+

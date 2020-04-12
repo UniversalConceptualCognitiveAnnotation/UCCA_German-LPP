@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26803015
+1	Natürlich	_	Word	Word	_	2	G	_	_
+2	gelang	_	Word	Word	_	0	H	_	_
+3	es	_	Word	Word	_	2	F	_	_
+4	nie	_	Word	Word	_	2	T	_	_
+5	jemandem	_	Word	Word	_	2	A	_	_
+5	jemandem	_	Word	Word	_	9	A*	_	_
+5	jemandem	_	Word	Word	_	17	A*	_	_
+6	,	_	Punctuation	Punctuation	_	2	U	_	_
+7	ihn	_	Word	Word	_	9	A	_	_
+8	zu	_	Word	Word	_	9	F	_	_
+9	entdecken	_	Word	Word	_	2	A	_	_
+10	,	_	Punctuation	Punctuation	_	2	U	_	_
+11	vielleicht	_	Word	Word	_	17	G	_	_
+12	nicht	_	Word	Word	_	17	D	_	_
+13	mal	_	Word	Word	_	17	D	_	_
+14	,	_	Punctuation	Punctuation	_	17	U	_	_
+15	danach	_	Word	Word	_	17	A	_	_
+16	zu	_	Word	Word	_	17	F	_	_
+17	suchen	_	Word	Word	_	2	H	_	_
+18	.	_	Punctuation	Punctuation	_	17	U	_	_
+

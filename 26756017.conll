@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 26756017
+1	Es	_	Word	Word	_	3	F	_	_
+2	ist	_	Word	Word	_	3	F	_	_
+3	schwierig	_	Word	Word	_	0	H	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	in	_	Word	Word	_	7	R	_	_
+6	meinem	_	Word	Word	_	7	E	_	_
+7	Alter	_	Word	Word	_	12	A	_	_
+8	wieder	_	Word	Word	_	12	D	_	_
+9	mit	_	Word	Word	_	11	R	_	_
+10	dem	_	Word	Word	_	11	F	_	_
+11	Zeichnen	_	Word	Word	_	12	A	_	_
+12	anzufangen	_	Word	Word	_	3	A	_	_
+13	,	_	Punctuation	Punctuation	_	3	U	_	_
+14	wenn	_	Word	Word	_	3	L	_	_
+15	man	_	Word	Word	_	19	A	_	_
+15	man	_	Word	Word	_	34	A*	_	_
+16	nie	_	Word	Word	_	19	T	_	_
+17	etwas	_	Word	Word	_	18	E	_	_
+18	Anderes	_	Word	Word	_	19	A	_	_
+19	versucht	_	Word	Word	_	3	H	_	_
+20	hat	_	Word	Word	_	19	F	_	_
+21	,	_	Punctuation	Punctuation	_	3	U	_	_
+22	als	_	Word	Word	_	3	L	_	_
+23	mit	_	Word	Word	_	25	R	_	_
+24	sechs	_	Word	Word	_	25	E	_	_
+25	Jahren	_	Word	Word	_	34	T	_	_
+26	eine	_	Word	Word	_	32	F	_	_
+27	geschlossene	_	Word	Word	_	32	E	_	_
+28	und	_	Word	Word	_	27	N	_	_
+29	eine	_	Word	Word	_	30	F	_	_
+30	offene	_	Word	Word	_	27	C	_	_
+31	Riesen	_	Word	Word	_	32	E	_	_
+32	schlange	_	Word	Word	_	34	A	_	_
+33	zu	_	Word	Word	_	34	F	_	_
+34	malen	_	Word	Word	_	3	H	_	_
+35	.	_	Punctuation	Punctuation	_	34	U	_	_
+
