@@ -1,0 +1,29 @@
+# format = ucca
+1	Sie	_	Word	-	-	_	A	A*	_	_	_
+2	haben	_	Word	-	-	_	F	_	_	_	_
+3	nicht	_	Word	-	-	_	D	_	_	_	_
+4	ausreichend	_	Word	-	+	_	_	_	_	_	_
+5	Gift	_	Word	-	-	_	A	_	_	_	_
+6	für	_	Word	-	-	_	_	R	_	_	_
+7	einen	_	Word	-	-	_	_	F	_	_	_
+8	zweiten	_	Word	-	-	_	_	E	_	_	_
+9	Biss	_	Word	-	+	_	A	_	_	_	_
+10	...	_	Punctuation	-	-	_	U	_	_	_	_
+11	"	_	Punctuation	-	-	_	U	_	_	_	_
+12	In	_	Word	-	-	_	_	_	R	_	_
+13	dieser	_	Word	-	-	_	_	_	E	_	_
+14	Nacht	_	Word	-	+	_	_	_	_	T	_
+15	habe	_	Word	-	-	_	_	_	_	F	_
+16	ich	_	Word	-	-	_	_	_	_	A	_
+17	nicht	_	Word	-	-	_	_	_	_	D	_
+18	gesehen	_	Word	-	+	_	H	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	U	_
+20	wie	_	Word	-	-	_	_	_	_	_	R
+21	er	_	Word	-	-	_	_	_	_	_	A
+22	sich	_	Word	-	+	_	_	_	_	A	_
+23	auf	_	Word	-	-	_	_	_	_	_	Terminal
+24	den	_	Word	-	-	_	_	_	_	_	Terminal
+25	Weg	_	Word	-	-	_	_	_	_	_	Terminal
+26	machte	_	Word	-	-	_	_	_	_	_	Terminal
+27	.	_	Punctuation	-	-	_	_	_	_	_	U
+

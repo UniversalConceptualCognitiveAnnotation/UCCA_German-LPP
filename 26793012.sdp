@@ -1,0 +1,22 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_	_	_
+2	hier	_	Word	-	-	_	A	_	_	_
+3	gab	_	Word	-	+	_	_	_	_	_
+4	es	_	Word	-	-	_	F	_	_	_
+5	gleich	_	Word	-	-	_	D	_	_	_
+6	fünftausend	_	Word	-	-	_	_	Q	_	_
+7	von	_	Word	-	-	_	_	R	_	_
+8	ihnen	_	Word	-	+	_	A	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_
+10	die	_	Word	-	-	_	_	_	R	_
+11	alle	_	Word	-	-	_	_	_	A	_
+12	gleich	_	Word	-	-	_	_	_	D	_
+13	aussahen	_	Word	-	+	_	_	E	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_
+15	in	_	Word	-	-	_	_	_	_	R
+16	einem	_	Word	-	-	_	_	_	_	F
+17	einzigen	_	Word	-	-	_	_	_	_	E
+18	Garten	_	Word	-	+	_	A	_	_	_
+19	!	_	Punctuation	-	-	_	_	_	_	U
+20	"	_	Punctuation	-	-	_	_	_	_	U
+

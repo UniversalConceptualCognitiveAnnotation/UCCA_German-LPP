@@ -1,0 +1,15 @@
+# format = ucca
+1	Als	_	Word	-	-	_	L	_	_
+2	ich	_	Word	-	-	_	A	_	_
+3	ihn	_	Word	-	-	_	A	_	_
+4	einholte	_	Word	-	+	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_
+6	lief	_	Word	-	+	_	H	_	_
+7	er	_	Word	-	-	_	_	A	_
+8	entschlossen	_	Word	-	-	_	_	D	_
+9	mit	_	Word	-	-	_	_	_	R
+10	schnellem	_	Word	-	-	_	_	_	E
+11	Schritt	_	Word	-	+	_	_	A	_
+12	vorwärts	_	Word	-	-	_	_	Terminal	_
+13	.	_	Punctuation	-	-	_	_	U	_
+

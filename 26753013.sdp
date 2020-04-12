@@ -1,0 +1,16 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	_	_	A*	_	_
+2	holte	_	Word	-	+	_	_	_	_	_	_	_
+3	das	_	Word	-	-	_	_	F	_	_	_	_
+4	Schaf	_	Word	-	+	_	A	_	_	_	_	_
+5	aus	_	Word	-	-	_	_	_	R	_	_	_
+6	seiner	_	Word	-	-	_	_	_	E	_	_	_
+7	Tasche	_	Word	-	+	_	A	_	_	_	_	_
+8	und	_	Word	-	-	_	L	_	_	_	_	_
+9	bewunderte	_	Word	-	+	_	H	_	_	_	_	_
+10	lange	_	Word	-	-	_	_	_	_	_	E	_
+11	Zeit	_	Word	-	+	_	_	_	_	T	_	_
+12	seinen	_	Word	-	-	_	_	_	_	_	_	E
+13	Schatz	_	Word	-	+	_	_	_	_	A	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

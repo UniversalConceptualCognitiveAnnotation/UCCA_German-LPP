@@ -1,0 +1,34 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	hätte	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+3	gerne	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+4	gesagt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+6	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+7	Es	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+8	war	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+9	einmal	_	Word	-	-	_	_	T	_	_	_	_	_	_	_
+10	ein	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+11	kleiner	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+12	Prinz	_	Word	-	+	_	_	_	_	A*	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+14	der	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+15	lebte	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+16	auf	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+17	einem	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+18	Planeten	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+20	der	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+21	war	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+22	kaum	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
+23	größer	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+24	als	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+25	er	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+26	selbst	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+27	und	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+28	er	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+29	brauchte	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+30	einen	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+31	Freund	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

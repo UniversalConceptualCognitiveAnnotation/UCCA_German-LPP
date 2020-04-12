@@ -1,0 +1,30 @@
+# format = ucca
+1	Jetzt	_	Word	-	-	_	T	_	_	_	_	_	_
+2	dreht	_	Word	-	+	_	_	_	_	_	_	_	_
+3	er	_	Word	-	-	_	A	_	_	_	_	_	_
+4	sich	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+5	ein	_	Word	-	-	_	_	F	_	_	_	_	_
+6	Mal	_	Word	-	+	_	D	_	_	_	_	_	_
+7	pro	_	Word	-	-	_	_	_	R	_	_	_	_
+8	Minute	_	Word	-	+	_	_	E	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+10	mir	_	Word	-	-	_	_	_	_	A	_	_	_
+11	bleibt	_	Word	-	+	_	H	_	_	_	_	_	_
+12	keine	_	Word	-	-	_	_	_	_	D	_	_	_
+13	Sekunde	_	Word	-	-	_	_	_	_	A	_	_	_
+14	Pause	_	Word	-	-	_	_	_	_	A	_	_	_
+15	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+16	Pro	_	Word	-	-	_	_	_	_	_	R	_	_
+17	Minute	_	Word	-	+	_	_	_	_	_	_	T	_
+18	zünde	_	Word	-	+	_	H	_	_	_	_	_	_
+19	ich	_	Word	-	-	_	_	_	_	_	_	A	A*
+20	einmal	_	Word	-	-	_	_	_	_	_	_	D	_
+21	an	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+22	und	_	Word	-	-	_	L	_	_	_	_	_	_
+23	lösche	_	Word	-	+	_	H	_	_	_	_	_	_
+24	einmal	_	Word	-	-	_	_	_	_	_	_	_	D
+25	aus	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+27	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

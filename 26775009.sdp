@@ -1,0 +1,17 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L	_
+2	ganz	_	Word	-	-	_	E	_	_
+3	perplex	_	Word	-	+	_	_	D	_
+4	machte	_	Word	-	+	_	_	_	_
+5	sich	_	Word	-	-	_	_	Terminal	_
+6	der	_	Word	-	-	_	_	_	F
+7	kleine	_	Word	-	-	_	_	_	E
+8	Prinz	_	Word	-	+	_	_	A	_
+9	wieder	_	Word	-	-	_	_	D	_
+10	auf	_	Word	-	-	_	_	Terminal	_
+11	und	_	Word	-	-	_	_	Terminal	_
+12	davon	_	Word	-	-	_	_	Terminal	_
+13	.	_	Punctuation	-	-	_	_	U	_
+14	-	_	Punctuation	-	-	_	_	U	_
+15	"	_	Punctuation	-	-	_	_	U	_
+

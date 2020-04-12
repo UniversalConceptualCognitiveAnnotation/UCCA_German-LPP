@@ -1,0 +1,31 @@
+# format = ucca
+1	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+2	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+3	Das	_	Word	-	-	_	A	_	_	_	_	_	_
+4	bringt	_	Word	-	+	_	_	A	_	_	_	_	_
+5	mich	_	Word	-	-	_	A	_	_	_	_	_	_
+6	nicht	_	Word	-	-	_	D	_	_	_	_	_	_
+7	sonderlich	_	Word	-	-	_	D	_	_	_	_	_	_
+8	weiter	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+11	sagte	_	Word	-	+	_	_	_	_	_	_	_	_
+12	der	_	Word	-	-	_	_	_	F	_	_	_	_
+13	Anzünder	_	Word	-	+	_	_	A	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+15	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+16	Was	_	Word	-	-	_	_	_	_	_	R	_	_
+17	ich	_	Word	-	-	_	_	_	_	_	A	_	_
+18	in	_	Word	-	-	_	_	_	_	R	_	_	_
+19	dem	_	Word	-	-	_	_	_	_	F	_	_	_
+20	Leben	_	Word	-	+	_	_	_	_	_	A	_	_
+21	liebe	_	Word	-	+	_	_	_	_	_	_	A	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+23	ist	_	Word	-	+	_	H	_	_	_	_	_	_
+24	das	_	Word	-	-	_	_	_	_	_	_	_	F
+25	Schlafen	_	Word	-	+	_	_	_	_	_	A*	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+27	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+28	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+29	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+

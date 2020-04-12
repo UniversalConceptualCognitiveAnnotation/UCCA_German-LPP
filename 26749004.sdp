@@ -1,0 +1,12 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_
+2	wollte	_	Word	-	-	_	D	_
+3	wissen	_	Word	-	+	_	_	_
+4	,	_	Punctuation	-	-	_	U	_
+5	ob	_	Word	-	-	_	_	R
+6	er	_	Word	-	-	_	_	A
+7	wirklich	_	Word	-	-	_	_	D
+8	schlau	_	Word	-	+	_	A	_
+9	war	_	Word	-	-	_	_	F
+10	.	_	Punctuation	-	-	_	_	U
+

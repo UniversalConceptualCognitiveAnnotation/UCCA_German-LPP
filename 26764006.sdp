@@ -1,0 +1,15 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_
+2	bin	_	Word	-	+	_	_	A	_
+3	kein	_	Word	-	-	_	D	_	_
+4	Gras	_	Word	-	-	_	A	_	_
+5	"	_	Punctuation	-	-	_	_	U	_
+6	,	_	Punctuation	-	-	_	_	U	_
+7	antwortete	_	Word	-	+	_	_	_	_
+8	die	_	Word	-	-	_	_	_	F
+9	Blume	_	Word	-	+	_	_	A	_
+10	sanft	_	Word	-	-	_	_	D	_
+11	.	_	Punctuation	-	-	_	_	U	_
+12	-	_	Punctuation	-	-	_	_	U	_
+13	"	_	Punctuation	-	-	_	_	U	_
+

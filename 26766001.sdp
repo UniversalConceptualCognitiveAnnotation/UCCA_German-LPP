@@ -1,0 +1,13 @@
+# format = ucca
+1	An	_	Word	-	-	_	R	_	_	_
+2	dem	_	Word	-	-	_	F	_	_	_
+3	Tag	_	Word	-	+	_	_	_	T	_
+4	seiner	_	Word	-	-	_	_	A	_	_
+5	Abreise	_	Word	-	+	_	_	_	H	_
+6	räumte	_	Word	-	+	_	_	_	_	_
+7	er	_	Word	-	-	_	_	_	A	_
+8	seinen	_	Word	-	-	_	_	_	_	E
+9	Planeten	_	Word	-	+	_	_	_	A	_
+10	auf	_	Word	-	-	_	_	_	Terminal	_
+11	.	_	Punctuation	-	-	_	_	_	U	_
+

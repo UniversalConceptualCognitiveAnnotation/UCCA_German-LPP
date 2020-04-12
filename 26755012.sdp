@@ -1,0 +1,10 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L
+2	dieses	_	Word	-	-	_	E	_
+3	Mal	_	Word	-	+	_	_	T
+4	waren	_	Word	-	-	_	_	F
+5	alle	_	Word	-	-	_	_	A
+6	seiner	_	Word	-	-	_	_	R
+7	Meinung	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

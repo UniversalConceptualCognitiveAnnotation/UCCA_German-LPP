@@ -1,0 +1,17 @@
+# format = ucca
+1	Für	_	Word	-	-	_	R	_	_	_	_
+2	all	_	Word	-	-	_	Q	_	_	_	_
+3	jene	_	Word	-	+	_	_	_	_	_	A
+4	,	_	Punctuation	-	-	_	U	_	_	_	_
+5	die	_	Word	-	-	_	_	_	R	_	_
+6	das	_	Word	-	-	_	_	F	_	_	_
+7	Leben	_	Word	-	+	_	_	_	A	_	_
+8	verstehen	_	Word	-	+	_	E	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	_	U
+10	würde	_	Word	-	-	_	_	_	_	_	D
+11	das	_	Word	-	-	_	_	_	_	_	A
+12	viel	_	Word	-	-	_	_	_	_	E	_
+13	richtiger	_	Word	-	+	_	_	_	_	_	D
+14	klingen	_	Word	-	+	_	_	_	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+

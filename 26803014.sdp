@@ -1,0 +1,25 @@
+# format = ucca
+1	Als	_	Word	-	-	_	_	L	_	_	_	_	_
+2	ich	_	Word	-	-	_	_	A	_	_	_	_	_
+3	ein	_	Word	-	-	_	F	_	_	_	_	_	_
+4	kleiner	_	Word	-	-	_	E	_	_	_	_	_	_
+5	Junge	_	Word	-	+	_	_	A	_	_	_	_	_
+6	war	_	Word	-	+	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+8	wohnte	_	Word	-	+	_	_	H	_	_	_	_	_
+9	ich	_	Word	-	-	_	_	_	A	_	_	_	_
+10	in	_	Word	-	-	_	_	_	_	R	_	_	_
+11	einem	_	Word	-	-	_	_	_	_	F	_	_	_
+12	alten	_	Word	-	-	_	_	_	_	E	_	_	_
+13	Haus	_	Word	-	+	_	_	_	A	_	_	_	_
+14	und	_	Word	-	-	_	_	L	_	_	_	_	_
+15	der	_	Word	-	-	_	_	_	_	_	F	_	_
+16	Legende	_	Word	-	+	_	_	_	_	_	_	_	A
+17	nach	_	Word	-	-	_	_	_	_	_	R	_	_
+18	war	_	Word	-	-	_	_	_	_	_	_	_	F
+19	dort	_	Word	-	-	_	_	_	_	_	_	_	A
+20	ein	_	Word	-	-	_	_	_	_	_	_	F	_
+21	Schatz	_	Word	-	+	_	_	_	_	_	_	_	A
+22	versteckt	_	Word	-	+	_	_	H	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

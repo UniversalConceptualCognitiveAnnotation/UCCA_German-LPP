@@ -1,0 +1,10 @@
+# format = ucca
+1	Aus	_	Word	-	-	_	R	_
+2	der	_	Word	-	-	_	F	_
+3	Ferne	_	Word	-	+	_	_	A
+4	sah	_	Word	-	+	_	_	_
+5	das	_	Word	-	-	_	_	A
+6	umwerfend	_	Word	-	-	_	_	D
+7	aus	_	Word	-	-	_	_	Terminal
+8	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,21 @@
+# format = ucca
+1	Guten	_	Word	-	+	_	_	A	_	_	_
+2	Tag	_	Word	-	-	_	A	_	_	_	_
+3	"	_	Punctuation	-	-	_	_	U	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_
+5	sagte	_	Word	-	+	_	_	_	_	_	_
+6	dieser	_	Word	-	-	_	_	A	_	_	_
+7	zu	_	Word	-	-	_	_	_	R	_	_
+8	ihm	_	Word	-	+	_	_	A	_	_	_
+9	.	_	Punctuation	-	-	_	_	U	_	_	_
+10	-	_	Punctuation	-	-	_	_	U	_	_	_
+11	"	_	Punctuation	-	-	_	_	U	_	_	_
+12	Ihre	_	Word	-	-	_	_	_	_	E	_
+13	Zigarette	_	Word	-	+	_	_	_	_	_	A
+14	ist	_	Word	-	-	_	_	_	_	_	F
+15	ausgegangen	_	Word	-	+	_	H	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+17	"	_	Punctuation	-	-	_	_	_	_	_	U
+18	-	_	Punctuation	-	-	_	_	_	_	_	U
+19	"	_	Punctuation	-	-	_	_	_	_	_	U
+

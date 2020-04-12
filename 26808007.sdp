@@ -1,0 +1,30 @@
+# format = ucca
+1	Nach	_	Word	-	-	_	L	_	_	_	_	_	_
+2	einem	_	Word	-	-	_	F	_	_	_	_	_	_
+3	kurzen	_	Word	-	-	_	D	_	_	_	_	_	_
+4	Schweigen	_	Word	-	+	_	_	_	_	_	_	_	_
+5	sagte	_	Word	-	+	_	H	_	_	_	_	_	_
+6	der	_	Word	-	-	_	_	_	F	_	_	_	_
+7	kleine	_	Word	-	-	_	_	_	E	_	_	_	_
+8	Prinz	_	Word	-	+	_	A*	_	_	_	_	_	_
+9	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+10	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+12	Du	_	Word	-	-	_	_	_	_	A	_	_	_
+13	hast	_	Word	-	+	_	_	A	_	_	_	_	_
+14	gutes	_	Word	-	-	_	_	_	_	_	E	_	_
+15	Gift	_	Word	-	+	_	_	_	_	A	_	_	_
+16	?	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+17	Bist	_	Word	-	-	_	_	_	_	_	_	F	_
+18	du	_	Word	-	-	_	_	_	_	_	_	A	A*
+19	sicher	_	Word	-	+	_	_	_	_	H	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+21	mich	_	Word	-	-	_	_	_	_	_	_	_	A
+22	nicht	_	Word	-	-	_	_	_	_	_	_	_	D
+23	lange	_	Word	-	-	_	_	_	_	_	_	_	D
+24	leiden	_	Word	-	+	_	_	_	_	_	_	A	_
+25	zu	_	Word	-	-	_	_	_	_	_	_	_	F
+26	lassen	_	Word	-	-	_	_	_	_	_	_	_	D
+27	?	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

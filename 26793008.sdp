@@ -1,0 +1,13 @@
+# format = ucca
+1	Wir	_	Word	-	-	_	A	_	_
+2	sind	_	Word	-	+	_	_	A	_
+3	Rosen	_	Word	-	-	_	A	_	_
+4	"	_	Punctuation	-	-	_	_	U	_
+5	,	_	Punctuation	-	-	_	_	U	_
+6	sagten	_	Word	-	+	_	_	_	_
+7	die	_	Word	-	-	_	_	_	F
+8	Rosen	_	Word	-	+	_	_	A	_
+9	.	_	Punctuation	-	-	_	_	_	U
+10	-	_	Punctuation	-	-	_	_	_	U
+11	"	_	Punctuation	-	-	_	_	_	U
+

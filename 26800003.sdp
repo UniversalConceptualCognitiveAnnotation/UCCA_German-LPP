@@ -1,0 +1,35 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+2	gruppiere	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+3	die	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+4	Reisenden	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+6	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+7	Tausender	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_
+8	packs	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+11	sagte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+12	der	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+13	Weichensteller	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+15	Ich	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
+16	schicke	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+17	die	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+18	Züge	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
+20	mit	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+21	denen	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+22	sie	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
+23	reisen	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+25	mal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	N	_
+26	nach	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+27	rechts	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
+29	mal	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+30	nach	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+31	links	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+33	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

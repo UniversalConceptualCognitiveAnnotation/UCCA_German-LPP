@@ -1,0 +1,18 @@
+# format = ucca
+1	fragte	_	Word	-	+	_	_	_	_	_
+2	der	_	Word	-	-	_	_	F	_	_
+3	kleine	_	Word	-	-	_	_	E	_	_
+4	Prinz	_	Word	-	+	_	A	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_
+6	der	_	Word	-	-	_	_	_	_	R
+7	den	_	Word	-	-	_	_	_	F	_
+8	Wunsch	_	Word	-	+	_	_	_	_	D
+9	hatte	_	Word	-	-	_	_	_	_	F
+10	,	_	Punctuation	-	-	_	_	_	_	U
+11	ihm	_	Word	-	-	_	_	_	_	A
+12	zu	_	Word	-	-	_	_	_	_	F
+13	helfen	_	Word	-	+	_	_	E	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	U
+15	-	_	Punctuation	-	-	_	_	_	_	U
+16	"	_	Punctuation	-	-	_	_	_	_	U
+

@@ -1,0 +1,17 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	A*	_	_
+2	versuche	_	Word	-	+	_	_	_	_	_
+3	es	_	Word	-	-	_	F	_	_	_
+4	mal	_	Word	-	-	_	D	_	_	_
+5	so	_	Word	-	-	_	A	_	_	_
+6	und	_	Word	-	-	_	L	_	_	_
+7	mal	_	Word	-	-	_	_	D	_	_
+8	so	_	Word	-	+	_	H	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_
+10	eben	_	Word	-	-	_	_	_	_	D
+11	so	_	Word	-	-	_	_	_	E	_
+12	gut	_	Word	-	+	_	_	_	_	D
+13	es	_	Word	-	-	_	_	_	_	A
+14	geht	_	Word	-	+	_	H	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	U
+

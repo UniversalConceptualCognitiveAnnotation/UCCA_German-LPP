@@ -1,0 +1,28 @@
+# format = ucca
+1	Es	_	Word	-	-	_	A	_	_	_	_	_	_	_
+2	ist	_	Word	-	-	_	F	_	_	_	_	_	_	_
+3	die	_	Word	-	-	_	_	F	_	_	_	_	_	_
+4	gleiche	_	Word	-	+	_	_	_	_	_	_	_	_	_
+5	Landschaft	_	Word	-	+	_	A	_	_	_	_	_	_	_
+6	wie	_	Word	-	-	_	_	_	R	_	_	_	_	_
+7	auf	_	Word	-	-	_	_	_	_	R	_	_	_	_
+8	der	_	Word	-	-	_	_	_	_	F	_	_	_	_
+9	vorigen	_	Word	-	+	_	A	_	_	_	_	_	_	_
+10	Seite	_	Word	-	+	_	_	_	A	_	_	_	_	_
+11	aber	_	Word	-	-	_	L	_	_	_	_	_	_	_
+12	ich	_	Word	-	-	_	_	_	_	_	_	A	_	A*
+13	habe	_	Word	-	-	_	_	_	_	_	_	F	_	_
+14	sie	_	Word	-	-	_	_	_	_	_	_	A	_	_
+15	noch	_	Word	-	-	_	_	_	_	_	E	_	_	_
+16	einmal	_	Word	-	+	_	_	_	_	_	_	D	_	_
+17	gezeichnet	_	Word	-	+	_	H	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+19	um	_	Word	-	-	_	L	_	_	_	_	_	_	_
+20	sie	_	Word	-	-	_	_	_	_	_	_	_	_	A
+21	euch	_	Word	-	-	_	_	_	_	_	_	_	_	A
+22	noch	_	Word	-	-	_	_	_	_	_	_	_	E	_
+23	besser	_	Word	-	+	_	_	_	_	_	_	_	_	D
+24	zu	_	Word	-	-	_	_	_	_	_	_	_	_	F
+25	zeigen	_	Word	-	+	_	H	_	_	_	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

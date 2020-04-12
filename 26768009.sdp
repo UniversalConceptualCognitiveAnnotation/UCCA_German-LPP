@@ -1,0 +1,16 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_
+2	blieb	_	Word	-	-	_	D	_	_
+3	er	_	Word	-	-	_	A	_	_
+4	stehen	_	Word	-	+	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_
+6	doch	_	Word	-	-	_	L	_	_
+7	vor	_	Word	-	-	_	_	R	_
+8	Müdigkeit	_	Word	-	+	_	_	_	A
+9	musste	_	Word	-	-	_	_	_	D
+10	er	_	Word	-	-	_	_	A*	A
+11	gähnen	_	Word	-	+	_	H	_	_
+12	.	_	Punctuation	-	-	_	_	_	U
+13	-	_	Punctuation	-	-	_	_	_	U
+14	"	_	Punctuation	-	-	_	_	_	U
+

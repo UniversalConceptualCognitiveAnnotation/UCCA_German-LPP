@@ -1,0 +1,10 @@
+# format = ucca
+1	Niemals	_	Word	-	-	_	T	_	_
+2	verwechselten	_	Word	-	+	_	_	_	_
+3	sie	_	Word	-	-	_	A	_	_
+4	die	_	Word	-	-	_	_	F	_
+5	Reihenfolge	_	Word	-	+	_	A	_	_
+6	ihres	_	Word	-	-	_	_	_	A
+7	Auftritts	_	Word	-	+	_	_	A	_
+8	.	_	Punctuation	-	-	_	_	_	U
+

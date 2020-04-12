@@ -1,0 +1,16 @@
+# format = ucca
+1	Der	_	Word	-	-	_	F	_	_
+2	kleine	_	Word	-	-	_	E	_	_
+3	Prinz	_	Word	-	+	_	_	_	A*
+4	stellte	_	Word	-	+	_	_	_	_
+5	mir	_	Word	-	-	_	_	A	_
+6	viele	_	Word	-	-	_	_	D	_
+7	Fragen	_	Word	-	-	_	_	Terminal	_
+8	,	_	Punctuation	-	-	_	_	U	_
+9	aber	_	Word	-	-	_	_	L	_
+10	schien	_	Word	-	-	_	_	_	G
+11	meine	_	Word	-	-	_	_	_	A
+12	zu	_	Word	-	-	_	_	_	F
+13	überhören	_	Word	-	+	_	_	H	_
+14	.	_	Punctuation	-	-	_	_	_	U
+

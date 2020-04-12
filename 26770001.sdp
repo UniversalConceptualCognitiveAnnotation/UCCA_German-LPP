@@ -1,0 +1,37 @@
+# format = ucca
+1	Wenn	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+2	er	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+3	sie	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+4	selbst	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
+5	besäße	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+7	könnte	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+8	er	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	A*
+9	nicht	_	Word	-	+	_	_	_	N	_	_	_	_	_	_	_	_
+10	nur	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+11	vierundvierzig	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+13	sondern	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_
+14	zweiundsiebzig	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_
+15	oder	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_
+16	gar	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+17	hundert	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_
+18	oder	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_
+19	zweihundert	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_
+20	Sonnenuntergänge	_	Word	-	+	_	_	_	C*	C*	C*	_	_	_	_	_	_
+21	an	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+22	einem	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_
+23	Tag	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_
+24	sehen	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+26	ohne	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	D*
+27	nur	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
+28	ein	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D
+29	einziges	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+30	Mal	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+31	seinen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+32	Stuhl	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+33	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+34	verrücken	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+35	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

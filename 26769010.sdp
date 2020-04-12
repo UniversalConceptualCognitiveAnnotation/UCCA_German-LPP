@@ -1,0 +1,12 @@
+# format = ucca
+1	Über	_	Word	-	-	_	R	_	_
+2	wen	_	Word	-	+	_	_	_	A
+3	konnte	_	Word	-	-	_	_	_	D
+4	der	_	Word	-	-	_	_	F	_
+5	König	_	Word	-	+	_	_	_	A
+6	denn	_	Word	-	-	_	_	_	F
+7	regieren	_	Word	-	+	_	_	_	_
+8	?	_	Punctuation	-	-	_	_	_	U
+9	-	_	Punctuation	-	-	_	_	_	U
+10	"	_	Punctuation	-	-	_	_	_	U
+

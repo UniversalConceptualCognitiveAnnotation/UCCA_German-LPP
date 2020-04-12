@@ -1,0 +1,13 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_
+2	war	_	Word	-	-	_	F	_
+3	so	_	Word	-	-	_	D	_
+4	stolz	_	Word	-	+	_	_	_
+5	auf	_	Word	-	-	_	_	R
+6	die	_	Word	-	-	_	_	F
+7	Affenbrotbäume	_	Word	-	+	_	A	_
+8	gewesen	_	Word	-	-	_	F	_
+9	.	_	Punctuation	-	-	_	U	_
+10	-	_	Punctuation	-	-	_	U	_
+11	"	_	Punctuation	-	-	_	U	_
+

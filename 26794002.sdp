@@ -1,0 +1,23 @@
+# format = ucca
+1	Guten	_	Word	-	+	_	_	A	_	_	_
+2	Tag	_	Word	-	-	_	A	_	_	_	_
+3	"	_	Punctuation	-	-	_	_	U	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_
+5	antwortete	_	Word	-	+	_	_	_	_	_	_
+6	der	_	Word	-	-	_	_	_	F	_	_
+7	kleine	_	Word	-	-	_	_	_	E	_	_
+8	Prinz	_	Word	-	+	_	_	A	_	_	_
+9	höflich	_	Word	-	-	_	_	D	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_
+11	er	_	Word	-	-	_	_	_	_	A	A*
+12	drehte	_	Word	-	+	_	_	H	_	_	_
+13	sich	_	Word	-	-	_	_	_	_	Terminal	_
+14	um	_	Word	-	-	_	_	_	_	Terminal	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_
+16	aber	_	Word	-	-	_	_	L	_	_	_
+17	sah	_	Word	-	+	_	_	H	_	_	_
+18	nichts	_	Word	-	-	_	_	_	_	_	A
+19	.	_	Punctuation	-	-	_	_	_	_	_	U
+20	-	_	Punctuation	-	-	_	_	_	_	_	U
+21	"	_	Punctuation	-	-	_	_	_	_	_	U
+

@@ -1,0 +1,17 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_	_	_
+2	wiederholte	_	Word	-	+	_	_	_	_	_	_
+3	der	_	Word	-	-	_	_	F	_	_	_
+4	Astronom	_	Word	-	+	_	A	_	_	_	_
+5	in	_	Word	-	-	_	_	_	R	_	_
+6	sehr	_	Word	-	-	_	_	_	E	_	_
+7	eleganter	_	Word	-	-	_	_	_	E	_	_
+8	Kleidung	_	Word	-	+	_	A	_	_	_	_
+9	seine	_	Word	-	-	_	_	_	_	A*	_
+10	Vorführung	_	Word	-	+	_	A	_	_	_	_
+11	in	_	Word	-	-	_	_	_	_	_	R
+12	dem	_	Word	-	-	_	_	_	_	_	F
+13	Jahre	_	Word	-	+	_	T	_	_	_	_
+14	1920	_	Word	-	-	_	_	_	_	_	C
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+

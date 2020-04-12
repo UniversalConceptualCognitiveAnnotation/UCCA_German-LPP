@@ -1,0 +1,21 @@
+# format = ucca
+1	Nun	_	Word	-	-	_	L	_	_	_	_	_	_
+2	gab	_	Word	-	+	_	_	_	_	_	_	_	_
+3	es	_	Word	-	-	_	F	_	_	_	_	_	_
+4	schreckliche	_	Word	-	-	_	_	E	_	_	_	_	_
+5	Samenkörner	_	Word	-	+	_	A	_	_	_	_	_	_
+6	auf	_	Word	-	-	_	_	_	R	_	_	_	_
+7	dem	_	Word	-	-	_	_	_	F	_	_	_	_
+8	Planeten	_	Word	-	+	_	A	_	_	_	_	_	_
+9	des	_	Word	-	-	_	_	_	_	R	_	_	_
+10	kleinen	_	Word	-	-	_	_	_	_	E	_	_	_
+11	Prinzen	_	Word	-	+	_	_	_	E	_	_	_	_
+12	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+13	Es	_	Word	-	-	_	_	_	_	_	F	_	_
+14	waren	_	Word	-	+	_	H	_	_	_	_	_	_
+15	die	_	Word	-	-	_	_	_	_	_	_	F	_
+16	Samen	_	Word	-	+	_	_	_	_	_	A	_	_
+17	der	_	Word	-	-	_	_	_	_	_	_	_	R
+18	Affenbrotbäume	_	Word	-	+	_	_	_	_	_	_	E	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

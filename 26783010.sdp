@@ -1,0 +1,13 @@
+# format = ucca
+1	Das	_	Word	-	-	_	A	_	_
+2	ist	_	Word	-	-	_	F	_	_
+3	sehr	_	Word	-	-	_	D	_	_
+4	interessant	_	Word	-	+	_	_	A	_
+5	"	_	Punctuation	-	-	_	_	U	_
+6	,	_	Punctuation	-	-	_	_	U	_
+7	sagte	_	Word	-	+	_	_	_	_
+8	der	_	Word	-	-	_	_	_	F
+9	kleine	_	Word	-	-	_	_	_	E
+10	Prinz	_	Word	-	+	_	_	A	_
+11	.	_	Punctuation	-	-	_	_	_	U
+

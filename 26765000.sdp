@@ -1,0 +1,18 @@
+# format = ucca
+1	Wieder	_	Word	-	-	_	D	_
+2	hatte	_	Word	-	-	_	F	_
+3	sie	_	Word	-	-	_	A	A*
+4	sich	_	Word	-	-	_	A	_
+5	gezwungen	_	Word	-	-	_	D	_
+6	zu	_	Word	-	-	_	F	_
+7	husten	_	Word	-	+	_	_	_
+8	,	_	Punctuation	-	-	_	U	_
+9	um	_	Word	-	-	_	L	_
+10	ihm	_	Word	-	-	_	_	A
+11	ein	_	Word	-	+	_	H	_
+12	schlechtes	_	Word	-	-	_	_	Terminal
+13	Gewissen	_	Word	-	-	_	_	Terminal
+14	zu	_	Word	-	-	_	_	Terminal
+15	machen	_	Word	-	-	_	_	Terminal
+16	.	_	Punctuation	-	-	_	_	U
+

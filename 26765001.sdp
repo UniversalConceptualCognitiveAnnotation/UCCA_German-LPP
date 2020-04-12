@@ -1,0 +1,22 @@
+# format = ucca
+1	So	_	Word	-	-	_	_	_	_	_	L
+2	hatte	_	Word	-	-	_	_	_	_	_	F
+3	der	_	Word	-	-	_	F	_	_	_	_
+4	kleine	_	Word	-	-	_	E	_	_	_	_
+5	Prinz	_	Word	-	+	_	_	_	_	_	A
+6	,	_	Punctuation	-	-	_	_	_	_	_	U
+7	obwohl	_	Word	-	-	_	_	_	_	_	L
+8	er	_	Word	-	-	_	_	_	A	_	_
+9	durch	_	Word	-	-	_	_	R	_	_	_
+10	seine	_	Word	-	-	_	_	A	_	_	_
+11	Liebe	_	Word	-	+	_	_	_	A	_	_
+12	guten	_	Word	-	-	_	_	_	D	_	_
+13	Willens	_	Word	-	+	_	_	_	_	_	H
+14	war	_	Word	-	-	_	_	_	F	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	U
+16	rasch	_	Word	-	-	_	_	_	_	_	D
+17	an	_	Word	-	-	_	_	_	_	R	_
+18	ihr	_	Word	-	+	_	_	_	_	_	A
+19	gezweifelt	_	Word	-	+	_	_	_	_	_	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	U
+

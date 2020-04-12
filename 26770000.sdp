@@ -1,0 +1,12 @@
+# format = ucca
+1	-	_	Punctuation	-	-	_	_	U	_
+2	Der	_	Word	-	-	_	F	_	_
+3	kleine	_	Word	-	-	_	E	_	_
+4	Prinz	_	Word	-	+	_	_	A	_
+5	bewunderte	_	Word	-	+	_	_	_	_
+6	solch	_	Word	-	-	_	_	D	_
+7	eine	_	Word	-	-	_	_	_	F
+8	große	_	Word	-	-	_	_	_	D
+9	Macht	_	Word	-	+	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

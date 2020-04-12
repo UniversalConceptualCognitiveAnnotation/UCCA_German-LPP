@@ -1,0 +1,23 @@
+# format = ucca
+1	Mit	_	Word	-	-	_	R	_	_	_	_	_
+2	einer	_	Word	-	-	_	E	_	_	_	_	_
+3	taktvollen	_	Word	-	-	_	E	_	_	_	_	_
+4	Geste	_	Word	-	+	_	_	A	_	_	_	_
+5	zeigte	_	Word	-	+	_	_	_	_	_	_	_
+6	der	_	Word	-	-	_	_	_	F	_	_	_
+7	König	_	Word	-	+	_	_	A	_	_	_	_
+8	auf	_	Word	-	-	_	_	_	_	R	_	_
+9	seinen	_	Word	-	-	_	_	_	_	E	_	_
+10	Planeten	_	Word	-	+	_	_	A	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+12	auf	_	Word	-	-	_	_	_	_	_	R	_
+13	die	_	Word	-	-	_	_	_	_	_	F	_
+14	anderen	_	Word	-	-	_	_	_	_	_	E	_
+15	Planeten	_	Word	-	+	_	_	_	_	C	_	_
+16	und	_	Word	-	-	_	_	_	_	N	_	_
+17	die	_	Word	-	-	_	_	_	_	_	_	F
+18	Sterne	_	Word	-	+	_	_	_	_	C	_	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+20	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

@@ -1,0 +1,33 @@
+# format = ucca
+1	Wer	_	Word	-	-	_	A	_	_	_	_	_	_	_
+2	bist	_	Word	-	+	_	_	A	_	_	_	_	_	_
+3	du	_	Word	-	-	_	A	_	_	_	_	_	_	_
+4	?	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+5	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	sagte	_	Word	-	+	_	_	_	_	_	_	_	_	_
+8	der	_	Word	-	-	_	_	_	F	_	_	_	_	_
+9	kleine	_	Word	-	-	_	_	_	E	_	_	_	_	_
+10	Prinz	_	Word	-	+	_	_	A	_	_	_	_	_	_
+11	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+12	Du	_	Word	-	-	_	_	_	_	A	_	_	_	_
+13	bist	_	Word	-	-	_	_	_	_	F	_	_	_	_
+14	sehr	_	Word	-	-	_	_	_	_	D	_	_	_	_
+15	hübsch	_	Word	-	+	_	H	_	_	_	_	_	_	_
+16	...	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+18	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+20	Ich	_	Word	-	-	_	_	_	_	_	A	_	_	_
+21	bin	_	Word	-	+	_	_	_	_	_	_	_	A	_
+22	ein	_	Word	-	-	_	_	_	_	_	_	F	_	_
+23	Fuchs	_	Word	-	+	_	_	_	_	_	A	_	_	_
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+26	sagte	_	Word	-	+	_	_	H	_	_	_	_	_	_
+27	der	_	Word	-	-	_	_	_	_	_	_	_	_	F
+28	Fuchs	_	Word	-	+	_	_	_	_	_	_	_	A	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+30	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

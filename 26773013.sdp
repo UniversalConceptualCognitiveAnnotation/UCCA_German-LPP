@@ -1,0 +1,14 @@
+# format = ucca
+1	Eitle	_	Word	-	-	_	E	_	_
+2	Menschen	_	Word	-	+	_	_	A	_
+3	hören	_	Word	-	+	_	_	_	_
+4	nur	_	Word	-	-	_	_	D	_
+5	,	_	Punctuation	-	-	_	_	U	_
+6	wenn	_	Word	-	-	_	_	L	_
+7	sie	_	Word	-	-	_	_	_	A
+8	gelobt	_	Word	-	+	_	_	H	_
+9	werden	_	Word	-	-	_	_	_	F
+10	.	_	Punctuation	-	-	_	_	_	U
+11	-	_	Punctuation	-	-	_	_	_	U
+12	"	_	Punctuation	-	-	_	_	_	U
+

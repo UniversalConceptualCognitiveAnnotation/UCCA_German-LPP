@@ -1,0 +1,13 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_
+2	was	_	Word	-	-	_	A	_
+3	machst	_	Word	-	+	_	_	_
+4	du	_	Word	-	-	_	A	_
+5	mit	_	Word	-	-	_	_	R
+6	diesen	_	Word	-	-	_	_	E
+7	Sternen	_	Word	-	+	_	A	_
+8	?	_	Punctuation	-	-	_	_	U
+9	"	_	Punctuation	-	-	_	_	U
+10	-	_	Punctuation	-	-	_	_	U
+11	"	_	Punctuation	-	-	_	_	U
+

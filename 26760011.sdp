@@ -1,0 +1,37 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+2	war	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+3	von	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+4	meinem	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+5	Bolzen	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+6	abgelenkt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	und	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+8	so	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+9	antwortete	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+10	ich	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+11	einfach	_	Word	-	-	_	_	_	D	_	_	_	_	_	_
+12	Irgendetwas	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+13	:	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+14	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+15	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+16	Die	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+17	Dornen	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+18	sind	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+19	zu	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+20	überhaupt	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+21	nichts	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+22	nutze	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+24	Die	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+25	Blumen	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+26	lassen	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+27	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+28	nur	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+29	aus	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+30	Gemeinheit	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+31	wachsen	_	Word	-	+	_	_	_	_	_	_	H	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+33	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

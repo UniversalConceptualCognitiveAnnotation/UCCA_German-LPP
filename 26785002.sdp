@@ -1,0 +1,15 @@
+# format = ucca
+1	Wir	_	Word	-	-	_	A	_	_
+2	schreiben	_	Word	-	+	_	_	A	_
+3	keine	_	Word	-	-	_	D	_	_
+4	Blumen	_	Word	-	-	_	A	_	_
+5	auf	_	Word	-	-	_	Terminal	_	_
+6	"	_	Punctuation	-	-	_	_	U	_
+7	,	_	Punctuation	-	-	_	_	U	_
+8	sagte	_	Word	-	+	_	_	_	_
+9	der	_	Word	-	-	_	_	_	F
+10	Geograph	_	Word	-	+	_	_	A	_
+11	.	_	Punctuation	-	-	_	_	_	U
+12	-	_	Punctuation	-	-	_	_	_	U
+13	"	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,19 @@
+# format = ucca
+1	Der	_	Word	-	-	_	F	_	_	_	_
+2	Geschäftsmann	_	Word	-	+	_	_	A	_	_	_
+3	verstand	_	Word	-	+	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_
+5	dass	_	Word	-	-	_	_	_	R	_	_
+6	er	_	Word	-	-	_	_	_	A	_	A*
+7	nicht	_	Word	-	-	_	_	_	D	_	_
+8	darauf	_	Word	-	-	_	_	_	_	_	F
+9	hoffen	_	Word	-	+	_	_	A	_	_	_
+10	konnte	_	Word	-	-	_	_	_	D	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_
+12	in	_	Word	-	-	_	_	_	_	R	_
+13	Ruhe	_	Word	-	+	_	_	_	_	_	A
+14	gelassen	_	Word	-	+	_	_	_	A	_	_
+15	zu	_	Word	-	-	_	_	_	_	_	F
+16	werden	_	Word	-	-	_	_	_	_	_	F
+17	:	_	Punctuation	-	-	_	_	_	_	_	U
+

@@ -1,0 +1,26 @@
+# format = ucca
+1	Einer	_	Word	-	-	_	F	_	_	_	_	_	_
+2	Blume	_	Word	-	+	_	_	_	_	_	_	_	_
+3	mit	_	Word	-	-	_	_	R	_	_	_	_	_
+4	drei	_	Word	-	-	_	_	E	_	_	_	_	_
+5	Blütenblättern	_	Word	-	+	_	E	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+7	einer	_	Word	-	-	_	_	_	_	F	_	_	_
+8	ganz	_	Word	-	-	_	_	_	D	_	_	_	_
+9	mickrigen	_	Word	-	+	_	_	_	_	E	_	_	_
+10	Blume	_	Word	-	+	_	H	_	_	_	_	_	_
+11	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+12	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+13	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+14	Guten	_	Word	-	+	_	_	_	_	_	_	A	_
+15	Tag	_	Word	-	-	_	_	_	_	_	A	_	_
+16	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+18	sagte	_	Word	-	+	_	H	_	_	_	_	_	_
+19	der	_	Word	-	-	_	_	_	_	_	_	_	F
+20	kleine	_	Word	-	-	_	_	_	_	_	_	_	E
+21	Prinz	_	Word	-	+	_	_	_	_	_	_	A	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+23	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

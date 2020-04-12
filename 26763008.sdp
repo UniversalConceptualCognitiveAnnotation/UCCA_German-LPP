@@ -1,0 +1,17 @@
+# format = ucca
+1	Langsam	_	Word	-	-	_	D	_	_	_
+2	zog	_	Word	-	+	_	_	_	_	_
+3	sie	_	Word	-	-	_	A	A*	_	_
+4	sich	_	Word	-	-	_	Terminal	_	_	_
+5	an	_	Word	-	-	_	Terminal	_	_	_
+6	und	_	Word	-	-	_	L	_	_	_
+7	rückte	_	Word	-	+	_	H	_	_	_
+8	ihre	_	Word	-	-	_	_	_	E	_
+9	Blütenblätter	_	Word	-	+	_	_	A	_	_
+10	eines	_	Word	-	+	_	_	D	_	_
+11	nach	_	Word	-	-	_	_	_	_	Terminal
+12	dem	_	Word	-	-	_	_	_	_	Terminal
+13	anderen	_	Word	-	-	_	_	_	_	Terminal
+14	zurecht	_	Word	-	-	_	_	Terminal	_	_
+15	.	_	Punctuation	-	-	_	_	U	_	_
+

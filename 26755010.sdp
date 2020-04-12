@@ -1,0 +1,29 @@
+# format = ucca
+1	Zu	_	Word	-	+	_	_	_	G	_	_	_	_	_	_
+2	dem	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
+3	Glück	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
+4	für	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+5	den	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+6	Asteroiden	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+7	B	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+8	612	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+9	zwang	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+10	ein	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+11	türkischer	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+12	Diktator	_	Word	-	+	_	_	_	_	_	_	A*	_	_	_
+13	sein	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+14	Volk	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+15	unter	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+16	Androhung	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+17	der	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+18	Todes	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+19	strafe	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+21	sich	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+22	nach	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+23	europäischer	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+24	Art	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+25	zu	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+26	kleiden	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+

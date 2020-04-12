@@ -1,0 +1,10 @@
+# format = ucca
+1	Mein	_	Word	-	-	_	E	_
+2	Freund	_	Word	-	+	_	_	A
+3	gab	_	Word	-	-	_	_	D
+4	mir	_	Word	-	-	_	_	A
+5	nie	_	Word	-	-	_	_	T
+6	irgendwelche	_	Word	-	-	_	_	D
+7	Erklärungen	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

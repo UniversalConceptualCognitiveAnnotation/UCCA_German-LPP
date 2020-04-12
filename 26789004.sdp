@@ -1,0 +1,10 @@
+# format = ucca
+1	Ah	_	Word	-	-	_	A	_
+2	!	_	Punctuation	-	-	_	U	_
+3	"	_	Punctuation	-	-	_	U	_
+4	,	_	Punctuation	-	-	_	U	_
+5	sagte	_	Word	-	+	_	_	_
+6	die	_	Word	-	-	_	_	F
+7	Schlange	_	Word	-	+	_	A	_
+8	.	_	Punctuation	-	-	_	_	U
+

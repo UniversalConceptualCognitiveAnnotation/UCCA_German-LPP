@@ -1,0 +1,13 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	_	L
+2	der	_	Word	-	-	_	F	_	_
+3	Donner	_	Word	-	+	_	_	_	A
+4	eines	_	Word	-	-	_	_	R	_
+5	dritten	_	Word	-	-	_	_	E	_
+6	Schnell	_	Word	-	-	_	_	E	_
+7	zugs	_	Word	-	+	_	E	_	_
+8	grollte	_	Word	-	+	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	U
+10	-	_	Punctuation	-	-	_	_	_	U
+11	"	_	Punctuation	-	-	_	_	_	U
+

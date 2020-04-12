@@ -1,0 +1,26 @@
+# format = ucca
+1	Die	_	Word	-	-	_	F	_	_	_	_	_
+2	Worte	_	Word	-	+	_	_	_	A	_	_	_
+3	des	_	Word	-	-	_	_	R	_	_	_	_
+4	kleinen	_	Word	-	-	_	_	E	_	_	_	_
+5	Prinzen	_	Word	-	+	_	E	_	_	_	_	_
+6	tanzten	_	Word	-	+	_	_	_	_	_	_	_
+7	durch	_	Word	-	-	_	_	_	_	R	_	_
+8	mein	_	Word	-	-	_	_	_	_	E	_	_
+9	Bewusstsein	_	Word	-	+	_	_	_	A	_	_	_
+10	:	_	Punctuation	-	-	_	_	_	U	_	_	_
+11	-	_	Punctuation	-	-	_	_	_	U	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	Du	_	Word	-	-	_	_	_	_	_	A	_
+14	hast	_	Word	-	-	_	_	_	_	_	F	_
+15	also	_	Word	-	-	_	_	_	_	_	D	_
+16	auch	_	Word	-	-	_	_	_	_	_	D	_
+17	Durst	_	Word	-	+	_	_	_	_	_	_	A
+18	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	fragte	_	Word	-	+	_	_	_	H	_	_	_
+22	ich	_	Word	-	-	_	_	_	_	_	_	A
+23	ihn	_	Word	-	-	_	_	_	_	_	_	A
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

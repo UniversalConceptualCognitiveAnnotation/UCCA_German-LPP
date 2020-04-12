@@ -1,0 +1,23 @@
+# format = ucca
+1	Über	_	Word	-	-	_	R	_	_	_	_
+2	die	_	Word	-	-	_	F	_	_	_	_
+3	Idee	_	Word	-	+	_	_	_	_	A	_
+4	mit	_	Word	-	-	_	_	R	_	_	_
+5	den	_	Word	-	-	_	_	F	_	_	_
+6	Elefanten	_	Word	-	+	_	E	_	_	_	_
+7	musste	_	Word	-	-	_	_	_	_	D	_
+8	der	_	Word	-	-	_	_	_	F	_	_
+9	kleine	_	Word	-	-	_	_	_	E	_	_
+10	Prinz	_	Word	-	+	_	_	_	_	A	_
+11	lachen	_	Word	-	+	_	_	_	_	_	_
+12	:	_	Punctuation	-	-	_	_	_	_	U	_
+13	-	_	Punctuation	-	-	_	_	_	_	U	_
+14	"	_	Punctuation	-	-	_	_	_	_	U	_
+15	Man	_	Word	-	-	_	_	_	_	_	A
+16	müsste	_	Word	-	-	_	_	_	_	_	D
+17	sie	_	Word	-	-	_	_	_	_	_	A
+18	übereinander	_	Word	-	-	_	_	_	_	_	D
+19	stapeln	_	Word	-	+	_	_	_	_	H	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	U
+21	"	_	Punctuation	-	-	_	_	_	_	_	U
+

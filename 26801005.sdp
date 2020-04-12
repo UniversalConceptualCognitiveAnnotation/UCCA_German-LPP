@@ -1,0 +1,14 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_
+2	was	_	Word	-	-	_	A	_
+3	macht	_	Word	-	+	_	_	_
+4	man	_	Word	-	-	_	A	_
+5	mit	_	Word	-	-	_	_	R
+6	den	_	Word	-	-	_	_	F
+7	dreiundfünfzig	_	Word	-	-	_	_	Q
+8	Minuten	_	Word	-	+	_	A	_
+9	?	_	Punctuation	-	-	_	_	U
+10	"	_	Punctuation	-	-	_	_	U
+11	-	_	Punctuation	-	-	_	_	U
+12	"	_	Punctuation	-	-	_	_	U
+

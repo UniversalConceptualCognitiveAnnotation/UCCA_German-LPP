@@ -1,0 +1,13 @@
+# format = ucca
+1	Die	_	Word	-	-	_	F	_	_	_
+2	Menschen	_	Word	-	+	_	_	A	_	_
+3	nehmen	_	Word	-	+	_	_	_	_	_
+4	nur	_	Word	-	-	_	_	D	_	_
+5	wenig	_	Word	-	-	_	_	_	E	_
+6	Platz	_	Word	-	+	_	_	A	_	_
+7	auf	_	Word	-	-	_	_	_	_	R
+8	der	_	Word	-	-	_	_	_	_	F
+9	Erde	_	Word	-	+	_	_	A	_	_
+10	ein	_	Word	-	-	_	_	Terminal	_	_
+11	.	_	Punctuation	-	-	_	_	U	_	_
+

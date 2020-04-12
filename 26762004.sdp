@@ -1,0 +1,8 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	_	A
+2	hatte	_	Word	-	-	_	_	F
+3	mein	_	Word	-	-	_	E	_
+4	Werkzeug	_	Word	-	+	_	_	A
+5	beiseitegelegt	_	Word	-	+	_	_	_
+6	.	_	Punctuation	-	-	_	_	U
+

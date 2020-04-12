@@ -1,0 +1,37 @@
+# format = ucca
+1	Meine	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+2	Blume	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_
+3	ist	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+4	vergänglich	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+6	sagte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+7	sich	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_
+8	der	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+9	kleine	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+10	Prinz	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+11	und	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+12	sie	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
+13	hat	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+14	nur	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+15	vier	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_
+16	Dornen	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+18	um	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+19	sich	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+20	gegen	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+21	die	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+22	Welt	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+23	zu	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+24	verteidigen	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
+25	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+26	Und	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+27	ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+28	hab	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+29	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+30	ganz	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+31	allein	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D
+32	bei	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+33	mir	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+34	zurückgelassen	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

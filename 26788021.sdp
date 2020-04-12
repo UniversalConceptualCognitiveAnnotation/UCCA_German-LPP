@@ -1,0 +1,24 @@
+# format = ucca
+1	Hier	_	Word	-	-	_	A	_	_	_	_	_	_	_
+2	ist	_	Word	-	+	_	_	_	_	_	_	_	A	_
+3	die	_	Word	-	-	_	_	F	_	_	_	_	_	_
+4	Wüste	_	Word	-	+	_	A	_	_	_	_	_	_	_
+5	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+6	Es	_	Word	-	-	_	_	_	F	_	_	_	_	_
+7	gibt	_	Word	-	+	_	H	_	_	_	_	_	_	_
+8	niemanden	_	Word	-	-	_	_	_	A	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
+10	der	_	Word	-	-	_	_	_	_	F	_	_	_	_
+11	Wüste	_	Word	-	+	_	_	_	A	_	_	_	_	_
+12	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+13	Die	_	Word	-	-	_	_	_	_	_	F	_	_	_
+14	Erde	_	Word	-	+	_	_	_	_	_	_	A	_	_
+15	ist	_	Word	-	-	_	_	_	_	_	_	F	_	_
+16	groß	_	Word	-	+	_	H	_	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+19	sagte	_	Word	-	+	_	_	_	_	_	_	_	_	_
+20	die	_	Word	-	-	_	_	_	_	_	_	_	_	F
+21	Schlange	_	Word	-	+	_	_	_	_	_	_	_	A	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

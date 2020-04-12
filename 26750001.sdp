@@ -1,0 +1,10 @@
+# format = ucca
+1	Irgendetwas	_	Word	-	-	_	_	A
+2	an	_	Word	-	-	_	R	_
+3	meinem	_	Word	-	-	_	E	_
+4	Motor	_	Word	-	+	_	_	A
+5	war	_	Word	-	-	_	_	F
+6	kaputt	_	Word	-	+	_	_	_
+7	gegangen	_	Word	-	-	_	_	D
+8	.	_	Punctuation	-	-	_	_	U
+

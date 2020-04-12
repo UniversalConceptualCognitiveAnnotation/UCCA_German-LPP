@@ -1,0 +1,25 @@
+# format = ucca
+1	Es	_	Word	-	-	_	_	_	_	_	_	F
+2	gab	_	Word	-	-	_	_	_	_	_	_	D
+3	auf	_	Word	-	-	_	R	_	_	_	_	_
+4	einem	_	Word	-	-	_	F	_	_	_	_	_
+5	Stern	_	Word	-	+	_	_	_	_	_	_	A
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+7	auf	_	Word	-	-	_	_	R	_	_	_	_
+8	einem	_	Word	-	-	_	_	F	_	_	_	_
+9	Planeten	_	Word	-	+	_	C	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+11	auf	_	Word	-	-	_	_	_	R	_	_	_
+12	meinem	_	Word	-	-	_	_	_	E	_	_	_
+13	Planeten	_	Word	-	+	_	C	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+15	der	_	Word	-	-	_	_	_	_	F	_	_
+16	Erde	_	Word	-	+	_	_	_	C	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+18	einen	_	Word	-	-	_	_	_	_	_	F	_
+19	kleinen	_	Word	-	-	_	_	_	_	_	E	_
+20	Prinzen	_	Word	-	+	_	_	_	_	_	_	A
+21	zu	_	Word	-	-	_	_	_	_	_	_	F
+22	trösten	_	Word	-	+	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

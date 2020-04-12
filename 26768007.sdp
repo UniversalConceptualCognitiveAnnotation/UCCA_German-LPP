@@ -1,0 +1,29 @@
+# format = ucca
+1	Komm	_	Word	-	+	_	_	_	A	_	_	_
+2	mal	_	Word	-	-	_	F	_	_	_	_	_
+3	näher	_	Word	-	-	_	D	_	_	_	_	_
+4	heran	_	Word	-	-	_	Terminal	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+6	damit	_	Word	-	-	_	L	_	_	_	_	_
+7	ich	_	Word	-	-	_	_	A	_	_	_	_
+8	dich	_	Word	-	-	_	_	A	_	_	_	_
+9	besser	_	Word	-	-	_	_	D	_	_	_	_
+10	sehen	_	Word	-	+	_	H	_	_	_	_	_
+11	kann	_	Word	-	-	_	_	D	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+14	sagte	_	Word	-	+	_	_	_	_	_	_	_
+15	der	_	Word	-	-	_	_	_	_	F	_	_
+16	König	_	Word	-	+	_	_	_	A	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+18	ganz	_	Word	-	-	_	_	_	_	_	D	_
+19	stolz	_	Word	-	+	_	_	_	_	E	_	_
+20	darauf	_	Word	-	-	_	_	_	_	_	F	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+22	jemandes	_	Word	-	-	_	_	_	_	_	_	A
+23	König	_	Word	-	+	_	_	_	_	_	A	_
+24	sein	_	Word	-	-	_	_	_	_	_	_	F
+25	zu	_	Word	-	-	_	_	_	_	_	_	F
+26	können	_	Word	-	-	_	_	_	_	_	_	D
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

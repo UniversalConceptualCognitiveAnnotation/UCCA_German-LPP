@@ -1,0 +1,11 @@
+# format = ucca
+1	Natürlich	_	Word	-	-	_	A	_
+2	"	_	Punctuation	-	-	_	U	_
+3	,	_	Punctuation	-	-	_	U	_
+4	sagte	_	Word	-	+	_	_	_
+5	der	_	Word	-	-	_	_	F
+6	Fuchs	_	Word	-	+	_	A	_
+7	.	_	Punctuation	-	-	_	_	U
+8	-	_	Punctuation	-	-	_	_	U
+9	"	_	Punctuation	-	-	_	_	U
+

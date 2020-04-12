@@ -1,0 +1,26 @@
+# format = ucca
+1	Das	_	Word	-	-	_	_	A	_	_	_	_
+2	ist	_	Word	-	-	_	_	F	_	_	_	_
+3	überhaupt	_	Word	-	-	_	E	_	_	_	_	_
+4	nicht	_	Word	-	+	_	_	D	_	_	_	_
+5	lustig	_	Word	-	+	_	_	_	A	_	_	_
+6	"	_	Punctuation	-	-	_	_	_	U	_	_	_
+7	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+8	sagte	_	Word	-	+	_	_	_	_	_	_	_
+9	der	_	Word	-	-	_	_	_	_	F	_	_
+10	Laternen	_	Word	-	-	_	_	_	_	A	_	_
+11	anzünder	_	Word	-	+	_	_	_	A	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	Jetzt	_	Word	-	-	_	_	_	_	_	T	_
+14	reden	_	Word	-	+	_	_	H	_	_	_	_
+15	wir	_	Word	-	-	_	_	_	_	_	A	_
+16	schon	_	Word	-	-	_	_	_	_	_	D	_
+17	einen	_	Word	-	-	_	_	_	_	_	_	F
+18	Monat	_	Word	-	+	_	_	_	_	_	T	_
+19	lang	_	Word	-	-	_	_	_	_	_	D	_
+20	miteinander	_	Word	-	-	_	_	_	_	_	Terminal	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	U	_
+22	"	_	Punctuation	-	-	_	_	_	_	_	U	_
+23	-	_	Punctuation	-	-	_	_	_	_	_	U	_
+24	"	_	Punctuation	-	-	_	_	_	_	_	U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L
+2	der	_	Word	-	-	_	F	_
+3	kleine	_	Word	-	-	_	E	_
+4	Prinz	_	Word	-	+	_	_	A
+5	brach	_	Word	-	+	_	_	_
+6	wieder	_	Word	-	-	_	_	D
+7	auf	_	Word	-	-	_	_	Terminal
+8	.	_	Punctuation	-	-	_	_	U
+9	-	_	Punctuation	-	-	_	_	U
+10	"	_	Punctuation	-	-	_	_	U
+

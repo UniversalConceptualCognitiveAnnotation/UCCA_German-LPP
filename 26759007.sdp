@@ -1,0 +1,10 @@
+# format = ucca
+1	Leider	_	Word	-	-	_	_	G
+2	ist	_	Word	-	-	_	_	F
+3	Frankreich	_	Word	-	-	_	_	A
+4	viel	_	Word	-	-	_	E	_
+5	zu	_	Word	-	-	_	E	_
+6	weit	_	Word	-	+	_	_	D
+7	entfernt	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

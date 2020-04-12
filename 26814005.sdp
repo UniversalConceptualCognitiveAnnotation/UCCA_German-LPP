@@ -1,0 +1,25 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_	_	_	_	_
+2	ich	_	Word	-	-	_	A	_	_	_	_	_
+3	weiß	_	Word	-	+	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+5	dass	_	Word	-	-	_	_	_	R	_	_	_
+6	er	_	Word	-	-	_	_	_	A	_	_	_
+7	auf	_	Word	-	-	_	_	R	_	_	_	_
+8	seinem	_	Word	-	-	_	_	E	_	_	_	_
+9	Planeten	_	Word	-	+	_	_	_	A	_	_	_
+10	gelandet	_	Word	-	+	_	A	_	_	_	_	_
+11	ist	_	Word	-	-	_	_	_	F	_	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+13	denn	_	Word	-	-	_	L	_	_	_	_	_
+14	bei	_	Word	-	-	_	_	_	_	R	_	_
+15	Tages	_	Word	-	-	_	_	_	_	E	_	_
+16	anbruch	_	Word	-	+	_	_	_	_	_	_	T
+17	habe	_	Word	-	-	_	_	_	_	_	_	F
+18	ich	_	Word	-	-	_	_	_	_	_	_	A
+19	seinen	_	Word	-	-	_	_	_	_	_	E	_
+20	Körper	_	Word	-	+	_	_	_	_	_	_	A
+21	nicht	_	Word	-	-	_	_	_	_	_	_	D
+22	wiedergefunden	_	Word	-	+	_	H	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

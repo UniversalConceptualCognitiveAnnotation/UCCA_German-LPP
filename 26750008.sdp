@@ -1,0 +1,18 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_	_	_
+2	die	_	Word	-	-	_	R	_	_	_
+3	sagte	_	Word	-	+	_	_	_	_	_
+4	:	_	Punctuation	-	-	_	U	_	_	_
+5	-	_	Punctuation	-	-	_	U	_	_	_
+6	"	_	Punctuation	-	-	_	U	_	_	_
+7	Bitte	_	Word	-	+	_	A	_	_	_
+8	...	_	Punctuation	-	-	_	_	U	_	_
+9	zeichne	_	Word	-	+	_	_	H	_	_
+10	mir	_	Word	-	-	_	_	_	A	_
+11	ein	_	Word	-	-	_	_	_	_	F
+12	Schaf	_	Word	-	+	_	_	_	A	_
+13	!	_	Punctuation	-	-	_	_	_	_	U
+14	"	_	Punctuation	-	-	_	_	_	_	U
+15	-	_	Punctuation	-	-	_	_	_	_	U
+16	"	_	Punctuation	-	-	_	_	_	_	U
+

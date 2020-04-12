@@ -1,0 +1,31 @@
+# format = ucca
+1	Das	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	ist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+3	ein	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+4	Wissenschaftler	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+6	der	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+7	weiß	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+9	wo	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+10	sich	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+11	die	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+12	Meere	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+13	befinden	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+15	die	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+16	Flüsse	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+18	die	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+19	Städte	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+21	die	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+22	Berge	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
+23	und	_	Word	-	-	_	_	_	_	_	N	_	_	_	_
+24	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+25	Wüsten	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+28	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+29	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

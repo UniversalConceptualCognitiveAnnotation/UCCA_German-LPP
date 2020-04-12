@@ -1,0 +1,11 @@
+# format = ucca
+1	Für	_	Word	-	-	_	R	_
+2	die	_	Word	-	-	_	F	_
+3	Erkenntnis	_	Word	-	+	_	_	A
+4	aber	_	Word	-	-	_	_	L
+5	hat	_	Word	-	-	_	_	F
+6	es	_	Word	-	-	_	_	A
+7	sich	_	Word	-	+	_	_	_
+8	gelohnt	_	Word	-	-	_	_	Terminal
+9	.	_	Punctuation	-	-	_	_	U
+

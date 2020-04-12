@@ -1,0 +1,15 @@
+# format = ucca
+1	Hier	_	Word	-	-	_	_	_	A	_
+2	ist	_	Word	-	-	_	_	_	F	_
+3	der	_	Word	-	-	_	F	_	_	_
+4	kleine	_	Word	-	-	_	E	_	_	_
+5	Prinz	_	Word	-	+	_	_	_	_	A*
+6	auf	_	Word	-	-	_	_	R	_	_
+7	die	_	Word	-	-	_	_	F	_	_
+8	Erde	_	Word	-	+	_	_	_	A	_
+9	gekommen	_	Word	-	+	_	_	_	_	_
+10	und	_	Word	-	-	_	_	_	L	_
+11	wieder	_	Word	-	-	_	_	_	_	D
+12	verschwunden	_	Word	-	+	_	_	_	H	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

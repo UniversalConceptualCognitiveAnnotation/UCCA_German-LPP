@@ -1,0 +1,25 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_	_	_	_	_
+2	befehle	_	Word	-	+	_	_	_	A	_	_	_	_
+3	dir	_	Word	-	-	_	A	A*	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+5	dich	_	Word	-	+	_	A	_	_	_	_	_	_
+6	zu	_	Word	-	-	_	_	F	_	_	_	_	_
+7	setzen	_	Word	-	-	_	_	Terminal	_	_	_	_	_
+8	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+10	antwortete	_	Word	-	+	_	_	_	_	_	_	_	_
+11	der	_	Word	-	-	_	_	_	_	F	_	_	_
+12	König	_	Word	-	+	_	_	_	_	_	A*	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+14	und	_	Word	-	-	_	_	_	L	_	_	_	_
+15	rückte	_	Word	-	+	_	_	_	H	_	_	_	_
+16	würdevoll	_	Word	-	-	_	_	_	_	_	D	_	_
+17	einen	_	Word	-	-	_	_	_	_	_	_	F	_
+18	Zipfel	_	Word	-	+	_	_	_	_	_	A	_	_
+19	seines	_	Word	-	-	_	_	_	_	_	_	_	R
+20	Hermelin	_	Word	-	-	_	_	_	_	_	_	_	E
+21	mantels	_	Word	-	+	_	_	_	_	_	_	E	_
+22	zurecht	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+

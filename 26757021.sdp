@@ -1,0 +1,24 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_	_	_	_
+2	wenn	_	Word	-	-	_	L	_	_	_	_
+3	es	_	Word	-	-	_	F	_	_	_	_
+4	sich	_	Word	-	+	_	_	_	_	_	_
+5	um	_	Word	-	-	_	_	R	_	_	_
+6	Unkraut	_	Word	-	+	_	A	_	_	_	_
+7	handelt	_	Word	-	-	_	Terminal	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_
+9	dann	_	Word	-	-	_	L	_	_	_	_
+10	muss	_	Word	-	-	_	_	_	_	D	_
+11	man	_	Word	-	-	_	_	_	_	A	_
+12	die	_	Word	-	-	_	_	_	F	_	_
+13	Pflanze	_	Word	-	+	_	_	_	_	A	_
+14	umgehend	_	Word	-	-	_	_	_	_	D	_
+15	herausreißen	_	Word	-	+	_	H	_	_	_	_
+16	,	_	Punctuation	-	-	_	U	_	_	_	_
+17	sobald	_	Word	-	-	_	L	_	_	_	_
+18	man	_	Word	-	-	_	_	_	_	_	A
+19	sie	_	Word	-	-	_	_	_	_	_	A
+20	entdeckt	_	Word	-	+	_	H	_	_	_	_
+21	hat	_	Word	-	-	_	_	_	_	_	F
+22	.	_	Punctuation	-	-	_	_	_	_	_	U
+

@@ -1,0 +1,37 @@
+# format = ucca
+1	Es	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+2	ist	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+3	schwierig	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+6	meinem	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+7	Alter	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+8	wieder	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
+9	mit	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+10	dem	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+11	Zeichnen	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+12	anzufangen	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+14	wenn	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+15	man	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	A*
+16	nie	_	Word	-	-	_	_	_	_	_	_	T	_	_	_	_	_
+17	etwas	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+18	Anderes	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+19	versucht	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+20	hat	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+22	als	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+23	mit	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+24	sechs	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+25	Jahren	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T
+26	eine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+27	geschlossene	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+28	und	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_
+29	eine	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+30	offene	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_
+31	Riesen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+32	schlange	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+33	zu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+34	malen	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

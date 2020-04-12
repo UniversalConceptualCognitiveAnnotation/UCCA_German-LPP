@@ -1,0 +1,14 @@
+# format = ucca
+1	Dann	_	Word	-	-	_	L	_	_
+2	wischte	_	Word	-	+	_	_	_	_
+3	er	_	Word	-	-	_	A	_	_
+4	sich	_	Word	-	-	_	A	_	_
+5	mit	_	Word	-	-	_	_	R	_
+6	einem	_	Word	-	-	_	_	F	_
+7	rotkarierten	_	Word	-	-	_	_	E	_
+8	Taschentuch	_	Word	-	+	_	A	_	_
+9	die	_	Word	-	-	_	_	_	F
+10	Stirn	_	Word	-	+	_	A	_	_
+11	ab	_	Word	-	-	_	Terminal	_	_
+12	.	_	Punctuation	-	-	_	U	_	_
+

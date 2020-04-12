@@ -1,0 +1,28 @@
+# format = ucca
+1	Ganz	_	Word	-	-	_	E	_	_	_	_	_
+2	bestimmt	_	Word	-	+	_	_	_	_	_	_	_
+3	.	_	Punctuation	-	-	_	U	_	_	_	_	_
+4	Und	_	Word	-	-	_	L	_	_	_	_	_
+5	wenn	_	Word	-	-	_	L	_	_	_	_	_
+6	du	_	Word	-	-	_	_	A	_	_	_	_
+7	nett	_	Word	-	+	_	H	_	_	_	_	_
+8	bist	_	Word	-	-	_	_	F	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+10	gebe	_	Word	-	+	_	H	_	_	_	_	_
+11	ich	_	Word	-	-	_	_	_	A	_	_	A*
+12	dir	_	Word	-	-	_	_	_	A	_	_	_
+13	auch	_	Word	-	-	_	_	_	D	_	_	_
+14	einen	_	Word	-	-	_	_	_	_	F	_	_
+15	Strick	_	Word	-	+	_	_	_	A	_	_	_
+16	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+17	um	_	Word	-	-	_	L	_	_	_	_	_
+18	es	_	Word	-	-	_	_	_	_	_	A	_
+19	nachts	_	Word	-	-	_	_	_	_	_	T	_
+20	festzubinden	_	Word	-	+	_	H	_	_	_	_	_
+21	.	_	Punctuation	-	-	_	U	_	_	_	_	_
+22	Und	_	Word	-	-	_	L	_	_	_	_	_
+23	einen	_	Word	-	-	_	_	_	_	_	_	F
+24	Pflock	_	Word	-	+	_	H	_	_	_	_	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

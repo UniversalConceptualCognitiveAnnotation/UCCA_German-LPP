@@ -1,0 +1,20 @@
+# format = ucca
+1	Wenn	_	Word	-	-	_	L	_	_	_
+2	ich	_	Word	-	-	_	A	A*	A*	A*
+3	versuche	_	Word	-	+	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_
+5	ihn	_	Word	-	-	_	_	A	_	_
+6	hier	_	Word	-	-	_	_	A	_	_
+7	zu	_	Word	-	-	_	_	F	_	_
+8	beschreiben	_	Word	-	+	_	_	_	P*	_
+9	,	_	Punctuation	-	-	_	U	_	_	_
+10	dann	_	Word	-	-	_	L	_	_	_
+11	deswegen	_	Word	-	+	_	H	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_
+13	um	_	Word	-	-	_	_	_	_	R
+14	ihn	_	Word	-	-	_	_	_	_	A
+15	nicht	_	Word	-	-	_	_	_	_	D
+16	zu	_	Word	-	-	_	_	_	_	F
+17	vergessen	_	Word	-	+	_	_	_	A	_
+18	.	_	Punctuation	-	-	_	_	_	_	U
+

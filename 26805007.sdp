@@ -1,0 +1,13 @@
+# format = ucca
+1	Langsam	_	Word	-	-	_	D	_	_
+2	zog	_	Word	-	+	_	_	_	_
+3	ich	_	Word	-	-	_	A	_	_
+4	den	_	Word	-	-	_	_	F	_
+5	Eimer	_	Word	-	+	_	A	_	_
+6	bis	_	Word	-	-	_	_	_	R
+7	zu	_	Word	-	-	_	_	_	R
+8	dem	_	Word	-	-	_	_	_	F
+9	Rand	_	Word	-	+	_	A	_	_
+10	hinauf	_	Word	-	-	_	Terminal	_	_
+11	.	_	Punctuation	-	-	_	U	_	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+1	Das	_	Word	-	-	_	A	_	_	_	_
+2	stimmt	_	Word	-	+	_	_	_	_	_	_
+3	!	_	Punctuation	-	-	_	U	_	_	_	_
+4	Aber	_	Word	-	-	_	L	_	_	_	_
+5	warum	_	Word	-	-	_	_	A	_	_	_
+6	möchtest	_	Word	-	+	_	H	_	_	_	_
+7	du	_	Word	-	-	_	_	A	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_
+9	dass	_	Word	-	-	_	_	_	_	_	R
+10	deine	_	Word	-	-	_	_	_	E	_	_
+11	Schafe	_	Word	-	+	_	_	_	_	_	A
+12	die	_	Word	-	-	_	_	_	_	F	_
+13	kleinen	_	Word	-	-	_	_	_	_	E	_
+14	Affenbrotbäume	_	Word	-	+	_	_	_	_	_	A
+15	fressen	_	Word	-	+	_	_	A	_	_	_
+16	?	_	Punctuation	-	-	_	_	_	_	_	U
+17	"	_	Punctuation	-	-	_	_	_	_	_	U
+

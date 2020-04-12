@@ -1,0 +1,12 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_	_
+2	es	_	Word	-	-	_	A	_	_
+3	stimmt	_	Word	-	+	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_
+5	dabei	_	Word	-	-	_	_	A	_
+6	half	_	Word	-	+	_	H	_	_
+7	mir	_	Word	-	-	_	_	A	_
+8	die	_	Word	-	-	_	_	_	F
+9	Geographie	_	Word	-	+	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

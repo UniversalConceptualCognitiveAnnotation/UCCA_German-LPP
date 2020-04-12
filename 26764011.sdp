@@ -1,0 +1,12 @@
+# format = ucca
+1	Sie	_	Word	-	-	_	_	_	A
+2	konnte	_	Word	-	-	_	_	_	D
+3	gar	_	Word	-	-	_	E	_	_
+4	nichts	_	Word	-	+	_	_	_	D
+5	von	_	Word	-	-	_	_	R	_
+6	den	_	Word	-	-	_	_	F	_
+7	anderen	_	Word	-	-	_	_	E	_
+8	Welten	_	Word	-	+	_	_	_	A
+9	kennen	_	Word	-	+	_	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

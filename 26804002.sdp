@@ -1,0 +1,11 @@
+# format = ucca
+1	Mir	_	Word	-	-	_	F	_
+2	schien	_	Word	-	-	_	G	_
+3	,	_	Punctuation	-	-	_	U	_
+4	ich	_	Word	-	-	_	A	_
+5	trüge	_	Word	-	+	_	_	_
+6	einen	_	Word	-	-	_	_	F
+7	zerbrechlichen	_	Word	-	-	_	_	E
+8	Schatz	_	Word	-	+	_	A	_
+9	.	_	Punctuation	-	-	_	_	U
+

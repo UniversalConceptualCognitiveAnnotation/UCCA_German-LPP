@@ -1,0 +1,12 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_
+2	du	_	Word	-	-	_	A	_
+3	bist	_	Word	-	-	_	F	_
+4	ganz	_	Word	-	-	_	D	_
+5	allein	_	Word	-	+	_	_	_
+6	auf	_	Word	-	-	_	_	R
+7	deinem	_	Word	-	-	_	_	E
+8	Planeten	_	Word	-	+	_	A	_
+9	!	_	Punctuation	-	-	_	_	U
+10	"	_	Punctuation	-	-	_	_	U
+

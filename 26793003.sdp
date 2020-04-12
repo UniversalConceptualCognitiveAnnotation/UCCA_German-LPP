@@ -1,0 +1,12 @@
+# format = ucca
+1	Es	_	Word	-	-	_	F	_	_	_
+2	war	_	Word	-	+	_	_	_	_	_
+3	ein	_	Word	-	-	_	_	F	_	_
+4	Garten	_	Word	-	+	_	A	_	_	_
+5	voll	_	Word	-	+	_	_	E	_	_
+6	blühender	_	Word	-	-	_	_	_	_	E
+7	Rosen	_	Word	-	+	_	_	_	A	_
+8	.	_	Punctuation	-	-	_	_	_	_	U
+9	-	_	Punctuation	-	-	_	_	_	_	U
+10	"	_	Punctuation	-	-	_	_	_	_	U
+

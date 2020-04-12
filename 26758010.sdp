@@ -1,0 +1,18 @@
+# format = ucca
+1	Bei	_	Word	-	-	_	L	_	_	_
+2	dem	_	Word	-	-	_	F	_	_	_
+3	Zeichnen	_	Word	-	+	_	_	_	_	_
+4	der	_	Word	-	-	_	_	R	_	_
+5	Affenbrotbäume	_	Word	-	+	_	A	_	_	_
+6	hatte	_	Word	-	-	_	_	_	F	_
+7	ich	_	Word	-	-	_	A*	_	A	_
+8	jedoch	_	Word	-	-	_	_	_	D	_
+9	das	_	Word	-	-	_	_	_	F	_
+10	Gefühl	_	Word	-	+	_	H	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_
+12	es	_	Word	-	-	_	_	_	_	A
+13	sei	_	Word	-	-	_	_	_	_	F
+14	wirklich	_	Word	-	-	_	_	_	_	G
+15	dringend	_	Word	-	+	_	_	_	A	_
+16	.	_	Punctuation	-	-	_	_	_	_	U
+

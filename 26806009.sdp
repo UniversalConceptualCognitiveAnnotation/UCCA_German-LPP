@@ -1,0 +1,12 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_
+2	holte	_	Word	-	+	_	_	_	_
+3	aus	_	Word	-	-	_	_	R	_
+4	meiner	_	Word	-	-	_	_	E	_
+5	Tasche	_	Word	-	+	_	A	_	_
+6	meine	_	Word	-	-	_	_	_	A
+7	Zeichen	_	Word	-	-	_	_	_	E
+8	entwürfe	_	Word	-	+	_	A	_	_
+9	hervor	_	Word	-	-	_	Terminal	_	_
+10	.	_	Punctuation	-	-	_	U	_	_
+

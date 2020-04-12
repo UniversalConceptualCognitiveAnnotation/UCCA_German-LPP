@@ -1,0 +1,15 @@
+# format = ucca
+1	Vergesst	_	Word	-	+	_	_	_	_	_
+2	nicht	_	Word	-	-	_	D	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_
+4	ich	_	Word	-	-	_	_	_	A	_
+5	war	_	Word	-	-	_	_	_	F	_
+6	tausend	_	Word	-	-	_	_	Q	_	_
+7	Meilen	_	Word	-	+	_	_	_	A	_
+8	entfernt	_	Word	-	+	_	A	_	_	_
+9	von	_	Word	-	-	_	_	_	_	R
+10	jeglichem	_	Word	-	-	_	_	_	_	E
+11	besiedelten	_	Word	-	-	_	_	_	_	E
+12	Gebiet	_	Word	-	+	_	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

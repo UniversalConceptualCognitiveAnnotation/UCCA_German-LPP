@@ -1,0 +1,18 @@
+# format = ucca
+1	Es	_	Word	-	-	_	F	_	_	_	_
+2	waren	_	Word	-	+	_	_	_	_	_	_
+3	zufällig	_	Word	-	-	_	_	D	_	_	_
+4	ausgesprochene	_	Word	-	+	_	_	_	E	_	_
+5	Worte	_	Word	-	+	_	A	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	U	_	_
+7	durch	_	Word	-	-	_	_	_	_	_	R
+8	die	_	Word	-	-	_	_	_	_	_	R
+9	mir	_	Word	-	-	_	_	_	_	_	A
+10	nach	_	Word	-	+	_	_	_	_	_	T
+11	und	_	Word	-	-	_	_	_	_	Terminal	_
+12	nach	_	Word	-	-	_	_	_	_	Terminal	_
+13	alles	_	Word	-	-	_	_	_	_	_	A
+14	klar	_	Word	-	+	_	_	_	E	_	_
+15	wurde	_	Word	-	-	_	_	_	_	_	F
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+

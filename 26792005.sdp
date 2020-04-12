@@ -1,0 +1,19 @@
+# format = ucca
+1	Guten	_	Word	-	+	_	_	_	_	A	_
+2	Tag	_	Word	-	-	_	A	_	_	_	_
+3	...	_	Punctuation	-	-	_	U	_	_	_	_
+4	Guten	_	Word	-	+	_	H	_	_	_	_
+5	Tag	_	Word	-	-	_	_	A	_	_	_
+6	...	_	Punctuation	-	-	_	U	_	_	_	_
+7	Guten	_	Word	-	+	_	H	_	_	_	_
+8	Tag	_	Word	-	-	_	_	_	A	_	_
+9	...	_	Punctuation	-	-	_	_	_	_	U	_
+10	"	_	Punctuation	-	-	_	_	_	_	U	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_
+12	antwortete	_	Word	-	+	_	_	_	_	_	_
+13	das	_	Word	-	-	_	_	_	_	_	F
+14	Echo	_	Word	-	+	_	_	_	_	A	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+16	-	_	Punctuation	-	-	_	_	_	_	_	U
+17	"	_	Punctuation	-	-	_	_	_	_	_	U
+

@@ -1,0 +1,20 @@
+# format = ucca
+1	Hier	_	Word	-	-	_	_	_	A	_
+2	bin	_	Word	-	-	_	_	_	F	_
+3	ich	_	Word	-	-	_	_	_	A	_
+4	"	_	Punctuation	-	-	_	U	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_
+6	sagte	_	Word	-	+	_	_	_	_	_
+7	die	_	Word	-	-	_	_	F	_	_
+8	Stimme	_	Word	-	+	_	A	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_
+10	"	_	Punctuation	-	-	_	U	_	_	_
+11	unter	_	Word	-	+	_	A	_	_	_
+12	dem	_	Word	-	-	_	_	_	_	F
+13	Apfel	_	Word	-	-	_	_	_	_	E
+14	baum	_	Word	-	+	_	_	_	A	_
+15	.	_	Punctuation	-	-	_	_	_	_	U
+16	"	_	Punctuation	-	-	_	_	_	_	U
+17	-	_	Punctuation	-	-	_	_	_	_	U
+18	"	_	Punctuation	-	-	_	_	_	_	U
+

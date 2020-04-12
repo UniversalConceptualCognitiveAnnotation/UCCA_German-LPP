@@ -1,0 +1,10 @@
+# format = ucca
+1	Dennoch	_	Word	-	-	_	L
+2	machten	_	Word	-	+	_	_
+3	wir	_	Word	-	-	_	A
+4	uns	_	Word	-	-	_	A
+5	auf	_	Word	-	-	_	Terminal
+6	den	_	Word	-	-	_	Terminal
+7	Weg	_	Word	-	-	_	Terminal
+8	.	_	Punctuation	-	-	_	U
+

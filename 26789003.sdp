@@ -1,0 +1,17 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_	_
+2	habe	_	Word	-	-	_	F	_	_	_
+3	Schwierigkeiten	_	Word	-	+	_	_	_	A	_
+4	mit	_	Word	-	-	_	_	R	_	_
+5	einer	_	Word	-	-	_	_	E	_	_
+6	Blume	_	Word	-	+	_	A	_	_	_
+7	"	_	Punctuation	-	-	_	_	_	U	_
+8	,	_	Punctuation	-	-	_	_	_	U	_
+9	sagte	_	Word	-	+	_	_	_	_	_
+10	der	_	Word	-	-	_	_	_	_	F
+11	kleine	_	Word	-	-	_	_	_	_	E
+12	Prinz	_	Word	-	+	_	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+14	-	_	Punctuation	-	-	_	_	_	_	U
+15	"	_	Punctuation	-	-	_	_	_	_	U
+

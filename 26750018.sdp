@@ -1,0 +1,14 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	A*	A*	_
+2	schaute	_	Word	-	+	_	_	_	_	_
+3	also	_	Word	-	-	_	F	_	_	_
+4	voller	_	Word	-	-	_	_	D	_	_
+5	Verwunderung	_	Word	-	+	_	A	_	_	_
+6	mit	_	Word	-	-	_	_	N	_	_
+7	aufgerissenen	_	Word	-	+	_	_	C	_	_
+8	Augen	_	Word	-	-	_	_	_	A	_
+9	auf	_	Word	-	-	_	_	_	_	R
+10	diese	_	Word	-	-	_	_	_	_	E
+11	Erscheinung	_	Word	-	+	_	A	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

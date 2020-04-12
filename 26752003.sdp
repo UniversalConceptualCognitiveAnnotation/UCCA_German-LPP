@@ -1,0 +1,29 @@
+# format = ucca
+1	Weil	_	Word	-	-	_	_	L	_	_	_	_	_
+2	es	_	Word	-	-	_	_	F	_	_	_	_	_
+3	bei	_	Word	-	-	_	R	_	_	_	_	_	_
+4	mir	_	Word	-	+	_	_	A	_	_	_	_	_
+5	ganz	_	Word	-	-	_	_	D	_	_	_	_	_
+6	klein	_	Word	-	+	_	_	_	_	_	_	_	_
+7	ist	_	Word	-	-	_	_	F	_	_	_	_	_
+8	...	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+10	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+12	Es	_	Word	-	-	_	_	_	A	_	_	_	_
+13	reicht	_	Word	-	+	_	_	H	_	_	_	_	_
+14	ganz	_	Word	-	-	_	_	_	_	E	_	_	_
+15	sicher	_	Word	-	+	_	_	_	G	_	_	_	_
+16	aus	_	Word	-	-	_	_	_	Terminal	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+18	Ich	_	Word	-	-	_	_	_	_	_	_	_	A
+19	habe	_	Word	-	-	_	_	_	_	_	_	_	F
+20	dir	_	Word	-	-	_	_	_	_	_	_	_	A
+21	ein	_	Word	-	-	_	_	_	_	_	_	F	_
+22	ganz	_	Word	-	-	_	_	_	_	_	D	_	_
+23	kleines	_	Word	-	+	_	_	_	_	_	_	E	_
+24	Schaf	_	Word	-	+	_	_	_	_	_	_	_	A
+25	gegeben	_	Word	-	+	_	_	_	H	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

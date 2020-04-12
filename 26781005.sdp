@@ -1,0 +1,18 @@
+# format = ucca
+1	Das	_	Word	-	-	_	A	_	_	_	_
+2	ist	_	Word	-	-	_	F	_	_	_	_
+3	lustig	_	Word	-	+	_	_	_	_	_	_
+4	.	_	Punctuation	-	-	_	U	_	_	_	_
+5	Bei	_	Word	-	-	_	_	R	_	_	_
+6	dir	_	Word	-	+	_	_	_	A	_	_
+7	dauern	_	Word	-	+	_	H	_	_	_	_
+8	die	_	Word	-	-	_	_	_	_	F	_
+9	Tage	_	Word	-	+	_	_	_	A	_	_
+10	nur	_	Word	-	-	_	_	_	D	_	_
+11	eine	_	Word	-	-	_	_	_	_	_	F
+12	Minute	_	Word	-	+	_	_	_	A	_	_
+13	!	_	Punctuation	-	-	_	_	_	_	_	U
+14	"	_	Punctuation	-	-	_	_	_	_	_	U
+15	-	_	Punctuation	-	-	_	_	_	_	_	U
+16	"	_	Punctuation	-	-	_	_	_	_	_	U
+

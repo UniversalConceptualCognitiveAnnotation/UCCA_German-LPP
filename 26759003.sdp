@@ -1,0 +1,14 @@
+# format = ucca
+1	Du	_	Word	-	-	_	A	A*
+2	wirktest	_	Word	-	-	_	G	_
+3	zunächst	_	Word	-	-	_	T	_
+4	sehr	_	Word	-	-	_	D	_
+5	überrascht	_	Word	-	+	_	_	_
+6	,	_	Punctuation	-	-	_	U	_
+7	aber	_	Word	-	-	_	L	_
+8	musstest	_	Word	-	-	_	_	D
+9	dann	_	Word	-	-	_	L	_
+10	selbst	_	Word	-	-	_	_	D
+11	lachen	_	Word	-	+	_	H	_
+12	.	_	Punctuation	-	-	_	_	U
+

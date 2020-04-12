@@ -1,0 +1,11 @@
+# format = ucca
+1	Die	_	Word	-	-	_	_	F	_
+2	noch	_	Word	-	-	_	D	_	_
+3	aktiven	_	Word	-	+	_	_	E	_
+4	Vulkane	_	Word	-	+	_	_	_	A
+5	fegte	_	Word	-	+	_	_	_	_
+6	er	_	Word	-	-	_	_	_	A
+7	sorgfältig	_	Word	-	-	_	_	_	D
+8	sauber	_	Word	-	-	_	_	_	D
+9	.	_	Punctuation	-	-	_	_	_	U
+

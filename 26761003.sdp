@@ -1,0 +1,32 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	_	_	_	_	_	_
+2	sah	_	Word	-	+	_	_	_	_	_	_	_	_
+3	mich	_	Word	-	-	_	A	_	_	_	_	_	_
+4	an	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+6	wie	_	Word	-	-	_	L	_	_	_	_	_	_
+7	ich	_	Word	-	-	_	_	_	_	A*	_	A	_
+8	den	_	Word	-	-	_	_	F	_	_	_	_	_
+9	Hammer	_	Word	-	+	_	H	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	R	_	_	_	_
+11	der	_	Word	-	-	_	_	_	F	_	_	_	_
+12	Hand	_	Word	-	+	_	_	A	_	_	_	_	_
+13	und	_	Word	-	-	_	L	_	_	_	_	_	_
+14	mit	_	Word	-	-	_	_	_	_	R	_	_	_
+15	ölverschmierten	_	Word	-	-	_	_	_	_	E	_	_	_
+16	Händen	_	Word	-	+	_	H	_	_	_	_	_	_
+17	über	_	Word	-	-	_	_	_	_	_	R	_	_
+18	einem	_	Word	-	-	_	_	_	_	_	F	_	_
+19	Ding	_	Word	-	+	_	_	_	_	_	_	A	_
+20	hing	_	Word	-	+	_	H	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+22	das	_	Word	-	-	_	_	_	_	_	_	_	R
+23	ihm	_	Word	-	-	_	_	_	_	_	_	_	A
+24	ausgesprochen	_	Word	-	-	_	_	_	_	_	_	_	D
+25	hässlich	_	Word	-	+	_	_	_	_	_	E	_	_
+26	erscheinen	_	Word	-	-	_	_	_	_	_	_	_	G
+27	musste	_	Word	-	-	_	_	_	_	_	_	_	D
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

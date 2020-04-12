@@ -1,0 +1,15 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_
+2	was	_	Word	-	-	_	A	_
+3	bringt	_	Word	-	+	_	_	_
+4	es	_	Word	-	-	_	F	_
+5	dir	_	Word	-	-	_	A	A*
+6	,	_	Punctuation	-	-	_	_	U
+7	reich	_	Word	-	+	_	H	_
+8	zu	_	Word	-	-	_	_	F
+9	sein	_	Word	-	-	_	_	F
+10	?	_	Punctuation	-	-	_	_	U
+11	"	_	Punctuation	-	-	_	_	U
+12	-	_	Punctuation	-	-	_	_	U
+13	"	_	Punctuation	-	-	_	_	U
+

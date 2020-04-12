@@ -1,0 +1,17 @@
+# format = ucca
+1	Mein	_	Word	-	-	_	E	_	_	_
+2	kleines	_	Word	-	-	_	E	_	_	_
+3	Kerlchen	_	Word	-	+	_	_	G	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_
+5	es	_	Word	-	-	_	_	F	_	_
+6	geht	_	Word	-	+	_	_	_	_	_
+7	nicht	_	Word	-	+	_	_	D	_	_
+8	mehr	_	Word	-	-	_	_	_	E	_
+9	um	_	Word	-	-	_	_	_	_	R
+10	den	_	Word	-	-	_	_	_	_	F
+11	Fuchs	_	Word	-	+	_	_	A	_	_
+12	!	_	Punctuation	-	-	_	_	_	_	U
+13	"	_	Punctuation	-	-	_	_	_	_	U
+14	-	_	Punctuation	-	-	_	_	_	_	U
+15	"	_	Punctuation	-	-	_	_	_	_	U
+
