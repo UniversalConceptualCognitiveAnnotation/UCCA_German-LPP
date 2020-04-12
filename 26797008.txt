@@ -1,0 +1,47 @@
+# ::id 26797008
+# ::tok Dann fügte er hinzu : - " Schau dir noch mal die Rosen an . Du wirst begreifen , dass deine einmalig auf der Welt ist . Du wirst wiederkommen , um mir Adieu zu sagen und ich werde dir ein Geheimnis schenken . "
+# ::alignments 0-1.1 1-1.2.2 2-1.2.5 3-1.2.2 7-1.2.6.1.2 8-1.2.6.1.3 9-1.2.6.1.4 10-1.2.6.1.4 12-1.2.6.1.5.2 13-1.2.6.1.2 15-1.2.6.2.1 17-1.2.6.2.3 19-1.2.6.2.4.1 20-1.2.6.2.4.2.1.2 21-1.2.6.2.4.3 22-1.2.6.2.4.4.1 24-1.2.6.2.4.4.3 27-1.2.6.3.1 29-1.2.6.3.3 31-1.2.6.4 32-1.2.6.5.1 33-1.2.6.5.2 35-1.2.6.5.4 36-1.2.6.6 37-1.2.6.7.1 39-1.2.6.7.3 41-1.2.6.7.4.2 42-1.2.6.7.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1,3)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :H (v7 / label
+                         :A (v14 / label)
+                         :P (v15 / label~e.7,13)
+                         :A (v16 / label~e.8)
+                         :D (v17 / label~e.9,10)
+                         :A (v18 / label
+                                 :C (v31 / label~e.12)))
+                  :H (v8 / label
+                         :A (v19 / label~e.15)
+                         :P (v20 / label~e.17)
+                         :A (v21 / label
+                                 :R (v32 / label~e.19)
+                                 :A (v33 / label
+                                         :E (v37 / label
+                                                 :A (v40 / label)
+                                                 :S (v41 / label~e.20))
+                                         :C v31)
+                                 :S (v34 / label~e.21)
+                                 :A (v35 / label
+                                         :R (v38 / label~e.22)
+                                         :C (v39 / label~e.24))))
+                  :H (v9 / label
+                         :A (v22 / label~e.27)
+                         :P (v23 / label~e.29))
+                  :L (v10 / label~e.31)
+                  :H (v11 / label
+                          :A (v24 / label~e.32)
+                          :A (v25 / label~e.33)
+                          :P (v26 / label~e.35)
+                          :A v22)
+                  :L (v12 / label~e.36)
+                  :H (v13 / label
+                          :A (v27 / label~e.37)
+                          :A (v28 / label~e.39)
+                          :A (v29 / label
+                                  :C (v36 / label~e.41))
+                          :P (v30 / label~e.42)))))

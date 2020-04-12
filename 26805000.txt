@@ -1,0 +1,78 @@
+# ::id 26805000
+# ::tok Kapitel XXV - " Die Menschen " , sagte der kleine Prinz , " drängen sich in Schnell züge , aber sie wissen nicht , wohin sie wollen . So fahren sie hin und her und dabei immer in dem Kreis ... Und er fügte hinzu : - " Das ist es nicht wert ... " Der Brunnen , zu dem wir kamen , sah nicht so aus wie die üblichen Sahara - Brunnen .
+# ::alignments 0-1.1.1 1-1.1.2 5-1.2.2.3.1.2 8-1.2.3 10-1.2.4.2 11-1.2.4.3 14-1.2.2.3.2 15-1.2.2.3.2 16-1.2.2.3.3.1 17-1.2.2.3.3.2 18-1.2.2.3.3.3 20-1.2.2.4 21-1.2.2.5.2 22-1.2.2.5.3 23-1.2.2.5.4 25-1.2.2.5.5.1 26-1.2.2.5.5.2.2 27-1.2.2.5.5.2.3 29-1.2.2.6 30-1.2.2.7.1 31-1.2.2.7.2 32-1.2.2.7.3.1 33-1.2.2.7.3.2 34-1.2.2.7.3.3 35-1.2.2.8 36-1.2.2.9.1 37-1.2.2.9.2 38-1.2.2.9.3.1 40-1.2.2.9.3.3 42-1.3 43-1.4.4 44-1.4.5 45-1.4.5 49-1.4.6.1 51-1.4.6.3 52-1.4.6.4 53-1.4.6.5 57-1.5.2.3 59-1.5.2.4.2.1 60-1.5.2.4.2.2 61-1.5.2.4.3 62-1.5.2.4.4 64-1.5.3 65-1.5.4 66-1.5.5 67-1.5.3 68-1.5.6.2 70-1.5.6.3.3 71-1.5.6.3.4 73-1.5.6.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v7 / label~e.0)
+           :C (v8 / label~e.1))
+    :H (v3 / label
+           :A (v9 / label
+                  :H (v20 / label
+                          :A (v38 / label
+                                  :C (v56 / label~e.5))
+                          :P (v39 / label~e.14,15)
+                          :A (v40 / label
+                                  :R (v57 / label~e.16)
+                                  :E (v58 / label~e.17)
+                                  :C (v59 / label~e.18)))
+                  :L (v21 / label~e.20)
+                  :H (v22 / label
+                          :A (v41 / label~e.21)
+                          :S (v42 / label~e.22)
+                          :D (v43 / label~e.23)
+                          :A (v44 / label
+                                  :C (v60 / label~e.25)
+                                  :E (v61 / label
+                                          :A v60
+                                          :A (v69 / label~e.26)
+                                          :S (v70 / label~e.27))))
+                  :L (v23 / label~e.29)
+                  :H (v24 / label
+                          :P (v45 / label~e.30)
+                          :A (v46 / label~e.31)
+                          :D (v47 / label
+                                  :C (v62 / label~e.32)
+                                  :N (v63 / label~e.33)
+                                  :C (v64 / label~e.34)))
+                  :L (v25 / label~e.35)
+                  :H (v26 / label
+                          :R (v48 / label~e.36)
+                          :D (v49 / label~e.37)
+                          :A (v50 / label
+                                  :R (v65 / label~e.38)
+                                  :C (v66 / label~e.40))
+                          :P v45
+                          :A v46))
+           :P (v10 / label~e.8)
+           :A (v11 / label
+                   :E (v27 / label~e.10)
+                   :C (v28 / label~e.11)))
+    :L (v4 / label~e.42)
+    :H (v5 / label
+           :A (v12 / label~e.43)
+           :P (v13 / label~e.44,45)
+           :A (v14 / label
+                   :A (v29 / label~e.49)
+                   :A (v30 / label~e.51)
+                   :D (v31 / label~e.52)
+                   :S (v32 / label~e.53)))
+    :H (v6 / label
+           :A (v15 / label
+                   :C (v33 / label~e.57)
+                   :E (v34 / label
+                           :A v33
+                           :A (v51 / label
+                                   :R (v67 / label~e.59)
+                                   :C (v68 / label~e.60))
+                           :A (v52 / label~e.61)
+                           :P (v53 / label~e.62)))
+           :S (v16 / label~e.64,67)
+           :D (v17 / label~e.65)
+           :D (v18 / label~e.66)
+           :A (v19 / label
+                   :S (v35 / label)
+                   :R (v36 / label~e.68)
+                   :A (v37 / label
+                           :E (v54 / label~e.70)
+                           :C (v55 / label~e.71,73)))))

@@ -1,0 +1,34 @@
+# ::id 26810001
+# ::tok Aber er lächelte sanftmütig : - " Heute Abend werde ich erst richtig Angst haben ... " Wieder erstarrte ich , war gelähmt durch das Gefühl von etwas Unwiderruflichem .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 7-1.3.1.1 8-1.3.1.2 10-1.3.3 11-1.3.4 12-1.3.5 13-1.3.6 17-1.4.1 18-1.4.2 19-1.4.3 22-1.5.2 23-1.5.3.1 25-1.5.3.2.2 26-1.5.3.3.1 27-1.5.3.3.2 28-1.5.3.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.1)
+           :P (v8 / label~e.2)
+           :D (v9 / label~e.3))
+    :H (v4 / label
+           :T (v10 / label
+                   :E (v20 / label~e.7)
+                   :C (v21 / label~e.8))
+           :A (v11 / label~e.10)
+           :D (v12 / label~e.11)
+           :D (v13 / label~e.12)
+           :S (v14 / label~e.13))
+    :H (v5 / label
+           :D (v15 / label~e.17)
+           :P (v16 / label~e.18)
+           :A (v17 / label~e.19))
+    :H (v6 / label
+           :S (v18 / label~e.22)
+           :A (v19 / label
+                   :R (v22 / label~e.23)
+                   :P (v23 / label
+                           :C (v25 / label~e.25))
+                   :A (v24 / label
+                           :R (v26 / label~e.26)
+                           :E (v27 / label~e.27)
+                           :C (v28 / label~e.28))
+                   :A v17)
+           :A v17))

@@ -1,0 +1,26 @@
+# ::id 26759010
+# ::tok Und ein wenig später fügtest du hinzu : - " Weißt du ... wenn man sehr traurig ist , dann liebt man Sonnenuntergänge . " - "
+# ::alignments 0-1.1 2-1.2.6.2 3-1.2.6.3 4-1.2.7 5-1.2.1 6-1.2.7 10-1.2.2.1.1 11-1.2.2.1.2 13-1.2.2.2 14-1.2.2.3.1 15-1.2.2.3.2 16-1.2.2.3.3 19-1.2.2.4 20-1.2.2.5.1 21-1.2.2.5.2 22-1.2.2.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.5)
+           :A (v5 / label
+                  :H (v8 / label
+                         :S (v15 / label~e.10)
+                         :A (v16 / label~e.11))
+                  :L (v9 / label~e.13)
+                  :H (v10 / label
+                          :A (v17 / label~e.14)
+                          :D (v18 / label~e.15)
+                          :S (v19 / label~e.16))
+                  :L (v11 / label~e.19)
+                  :H (v12 / label
+                          :S (v20 / label~e.20)
+                          :A (v21 / label~e.21)
+                          :A (v22 / label~e.22)))
+           :T (v6 / label
+                  :E (v13 / label~e.2)
+                  :C (v14 / label~e.3))
+           :P (v7 / label~e.4,6)))

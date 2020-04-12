@@ -1,0 +1,19 @@
+# ::id 26785003
+# ::tok Wieso ? Das ist doch das Schönste ! " - "
+# ::alignments 0-1.1.3.1.4 2-1.1.3.2.1 4-1.1.3.2.3 6-1.1.3.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :P (v8 / label)
+                         :D (v9 / label)
+                         :A (v10 / label)
+                         :A (v11 / label~e.0))
+                  :H (v7 / label
+                         :A (v12 / label~e.2)
+                         :D (v13 / label~e.4)
+                         :S (v14 / label
+                                 :C (v15 / label~e.6))))))

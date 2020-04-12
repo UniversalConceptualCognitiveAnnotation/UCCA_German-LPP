@@ -1,0 +1,23 @@
+# ::id 26774001
+# ::tok Ich verehre dich " , sagte der kleine Prinz , und zuckte dabei mit den Schultern . "
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 5-1.1.2 7-1.1.3.2 8-1.3.2 10-1.2 11-1.3.3 12-1.3.4 13-1.3.1.1 15-1.3.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :H (v12 / label
+                          :A (v16 / label~e.0)
+                          :P (v17 / label~e.1)
+                          :A (v18 / label~e.2)))
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :E (v13 / label~e.7)
+                  :C (v9 / label~e.8)))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v14 / label~e.13)
+                  :C (v15 / label~e.15))
+           :A v9
+           :P (v10 / label~e.11)
+           :A (v11 / label~e.12)))

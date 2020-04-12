@@ -1,0 +1,12 @@
+# ::id 26795005
+# ::tok Nichts ist perfekt " , seufzte der Fuchs .
+# ::alignments 0-1.1.3.1 2-1.1.3.3 5-1.1.4 7-1.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.0)
+                  :S (v7 / label~e.2))
+           :P (v4 / label~e.5)
+           :A (v5 / label
+                  :C (v8 / label~e.7))))

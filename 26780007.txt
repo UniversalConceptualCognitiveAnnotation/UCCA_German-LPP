@@ -1,0 +1,12 @@
+# ::id 26780007
+# ::tok Was ist die Vorschrift ? " - "
+# ::alignments 0-1.1.3.1 3-1.1.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label~e.0)
+                  :P (v7 / label
+                         :C (v8 / label~e.3)))))

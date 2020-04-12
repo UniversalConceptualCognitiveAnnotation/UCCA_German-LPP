@@ -1,0 +1,16 @@
+# ::id 26769019
+# ::tok Und auch die Sterne gehorchen Euch ? " - "
+# ::alignments 0-1.1.3.1 1-1.1.3.2 3-1.1.3.3.1.2 4-1.1.3.3.2 5-1.1.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.0)
+                  :L (v7 / label~e.1)
+                  :H (v8 / label
+                         :A (v9 / label
+                                :C (v12 / label~e.3))
+                         :P (v10 / label~e.4)
+                         :A (v11 / label~e.5)))))

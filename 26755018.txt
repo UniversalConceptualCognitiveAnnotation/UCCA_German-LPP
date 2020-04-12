@@ -1,0 +1,11 @@
+# ::id 26755018
+# ::tok Damit glauben sie , ihn zu kennen .
+# ::alignments 0-1.1 1-1.2.3 2-1.2.4 4-1.2.5 6-1.2.7
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :G (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label~e.4)
+           :S (v7 / label~e.6)))

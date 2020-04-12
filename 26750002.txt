@@ -1,0 +1,31 @@
+# ::id 26750002
+# ::tok Und weil ich weder einen Mechaniker , noch Passagiere bei mir hatte , bereitete ich mich darauf vor , die schwierige Reparatur ganz allein vorzunehmen .
+# ::alignments 0-1.1 1-1.2 2-1.3.1 3-1.3.2 5-1.3.3.1.2 7-1.3.2 8-1.3.3.2 9-1.3.4.1 10-1.3.4.2 13-1.4.4 14-1.4.5 15-1.4.4 17-1.4.4 20-1.4.2.1.3 21-1.4.2.1.2.2 22-1.4.2.2.1 23-1.4.2.2.2 24-1.4.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v6 / label~e.2)
+           :D (v7 / label~e.3,7)
+           :A (v8 / label
+                  :C (v13 / label
+                          :C (v20 / label~e.5))
+                  :C (v14 / label~e.8))
+           :S (v9 / label
+                  :R (v15 / label~e.9)
+                  :C (v16 / label~e.10)))
+    :H (v5 / label
+           :A (v10 / label
+                   :A (v17 / label
+                           :A (v21 / label)
+                           :P (v22 / label
+                                   :C (v26 / label~e.21))
+                           :D (v23 / label~e.20))
+                   :D (v18 / label
+                           :E (v24 / label~e.22)
+                           :C (v25 / label~e.23))
+                   :P (v19 / label~e.24)
+                   :A (v12 / label~e.14))
+           :P (v11 / label~e.13,15,17)
+           :A v12))

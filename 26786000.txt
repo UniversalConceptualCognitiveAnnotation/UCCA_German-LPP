@@ -1,0 +1,21 @@
+# ::id 26786000
+# ::tok Da machte sich der kleine Prinz auf den Weg und war in Gedanken bei seiner Blume .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.1 4-1.2.2.2 5-1.4.1 6-1.2.1 7-1.2.1 8-1.2.1 9-1.3 11-1.4.3.1 12-1.4.3.2 13-1.4.4.4 14-1.4.4.1 15-1.4.4.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v6 / label~e.1,2,6,7,8)
+           :A (v7 / label
+                  :E (v11 / label~e.4)
+                  :C (v8 / label~e.5)))
+    :L (v4 / label~e.9)
+    :H (v5 / label
+           :A v8
+           :S (v9 / label
+                  :R (v12 / label~e.11)
+                  :C (v13 / label~e.12))
+           :A (v10 / label
+                   :S (v14 / label~e.14)
+                   :A (v15 / label~e.15)
+                   :R (v16 / label~e.13))))

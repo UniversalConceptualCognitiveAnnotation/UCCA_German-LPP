@@ -1,0 +1,20 @@
+# ::id 26782002
+# ::tok Dann bringt es wohl nichts " , sagte der Anzünder . " Guten Tag . "
+# ::alignments 0-1.1.5.1 1-1.1.5.2.1 2-1.1.5.2.2 3-1.1.5.2.3 4-1.1.5.2.4 7-1.1.6 9-1.1.7.2.1 12-1.1.5.3.1 13-1.1.5.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :P (v10 / label~e.1)
+                         :A (v11 / label~e.2)
+                         :D (v12 / label~e.3)
+                         :A (v13 / label~e.4))
+                  :H (v8 / label
+                         :S (v14 / label~e.12)
+                         :A (v15 / label~e.13)))
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :C (v9 / label
+                         :S (v16 / label~e.9)))))

@@ -1,0 +1,15 @@
+# ::id 26766005
+# ::tok Er besaß auch einen erloschenen Vulkan .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.3 4-1.1.4.4.2 5-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :D (v5 / label~e.2)
+           :A (v6 / label
+                  :C (v7 / label~e.5)
+                  :Q (v8 / label~e.3)
+                  :E (v9 / label
+                         :A v7
+                         :S (v10 / label~e.4)))))

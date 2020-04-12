@@ -1,0 +1,37 @@
+# ::id 26812012
+# ::tok Aber quälte sich noch : - " Du hast nicht recht getan . Es wird traurig sein . Es wird aussehen , als sei ich tot ... aber das wird nicht stimmen ... " Ich schwieg . - "
+# ::alignments 0-1.1 1-1.2.2 2-1.2.2 3-1.2.3 7-1.3.3.1.1 9-1.3.3.1.3 10-1.3.3.1.4 11-1.3.3.1.5 13-1.3.3.2.1 15-1.3.3.2.3 18-1.3.3.3.1 20-1.3.3.3.3 22-1.3.3.3.4.1 24-1.3.3.3.4.3 25-1.3.3.3.4.4 27-1.3.3.4 28-1.3.3.5.1 30-1.3.3.5.3 31-1.3.3.5.4 34-1.4.1 35-1.4.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v6 / label)
+           :P (v7 / label~e.1,2)
+           :D (v8 / label~e.3))
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :H (v14 / label
+                           :A (v19 / label~e.7)
+                           :D (v20 / label~e.9)
+                           :D (v21 / label~e.10)
+                           :P (v22 / label~e.11))
+                   :H (v15 / label
+                           :A (v23 / label~e.13)
+                           :S (v24 / label~e.15))
+                   :H (v16 / label
+                           :A (v25 / label~e.18)
+                           :S (v26 / label~e.20)
+                           :A (v27 / label
+                                   :R (v31 / label~e.22)
+                                   :A (v32 / label~e.24)
+                                   :S (v33 / label~e.25)))
+                   :L (v17 / label~e.27)
+                   :H (v18 / label
+                           :A (v28 / label~e.28)
+                           :D (v29 / label~e.30)
+                           :S (v30 / label~e.31))))
+    :H (v5 / label
+           :A (v12 / label~e.34)
+           :P (v13 / label~e.35)))

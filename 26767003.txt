@@ -1,0 +1,27 @@
+# ::id 26767003
+# ::tok Dann fügte sie hinzu : - " Trödel nicht so rum , das ist ärgerlich . Du hast entschieden fortzugehen . Mach dich auf den Weg ! "
+# ::alignments 0-1.1 1-1.2.4 2-1.2.5 3-1.2.4 7-1.2.6.1.2 8-1.2.6.1.3 9-1.2.6.1.4 10-1.2.6.1.2 12-1.2.6.2.1 14-1.2.6.2.3 16-1.2.6.1.1 18-1.2.6.3.3 19-1.2.6.3.4.2 21-1.2.6.4.1 22-1.2.6.4.1 23-1.2.6.4.1 24-1.2.6.4.1 25-1.2.6.4.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1,3)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :H (v7 / label
+                         :A (v11 / label~e.16)
+                         :P (v12 / label~e.7,10)
+                         :D (v13 / label~e.8)
+                         :D (v14 / label~e.9))
+                  :H (v8 / label
+                         :A (v15 / label~e.12)
+                         :S (v16 / label~e.14))
+                  :H (v9 / label
+                         :A v11
+                         :P (v17 / label~e.18)
+                         :A (v18 / label
+                                 :A v11
+                                 :P (v20 / label~e.19)))
+                  :H (v10 / label
+                          :P (v19 / label~e.21,22,23,24,25)
+                          :A v11))))

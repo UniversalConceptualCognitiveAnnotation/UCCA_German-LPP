@@ -1,0 +1,9 @@
+# ::id 26757004
+# ::tok Ja , das ist wahr . " - "
+# ::alignments 0-1.1.7 2-1.1.8 4-1.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.4)
+           :D (v4 / label~e.0)
+           :A (v5 / label~e.2)))

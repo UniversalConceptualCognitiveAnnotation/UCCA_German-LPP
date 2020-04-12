@@ -1,0 +1,24 @@
+# ::id 26806001
+# ::tok Und der kleine Prinz ergänzte : - " Aber die Augen sind blind , man muss mit dem Herzen suchen . "
+# ::alignments 0-1.1 2-1.2.4.2 3-1.2.4.3 4-1.2.5 8-1.2.6.1 10-1.2.6.2.1.2 12-1.2.6.2.3 14-1.2.6.3.1 15-1.2.6.3.2 16-1.2.6.3.3.1 18-1.2.6.3.3.3 19-1.2.6.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :L (v9 / label~e.8)
+                  :H (v10 / label
+                          :A (v12 / label
+                                  :C (v18 / label~e.10))
+                          :S (v13 / label~e.12))
+                  :H (v11 / label
+                          :A (v14 / label~e.14)
+                          :D (v15 / label~e.15)
+                          :A (v16 / label
+                                  :R (v19 / label~e.16)
+                                  :C (v20 / label~e.18))
+                          :P (v17 / label~e.19)))))

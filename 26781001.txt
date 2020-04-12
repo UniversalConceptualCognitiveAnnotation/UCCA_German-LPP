@@ -1,0 +1,16 @@
+# ::id 26781001
+# ::tok Und seitdem wurde die Vorschrift geändert ? " - "
+# ::alignments 0-1.1.3.1 1-1.1.3.2.1 4-1.1.3.2.3.2.1 5-1.1.3.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :T (v8 / label~e.1)
+                         :A (v9 / label
+                                :C (v11 / label
+                                        :P (v12 / label~e.4)))
+                         :P (v10 / label~e.5)))))

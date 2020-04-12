@@ -1,0 +1,11 @@
+# ::id 26798000
+# ::tok Und die Rosen waren sehr verlegen . - "
+# ::alignments 0-1.1 2-1.2.5.2 4-1.2.7 5-1.2.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :S (v4 / label~e.5)
+           :A (v5 / label
+                  :C (v7 / label~e.2))
+           :D (v6 / label~e.4)))

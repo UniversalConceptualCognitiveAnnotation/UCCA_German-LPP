@@ -1,0 +1,24 @@
+# ::id 26803019
+# ::tok Ich bin zufrieden " , sagte er , " dass du es genauso siehst wie mein Fuchs . "
+# ::alignments 0-1.1.5.1 2-1.1.5.3 5-1.1.6 6-1.1.7 9-1.1.5.4.1 10-1.1.5.4.2 12-1.1.5.4.4 13-1.1.5.4.5 14-1.1.5.4.6.2 15-1.1.5.4.6.3.1.2 16-1.1.5.4.6.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.0)
+                  :S (v7 / label~e.2)
+                  :A (v8 / label
+                         :R (v9 / label~e.9)
+                         :A (v10 / label~e.10)
+                         :D (v11 / label~e.12)
+                         :P (v12 / label~e.13)
+                         :A (v13 / label
+                                 :P v12
+                                 :R (v14 / label~e.14)
+                                 :A (v15 / label
+                                         :E (v16 / label
+                                                 :A (v17 / label~e.16)
+                                                 :A (v18 / label~e.15))
+                                         :C v17))))
+           :P (v4 / label~e.5)
+           :A (v5 / label~e.6)))

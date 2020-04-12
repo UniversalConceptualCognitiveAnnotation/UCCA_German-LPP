@@ -1,0 +1,54 @@
+# ::id 26766025
+# ::tok Aber ja , ich liebe dich " , sagte die Blume . Ich bin schuld , dass du es nicht bemerkt hast . Es ist nicht wichtig . Du warst ebenso dumm wie ich . Versuche , glücklich zu sein ... Leg die Glas glocke weg , ich möchte sie nicht mehr . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2.2 3-1.1.1.2.3 4-1.1.1.2.4 5-1.1.1.2.5 8-1.1.2 10-1.1.3.1 12-1.1.1.3.1 14-1.1.1.3.3 16-1.1.1.3.4.1 17-1.1.1.3.4.2 18-1.1.1.3.4.3 19-1.1.1.3.4.4 20-1.1.1.3.4.5 23-1.1.1.4.1 25-1.1.1.4.3 26-1.1.1.4.4 28-1.1.1.5.1 30-1.1.1.5.3 31-1.1.1.5.4 32-1.1.1.5.5.2 33-1.1.1.5.5.3 35-1.1.1.6.1 37-1.1.1.6.2 41-1.1.1.7.2 43-1.1.1.7.3.2 44-1.1.1.7.3.3 45-1.1.1.7.2 47-1.1.1.8.1 48-1.1.1.8.2 49-1.1.1.8.3 50-1.1.1.8.4.1 51-1.1.1.8.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :D (v15 / label~e.1)
+                         :A (v16 / label~e.3)
+                         :P (v17 / label~e.4)
+                         :A (v18 / label~e.5))
+                  :H (v8 / label
+                         :A (v19 / label~e.12)
+                         :S (v20 / label~e.14)
+                         :A (v21 / label
+                                 :R (v38 / label~e.16)
+                                 :A (v39 / label~e.17)
+                                 :A (v40 / label~e.18)
+                                 :D (v41 / label~e.19)
+                                 :P (v42 / label~e.20)))
+                  :H (v9 / label
+                         :A (v22 / label~e.23)
+                         :D (v23 / label~e.25)
+                         :S (v24 / label~e.26))
+                  :H (v10 / label
+                          :A (v25 / label~e.28)
+                          :D (v26 / label~e.30)
+                          :S (v27 / label~e.31)
+                          :A (v28 / label
+                                  :S v27
+                                  :R (v43 / label~e.32)
+                                  :A (v44 / label~e.33)))
+                  :H (v11 / label
+                          :D (v29 / label~e.35)
+                          :S (v30 / label~e.37)
+                          :A v25)
+                  :H (v12 / label
+                          :A (v31 / label)
+                          :P (v32 / label~e.41,45)
+                          :A (v33 / label
+                                  :E (v45 / label~e.43)
+                                  :C (v46 / label~e.44)))
+                  :H (v13 / label
+                          :A (v34 / label~e.47)
+                          :S (v35 / label~e.48)
+                          :A (v36 / label~e.49)
+                          :D (v37 / label
+                                  :C (v47 / label~e.50)
+                                  :E (v48 / label~e.51))))
+           :P (v4 / label~e.8)
+           :A (v5 / label
+                  :C (v14 / label~e.10))))

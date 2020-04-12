@@ -1,0 +1,13 @@
+# ::id 26781007
+# ::tok Einen Monat ? " - "
+# ::alignments 1-1.1.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label)
+                  :A (v7 / label)
+                  :T (v8 / label
+                         :C (v9 / label~e.1)))))

@@ -1,0 +1,35 @@
+# ::id 26758006
+# ::tok Um meine Freunde vor dieser unbekannten Gefahr zu warnen , der sie - ebenso wie ich - bislang stets knapp entkommen waren .
+# ::alignments 0-1.1 1-1.2.3.1 2-1.2.3.2.2 3-1.2.4.1 4-1.2.4.2.1.1 5-1.2.4.2.2 6-1.2.4.3.8 8-1.2.6 10-1.2.4.3.1 11-1.2.4.3.2 13-1.2.4.4.1 14-1.2.4.4.2 15-1.2.4.4.3.1 17-1.2.4.3.3 18-1.2.4.3.4 19-1.2.4.3.5 20-1.2.4.3.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label~e.1)
+                  :C (v9 / label
+                         :A v8
+                         :S (v14 / label~e.2)))
+           :A (v6 / label
+                  :R (v10 / label~e.3)
+                  :C (v11 / label
+                          :A (v15 / label
+                                  :E (v27 / label~e.4)
+                                  :C (v23 / label~e.6))
+                          :S (v16 / label~e.5))
+                  :E (v12 / label
+                          :R (v17 / label~e.10)
+                          :A (v18 / label~e.11)
+                          :T (v19 / label~e.17)
+                          :D (v20 / label~e.18)
+                          :D (v21 / label~e.19)
+                          :P (v22 / label~e.20)
+                          :A v23)
+                  :E (v13 / label
+                          :L (v24 / label~e.13)
+                          :L (v25 / label~e.14)
+                          :H (v26 / label
+                                  :A (v28 / label~e.15)
+                                  :P v22)))
+           :P (v7 / label~e.8)))

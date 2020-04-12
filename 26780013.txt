@@ -1,0 +1,26 @@
+# ::id 26780013
+# ::tok Da gibt es nichts zu verstehen " , sagte der Laternen anzünder . Vorschrift ist Vorschrift . Guten Tag . "
+# ::alignments 0-1.1.4.1.1 1-1.1.4.1.2 3-1.1.4.1.4 5-1.1.4.1.6 8-1.1.5 10-1.1.6.2 11-1.1.6.3.1 13-1.1.4.2.1.1 14-1.1.4.2.2 15-1.1.4.2.3.1 17-1.1.4.3.1 18-1.1.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v11 / label~e.0)
+                         :D (v12 / label~e.1)
+                         :A (v13 / label~e.3)
+                         :P (v14 / label~e.5))
+                  :H (v7 / label
+                         :A (v15 / label
+                                 :P (v21 / label~e.13))
+                         :S (v16 / label~e.14)
+                         :A (v17 / label
+                                 :P (v22 / label~e.15)))
+                  :H (v8 / label
+                         :S (v18 / label~e.17)
+                         :A (v19 / label~e.18)))
+           :P (v4 / label~e.8)
+           :A (v5 / label
+                  :E (v9 / label~e.10)
+                  :C (v10 / label
+                          :S (v20 / label~e.11)))))

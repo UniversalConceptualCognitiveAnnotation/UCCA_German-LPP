@@ -1,0 +1,17 @@
+# ::id 26777009
+# ::tok Nichts . Ich besitze sie . " - "
+# ::alignments 0-1.1.3.1.3 2-1.1.3.1.1 3-1.1.3.2.2 4-1.1.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v8 / label~e.2)
+                         :P (v9 / label)
+                         :A (v10 / label~e.0))
+                  :H (v7 / label
+                         :A v8
+                         :S (v11 / label~e.3)
+                         :A (v12 / label~e.4)))))

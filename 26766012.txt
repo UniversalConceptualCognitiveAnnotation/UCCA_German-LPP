@@ -1,0 +1,18 @@
+# ::id 26766012
+# ::tok Auch die letzten Triebe der Affenbrotbäume riss der kleine Prinz betrübt heraus .
+# ::alignments 0-1.1 2-1.2.2.2 3-1.2.2.3 4-1.2.2.4.1 5-1.2.2.4.2 6-1.2.3 8-1.2.4.1 9-1.2.4.2 10-1.2.5 11-1.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label~e.2)
+                  :C (v9 / label~e.3)
+                  :E (v10 / label
+                          :R (v13 / label~e.4)
+                          :C (v14 / label~e.5)))
+           :P (v5 / label~e.6,11)
+           :A (v6 / label
+                  :E (v11 / label~e.8)
+                  :C (v12 / label~e.9))
+           :D (v7 / label~e.10)))

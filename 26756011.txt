@@ -1,0 +1,23 @@
+# ::id 26756011
+# ::tok Es ist schon sechs Jahre her , dass mein Freund mit seinem Schaf verschwunden ist .
+# ::alignments 2-1.1.4 3-1.1.5.1 4-1.1.5.2 5-1.1.6 7-1.1.7.1 8-1.1.7.2.1 9-1.1.7.2.2 10-1.1.7.3.1 11-1.1.7.3.2.2 12-1.1.7.3.3 13-1.1.7.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.2)
+           :T (v4 / label
+                  :Q (v7 / label~e.3)
+                  :C (v8 / label~e.4))
+           :S (v5 / label~e.5)
+           :A (v6 / label
+                  :R (v9 / label~e.7)
+                  :A (v10 / label
+                          :E (v13 / label~e.8)
+                          :C (v14 / label~e.9))
+                  :A (v11 / label
+                          :R (v15 / label~e.10)
+                          :E (v16 / label
+                                  :A (v17 / label~e.12)
+                                  :S (v18 / label~e.11))
+                          :C v17)
+                  :P (v12 / label~e.13))))

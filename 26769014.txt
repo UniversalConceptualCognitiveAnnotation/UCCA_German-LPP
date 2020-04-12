@@ -1,0 +1,13 @@
+# ::id 26769014
+# ::tok Über alles ? "
+# ::alignments 0-1.1.3.2.1 1-1.1.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label)
+                  :A (v7 / label
+                         :R (v8 / label~e.0)
+                         :C (v9 / label~e.1)))))

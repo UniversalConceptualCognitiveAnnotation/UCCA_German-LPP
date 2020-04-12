@@ -1,0 +1,43 @@
+# ::id 26781012
+# ::tok Er wollte seinem Freund helfen : - " Weißt du ... ich weiß einen Weg , wie du dich ausruhen kannst , wann immer du möchtest ... " - " Immer her damit " , sagte der Laternen anzünder .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4 8-1.2.3.1.1 9-1.2.3.1.2 11-1.2.3.2.1 12-1.2.3.2.2 14-1.2.3.2.3.2 16-1.2.3.2.3.3.2 17-1.2.3.2.3.3.3 18-1.2.3.2.3.3.4 19-1.2.3.2.3.3.4 20-1.2.3.2.3.3.5 22-1.2.3.3.1 23-1.2.3.3.1 24-1.2.3.3.2 25-1.2.3.3.3 30-1.3.1.1 31-1.3.1.2 32-1.3.1.3 35-1.3.2 37-1.3.3.2 38-1.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.1)
+           :A (v7 / label
+                  :A (v15 / label~e.2)
+                  :A (v16 / label~e.3))
+           :P (v8 / label~e.4))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :H (v17 / label
+                           :S (v25 / label~e.8)
+                           :A (v26 / label~e.9))
+                   :H (v18 / label
+                           :A (v27 / label~e.11)
+                           :S (v28 / label~e.12)
+                           :A (v29 / label
+                                   :C (v33 / label~e.14)
+                                   :E (v34 / label
+                                           :A v33
+                                           :R (v35 / label~e.16)
+                                           :A (v36 / label~e.17)
+                                           :P (v37 / label~e.18,19)
+                                           :D (v38 / label~e.20))))
+                   :H (v19 / label
+                           :T (v30 / label~e.22,23)
+                           :A (v31 / label~e.24)
+                           :S (v32 / label~e.25))))
+    :H (v4 / label
+           :A (v12 / label
+                   :D (v20 / label~e.30)
+                   :S (v21 / label~e.31)
+                   :A (v22 / label~e.32))
+           :P (v13 / label~e.35)
+           :A (v14 / label
+                   :A (v23 / label~e.37)
+                   :A (v24 / label~e.38))))

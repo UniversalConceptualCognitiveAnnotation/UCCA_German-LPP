@@ -1,0 +1,11 @@
+# ::id 26772005
+# ::tok Er legte große Autorität an den Tag . - "
+# ::alignments 0-1.1.4 1-1.1.5 2-1.1.6.2 3-1.1.6.1 4-1.1.5 5-1.1.5 6-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1,4,5,6)
+           :A (v5 / label
+                  :C (v6 / label~e.3)
+                  :E (v7 / label~e.2))))

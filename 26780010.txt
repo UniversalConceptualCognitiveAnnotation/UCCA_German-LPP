@@ -1,0 +1,15 @@
+# ::id 26780010
+# ::tok Warum hast du sie nun wieder angezündet ? " - "
+# ::alignments 0-1.1.3.1 2-1.1.3.3 3-1.1.3.4 4-1.1.3.5 5-1.1.3.6 6-1.1.3.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label~e.0)
+                  :A (v7 / label~e.2)
+                  :A (v8 / label~e.3)
+                  :T (v9 / label~e.4)
+                  :D (v10 / label~e.5)
+                  :P (v11 / label~e.6))))

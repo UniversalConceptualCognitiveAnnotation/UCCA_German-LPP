@@ -1,0 +1,11 @@
+# ::id 26814004
+# ::tok Das heißt ... nicht ganz .
+# ::alignments 3-1.1.5.3 4-1.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label
+                  :E (v6 / label~e.4)
+                  :C (v7 / label~e.3))))

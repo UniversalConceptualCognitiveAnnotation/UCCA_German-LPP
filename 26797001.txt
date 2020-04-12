@@ -1,0 +1,13 @@
+# ::id 26797001
+# ::tok So zähmte der kleine Prinz den Fuchs .
+# ::alignments 0-1.1 1-1.2.1 3-1.2.2.2 4-1.2.2.3 6-1.2.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v7 / label~e.3)
+                  :C (v8 / label~e.4))
+           :A (v6 / label
+                  :C (v9 / label~e.6))))

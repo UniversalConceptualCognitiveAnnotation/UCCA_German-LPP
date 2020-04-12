@@ -1,0 +1,14 @@
+# ::id 26756028
+# ::tok Mein Freund gab mir nie irgendwelche Erklärungen .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6 6-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v9 / label~e.0)
+                  :C (v10 / label~e.1))
+           :D (v4 / label~e.2)
+           :A (v5 / label~e.3)
+           :T (v6 / label~e.4)
+           :D (v7 / label~e.5)
+           :P (v8 / label~e.6)))

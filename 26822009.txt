@@ -1,0 +1,9 @@
+# ::id 26822009
+# ::tok Also seid freundlich !
+# ::alignments 0-1.1 2-1.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :S (v5 / label~e.2)))

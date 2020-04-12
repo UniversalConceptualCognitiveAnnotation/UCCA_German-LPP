@@ -1,0 +1,19 @@
+# ::id 26805001
+# ::tok Die Brunnen in der Sahara sind nur einfache Löcher in dem Sand .
+# ::alignments 1-1.1.1.2 2-1.1.1.3.1 4-1.1.1.3.3 5-1.1.2 6-1.1.3 7-1.1.4.2 8-1.1.4.3 9-1.1.4.1.1 11-1.1.4.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.1)
+                  :E (v8 / label
+                         :R (v12 / label~e.2)
+                         :C (v13 / label~e.4)))
+           :S (v4 / label~e.5)
+           :D (v5 / label~e.6)
+           :A (v6 / label
+                  :E (v9 / label
+                         :R (v14 / label~e.9)
+                         :C (v15 / label~e.11))
+                  :E (v10 / label~e.7)
+                  :C (v11 / label~e.8))))

@@ -1,0 +1,36 @@
+# ::id 26798003
+# ::tok Adieu " , sagte der Fuchs . " Hier mein Geheimnis . Es ist sehr einfach : Man sieht nur mit dem Herzen . Das Wesentliche ist für die Augen unsichtbar . " - "
+# ::alignments 0-1.1.5.1.2 3-1.1.6 5-1.1.7.2 8-1.1.5.2.1 9-1.1.5.2.2.1 10-1.1.5.2.2.2 12-1.1.5.3.1 14-1.1.5.3.3 15-1.1.5.3.4 17-1.1.5.4.1 18-1.1.5.4.2 19-1.1.5.4.3 20-1.1.5.4.4.1 22-1.1.5.4.4.3 25-1.1.5.5.1.2 27-1.1.5.5.3.1 29-1.1.5.5.3.3 30-1.1.5.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v12 / label)
+                         :A (v13 / label~e.0))
+                  :H (v7 / label
+                         :S (v14 / label~e.8)
+                         :A (v15 / label
+                                 :E (v26 / label~e.9)
+                                 :C (v27 / label~e.10)))
+                  :H (v8 / label
+                         :A (v16 / label~e.12)
+                         :D (v17 / label~e.14)
+                         :S (v18 / label~e.15))
+                  :H (v9 / label
+                         :A (v19 / label~e.17)
+                         :P (v20 / label~e.18)
+                         :D (v21 / label~e.19)
+                         :A (v22 / label
+                                 :R (v28 / label~e.20)
+                                 :C (v29 / label~e.22)))
+                  :H (v10 / label
+                          :A (v23 / label
+                                  :C (v30 / label~e.25))
+                          :A (v24 / label
+                                  :R (v31 / label~e.27)
+                                  :C (v32 / label~e.29))
+                          :S (v25 / label~e.30)))
+           :P (v4 / label~e.3)
+           :A (v5 / label
+                  :C (v11 / label~e.5))))

@@ -1,0 +1,16 @@
+# ::id 26761012
+# ::tok Der kleine Prinz war vor Zorn nun ganz bleich geworden . - "
+# ::alignments 1-1.1.7.2 2-1.1.7.3 4-1.1.9.1 5-1.1.9.2 6-1.1.10 7-1.1.1 8-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.7)
+           :S (v4 / label~e.8)
+           :A (v5 / label
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :A (v6 / label
+                  :R (v10 / label~e.4)
+                  :S (v11 / label~e.5)
+                  :A v9)
+           :T (v7 / label~e.6)))

@@ -1,0 +1,33 @@
+# ::id 26785007
+# ::tok Aber was heißt , vergänglich ' ? " , wiederholte der kleine Prinz , der niemals von einer Frage abließ , die er einmal gestellt hatte . - "
+# ::alignments 0-1.1.5.1 1-1.1.5.2.1 2-1.1.5.2.2 4-1.1.5.2.3.2 9-1.1.6 11-1.1.7.2 12-1.1.7.3 14-1.1.7.4.2 15-1.1.7.4.3 16-1.1.7.4.4.1 17-1.1.7.4.4.2 18-1.1.7.4.4.3 19-1.1.7.4.5 21-1.1.7.4.4.4.2 22-1.1.7.4.4.4.3 23-1.1.7.4.4.4.4 24-1.1.7.4.4.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :A (v11 / label~e.1)
+                         :S (v12 / label~e.2)
+                         :A (v13 / label
+                                 :A (v18 / label)
+                                 :S (v19 / label~e.4))))
+           :P (v4 / label~e.9)
+           :A (v5 / label
+                  :E (v8 / label~e.11)
+                  :C (v9 / label~e.12)
+                  :E (v10 / label
+                          :A v9
+                          :R (v14 / label~e.14)
+                          :T (v15 / label~e.15)
+                          :A (v16 / label
+                                  :R (v20 / label~e.16)
+                                  :E (v21 / label~e.17)
+                                  :C (v22 / label~e.18)
+                                  :E (v23 / label
+                                          :A v22
+                                          :R (v24 / label~e.21)
+                                          :A (v25 / label~e.22)
+                                          :T (v26 / label~e.23)
+                                          :P (v27 / label~e.24)))
+                          :P (v17 / label~e.19)))))

@@ -1,0 +1,19 @@
+# ::id 26777005
+# ::tok Ja genau , so ist es , die Sterne . " - "
+# ::alignments 0-1.1.3.1.1 1-1.1.3.1.2 3-1.1.3.2.1 5-1.1.3.2.3 8-1.1.3.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :D (v9 / label~e.0)
+                         :S (v10 / label~e.1))
+                  :H (v7 / label
+                         :S (v11 / label~e.3)
+                         :A (v12 / label~e.5))
+                  :H (v8 / label
+                         :S (v13 / label)
+                         :A (v14 / label
+                                 :C (v15 / label~e.8))))))

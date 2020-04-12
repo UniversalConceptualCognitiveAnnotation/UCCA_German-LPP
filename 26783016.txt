@@ -1,0 +1,16 @@
+# ::id 26783016
+# ::tok Ah ! " ( Der kleine Prinz war schon enttäuscht . ) " Und Berge ? " - "
+# ::alignments 5-1.1.10.2 6-1.1.10.3 8-1.1.1 9-1.1.2 13-1.1.9.2 14-1.1.9.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.8)
+           :S (v4 / label~e.9)
+           :A (v5 / label
+                  :L (v7 / label~e.13)
+                  :H (v8 / label
+                         :S (v11 / label)
+                         :A (v12 / label~e.14)))
+           :A (v6 / label
+                  :E (v9 / label~e.5)
+                  :C (v10 / label~e.6))))

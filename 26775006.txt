@@ -1,0 +1,14 @@
+# ::id 26775006
+# ::tok Für was schämst du dich ? " ,
+# ::alignments 0-1.1.3.6.1 1-1.1.3.6.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label~e.2,4)
+                  :A (v7 / label~e.3)
+                  :A (v8 / label
+                         :R (v9 / label~e.0)
+                         :C (v10 / label~e.1)))))

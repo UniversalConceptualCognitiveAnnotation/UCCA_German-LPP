@@ -1,0 +1,20 @@
+# ::id 26776002
+# ::tok Guten Tag " , sagte dieser zu ihm . - " Ihre Zigarette ist ausgegangen . " - "
+# ::alignments 0-1.1.7.1.1 1-1.1.7.1.2 4-1.1.8 5-1.1.9 6-1.1.1.1 7-1.1.1.2 11-1.1.7.2.1.1 12-1.1.7.2.1.2 14-1.1.7.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.6)
+                  :C (v8 / label~e.7))
+           :A (v4 / label
+                  :H (v9 / label
+                         :S (v11 / label~e.0)
+                         :A (v12 / label~e.1))
+                  :H (v10 / label
+                          :A (v13 / label
+                                  :E (v15 / label~e.11)
+                                  :C (v16 / label~e.12))
+                          :P (v14 / label~e.14)))
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.5)))

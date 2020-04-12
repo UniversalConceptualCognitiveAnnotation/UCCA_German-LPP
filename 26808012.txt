@@ -1,0 +1,67 @@
+# ::id 26808012
+# ::tok Ich wühlte in meiner Tasche nach meinem Revolver , ich begann zu rennen aber durch den Lärm , den ich machte , ließ sich die Schlange sanft in den Sand gleiten , wie ein Wasser strahl , der versiegt , und ganz ohne Eile schlüpfte sie zwischen die Steine und klirrte dabei wie Metall .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 9-1.2.1 10-1.2.2 12-1.2.4 13-1.3 14-1.4.1 16-1.4.2.2 18-1.4.2.3.2 19-1.4.2.3.3 20-1.4.2.3.4 22-1.4.3 23-1.4.4 25-1.4.5.2 26-1.4.6 27-1.4.7.1 29-1.4.7.3 30-1.4.8 32-1.4.9.2 34-1.4.9.3.2 35-1.4.9.3.3 37-1.4.9.3.4.2 38-1.4.9.3.4.3 40-1.5 41-1.6.1 42-1.6.2 43-1.6.3 44-1.6.4 45-1.6.5 46-1.6.6.1 48-1.6.6.3 49-1.7 50-1.8.1 51-1.8.2 52-1.8.3.1 53-1.8.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label~e.0)
+           :P (v11 / label~e.1)
+           :A (v12 / label
+                   :R (v35 / label~e.2)
+                   :E (v36 / label~e.3)
+                   :C (v37 / label~e.4))
+           :A (v13 / label
+                   :R (v38 / label~e.5)
+                   :E (v39 / label~e.6)
+                   :C (v40 / label~e.7)))
+    :H (v3 / label
+           :A (v14 / label~e.9)
+           :D (v15 / label~e.10)
+           :P (v16 / label~e.12))
+    :L (v4 / label~e.13)
+    :H (v5 / label
+           :R (v17 / label~e.14)
+           :A (v18 / label
+                   :C (v41 / label~e.16)
+                   :E (v42 / label
+                           :A v41
+                           :R (v52 / label~e.18)
+                           :A (v53 / label~e.19)
+                           :P (v54 / label~e.20)))
+           :D (v19 / label~e.22)
+           :D (v20 / label~e.23)
+           :A (v21 / label
+                   :C (v43 / label~e.25))
+           :D (v22 / label~e.26)
+           :A (v23 / label
+                   :R (v44 / label~e.27)
+                   :C (v45 / label~e.29))
+           :P (v24 / label~e.30)
+           :A (v25 / label
+                   :P v24
+                   :R (v46 / label~e.32)
+                   :A (v47 / label
+                           :E (v55 / label~e.34)
+                           :C (v56 / label~e.35)
+                           :E (v57 / label
+                                   :A v56
+                                   :R (v58 / label~e.37)
+                                   :P (v59 / label~e.38)))))
+    :L (v6 / label~e.40)
+    :H (v7 / label
+           :D (v26 / label~e.41)
+           :D (v27 / label~e.42)
+           :A (v28 / label~e.43)
+           :P (v29 / label~e.44)
+           :A (v30 / label~e.45)
+           :A (v31 / label
+                   :R (v48 / label~e.46)
+                   :C (v49 / label~e.48)))
+    :L (v8 / label~e.49)
+    :H (v9 / label
+           :P (v32 / label~e.50)
+           :A (v33 / label~e.51)
+           :A (v34 / label
+                   :R (v50 / label~e.52)
+                   :C (v51 / label~e.53))
+           :A v30))

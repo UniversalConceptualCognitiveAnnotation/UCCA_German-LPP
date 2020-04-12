@@ -1,0 +1,17 @@
+# ::id 26792008
+# ::tok Werdet meine Freunde , ich bin allein " , sagte er . - "
+# ::alignments 0-1.1.6.1.1 1-1.1.6.1.2.1 2-1.1.6.1.2.2 4-1.1.6.2.1 6-1.1.6.2.3 9-1.1.7 10-1.1.8
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v8 / label~e.0)
+                         :A (v9 / label
+                                :A (v12 / label~e.1)
+                                :A (v13 / label~e.2)))
+                  :H (v7 / label
+                         :A (v10 / label~e.4)
+                         :S (v11 / label~e.6)))
+           :P (v4 / label~e.9)
+           :A (v5 / label~e.10)))

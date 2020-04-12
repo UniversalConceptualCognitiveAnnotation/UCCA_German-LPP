@@ -1,0 +1,21 @@
+# ::id 26754004
+# ::tok Und , vielleicht ein bisschen traurig , fügte er hinzu : - " Geradeaus kommt man nicht besonders weit ... "
+# ::alignments 0-1.1 2-1.2.2 3-1.2.3 4-1.2.3 5-1.2.4 7-1.3.4 8-1.3.5 9-1.3.4 13-1.3.6.1 14-1.3.6.2 15-1.3.6.3 16-1.3.6.4 17-1.3.6.5 18-1.3.6.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label)
+           :G (v6 / label~e.2)
+           :D (v7 / label~e.3,4)
+           :S (v8 / label~e.5))
+    :H (v4 / label
+           :P (v9 / label~e.7,9)
+           :A (v10 / label~e.8)
+           :A (v11 / label
+                   :A (v12 / label~e.13)
+                   :P (v13 / label~e.14)
+                   :A (v14 / label~e.15)
+                   :D (v15 / label~e.16)
+                   :D (v16 / label~e.17)
+                   :D (v17 / label~e.18))))

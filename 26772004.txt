@@ -1,0 +1,22 @@
+# ::id 26772004
+# ::tok Ich mache dich zu meinem Botschafter " , rief der König ihm eilig hinterher .
+# ::alignments 0-1.1.4.1 1-1.1.4.2 2-1.1.4.3 3-1.1.4.4.1 4-1.1.4.4.2 5-1.1.4.4.3.2 8-1.1.5 10-1.1.6.2 11-1.1.7 12-1.1.8 13-1.1.9
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v9 / label~e.0)
+                  :P (v10 / label~e.1)
+                  :A (v11 / label~e.2)
+                  :A (v12 / label
+                          :R (v14 / label~e.3)
+                          :E (v15 / label~e.4)
+                          :C (v16 / label
+                                  :A v11
+                                  :S (v17 / label~e.5))))
+           :P (v4 / label~e.8)
+           :A (v5 / label
+                  :C (v13 / label~e.10))
+           :A (v6 / label~e.11)
+           :D (v7 / label~e.12)
+           :D (v8 / label~e.13)))

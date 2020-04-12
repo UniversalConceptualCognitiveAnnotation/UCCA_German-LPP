@@ -1,0 +1,18 @@
+# ::id 26769001
+# ::tok Denn dem König lag besonders daran , dass seine Autorität geschätzt würde .
+# ::alignments 0-1.1 2-1.2.2.2 3-1.2.3 4-1.2.4 5-1.2.3 7-1.2.5.2 8-1.2.5.3.1 9-1.2.5.3.2 10-1.2.5.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :C (v8 / label~e.2))
+           :S (v5 / label~e.3,5)
+           :D (v6 / label~e.4)
+           :A (v7 / label
+                  :A (v9 / label)
+                  :R (v10 / label~e.7)
+                  :A (v11 / label
+                          :E (v13 / label~e.8)
+                          :C (v14 / label~e.9))
+                  :S (v12 / label~e.10))))
