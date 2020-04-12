@@ -1,0 +1,54 @@
+#BOS 26769007
+Ich	Word	--	Terminal	500
+befehle	Word	--	Terminal	501
+dir	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+dich	Word	--	Terminal	504
+zu	Word	--	Terminal	505
+setzen	Word	--	Terminal	504
+"	Punctuation	--	Terminal	506
+,	Punctuation	--	Terminal	507
+antwortete	Word	--	Terminal	508
+der	Word	--	Terminal	509
+König	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+und	Word	--	Terminal	512
+rückte	Word	--	Terminal	513
+würdevoll	Word	--	Terminal	514
+einen	Word	--	Terminal	515
+Zipfel	Word	--	Terminal	516
+seines	Word	--	Terminal	517
+Hermelin	Word	--	Terminal	518
+mantels	Word	--	Terminal	519
+zurecht	Word	--	Terminal	513
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	522
+#501	FN	--	P	522
+#502	FN	--	A	522	A*	521
+#503	PNCT	--	U	522
+#504	FN	--	P	521
+#505	FN	--	F	521
+#506	PNCT	--	U	525
+#507	PNCT	--	U	525
+#508	FN	--	P	525
+#509	FN	--	F	523
+#510	FN	--	C	523	A*	527
+#511	PNCT	--	U	528
+#512	FN	--	L	528
+#513	FN	--	P	527
+#514	FN	--	D	527
+#515	FN	--	F	526
+#516	FN	--	C	526
+#517	FN	--	R	524
+#518	FN	--	E	524
+#519	FN	--	C	524
+#520	PNCT	--	U	527
+#521	FN	--	A	522
+#522	FN	--	A	525
+#523	FN	--	A	525
+#524	FN	--	E	526
+#525	FN	--	H	528
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 26769007

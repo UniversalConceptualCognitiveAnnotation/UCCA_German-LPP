@@ -1,0 +1,21 @@
+#BOS 26766013
+Er	Word	--	Terminal	500
+dachte	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+er	Word	--	Terminal	503
+würde	Word	--	Terminal	504
+nie	Word	--	Terminal	505
+wiederkommen	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	509
+#501	FN	--	S	509
+#502	PNCT	--	U	509
+#503	FN	--	A	508
+#504	FN	--	D	508
+#505	FN	--	T	508
+#506	FN	--	P	508
+#507	PNCT	--	U	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26766013

@@ -1,0 +1,47 @@
+#BOS 26757015
+Es	Word	--	Terminal	500
+gab	Word	--	Terminal	501
+auf	Word	--	Terminal	502
+dem	Word	--	Terminal	503
+Planeten	Word	--	Terminal	504
+des	Word	--	Terminal	505
+kleinen	Word	--	Terminal	506
+Prinzen	Word	--	Terminal	507
+wie	Word	--	Terminal	508
+auf	Word	--	Terminal	509
+jedem	Word	--	Terminal	510
+Planeten	Word	--	Terminal	511
+natürlich	Word	--	Terminal	512
+gute	Word	--	Terminal	513
+und	Word	--	Terminal	514
+schlechte	Word	--	Terminal	515
+Pflanzen	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	F	525
+#501	FN	--	F	525	S*	522
+#502	FN	--	S	525
+#503	FN	--	F	524
+#504	FN	--	C	524
+#505	FN	--	R	518
+#506	FN	--	E	518
+#507	FN	--	C	518
+#508	FN	--	D	522
+#509	FN	--	R	519
+#510	FN	--	E	519
+#511	FN	--	C	519
+#512	FN	--	G	525
+#513	FN	--	C	520
+#514	FN	--	N	520
+#515	FN	--	C	520
+#516	FN	--	C	523	A*	522	A*	521
+#517	PNCT	--	U	522
+#518	FN	--	E	524
+#519	FN	--	A	522
+#520	FN	--	S	521
+#521	FN	--	E	523
+#522	FN	--	A	525
+#523	FN	--	A	525
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 26757015

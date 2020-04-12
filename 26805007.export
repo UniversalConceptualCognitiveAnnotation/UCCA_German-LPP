@@ -1,0 +1,27 @@
+#BOS 26805007
+Langsam	Word	--	Terminal	500
+zog	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+den	Word	--	Terminal	503
+Eimer	Word	--	Terminal	504
+bis	Word	--	Terminal	505
+zu	Word	--	Terminal	506
+dem	Word	--	Terminal	507
+Rand	Word	--	Terminal	508
+hinauf	Word	--	Terminal	501
+.	Punctuation	--	Terminal	509
+#500	FN	--	D	512
+#501	FN	--	P	512
+#502	FN	--	A	512
+#503	FN	--	F	510
+#504	FN	--	C	510
+#505	FN	--	R	511
+#506	FN	--	R	511
+#507	FN	--	F	511
+#508	FN	--	C	511
+#509	PNCT	--	U	512
+#510	FN	--	A	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26805007

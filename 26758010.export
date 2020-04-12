@@ -1,0 +1,41 @@
+#BOS 26758010
+Bei	Word	--	Terminal	500
+dem	Word	--	Terminal	501
+Zeichnen	Word	--	Terminal	502
+der	Word	--	Terminal	503
+Affenbrotbäume	Word	--	Terminal	504
+hatte	Word	--	Terminal	505
+ich	Word	--	Terminal	506
+jedoch	Word	--	Terminal	507
+das	Word	--	Terminal	508
+Gefühl	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+es	Word	--	Terminal	511
+sei	Word	--	Terminal	512
+wirklich	Word	--	Terminal	513
+dringend	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	522
+#501	FN	--	F	516
+#502	FN	--	C	516
+#503	FN	--	R	517
+#504	FN	--	C	517
+#505	FN	--	F	521
+#506	FN	--	A	521	A*	518
+#507	FN	--	D	521
+#508	FN	--	F	519
+#509	FN	--	C	519
+#510	PNCT	--	U	521
+#511	FN	--	A	520
+#512	FN	--	F	520
+#513	FN	--	G	520
+#514	FN	--	S	520
+#515	PNCT	--	U	520
+#516	FN	--	P	518
+#517	FN	--	A	518
+#518	FN	--	H	522
+#519	FN	--	S	521
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26758010

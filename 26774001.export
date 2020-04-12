@@ -1,0 +1,45 @@
+#BOS 26774001
+Ich	Word	--	Terminal	500
+verehre	Word	--	Terminal	501
+dich	Word	--	Terminal	502
+"	Punctuation	--	Terminal	503
+,	Punctuation	--	Terminal	504
+sagte	Word	--	Terminal	505
+der	Word	--	Terminal	506
+kleine	Word	--	Terminal	507
+Prinz	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+und	Word	--	Terminal	510
+zuckte	Word	--	Terminal	511
+dabei	Word	--	Terminal	512
+mit	Word	--	Terminal	513
+den	Word	--	Terminal	514
+Schultern	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	517
+#500	FN	--	A	518
+#501	FN	--	P	518
+#502	FN	--	A	518
+#503	PNCT	--	U	522
+#504	PNCT	--	U	522
+#505	FN	--	P	522
+#506	FN	--	F	519
+#507	FN	--	E	519
+#508	FN	--	C	519	A*	523
+#509	PNCT	--	U	524
+#510	FN	--	L	524
+#511	FN	--	P	523
+#512	FN	--	A	523
+#513	FN	--	R	520
+#514	FN	--	F	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	PNCT	--	U	520
+#518	FN	--	H	521
+#519	FN	--	A	522
+#520	FN	--	A	523
+#521	FN	--	A	522
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 26774001

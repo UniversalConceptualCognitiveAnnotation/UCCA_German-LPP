@@ -1,0 +1,24 @@
+#BOS 26795005
+Nichts	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+perfekt	Word	--	Terminal	502
+"	Punctuation	--	Terminal	503
+,	Punctuation	--	Terminal	504
+seufzte	Word	--	Terminal	505
+der	Word	--	Terminal	506
+Fuchs	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509
+#501	FN	--	F	509
+#502	FN	--	S	509
+#503	PNCT	--	U	511
+#504	PNCT	--	U	511
+#505	FN	--	P	511
+#506	FN	--	F	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26795005

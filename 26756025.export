@@ -1,0 +1,37 @@
+#BOS 26756025
+Ich	Word	--	Terminal	500
+versuche	Word	--	Terminal	501
+es	Word	--	Terminal	502
+mal	Word	--	Terminal	503
+so	Word	--	Terminal	504
+und	Word	--	Terminal	505
+mal	Word	--	Terminal	506
+so	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+eben	Word	--	Terminal	509
+so	Word	--	Terminal	510
+gut	Word	--	Terminal	511
+es	Word	--	Terminal	512
+geht	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	515	A*	516
+#501	FN	--	P	515	P*	516
+#502	FN	--	F	515
+#503	FN	--	D	515
+#504	FN	--	A	515
+#505	FN	--	L	519
+#506	FN	--	D	516
+#507	FN	--	A	516
+#508	PNCT	--	U	519
+#509	FN	--	D	518
+#510	FN	--	E	517
+#511	FN	--	C	517
+#512	FN	--	A	518
+#513	FN	--	P	518
+#514	PNCT	--	U	518
+#515	FN	--	H	519
+#516	FN	--	H	519
+#517	FN	--	D	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26756025

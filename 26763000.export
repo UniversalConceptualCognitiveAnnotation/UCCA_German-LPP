@@ -1,0 +1,28 @@
+#BOS 26763000
+Kapitel	Word	--	Terminal	500
+VIII	Word	--	Terminal	501
+Schon	Word	--	Terminal	502
+bald	Word	--	Terminal	503
+lernte	Word	--	Terminal	504
+ich	Word	--	Terminal	505
+jene	Word	--	Terminal	506
+Blume	Word	--	Terminal	507
+besser	Word	--	Terminal	508
+kennen	Word	--	Terminal	504
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	C	510
+#502	FN	--	E	511
+#503	FN	--	C	511
+#504	FN	--	S	513
+#505	FN	--	A	513
+#506	FN	--	E	512
+#507	FN	--	C	512
+#508	FN	--	D	513
+#509	PNCT	--	U	513
+#510	FN	--	H	514
+#511	FN	--	T	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 26763000

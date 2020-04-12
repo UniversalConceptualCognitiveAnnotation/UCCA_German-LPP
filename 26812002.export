@@ -1,0 +1,25 @@
+#BOS 26812002
+Ich	Word	--	Terminal	500
+werde	Word	--	Terminal	501
+dich	Word	--	Terminal	502
+nicht	Word	--	Terminal	503
+verlassen	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	FN	--	A	509
+#501	FN	--	F	509
+#502	FN	--	A	509
+#503	FN	--	D	509
+#504	FN	--	P	509
+#505	PNCT	--	U	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	PNCT	--	U	509
+#509	FN	--	A	512
+#510	FN	--	P	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26812002

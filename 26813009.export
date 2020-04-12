@@ -1,0 +1,17 @@
+#BOS 26813009
+Einen	Word	--	Terminal	500
+Augenblick	Word	--	Terminal	501
+lang	Word	--	Terminal	502
+erstarrte	Word	--	Terminal	503
+er	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	F	506
+#501	FN	--	C	506
+#502	FN	--	D	507
+#503	FN	--	P	507
+#504	FN	--	A	507
+#505	PNCT	--	U	507
+#506	FN	--	T	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 26813009

@@ -1,0 +1,25 @@
+#BOS 26749004
+Ich	Word	--	Terminal	500
+wollte	Word	--	Terminal	501
+wissen	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+ob	Word	--	Terminal	504
+er	Word	--	Terminal	505
+wirklich	Word	--	Terminal	506
+schlau	Word	--	Terminal	507
+war	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	511
+#501	FN	--	D	511
+#502	FN	--	S	511
+#503	PNCT	--	U	511
+#504	FN	--	R	510
+#505	FN	--	A	510
+#506	FN	--	D	510
+#507	FN	--	S	510
+#508	FN	--	F	510
+#509	PNCT	--	U	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26749004

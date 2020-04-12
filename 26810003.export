@@ -1,0 +1,35 @@
+#BOS 26810003
+Es	Word	--	Terminal	500
+war	Word	--	Terminal	501
+für	Word	--	Terminal	502
+mich	Word	--	Terminal	503
+wie	Word	--	Terminal	504
+ein	Word	--	Terminal	505
+Brunnen	Word	--	Terminal	506
+in	Word	--	Terminal	507
+der	Word	--	Terminal	508
+Wüste	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+"	Punctuation	--	Terminal	512
+#500	FN	--	A	518
+#501	FN	--	S	518
+#502	FN	--	R	513
+#503	FN	--	C	513
+#504	FN	--	R	517
+#505	FN	--	F	514
+#506	FN	--	C	514
+#507	FN	--	R	515
+#508	FN	--	F	515
+#509	FN	--	C	515
+#510	PNCT	--	U	515
+#511	PNCT	--	U	515
+#512	PNCT	--	U	515
+#513	FN	--	A	518
+#514	FN	--	A	517
+#515	FN	--	A	517
+#516	FN	--	S	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26810003

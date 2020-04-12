@@ -1,0 +1,22 @@
+#BOS 26755012
+Und	Word	--	Terminal	500
+dieses	Word	--	Terminal	501
+Mal	Word	--	Terminal	502
+waren	Word	--	Terminal	503
+alle	Word	--	Terminal	504
+seiner	Word	--	Terminal	505
+Meinung	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	511
+#501	FN	--	E	508
+#502	FN	--	C	508
+#503	FN	--	F	510
+#504	FN	--	A	510
+#505	FN	--	R	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	T	510
+#509	FN	--	S	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26755012

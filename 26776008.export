@@ -1,0 +1,43 @@
+#BOS 26776008
+Der	Word	--	Terminal	500
+Geschäftsmann	Word	--	Terminal	501
+verstand	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+dass	Word	--	Terminal	504
+er	Word	--	Terminal	505
+nicht	Word	--	Terminal	506
+darauf	Word	--	Terminal	507
+hoffen	Word	--	Terminal	508
+konnte	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+in	Word	--	Terminal	511
+Ruhe	Word	--	Terminal	512
+gelassen	Word	--	Terminal	513
+zu	Word	--	Terminal	514
+werden	Word	--	Terminal	515
+:	Punctuation	--	Terminal	516
+#500	FN	--	F	517
+#501	FN	--	C	517
+#502	FN	--	S	522
+#503	PNCT	--	U	522
+#504	FN	--	R	521
+#505	FN	--	A	521	A*	520
+#506	FN	--	D	521
+#507	FN	--	F	520
+#508	FN	--	P	521
+#509	FN	--	D	521
+#510	PNCT	--	U	521
+#511	FN	--	R	518
+#512	FN	--	C	518
+#513	FN	--	S	520
+#514	FN	--	F	520
+#515	FN	--	F	520
+#516	PNCT	--	U	520
+#517	FN	--	A	522
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 26776008

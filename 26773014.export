@@ -1,0 +1,36 @@
+#BOS 26773014
+Verehrst	Word	--	Terminal	500
+du	Word	--	Terminal	501
+mich	Word	--	Terminal	502
+wirklich	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	505
+,	Punctuation	--	Terminal	506
+fragte	Word	--	Terminal	507
+er	Word	--	Terminal	508
+den	Word	--	Terminal	509
+kleinen	Word	--	Terminal	510
+Prinzen	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	P	515
+#501	FN	--	A	515
+#502	FN	--	A	515
+#503	FN	--	D	515
+#504	PNCT	--	U	517
+#505	PNCT	--	U	517
+#506	PNCT	--	U	517
+#507	FN	--	P	517
+#508	FN	--	A	517
+#509	FN	--	F	516
+#510	FN	--	E	516
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	PNCT	--	U	516
+#514	PNCT	--	U	516
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26773014

@@ -1,0 +1,22 @@
+#BOS 26785011
+Da	Word	--	Terminal	500
+spürte	Word	--	Terminal	501
+er	Word	--	Terminal	502
+das	Word	--	Terminal	503
+erste	Word	--	Terminal	504
+Mal	Word	--	Terminal	505
+Bedauern	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	511
+#501	FN	--	P	510
+#502	FN	--	A	510	A*	508
+#503	FN	--	F	509
+#504	FN	--	E	509
+#505	FN	--	C	509
+#506	FN	--	P	508
+#507	PNCT	--	U	508
+#508	FN	--	A	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26785011

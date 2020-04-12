@@ -1,0 +1,25 @@
+#BOS 26756013
+Es	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+traurig	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+einen	Word	--	Terminal	504
+Freund	Word	--	Terminal	505
+zu	Word	--	Terminal	506
+vergessen	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	F	512
+#501	FN	--	F	512
+#502	FN	--	S	512
+#503	PNCT	--	U	512
+#504	FN	--	F	509
+#505	FN	--	C	509
+#506	FN	--	F	511
+#507	FN	--	P	511
+#508	PNCT	--	U	511
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26756013

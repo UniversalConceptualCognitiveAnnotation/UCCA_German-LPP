@@ -1,0 +1,37 @@
+#BOS 26749000
+So	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+in	Word	--	Terminal	503
+dem	Word	--	Terminal	504
+Laufe	Word	--	Terminal	505
+meines	Word	--	Terminal	506
+Lebens	Word	--	Terminal	507
+mit	Word	--	Terminal	508
+vielen	Word	--	Terminal	509
+ernsthaften	Word	--	Terminal	510
+Leuten	Word	--	Terminal	511
+zu	Word	--	Terminal	501
+tun	Word	--	Terminal	501
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	519
+#501	FN	--	S	518
+#502	FN	--	A	518
+#503	FN	--	R	517
+#504	FN	--	F	513
+#505	FN	--	C	513
+#506	FN	--	R	514
+#507	FN	--	C	514
+#508	FN	--	R	516
+#509	FN	--	Q	516
+#510	FN	--	S	515
+#511	FN	--	C	516	A*	515
+#512	PNCT	--	U	518
+#513	FN	--	S	517
+#514	FN	--	A	517
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26749000

@@ -1,0 +1,29 @@
+#BOS 26759003
+Du	Word	--	Terminal	500
+wirktest	Word	--	Terminal	501
+zunächst	Word	--	Terminal	502
+sehr	Word	--	Terminal	503
+überrascht	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+aber	Word	--	Terminal	506
+musstest	Word	--	Terminal	507
+dann	Word	--	Terminal	508
+selbst	Word	--	Terminal	509
+lachen	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512	A*	513
+#501	FN	--	G	512
+#502	FN	--	T	512
+#503	FN	--	D	512
+#504	FN	--	S	512
+#505	PNCT	--	U	514
+#506	FN	--	L	514
+#507	FN	--	D	513
+#508	FN	--	L	514
+#509	FN	--	D	513
+#510	FN	--	P	513
+#511	PNCT	--	U	513
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 26759003

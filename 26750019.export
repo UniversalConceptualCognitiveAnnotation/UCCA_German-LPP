@@ -1,0 +1,35 @@
+#BOS 26750019
+Vergesst	Word	--	Terminal	500
+nicht	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+ich	Word	--	Terminal	503
+war	Word	--	Terminal	504
+tausend	Word	--	Terminal	505
+Meilen	Word	--	Terminal	506
+entfernt	Word	--	Terminal	507
+von	Word	--	Terminal	508
+jeglichem	Word	--	Terminal	509
+besiedelten	Word	--	Terminal	510
+Gebiet	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	P	518
+#501	FN	--	D	518
+#502	PNCT	--	U	518
+#503	FN	--	A	517
+#504	FN	--	F	517
+#505	FN	--	Q	513
+#506	FN	--	C	513
+#507	FN	--	S	517
+#508	FN	--	R	515
+#509	FN	--	E	515
+#510	FN	--	S	514
+#511	FN	--	C	515	A*	514
+#512	PNCT	--	U	515
+#513	FN	--	A	517
+#514	FN	--	E	515
+#515	FN	--	A	517
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26750019

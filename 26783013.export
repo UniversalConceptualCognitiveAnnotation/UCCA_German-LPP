@@ -1,0 +1,31 @@
+#BOS 26783013
+Er	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+noch	Word	--	Terminal	502
+niemals	Word	--	Terminal	503
+einen	Word	--	Terminal	504
+so	Word	--	Terminal	505
+herrschaftlichen	Word	--	Terminal	506
+Planeten	Word	--	Terminal	507
+gesehen	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+#500	FN	--	A	515
+#501	FN	--	F	515
+#502	FN	--	D	515
+#503	FN	--	T	515
+#504	FN	--	F	514
+#505	FN	--	E	513
+#506	FN	--	S	512
+#507	FN	--	C	514	A*	512
+#508	FN	--	P	515
+#509	PNCT	--	U	515
+#510	PNCT	--	U	515
+#511	PNCT	--	U	515
+#512	FN	--	C	513
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26783013

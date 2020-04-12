@@ -1,0 +1,28 @@
+#BOS 26806004
+Der	Word	--	Terminal	500
+Sand	Word	--	Terminal	501
+hat	Word	--	Terminal	502
+bei	Word	--	Terminal	503
+Tagesanbruch	Word	--	Terminal	504
+die	Word	--	Terminal	505
+Farbe	Word	--	Terminal	506
+von	Word	--	Terminal	507
+Honig	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	F	510
+#501	FN	--	C	510
+#502	FN	--	S	514
+#503	FN	--	R	511
+#504	FN	--	C	511
+#505	FN	--	F	513
+#506	FN	--	C	513
+#507	FN	--	R	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	A	514
+#511	FN	--	T	514
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26806004

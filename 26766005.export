@@ -1,0 +1,20 @@
+#BOS 26766005
+Er	Word	--	Terminal	500
+besaß	Word	--	Terminal	501
+auch	Word	--	Terminal	502
+einen	Word	--	Terminal	503
+erloschenen	Word	--	Terminal	504
+Vulkan	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	509
+#501	FN	--	S	509
+#502	FN	--	D	509
+#503	FN	--	Q	508
+#504	FN	--	S	507
+#505	FN	--	C	508	A*	507
+#506	PNCT	--	U	508
+#507	FN	--	E	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26766005

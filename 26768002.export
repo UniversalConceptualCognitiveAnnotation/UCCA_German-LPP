@@ -1,0 +1,20 @@
+#BOS 26768002
+Auf	Word	--	Terminal	500
+dem	Word	--	Terminal	501
+ersten	Word	--	Terminal	502
+lebte	Word	--	Terminal	503
+ein	Word	--	Terminal	504
+König	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	R	507
+#501	FN	--	F	507
+#502	FN	--	C	507
+#503	FN	--	S	509
+#504	FN	--	F	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	A	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26768002

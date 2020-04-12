@@ -1,0 +1,12 @@
+#BOS 26803007
+Und	Word	--	Terminal	500
+es	Word	--	Terminal	501
+stimmte	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	FN	--	L	505
+#501	FN	--	A	504
+#502	FN	--	S	504
+#503	PNCT	--	U	504
+#504	FN	--	H	505
+#505	FN	--	--	0
+#EOS 26803007

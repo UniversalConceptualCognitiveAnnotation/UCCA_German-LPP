@@ -1,0 +1,22 @@
+#BOS 26756014
+Nicht	Word	--	Terminal	500
+jeder	Word	--	Terminal	501
+hatte	Word	--	Terminal	502
+schon	Word	--	Terminal	503
+mal	Word	--	Terminal	503
+einen	Word	--	Terminal	504
+Freund	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	D	510
+#501	FN	--	A	510
+#502	FN	--	S	510
+#503	FN	--	D	510
+#504	FN	--	F	509
+#505	FN	--	S	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	C	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26756014

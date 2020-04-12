@@ -1,0 +1,33 @@
+#BOS 26801005
+Und	Word	--	Terminal	500
+was	Word	--	Terminal	501
+macht	Word	--	Terminal	502
+man	Word	--	Terminal	503
+mit	Word	--	Terminal	504
+den	Word	--	Terminal	505
+dreiundfünfzig	Word	--	Terminal	506
+Minuten	Word	--	Terminal	507
+?	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+#500	FN	--	L	514
+#501	FN	--	A	513
+#502	FN	--	P	513
+#503	FN	--	A	513
+#504	FN	--	R	512
+#505	FN	--	F	512
+#506	FN	--	Q	512
+#507	FN	--	C	512
+#508	PNCT	--	U	512
+#509	PNCT	--	U	512
+#510	PNCT	--	U	512
+#511	PNCT	--	U	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	A	517
+#515	FN	--	P	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26801005

@@ -1,0 +1,32 @@
+#BOS 26761012
+Der	Word	--	Terminal	500
+kleine	Word	--	Terminal	501
+Prinz	Word	--	Terminal	502
+war	Word	--	Terminal	503
+vor	Word	--	Terminal	504
+Zorn	Word	--	Terminal	505
+nun	Word	--	Terminal	506
+ganz	Word	--	Terminal	507
+bleich	Word	--	Terminal	508
+geworden	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+"	Punctuation	--	Terminal	512
+#500	FN	--	F	513
+#501	FN	--	E	513
+#502	FN	--	C	513	A*	514
+#503	FN	--	F	515
+#504	FN	--	R	514
+#505	FN	--	S	514
+#506	FN	--	T	515
+#507	FN	--	D	515
+#508	FN	--	S	515
+#509	FN	--	F	515
+#510	PNCT	--	U	515
+#511	PNCT	--	U	515
+#512	PNCT	--	U	515
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26761012

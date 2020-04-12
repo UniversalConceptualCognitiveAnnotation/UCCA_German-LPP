@@ -1,0 +1,22 @@
+#BOS 26797001
+So	Word	--	Terminal	500
+zähmte	Word	--	Terminal	501
+der	Word	--	Terminal	502
+kleine	Word	--	Terminal	503
+Prinz	Word	--	Terminal	504
+den	Word	--	Terminal	505
+Fuchs	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	511
+#501	FN	--	P	510
+#502	FN	--	F	508
+#503	FN	--	E	508
+#504	FN	--	C	508
+#505	FN	--	F	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26797001

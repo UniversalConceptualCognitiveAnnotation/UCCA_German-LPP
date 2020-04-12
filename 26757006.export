@@ -1,0 +1,37 @@
+#BOS 26757006
+Ich	Word	--	Terminal	500
+verstand	Word	--	Terminal	501
+nicht	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+warum	Word	--	Terminal	504
+es	Word	--	Terminal	505
+so	Word	--	Terminal	506
+wichtig	Word	--	Terminal	507
+war	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+dass	Word	--	Terminal	510
+Schafe	Word	--	Terminal	511
+Sträucher	Word	--	Terminal	512
+fressen	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	518
+#501	FN	--	P	518
+#502	FN	--	D	518
+#503	PNCT	--	U	518
+#504	FN	--	C	517	A*	516
+#505	FN	--	F	516
+#506	FN	--	D	516
+#507	FN	--	S	516
+#508	FN	--	F	516
+#509	PNCT	--	U	516
+#510	FN	--	R	515
+#511	FN	--	A	515
+#512	FN	--	A	515
+#513	FN	--	P	515
+#514	PNCT	--	U	515
+#515	FN	--	A	516
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26757006

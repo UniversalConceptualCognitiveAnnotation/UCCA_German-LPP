@@ -1,0 +1,33 @@
+#BOS 26777002
+Aber	Word	--	Terminal	500
+nein	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+diese	Word	--	Terminal	503
+kleinen	Word	--	Terminal	504
+leuchtenden	Word	--	Terminal	505
+Dinger	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	L	515
+#501	FN	--	D	514
+#502	PNCT	--	U	514
+#503	FN	--	E	512
+#504	FN	--	D	511
+#505	FN	--	S	511
+#506	FN	--	C	512	A*	511
+#507	PNCT	--	U	512
+#508	PNCT	--	U	512
+#509	PNCT	--	U	512
+#510	PNCT	--	U	512
+#511	FN	--	E	512
+#512	FN	--	A	514
+#513	FN	--	S	514
+#514	FN	--	H	515
+#515	FN	--	A	518
+#516	FN	--	P	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26777002

@@ -1,0 +1,26 @@
+#BOS 26757001
+Das	Word	--	Terminal	500
+kam	Word	--	Terminal	501
+nach	Word	--	Terminal	502
+und	Word	--	Terminal	503
+nach	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+durch	Word	--	Terminal	506
+zufällige	Word	--	Terminal	507
+Überlegungen	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512
+#501	FN	--	P	512
+#502	FN	--	C	510
+#503	FN	--	N	510
+#504	FN	--	C	510
+#505	PNCT	--	U	512
+#506	FN	--	R	511
+#507	FN	--	D	511
+#508	FN	--	P	511
+#509	PNCT	--	U	511
+#510	FN	--	D	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26757001

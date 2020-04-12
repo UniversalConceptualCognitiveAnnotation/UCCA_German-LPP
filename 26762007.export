@@ -1,0 +1,15 @@
+#BOS 26762007
+Ich	Word	--	Terminal	500
+nahm	Word	--	Terminal	501
+ihn	Word	--	Terminal	502
+in	Word	--	Terminal	501
+die	Word	--	Terminal	501
+Arme	Word	--	Terminal	501
+.	Punctuation	--	Terminal	503
+#500	FN	--	A	504
+#501	FN	--	P	504
+#502	FN	--	A	504
+#503	PNCT	--	U	504
+#504	FN	--	H	505
+#505	FN	--	--	0
+#EOS 26762007

@@ -1,0 +1,28 @@
+#BOS 26793003
+Es	Word	--	Terminal	500
+war	Word	--	Terminal	501
+ein	Word	--	Terminal	502
+Garten	Word	--	Terminal	503
+voll	Word	--	Terminal	504
+blühender	Word	--	Terminal	505
+Rosen	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+#500	FN	--	F	514
+#501	FN	--	S	514
+#502	FN	--	F	513
+#503	FN	--	C	513	A*	512
+#504	FN	--	S	512
+#505	FN	--	S	510
+#506	FN	--	C	511	A*	510
+#507	PNCT	--	U	511
+#508	PNCT	--	U	511
+#509	PNCT	--	U	511
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26793003

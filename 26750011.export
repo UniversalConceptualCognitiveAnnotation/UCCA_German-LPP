@@ -1,0 +1,31 @@
+#BOS 26750011
+Ich	Word	--	Terminal	500
+sprang	Word	--	Terminal	501
+auf	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+als	Word	--	Terminal	503
+wäre	Word	--	Terminal	504
+ich	Word	--	Terminal	505
+von	Word	--	Terminal	506
+dem	Word	--	Terminal	507
+Blitz	Word	--	Terminal	508
+getroffen	Word	--	Terminal	509
+worden	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	P	512
+#502	PNCT	--	U	515
+#503	FN	--	L	515
+#504	FN	--	D	514
+#505	FN	--	A	514
+#506	FN	--	R	513
+#507	FN	--	F	513
+#508	FN	--	C	513
+#509	FN	--	P	514
+#510	FN	--	F	514
+#511	PNCT	--	U	514
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26750011

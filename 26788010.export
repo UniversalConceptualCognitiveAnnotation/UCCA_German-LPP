@@ -1,0 +1,23 @@
+#BOS 26788010
+Sie	Word	--	Terminal	500
+lieben	Word	--	Terminal	501
+Zahlen	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+das	Word	--	Terminal	504
+wird	Word	--	Terminal	505
+ihnen	Word	--	Terminal	506
+gefallen	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509
+#501	FN	--	S	509
+#502	FN	--	A	509
+#503	PNCT	--	U	511
+#504	FN	--	A	510
+#505	FN	--	F	510
+#506	FN	--	A	510
+#507	FN	--	S	510
+#508	PNCT	--	U	510
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26788010

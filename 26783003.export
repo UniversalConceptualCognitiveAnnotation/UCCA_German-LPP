@@ -1,0 +1,35 @@
+#BOS 26783003
+Der	Word	--	Terminal	500
+kleine	Word	--	Terminal	501
+Prinz	Word	--	Terminal	502
+setzte	Word	--	Terminal	503
+sich	Word	--	Terminal	503
+an	Word	--	Terminal	504
+den	Word	--	Terminal	505
+Tisch	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+um	Word	--	Terminal	508
+ein	Word	--	Terminal	509
+wenig	Word	--	Terminal	509
+zu	Word	--	Terminal	510
+verschnaufen	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	F	513
+#501	FN	--	E	513
+#502	FN	--	C	513	A*	514
+#503	FN	--	P	516
+#504	FN	--	R	515
+#505	FN	--	F	515
+#506	FN	--	C	515
+#507	PNCT	--	U	517
+#508	FN	--	L	517
+#509	FN	--	D	514
+#510	FN	--	F	514
+#511	FN	--	P	514
+#512	PNCT	--	U	514
+#513	FN	--	A	516
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26783003

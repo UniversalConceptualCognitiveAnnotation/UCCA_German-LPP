@@ -1,0 +1,23 @@
+#BOS 26774002
+Aber	Word	--	Terminal	500
+warum	Word	--	Terminal	501
+interessiert	Word	--	Terminal	502
+dich	Word	--	Terminal	503
+das	Word	--	Terminal	504
+bloß	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+#500	FN	--	L	510
+#501	FN	--	A	509
+#502	FN	--	P	509
+#503	FN	--	A	509
+#504	FN	--	A	509
+#505	FN	--	D	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	PNCT	--	U	509
+#509	FN	--	H	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26774002

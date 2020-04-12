@@ -1,0 +1,24 @@
+#BOS 26748005
+Dabei	Word	--	Terminal	500
+war	Word	--	Terminal	501
+auf	Word	--	Terminal	502
+meinem	Word	--	Terminal	503
+Bild	Word	--	Terminal	504
+gar	Word	--	Terminal	505
+kein	Word	--	Terminal	506
+Hut	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512
+#501	FN	--	S	511
+#502	FN	--	R	509
+#503	FN	--	E	509
+#504	FN	--	C	509
+#505	FN	--	E	510
+#506	FN	--	C	510
+#507	FN	--	A	511
+#508	PNCT	--	U	511
+#509	FN	--	A	511
+#510	FN	--	D	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26748005

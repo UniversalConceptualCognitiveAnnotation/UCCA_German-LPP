@@ -1,0 +1,45 @@
+#BOS 26810002
+Und	Word	--	Terminal	500
+ich	Word	--	Terminal	501
+verstand	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+dass	Word	--	Terminal	504
+ich	Word	--	Terminal	505
+die	Word	--	Terminal	506
+Vorstellung	Word	--	Terminal	507
+nicht	Word	--	Terminal	508
+ertrug	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+nie	Word	--	Terminal	511
+wieder	Word	--	Terminal	512
+dieses	Word	--	Terminal	513
+Lachen	Word	--	Terminal	514
+zu	Word	--	Terminal	515
+hören	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	524
+#501	FN	--	A	523
+#502	FN	--	S	523
+#503	PNCT	--	U	523
+#504	FN	--	R	522
+#505	FN	--	A	522	A*	520
+#506	FN	--	F	521
+#507	FN	--	C	521	A*	520
+#508	FN	--	D	522
+#509	FN	--	P	522
+#510	PNCT	--	U	522
+#511	FN	--	T	520
+#512	FN	--	D	520
+#513	FN	--	E	519
+#514	FN	--	P	518
+#515	FN	--	F	520
+#516	FN	--	P	520
+#517	PNCT	--	U	520
+#518	FN	--	C	519
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 26810002

@@ -1,0 +1,36 @@
+#BOS 26804000
+Weil	Word	--	Terminal	500
+der	Word	--	Terminal	501
+kleine	Word	--	Terminal	502
+Prinz	Word	--	Terminal	503
+einschlief	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+nahm	Word	--	Terminal	506
+ich	Word	--	Terminal	507
+ihn	Word	--	Terminal	508
+in	Word	--	Terminal	506
+meine	Word	--	Terminal	506
+Arme	Word	--	Terminal	506
+und	Word	--	Terminal	509
+lief	Word	--	Terminal	510
+weiter	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	F	513
+#502	FN	--	E	513
+#503	FN	--	C	513
+#504	FN	--	P	514
+#505	PNCT	--	U	517
+#506	FN	--	P	515
+#507	FN	--	A	515	A*	516
+#508	FN	--	A	515
+#509	FN	--	L	517
+#510	FN	--	P	516
+#511	FN	--	D	516
+#512	PNCT	--	U	516
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	H	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26804000

@@ -1,0 +1,26 @@
+#BOS 26764011
+Sie	Word	--	Terminal	500
+konnte	Word	--	Terminal	501
+gar	Word	--	Terminal	502
+nichts	Word	--	Terminal	503
+von	Word	--	Terminal	504
+den	Word	--	Terminal	505
+anderen	Word	--	Terminal	506
+Welten	Word	--	Terminal	507
+kennen	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512
+#501	FN	--	D	512
+#502	FN	--	E	510
+#503	FN	--	C	510
+#504	FN	--	R	511
+#505	FN	--	F	511
+#506	FN	--	E	511
+#507	FN	--	C	511
+#508	FN	--	S	512
+#509	PNCT	--	U	512
+#510	FN	--	D	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26764011

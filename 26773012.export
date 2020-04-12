@@ -1,0 +1,19 @@
+#BOS 26773012
+Doch	Word	--	Terminal	500
+der	Word	--	Terminal	501
+Eitle	Word	--	Terminal	502
+hörte	Word	--	Terminal	503
+ihn	Word	--	Terminal	504
+nicht	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	509
+#501	FN	--	F	507
+#502	FN	--	C	507
+#503	FN	--	P	508
+#504	FN	--	A	508
+#505	FN	--	D	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26773012

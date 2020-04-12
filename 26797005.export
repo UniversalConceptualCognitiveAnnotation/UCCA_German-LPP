@@ -1,0 +1,24 @@
+#BOS 26797005
+Natürlich	Word	--	Terminal	500
+"	Punctuation	--	Terminal	501
+,	Punctuation	--	Terminal	502
+sagte	Word	--	Terminal	503
+der	Word	--	Terminal	504
+Fuchs	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	FN	--	S	509
+#501	PNCT	--	U	511
+#502	PNCT	--	U	511
+#503	FN	--	P	511
+#504	FN	--	F	510
+#505	FN	--	C	510
+#506	PNCT	--	U	510
+#507	PNCT	--	U	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26797005

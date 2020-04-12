@@ -1,0 +1,29 @@
+#BOS 26769019
+Und	Word	--	Terminal	500
+auch	Word	--	Terminal	501
+die	Word	--	Terminal	502
+Sterne	Word	--	Terminal	503
+gehorchen	Word	--	Terminal	504
+Euch	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+#500	FN	--	L	512
+#501	FN	--	L	512
+#502	FN	--	F	510
+#503	FN	--	C	510
+#504	FN	--	P	511
+#505	FN	--	A	511
+#506	PNCT	--	U	511
+#507	PNCT	--	U	511
+#508	PNCT	--	U	511
+#509	PNCT	--	U	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	A	515
+#513	FN	--	P	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26769019

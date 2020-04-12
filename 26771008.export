@@ -1,0 +1,38 @@
+#BOS 26771008
+Aber	Word	--	Terminal	500
+es	Word	--	Terminal	501
+gibt	Word	--	Terminal	502
+doch	Word	--	Terminal	503
+niemanden	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+den	Word	--	Terminal	506
+man	Word	--	Terminal	507
+verurteilen	Word	--	Terminal	508
+könnte	Word	--	Terminal	509
+!	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	FN	--	L	517
+#501	FN	--	F	516
+#502	FN	--	S	516
+#503	FN	--	D	516
+#504	FN	--	C	515	A*	514
+#505	PNCT	--	U	515
+#506	FN	--	R	514
+#507	FN	--	A	514
+#508	FN	--	P	514
+#509	FN	--	D	514
+#510	PNCT	--	U	514
+#511	PNCT	--	U	514
+#512	PNCT	--	U	514
+#513	PNCT	--	U	514
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	A	520
+#518	FN	--	P	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26771008

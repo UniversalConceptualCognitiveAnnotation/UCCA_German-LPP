@@ -1,0 +1,40 @@
+#BOS 26768001
+So	Word	--	Terminal	500
+begann	Word	--	Terminal	501
+er	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+ihnen	Word	--	Terminal	504
+einen	Word	--	Terminal	505
+Besuch	Word	--	Terminal	505
+abzustatten	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+um	Word	--	Terminal	507
+sich	Word	--	Terminal	508
+zu	Word	--	Terminal	509
+beschäftigen	Word	--	Terminal	508
+und	Word	--	Terminal	510
+sich	Word	--	Terminal	511
+schlau	Word	--	Terminal	511
+zu	Word	--	Terminal	512
+machen	Word	--	Terminal	511
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	518
+#501	FN	--	P	515
+#502	FN	--	A	515	A*	516	A*	517	A*	514
+#503	PNCT	--	U	515
+#504	FN	--	A	514
+#505	FN	--	P	514
+#506	PNCT	--	U	518
+#507	FN	--	L	518
+#508	FN	--	P	516
+#509	FN	--	F	516
+#510	FN	--	L	518
+#511	FN	--	P	517
+#512	FN	--	F	517
+#513	PNCT	--	U	517
+#514	FN	--	A	515
+#515	FN	--	H	518
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26768001

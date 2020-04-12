@@ -1,0 +1,21 @@
+#BOS 26787009
+Dann	Word	--	Terminal	500
+verschwanden	Word	--	Terminal	501
+auch	Word	--	Terminal	502
+sie	Word	--	Terminal	503
+hinter	Word	--	Terminal	504
+den	Word	--	Terminal	505
+Kulissen	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	510
+#501	FN	--	P	509
+#502	FN	--	D	509
+#503	FN	--	A	509
+#504	FN	--	R	508
+#505	FN	--	F	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26787009

@@ -1,0 +1,32 @@
+#BOS 26759009
+Einmal	Word	--	Terminal	500
+hab	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+die	Word	--	Terminal	503
+Sonne	Word	--	Terminal	504
+dreiundvierzig	Word	--	Terminal	505
+Mal	Word	--	Terminal	506
+untergehen	Word	--	Terminal	507
+sehen	Word	--	Terminal	508
+!	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	T	514
+#501	FN	--	F	514
+#502	FN	--	A	514
+#503	FN	--	F	511
+#504	FN	--	C	511
+#505	FN	--	Q	512
+#506	FN	--	C	512
+#507	FN	--	P	513
+#508	FN	--	P	514
+#509	PNCT	--	U	514
+#510	PNCT	--	U	514
+#511	FN	--	A	513
+#512	FN	--	D	513
+#513	FN	--	A	514
+#514	FN	--	A	517
+#515	FN	--	P	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26759009

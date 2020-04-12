@@ -1,0 +1,31 @@
+#BOS 26756006
+Eigentlich	Word	--	Terminal	500
+hätte	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+die	Word	--	Terminal	503
+Geschichte	Word	--	Terminal	504
+viel	Word	--	Terminal	505
+lieber	Word	--	Terminal	506
+wie	Word	--	Terminal	507
+ein	Word	--	Terminal	508
+Märchen	Word	--	Terminal	509
+begonnen	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	G	515
+#501	FN	--	D	515
+#502	FN	--	A	515
+#503	FN	--	F	512
+#504	FN	--	C	512
+#505	FN	--	E	513
+#506	FN	--	C	513
+#507	FN	--	R	514
+#508	FN	--	F	514
+#509	FN	--	C	514
+#510	FN	--	P	515
+#511	PNCT	--	U	515
+#512	FN	--	A	515
+#513	FN	--	D	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26756006

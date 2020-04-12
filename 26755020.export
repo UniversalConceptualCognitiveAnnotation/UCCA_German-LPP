@@ -1,0 +1,46 @@
+#BOS 26755020
+Man	Word	--	Terminal	500
+muss	Word	--	Terminal	501
+ihnen	Word	--	Terminal	502
+sagen	Word	--	Terminal	503
+:	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	505
+Ich	Word	--	Terminal	506
+habe	Word	--	Terminal	507
+ein	Word	--	Terminal	508
+Haus	Word	--	Terminal	509
+gesehen	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+dass	Word	--	Terminal	512
+hunderttausend	Word	--	Terminal	513
+Francs	Word	--	Terminal	514
+wert	Word	--	Terminal	515
+ist	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+"	Punctuation	--	Terminal	518
+#500	FN	--	A	523
+#501	FN	--	D	523
+#502	FN	--	A	523
+#503	FN	--	P	523
+#504	PNCT	--	U	523
+#505	PNCT	--	U	523
+#506	FN	--	A	522
+#507	FN	--	F	522
+#508	FN	--	F	521
+#509	FN	--	C	521	A*	520
+#510	FN	--	P	522
+#511	PNCT	--	U	522
+#512	FN	--	R	520
+#513	FN	--	Q	519
+#514	FN	--	C	519
+#515	FN	--	S	520
+#516	FN	--	F	520
+#517	PNCT	--	U	520
+#518	PNCT	--	U	520
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 26755020

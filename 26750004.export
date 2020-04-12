@@ -1,0 +1,24 @@
+#BOS 26750004
+Ich	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+Trink	Word	--	Terminal	502
+wasser	Word	--	Terminal	503
+für	Word	--	Terminal	504
+knapp	Word	--	Terminal	505
+acht	Word	--	Terminal	506
+Tage	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	511
+#501	FN	--	S	511
+#502	FN	--	E	509
+#503	FN	--	C	509
+#504	FN	--	R	510
+#505	FN	--	E	510
+#506	FN	--	Q	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	T	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26750004

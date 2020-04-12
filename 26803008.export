@@ -1,0 +1,19 @@
+#BOS 26803008
+Ich	Word	--	Terminal	500
+habe	Word	--	Terminal	501
+die	Word	--	Terminal	502
+Wüste	Word	--	Terminal	503
+immer	Word	--	Terminal	504
+geliebt	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	508
+#501	FN	--	F	508
+#502	FN	--	F	507
+#503	FN	--	C	507
+#504	FN	--	T	508
+#505	FN	--	P	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26803008

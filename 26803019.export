@@ -1,0 +1,47 @@
+#BOS 26803019
+Ich	Word	--	Terminal	500
+bin	Word	--	Terminal	501
+zufrieden	Word	--	Terminal	502
+"	Punctuation	--	Terminal	503
+,	Punctuation	--	Terminal	504
+sagte	Word	--	Terminal	505
+er	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+dass	Word	--	Terminal	509
+du	Word	--	Terminal	510
+es	Word	--	Terminal	511
+genauso	Word	--	Terminal	512
+siehst	Word	--	Terminal	513
+wie	Word	--	Terminal	514
+mein	Word	--	Terminal	515
+Fuchs	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+"	Punctuation	--	Terminal	518
+#500	FN	--	A	523
+#501	FN	--	F	523
+#502	FN	--	S	523
+#503	PNCT	--	U	524
+#504	PNCT	--	U	524
+#505	FN	--	P	524
+#506	FN	--	A	524
+#507	PNCT	--	U	524
+#508	PNCT	--	U	524
+#509	FN	--	R	522
+#510	FN	--	A	522
+#511	FN	--	F	522
+#512	FN	--	D	522
+#513	FN	--	P	522	P*	521
+#514	FN	--	R	521
+#515	FN	--	A	519
+#516	FN	--	C	520	A*	519
+#517	PNCT	--	U	520
+#518	PNCT	--	U	520
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 26803019

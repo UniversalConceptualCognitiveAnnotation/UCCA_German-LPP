@@ -1,0 +1,38 @@
+#BOS 26800009
+Waren	Word	--	Terminal	500
+sie	Word	--	Terminal	501
+nicht	Word	--	Terminal	502
+zufrieden	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+dort	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+wo	Word	--	Terminal	507
+sie	Word	--	Terminal	508
+waren	Word	--	Terminal	509
+?	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	FN	--	F	517
+#501	FN	--	A	517
+#502	FN	--	D	517
+#503	FN	--	S	517
+#504	PNCT	--	U	517
+#505	FN	--	C	516	A*	514
+#506	PNCT	--	U	516
+#507	FN	--	C	515
+#508	FN	--	A	514
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	PNCT	--	U	514
+#512	PNCT	--	U	514
+#513	PNCT	--	U	514
+#514	FN	--	E	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	A	520
+#518	FN	--	P	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26800009

@@ -1,0 +1,25 @@
+#BOS 26750012
+Ich	Word	--	Terminal	500
+rieb	Word	--	Terminal	501
+mir	Word	--	Terminal	502
+die	Word	--	Terminal	503
+Augen	Word	--	Terminal	504
+und	Word	--	Terminal	505
+schaute	Word	--	Terminal	506
+genau	Word	--	Terminal	507
+hin	Word	--	Terminal	506
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	511	A*	509
+#501	FN	--	P	511
+#502	FN	--	A	511
+#503	FN	--	F	510
+#504	FN	--	C	510
+#505	FN	--	L	512
+#506	FN	--	P	509
+#507	FN	--	D	509
+#508	PNCT	--	U	509
+#509	FN	--	H	512
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26750012

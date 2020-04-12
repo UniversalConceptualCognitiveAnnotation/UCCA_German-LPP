@@ -1,0 +1,26 @@
+#BOS 26769010
+Über	Word	--	Terminal	500
+wen	Word	--	Terminal	501
+konnte	Word	--	Terminal	502
+der	Word	--	Terminal	503
+König	Word	--	Terminal	504
+denn	Word	--	Terminal	505
+regieren	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+#500	FN	--	R	510
+#501	FN	--	C	510
+#502	FN	--	D	512
+#503	FN	--	F	511
+#504	FN	--	C	511
+#505	FN	--	F	512
+#506	FN	--	P	512
+#507	PNCT	--	U	512
+#508	PNCT	--	U	512
+#509	PNCT	--	U	512
+#510	FN	--	A	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26769010

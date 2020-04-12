@@ -1,0 +1,24 @@
+#BOS 26810012
+Dann	Word	--	Terminal	500
+werde	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+dir	Word	--	Terminal	503
+ein	Word	--	Terminal	504
+Geschenk	Word	--	Terminal	505
+machen	Word	--	Terminal	506
+...	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	FN	--	L	511
+#501	FN	--	F	510
+#502	FN	--	A	510
+#503	FN	--	A	510
+#504	FN	--	F	509
+#505	FN	--	C	509
+#506	FN	--	P	510
+#507	PNCT	--	U	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26810012

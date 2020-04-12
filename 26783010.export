@@ -1,0 +1,28 @@
+#BOS 26783010
+Das	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+sehr	Word	--	Terminal	502
+interessant	Word	--	Terminal	503
+"	Punctuation	--	Terminal	504
+,	Punctuation	--	Terminal	505
+sagte	Word	--	Terminal	506
+der	Word	--	Terminal	507
+kleine	Word	--	Terminal	508
+Prinz	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511
+#501	FN	--	F	511
+#502	FN	--	D	511
+#503	FN	--	S	511
+#504	PNCT	--	U	513
+#505	PNCT	--	U	513
+#506	FN	--	P	513
+#507	FN	--	F	512
+#508	FN	--	E	512
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 26783010

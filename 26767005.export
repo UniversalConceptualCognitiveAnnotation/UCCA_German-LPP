@@ -1,0 +1,20 @@
+#BOS 26767005
+Sie	Word	--	Terminal	500
+war	Word	--	Terminal	501
+eine	Word	--	Terminal	502
+so	Word	--	Terminal	503
+stolze	Word	--	Terminal	504
+Blume	Word	--	Terminal	505
+...	Punctuation	--	Terminal	506
+#500	FN	--	A	509	A*	507
+#501	FN	--	S	509
+#502	FN	--	F	508
+#503	FN	--	D	507
+#504	FN	--	S	507
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	E	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26767005

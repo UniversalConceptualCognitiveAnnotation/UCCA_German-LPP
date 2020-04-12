@@ -1,0 +1,40 @@
+#BOS 26789000
+Der	Word	--	Terminal	500
+kleine	Word	--	Terminal	501
+Prinz	Word	--	Terminal	502
+setze	Word	--	Terminal	503
+sich	Word	--	Terminal	503
+auf	Word	--	Terminal	504
+einen	Word	--	Terminal	505
+Stein	Word	--	Terminal	506
+und	Word	--	Terminal	507
+schaute	Word	--	Terminal	508
+hinauf	Word	--	Terminal	508
+in	Word	--	Terminal	509
+den	Word	--	Terminal	510
+Himmel	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	F	515
+#501	FN	--	E	515
+#502	FN	--	C	515	A*	519
+#503	FN	--	P	518
+#504	FN	--	R	516
+#505	FN	--	F	516
+#506	FN	--	C	516
+#507	FN	--	L	520
+#508	FN	--	P	519
+#509	FN	--	R	517
+#510	FN	--	F	517
+#511	FN	--	C	517
+#512	PNCT	--	U	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	FN	--	A	518
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 26789000

@@ -1,0 +1,12 @@
+#BOS 26803003
+Er	Word	--	Terminal	500
+setzte	Word	--	Terminal	501
+sich	Word	--	Terminal	501
+hin	Word	--	Terminal	501
+.	Punctuation	--	Terminal	502
+#500	FN	--	A	503
+#501	FN	--	P	503
+#502	PNCT	--	U	503
+#503	FN	--	H	504
+#504	FN	--	--	0
+#EOS 26803003

@@ -1,0 +1,33 @@
+#BOS 26769001
+Denn	Word	--	Terminal	500
+dem	Word	--	Terminal	501
+König	Word	--	Terminal	502
+lag	Word	--	Terminal	503
+besonders	Word	--	Terminal	504
+daran	Word	--	Terminal	503
+,	Punctuation	--	Terminal	505
+dass	Word	--	Terminal	506
+seine	Word	--	Terminal	507
+Autorität	Word	--	Terminal	508
+geschätzt	Word	--	Terminal	509
+würde	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	517
+#501	FN	--	F	512
+#502	FN	--	C	512
+#503	FN	--	S	516
+#504	FN	--	D	516
+#505	PNCT	--	U	516
+#506	FN	--	R	515
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	S	515
+#510	FN	--	F	515
+#511	PNCT	--	U	515
+#512	FN	--	A	516
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26769001

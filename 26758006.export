@@ -1,0 +1,59 @@
+#BOS 26758006
+Um	Word	--	Terminal	500
+meine	Word	--	Terminal	501
+Freunde	Word	--	Terminal	502
+vor	Word	--	Terminal	503
+dieser	Word	--	Terminal	504
+unbekannten	Word	--	Terminal	505
+Gefahr	Word	--	Terminal	506
+zu	Word	--	Terminal	507
+warnen	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+der	Word	--	Terminal	510
+sie	Word	--	Terminal	511
+-	Punctuation	--	Terminal	512
+ebenso	Word	--	Terminal	513
+wie	Word	--	Terminal	514
+ich	Word	--	Terminal	515
+-	Punctuation	--	Terminal	516
+bislang	Word	--	Terminal	517
+stets	Word	--	Terminal	518
+knapp	Word	--	Terminal	519
+entkommen	Word	--	Terminal	520
+waren	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	L	533
+#501	FN	--	E	524	A*	523
+#502	FN	--	S	523
+#503	FN	--	R	530
+#504	FN	--	E	525
+#505	FN	--	S	526
+#506	FN	--	C	525	A*	527
+#507	FN	--	F	532
+#508	FN	--	P	532
+#509	PNCT	--	U	532
+#510	FN	--	R	527
+#511	FN	--	A	527
+#512	PNCT	--	U	530
+#513	FN	--	L	529
+#514	FN	--	L	529
+#515	FN	--	A	528
+#516	PNCT	--	U	530
+#517	FN	--	T	527
+#518	FN	--	D	527
+#519	FN	--	D	527
+#520	FN	--	P	527	P*	528
+#521	FN	--	F	527
+#522	PNCT	--	U	527
+#523	FN	--	C	524
+#524	FN	--	A	532
+#525	FN	--	A	526
+#526	FN	--	C	530
+#527	FN	--	E	530
+#528	FN	--	H	529
+#529	FN	--	E	530
+#530	FN	--	A	532
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 26758006

@@ -1,0 +1,22 @@
+#BOS 26757023
+Der	Word	--	Terminal	500
+Boden	Word	--	Terminal	501
+des	Word	--	Terminal	502
+Planeten	Word	--	Terminal	503
+war	Word	--	Terminal	504
+davon	Word	--	Terminal	505
+übersät	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	F	509
+#501	FN	--	C	509
+#502	FN	--	R	508
+#503	FN	--	C	508
+#504	FN	--	F	510
+#505	FN	--	A	510
+#506	FN	--	S	510
+#507	PNCT	--	U	510
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26757023

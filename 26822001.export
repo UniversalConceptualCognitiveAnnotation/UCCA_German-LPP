@@ -1,0 +1,33 @@
+#BOS 26822001
+Fragt	Word	--	Terminal	500
+euch	Word	--	Terminal	501
+:	Punctuation	--	Terminal	502
+Hat	Word	--	Terminal	503
+das	Word	--	Terminal	504
+Schaf	Word	--	Terminal	505
+die	Word	--	Terminal	506
+Blume	Word	--	Terminal	507
+gefressen	Word	--	Terminal	508
+oder	Word	--	Terminal	509
+nicht	Word	--	Terminal	510
+?	Punctuation	--	Terminal	511
+#500	FN	--	P	517
+#501	FN	--	A	517
+#502	PNCT	--	U	517
+#503	FN	--	F	515
+#504	FN	--	F	512
+#505	FN	--	C	512	A*	513
+#506	FN	--	F	514
+#507	FN	--	C	514
+#508	FN	--	P	515	P*	513
+#509	FN	--	L	518
+#510	FN	--	D	513
+#511	PNCT	--	U	513
+#512	FN	--	A	515
+#513	FN	--	H	518
+#514	FN	--	A	515
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26822001

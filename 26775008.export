@@ -1,0 +1,45 @@
+#BOS 26775008
+Für	Word	--	Terminal	500
+das	Word	--	Terminal	501
+Saufen	Word	--	Terminal	502
+!	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	504
+,	Punctuation	--	Terminal	505
+gab	Word	--	Terminal	506
+der	Word	--	Terminal	507
+Säufer	Word	--	Terminal	508
+zu	Word	--	Terminal	506
+und	Word	--	Terminal	509
+vergrub	Word	--	Terminal	510
+sich	Word	--	Terminal	510
+endgültig	Word	--	Terminal	511
+in	Word	--	Terminal	512
+Schweigen	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	R	519
+#501	FN	--	F	519
+#502	FN	--	P	515
+#503	PNCT	--	U	524
+#504	PNCT	--	U	524
+#505	PNCT	--	U	524
+#506	FN	--	P	524
+#507	FN	--	F	516
+#508	FN	--	C	516	A*	518	A*	517
+#509	FN	--	L	525
+#510	FN	--	P	518
+#511	FN	--	D	518
+#512	FN	--	R	517
+#513	FN	--	S	517
+#514	PNCT	--	U	517
+#515	FN	--	C	519
+#516	FN	--	A	524
+#517	FN	--	A	518
+#518	FN	--	H	525
+#519	FN	--	A	522
+#520	FN	--	A	522
+#521	FN	--	P	522
+#522	FN	--	H	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 26775008

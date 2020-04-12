@@ -1,0 +1,29 @@
+#BOS 26766001
+An	Word	--	Terminal	500
+dem	Word	--	Terminal	501
+Tag	Word	--	Terminal	502
+seiner	Word	--	Terminal	503
+Abreise	Word	--	Terminal	504
+räumte	Word	--	Terminal	505
+er	Word	--	Terminal	506
+seinen	Word	--	Terminal	507
+Planeten	Word	--	Terminal	508
+auf	Word	--	Terminal	505
+.	Punctuation	--	Terminal	509
+#500	FN	--	R	510
+#501	FN	--	F	510
+#502	FN	--	C	510
+#503	FN	--	A	511
+#504	FN	--	P	511
+#505	FN	--	P	514
+#506	FN	--	A	514
+#507	FN	--	S	512
+#508	FN	--	C	513	A*	512
+#509	PNCT	--	U	514
+#510	FN	--	T	514
+#511	FN	--	H	515
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26766001

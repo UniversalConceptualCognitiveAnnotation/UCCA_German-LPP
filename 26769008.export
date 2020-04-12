@@ -1,0 +1,18 @@
+#BOS 26769008
+Aber	Word	--	Terminal	500
+der	Word	--	Terminal	501
+kleine	Word	--	Terminal	502
+Prinz	Word	--	Terminal	503
+wunderte	Word	--	Terminal	504
+sich	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	L	508
+#501	FN	--	F	506
+#502	FN	--	E	506
+#503	FN	--	C	506
+#504	FN	--	P	507
+#505	PNCT	--	U	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 26769008

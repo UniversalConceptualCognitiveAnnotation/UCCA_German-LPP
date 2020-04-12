@@ -1,0 +1,44 @@
+#BOS 26759000
+Kapitel	Word	--	Terminal	500
+VI	Word	--	Terminal	501
+Ach	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+kleiner	Word	--	Terminal	504
+Prinz	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+nach	Word	--	Terminal	507
+und	Word	--	Terminal	507
+nach	Word	--	Terminal	507
+habe	Word	--	Terminal	508
+ich	Word	--	Terminal	509
+so	Word	--	Terminal	510
+dein	Word	--	Terminal	511
+kleines	Word	--	Terminal	512
+trauriges	Word	--	Terminal	513
+Leben	Word	--	Terminal	514
+verstanden	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	E	517
+#501	FN	--	C	517
+#502	FN	--	F	521
+#503	PNCT	--	U	521
+#504	FN	--	E	518
+#505	FN	--	C	518
+#506	PNCT	--	U	521
+#507	FN	--	D	521
+#508	FN	--	F	521
+#509	FN	--	A	521
+#510	FN	--	D	521
+#511	FN	--	E	520
+#512	FN	--	D	519
+#513	FN	--	S	519
+#514	FN	--	C	520	A*	519
+#515	FN	--	S	521
+#516	PNCT	--	U	521
+#517	FN	--	H	522
+#518	FN	--	G	521
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26759000

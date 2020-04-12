@@ -1,0 +1,29 @@
+#BOS 26761008
+Er	Word	--	Terminal	500
+schüttelte	Word	--	Terminal	501
+sein	Word	--	Terminal	502
+goldenes	Word	--	Terminal	503
+Haar	Word	--	Terminal	504
+in	Word	--	Terminal	505
+dem	Word	--	Terminal	506
+Wind	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	E	512
+#503	FN	--	S	511
+#504	FN	--	C	512	A*	511
+#505	FN	--	R	513
+#506	FN	--	F	513
+#507	FN	--	C	513
+#508	PNCT	--	U	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	E	512
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26761008

@@ -1,0 +1,20 @@
+#BOS 26787001
+Die	Word	--	Terminal	500
+Erde	Word	--	Terminal	501
+ist	Word	--	Terminal	502
+nicht	Word	--	Terminal	503
+irgendein	Word	--	Terminal	504
+Planet	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+#500	FN	--	F	507
+#501	FN	--	C	507
+#502	FN	--	S	509
+#503	FN	--	D	509
+#504	FN	--	E	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	A	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26787001

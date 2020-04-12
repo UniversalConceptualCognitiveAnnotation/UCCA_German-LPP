@@ -1,0 +1,24 @@
+#BOS 26766024
+Diese	Word	--	Terminal	500
+ruhige	Word	--	Terminal	501
+Liebenswürdigkeit	Word	--	Terminal	502
+verstand	Word	--	Terminal	503
+er	Word	--	Terminal	504
+nicht	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	FN	--	E	509
+#501	FN	--	D	510
+#502	FN	--	C	509
+#503	FN	--	S	511
+#504	FN	--	A	511
+#505	FN	--	D	511
+#506	PNCT	--	U	511
+#507	PNCT	--	U	511
+#508	PNCT	--	U	511
+#509	FN	--	S	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26766024

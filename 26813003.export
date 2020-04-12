@@ -1,0 +1,25 @@
+#BOS 26813003
+Und	Word	--	Terminal	500
+er	Word	--	Terminal	501
+setzte	Word	--	Terminal	502
+sich	Word	--	Terminal	502
+hin	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+denn	Word	--	Terminal	504
+er	Word	--	Terminal	505
+hatte	Word	--	Terminal	506
+Angst	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	511
+#501	FN	--	A	509
+#502	FN	--	P	509
+#503	PNCT	--	U	511
+#504	FN	--	L	511
+#505	FN	--	A	510
+#506	FN	--	F	510
+#507	FN	--	S	510
+#508	PNCT	--	U	510
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26813003

@@ -1,0 +1,35 @@
+#BOS 26763005
+Doch	Word	--	Terminal	500
+bald	Word	--	Terminal	501
+schon	Word	--	Terminal	502
+hörte	Word	--	Terminal	503
+der	Word	--	Terminal	504
+Strauch	Word	--	Terminal	505
+auf	Word	--	Terminal	503
+zu	Word	--	Terminal	506
+wachsen	Word	--	Terminal	507
+und	Word	--	Terminal	508
+eine	Word	--	Terminal	509
+Blüte	Word	--	Terminal	510
+gedieh	Word	--	Terminal	511
+heran	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	T	514
+#502	FN	--	D	514
+#503	FN	--	D	514
+#504	FN	--	F	513
+#505	FN	--	C	513
+#506	FN	--	F	514
+#507	FN	--	P	514
+#508	FN	--	L	517
+#509	FN	--	F	515
+#510	FN	--	C	515
+#511	FN	--	P	516
+#512	PNCT	--	U	516
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26763005

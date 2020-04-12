@@ -1,0 +1,40 @@
+#BOS 26787005
+Die	Word	--	Terminal	500
+Bewegungen	Word	--	Terminal	501
+dieser	Word	--	Terminal	502
+Armee	Word	--	Terminal	503
+waren	Word	--	Terminal	504
+einstudiert	Word	--	Terminal	505
+wie	Word	--	Terminal	506
+bei	Word	--	Terminal	507
+einer	Word	--	Terminal	508
+Ballett	Word	--	Terminal	509
+truppe	Word	--	Terminal	510
+an	Word	--	Terminal	511
+der	Word	--	Terminal	512
+Oper	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	F	515
+#501	FN	--	C	515
+#502	FN	--	R	516
+#503	FN	--	C	516
+#504	FN	--	F	521
+#505	FN	--	S	521	S*	520
+#506	FN	--	D	520
+#507	FN	--	R	517
+#508	FN	--	F	517
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	R	518
+#512	FN	--	F	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	P	519
+#516	FN	--	A	519
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26787005

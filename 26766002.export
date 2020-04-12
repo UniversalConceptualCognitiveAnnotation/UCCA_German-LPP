@@ -1,0 +1,24 @@
+#BOS 26766002
+Die	Word	--	Terminal	500
+noch	Word	--	Terminal	501
+aktiven	Word	--	Terminal	502
+Vulkane	Word	--	Terminal	503
+fegte	Word	--	Terminal	504
+er	Word	--	Terminal	505
+sorgfältig	Word	--	Terminal	506
+sauber	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	F	510
+#501	FN	--	D	509
+#502	FN	--	S	509
+#503	FN	--	C	510	A*	509
+#504	FN	--	P	511
+#505	FN	--	A	511
+#506	FN	--	D	511
+#507	FN	--	D	511
+#508	PNCT	--	U	511
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26766002

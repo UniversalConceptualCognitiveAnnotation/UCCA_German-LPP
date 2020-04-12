@@ -1,0 +1,19 @@
+#BOS 26806016
+Ich	Word	--	Terminal	500
+kritzelte	Word	--	Terminal	501
+also	Word	--	Terminal	502
+einen	Word	--	Terminal	503
+Maul	Word	--	Terminal	504
+korb	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	508
+#501	FN	--	P	508
+#502	FN	--	D	508
+#503	FN	--	F	507
+#504	FN	--	E	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26806016

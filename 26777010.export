@@ -1,0 +1,38 @@
+#BOS 26777010
+Du	Word	--	Terminal	500
+besitzt	Word	--	Terminal	501
+die	Word	--	Terminal	502
+Sterne	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+Ja	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+"	Punctuation	--	Terminal	512
+#500	FN	--	A	515
+#501	FN	--	S	515	S*	513
+#502	FN	--	F	514
+#503	FN	--	C	514	A*	513
+#504	PNCT	--	U	513
+#505	PNCT	--	U	513
+#506	PNCT	--	U	513
+#507	PNCT	--	U	513
+#508	FN	--	D	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	PNCT	--	U	513
+#512	PNCT	--	U	513
+#513	FN	--	A	518
+#514	FN	--	A	515
+#515	FN	--	A	521
+#516	FN	--	P	518
+#517	FN	--	A	518
+#518	FN	--	H	522
+#519	FN	--	P	521
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26777010

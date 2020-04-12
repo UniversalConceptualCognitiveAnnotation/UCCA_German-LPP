@@ -1,0 +1,17 @@
+#BOS 26807007
+Der	Word	--	Terminal	500
+kleine	Word	--	Terminal	501
+Prinz	Word	--	Terminal	502
+errötete	Word	--	Terminal	503
+wieder	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	F	506
+#501	FN	--	E	506
+#502	FN	--	C	506
+#503	FN	--	P	507
+#504	FN	--	D	507
+#505	PNCT	--	U	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 26807007

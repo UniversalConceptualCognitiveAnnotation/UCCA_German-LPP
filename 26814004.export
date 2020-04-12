@@ -1,0 +1,18 @@
+#BOS 26814004
+Das	Word	--	Terminal	500
+heißt	Word	--	Terminal	500
+...	Punctuation	--	Terminal	501
+nicht	Word	--	Terminal	502
+ganz	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	F	508
+#501	PNCT	--	U	508
+#502	FN	--	C	505
+#503	FN	--	E	505
+#504	PNCT	--	U	505
+#505	FN	--	D	508
+#506	FN	--	S	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26814004
