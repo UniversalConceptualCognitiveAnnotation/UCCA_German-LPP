@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26752003
+# text = Weil es bei mir ganz klein ist ... " - " Es reicht ganz sicher aus . Ich habe dir ein ganz kleines Schaf gegeben . "
+1	Weil	_	Word	Word	_	13	L	13:L	_
+2	es	_	Word	Word	_	6	F	6:F	_
+3	bei	_	Word	Word	_	4	R	4:R	_
+4	mir	_	Word	Word	_	6	A	6:A	_
+5	ganz	_	Word	Word	_	6	D	6:D	_
+6	klein	_	Word	Word	_	0	H	0:H	_
+7	ist	_	Word	Word	_	6	F	6:F	_
+8	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	Es	_	Word	Word	_	13	A	13:A	_
+13	reicht	_	Word	Word	_	6	H	6:H	_
+14	ganz	_	Word	Word	_	15	E	15:E	_
+15	sicher	_	Word	Word	_	13	G	13:G	_
+16	aus	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	Ich	_	Word	Word	_	25	A	25:A	_
+19	habe	_	Word	Word	_	25	F	25:F	_
+20	dir	_	Word	Word	_	25	A	25:A	_
+21	ein	_	Word	Word	_	24	F	24:F	_
+22	ganz	_	Word	Word	_	23	D	23:D	_
+23	kleines	_	Word	Word	_	24	E	24:E	_
+24	Schaf	_	Word	Word	_	25	A	25:A	_
+25	gegeben	_	Word	Word	_	13	H	13:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26756016
+# text = Doch deswegen habe ich mir ja den Farb kasten und die Stifte gekauft .
+1	Doch	_	Word	Word	_	5	L	5:L	_
+2	deswegen	_	Word	Word	_	5	L	5:L	_
+3	habe	_	Word	Word	_	5	F	5:F	_
+4	ich	_	Word	Word	_	5	A	5:A	_
+5	mir	_	Word	Word	_	0	H	0:H	_
+6	ja	_	Word	Word	_	5	D	5:D	_
+7	den	_	Word	Word	_	9	F	9:F	_
+8	Farb	_	Word	Word	_	9	E	9:E	_
+9	kasten	_	Word	Word	_	5	A	5:A	_
+10	und	_	Word	Word	_	9	N	9:N	_
+11	die	_	Word	Word	_	12	F	12:F	_
+12	Stifte	_	Word	Word	_	9	C	9:C	_
+13	gekauft	_	Word	Word	_	5	Terminal	5:Terminal	_
+14	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

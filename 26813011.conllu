@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26813011
+# text = Er fiel sanft um wie ein Baum .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	fiel	_	Word	Word	_	0	H	0:H	_
+3	sanft	_	Word	Word	_	2	D	2:D	_
+4	um	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	wie	_	Word	Word	_	7	R	7:R	_
+6	ein	_	Word	Word	_	7	F	7:F	_
+7	Baum	_	Word	Word	_	2	A	2:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

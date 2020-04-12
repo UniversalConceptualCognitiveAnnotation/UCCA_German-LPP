@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26777016
+# text = Dieser Typ " , sagte sich der kleine Prinz , " er denkt ein bisschen so wie mein Säufer . "
+1	Dieser	_	Word	Word	_	2	E	2:E	_
+2	Typ	_	Word	Word	_	13	A	13:A	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	sagte	_	Word	Word	_	0	H	0:H	_
+6	sich	_	Word	Word	_	5	A	5:A	_
+7	der	_	Word	Word	_	9	F	9:F	_
+8	kleine	_	Word	Word	_	9	E	9:E	_
+9	Prinz	_	Word	Word	_	5	A	5:A	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	er	_	Word	Word	_	13	F	13:F	_
+13	denkt	_	Word	Word	_	5	A	5:A	_
+14	ein	_	Word	Word	_	13	D	13:D	_
+15	bisschen	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	so	_	Word	Word	_	13	A	13:A	_
+17	wie	_	Word	Word	_	18	R	18:R	_
+18	mein	_	Word	Word	_	13	A	13:A	_
+19	Säufer	_	Word	Word	_	18	A	18:A	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

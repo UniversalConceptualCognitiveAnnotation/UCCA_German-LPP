@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26768005
+# text = Und der kleine Prinz fragte : - " Wie kommt es , dass Sie mich kennen . Sie haben mich noch nie zuvor gesehen ! "
+1	Und	_	Word	Word	_	5	L	5:L	_
+2	der	_	Word	Word	_	4	F	4:F	_
+3	kleine	_	Word	Word	_	4	E	4:E	_
+4	Prinz	_	Word	Word	_	5	A	5:A	_
+5	fragte	_	Word	Word	_	0	H	0:H	_
+6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	Wie	_	Word	Word	_	10	D	10:D	_
+10	kommt	_	Word	Word	_	5	A	5:A	_
+11	es	_	Word	Word	_	10	F	10:F	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	dass	_	Word	Word	_	16	R	16:R	_
+14	Sie	_	Word	Word	_	16	A	16:A	_
+15	mich	_	Word	Word	_	16	A	16:A	_
+16	kennen	_	Word	Word	_	10	A	10:A	_
+17	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	Sie	_	Word	Word	_	24	A	24:A	_
+19	haben	_	Word	Word	_	24	F	24:F	_
+20	mich	_	Word	Word	_	24	A	24:A	_
+21	noch	_	Word	Word	_	22	E	22:E	_
+22	nie	_	Word	Word	_	24	D	24:D	_
+23	zuvor	_	Word	Word	_	24	T	24:T	_
+24	gesehen	_	Word	Word	_	10	H	10:H	_
+25	!	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+

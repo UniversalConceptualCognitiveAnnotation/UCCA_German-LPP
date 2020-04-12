@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 26766019
+# text = Die Blume musste husten .
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Blume	_	Word	Word	_	4	A	4:A	_
+3	musste	_	Word	Word	_	4	D	4:D	_
+4	husten	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

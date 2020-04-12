@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 26751001
+# text = Da wiederholte er ganz sacht , als handele es sich um eine sehr ernstzunehmende Angelegenheit : - " Bitte ... zeichne mir ein Schaf ... " Bei etwas so beeindruckend Rätselhaftem wagt man nicht zu widersprechen .
+1	Da	_	Word	Word	_	2	T	2:T	_
+2	wiederholte	_	Word	Word	_	0	H	0:H	_
+3	er	_	Word	Word	_	2	A	2:A	_
+4	ganz	_	Word	Word	_	5	E	5:E	_
+5	sacht	_	Word	Word	_	2	D	2:D	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	als	_	Word	Word	_	8	L	8:L	_
+8	handele	_	Word	Word	_	2	H	2:H	_
+9	es	_	Word	Word	_	8	F	8:F	_
+10	sich	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	um	_	Word	Word	_	15	R	15:R	_
+12	eine	_	Word	Word	_	15	F	15:F	_
+13	sehr	_	Word	Word	_	14	D	14:D	_
+14	ernstzunehmende	_	Word	Word	_	15	E	15:E	_
+15	Angelegenheit	_	Word	Word	_	8	A	8:A	_
+16	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	Bitte	_	Word	Word	_	21	F	21:F	_
+20	...	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	zeichne	_	Word	Word	_	2	A	2:A	_
+22	mir	_	Word	Word	_	21	A	21:A	_
+23	ein	_	Word	Word	_	24	F	24:F	_
+24	Schaf	_	Word	Word	_	21	A	21:A	_
+25	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+26	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	Bei	_	Word	Word	_	31	L	31:L	_
+28	etwas	_	Word	Word	_	31	A	31:A	_
+29	so	_	Word	Word	_	30	E	30:E	_
+30	beeindruckend	_	Word	Word	_	31	D	31:D	_
+31	Rätselhaftem	_	Word	Word	_	2	H	2:H	_
+32	wagt	_	Word	Word	_	36	D	36:D	_
+33	man	_	Word	Word	_	36	A	36:A	_
+34	nicht	_	Word	Word	_	36	D	36:D	_
+35	zu	_	Word	Word	_	36	F	36:F	_
+36	widersprechen	_	Word	Word	_	2	H	2:H	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26781011
+# text = Er erinnerte sich an die Sonnenuntergänge und wie er auf deren Suche früher seinen Stuhl rückte .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	erinnerte	_	Word	Word	_	0	H	0:H	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	an	_	Word	Word	_	6	R	6:R	_
+5	die	_	Word	Word	_	6	F	6:F	_
+6	Sonnenuntergänge	_	Word	Word	_	2	A	2:A	_
+7	und	_	Word	Word	_	16	L	16:L	_
+8	wie	_	Word	Word	_	16	D	16:D	_
+9	er	_	Word	Word	_	16	A	16:A	_
+10	auf	_	Word	Word	_	12	R	12:R	_
+11	deren	_	Word	Word	_	12	E	12:E	_
+12	Suche	_	Word	Word	_	16	A	16:A	_
+13	früher	_	Word	Word	_	16	T	16:T	_
+14	seinen	_	Word	Word	_	15	E	15:E	_
+15	Stuhl	_	Word	Word	_	16	A	16:A	_
+16	rückte	_	Word	Word	_	2	H	2:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

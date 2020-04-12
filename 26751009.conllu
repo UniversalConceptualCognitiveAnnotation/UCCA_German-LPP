@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26751009
+# text = Er schaute aufmerksam zu und dann : - " Nein ! Dieses ist schon sehr krank . Zeichne ein anderes . "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	schaute	_	Word	Word	_	0	H	0:H	_
+3	aufmerksam	_	Word	Word	_	2	D	2:D	_
+4	zu	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	und	_	Word	Word	_	16	L	16:L	_
+6	dann	_	Word	Word	_	16	L	16:L	_
+7	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	Nein	_	Word	Word	_	16	D	16:D	_
+11	!	_	Punctuation	Punctuation	_	16	U	16:U	_
+12	Dieses	_	Word	Word	_	16	A	16:A	_
+13	ist	_	Word	Word	_	16	F	16:F	_
+14	schon	_	Word	Word	_	16	T	16:T	_
+15	sehr	_	Word	Word	_	16	D	16:D	_
+16	krank	_	Word	Word	_	2	H	2:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Zeichne	_	Word	Word	_	16	H	16:H	_
+19	ein	_	Word	Word	_	20	F	20:F	_
+20	anderes	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+

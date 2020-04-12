@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26791004
+# text = Die Blume hatte eines Tages eine Karawane vorbeifahren sehen . "
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Blume	_	Word	Word	_	9	A	9:A	_
+3	hatte	_	Word	Word	_	9	F	9:F	_
+4	eines	_	Word	Word	_	5	F	5:F	_
+5	Tages	_	Word	Word	_	9	T	9:T	_
+6	eine	_	Word	Word	_	7	F	7:F	_
+7	Karawane	_	Word	Word	_	8	A	8:A	_
+8	vorbeifahren	_	Word	Word	_	9	A	9:A	_
+9	sehen	_	Word	Word	_	0	H	0:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+

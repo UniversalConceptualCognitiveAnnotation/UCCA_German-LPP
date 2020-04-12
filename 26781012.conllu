@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 26781012
+# text = Er wollte seinem Freund helfen : - " Weißt du ... ich weiß einen Weg , wie du dich ausruhen kannst , wann immer du möchtest ... " - " Immer her damit " , sagte der Laternen anzünder .
+1	Er	_	Word	Word	_	5	A	5:A	_
+2	wollte	_	Word	Word	_	5	D	5:D	_
+3	seinem	_	Word	Word	_	5	A	5:A	_
+4	Freund	_	Word	Word	_	3	A	3:A	_
+5	helfen	_	Word	Word	_	0	H	0:H	_
+6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	Weißt	_	Word	Word	_	5	H	5:H	_
+10	du	_	Word	Word	_	9	A	9:A	_
+11	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	ich	_	Word	Word	_	13	A	13:A	_
+13	weiß	_	Word	Word	_	9	H	9:H	_
+14	einen	_	Word	Word	_	15	F	15:F	_
+15	Weg	_	Word	Word	_	13	A	13:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	wie	_	Word	Word	_	19	R	19:R	_
+18	du	_	Word	Word	_	19	A	19:A	_
+19	dich	_	Word	Word	_	15	E	15:E	_
+20	ausruhen	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	kannst	_	Word	Word	_	19	D	19:D	_
+22	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+23	wann	_	Word	Word	_	26	T	26:T	_
+24	immer	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	du	_	Word	Word	_	26	A	26:A	_
+26	möchtest	_	Word	Word	_	9	H	9:H	_
+27	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+28	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+29	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+30	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+31	Immer	_	Word	Word	_	32	D	32:D	_
+32	her	_	Word	Word	_	36	A	36:A	_
+33	damit	_	Word	Word	_	32	A	32:A	_
+34	"	_	Punctuation	Punctuation	_	36	U	36:U	_
+35	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	sagte	_	Word	Word	_	5	H	5:H	_
+37	der	_	Word	Word	_	38	F	38:F	_
+38	Laternen	_	Word	Word	_	36	A	36:A	_
+39	anzünder	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

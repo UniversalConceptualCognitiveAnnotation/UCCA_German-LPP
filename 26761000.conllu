@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 26761000
+# text = - " Aber nein ! Aber nein ! Ich glaube gar nichts ! Ich habe nur irgendwas geantwortet . Ich muss mich hier um wichtige Dinge kümmern ! "
+1	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	Aber	_	Word	Word	_	7	L	7:L	_
+4	nein	_	Word	Word	_	0	H	0:H	_
+5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Aber	_	Word	Word	_	7	L	7:L	_
+7	nein	_	Word	Word	_	4	H	4:H	_
+8	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Ich	_	Word	Word	_	10	A	10:A|4:A|7:A	_
+10	glaube	_	Word	Word	_	0	S	0:S|4:S|7:S	_
+11	gar	_	Word	Word	_	12	E	12:E	_
+12	nichts	_	Word	Word	_	0	C	0:C|4:A|7:A	_
+13	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	Ich	_	Word	Word	_	18	A	18:A	_
+15	habe	_	Word	Word	_	18	F	18:F	_
+16	nur	_	Word	Word	_	18	D	18:D	_
+17	irgendwas	_	Word	Word	_	18	A	18:A	_
+18	geantwortet	_	Word	Word	_	4	H	4:H	_
+19	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+20	Ich	_	Word	Word	_	22	A	22:A	_
+21	muss	_	Word	Word	_	22	D	22:D	_
+22	mich	_	Word	Word	_	4	H	4:H	_
+23	hier	_	Word	Word	_	22	A	22:A	_
+24	um	_	Word	Word	_	26	R	26:R	_
+25	wichtige	_	Word	Word	_	26	E	26:E	_
+26	Dinge	_	Word	Word	_	22	A	22:A	_
+27	kümmern	_	Word	Word	_	22	Terminal	22:Terminal	_
+28	!	_	Punctuation	Punctuation	_	22	U	22:U	_
+29	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+

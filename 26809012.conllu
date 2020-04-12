@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26809012
+# text = Ich fühlte , wie er immer wärmer wurde . - "
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	fühlte	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	wie	_	Word	Word	_	7	R	7:R	_
+5	er	_	Word	Word	_	7	A	7:A	_
+6	immer	_	Word	Word	_	7	D	7:D	_
+7	wärmer	_	Word	Word	_	2	A	2:A	_
+8	wurde	_	Word	Word	_	7	F	7:F	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26787011
+# text = Dann die in Afrika und Europa .
+1	Dann	_	Word	Word	_	2	L	2:L	_
+2	die	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	Afrika	_	Word	Word	_	2	A	2:A	_
+5	und	_	Word	Word	_	4	N	4:N	_
+6	Europa	_	Word	Word	_	4	C	4:C	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

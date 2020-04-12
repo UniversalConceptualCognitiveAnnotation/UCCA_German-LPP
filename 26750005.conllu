@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26750005
+# text = An dem ersten Abend schlief ich in dem Sand ein , tausende Meilen entfernt von besiedeltem Gebiet .
+1	An	_	Word	Word	_	4	R	4:R	_
+2	dem	_	Word	Word	_	4	F	4:F	_
+3	ersten	_	Word	Word	_	4	E	4:E	_
+4	Abend	_	Word	Word	_	5	T	5:T	_
+5	schlief	_	Word	Word	_	0	H	0:H	_
+6	ich	_	Word	Word	_	5	A	5:A|14:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	dem	_	Word	Word	_	9	F	9:F	_
+9	Sand	_	Word	Word	_	5	A	5:A	_
+10	ein	_	Word	Word	_	5	Terminal	5:Terminal	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	tausende	_	Word	Word	_	13	Q	13:Q	_
+13	Meilen	_	Word	Word	_	14	A	14:A	_
+14	entfernt	_	Word	Word	_	5	H	5:H	_
+15	von	_	Word	Word	_	17	R	17:R	_
+16	besiedeltem	_	Word	Word	_	17	E	17:E	_
+17	Gebiet	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

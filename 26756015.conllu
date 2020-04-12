@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26756015
+# text = Ich könnte wie die Großen werden , die sich nur noch für Zahlen interessieren .
+1	Ich	_	Word	Word	_	6	A	6:A	_
+2	könnte	_	Word	Word	_	6	D	6:D	_
+3	wie	_	Word	Word	_	5	R	5:R	_
+4	die	_	Word	Word	_	5	F	5:F	_
+5	Großen	_	Word	Word	_	6	A	6:A	_
+6	werden	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	die	_	Word	Word	_	9	R	9:R	_
+9	sich	_	Word	Word	_	6	A	6:A	_
+10	nur	_	Word	Word	_	9	D	9:D	_
+11	noch	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	für	_	Word	Word	_	13	R	13:R	_
+13	Zahlen	_	Word	Word	_	9	A	9:A	_
+14	interessieren	_	Word	Word	_	9	Terminal	9:Terminal	_
+15	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

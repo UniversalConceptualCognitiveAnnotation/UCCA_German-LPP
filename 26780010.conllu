@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26780010
+# text = Warum hast du sie nun wieder angezündet ? " - "
+1	Warum	_	Word	Word	_	7	A	7:A	_
+2	hast	_	Word	Word	_	7	F	7:F	_
+3	du	_	Word	Word	_	7	A	7:A	_
+4	sie	_	Word	Word	_	7	A	7:A	_
+5	nun	_	Word	Word	_	7	T	7:T	_
+6	wieder	_	Word	Word	_	7	D	7:D	_
+7	angezündet	_	Word	Word	_	0	H	0:H	_
+8	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

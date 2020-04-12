@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26750020
+# text = Dabei schien mir das kleine Kerlchen weder verirrt , noch todmüde , weder hungrig oder durstig , noch todängstlich .
+1	Dabei	_	Word	Word	_	8	L	8:L	_
+2	schien	_	Word	Word	_	8	G	8:G	_
+3	mir	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	das	_	Word	Word	_	6	F	6:F	_
+5	kleine	_	Word	Word	_	6	E	6:E	_
+6	Kerlchen	_	Word	Word	_	8	A	8:A	_
+7	weder	_	Word	Word	_	8	N	8:N	_
+8	verirrt	_	Word	Word	_	0	H	0:H	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	noch	_	Word	Word	_	8	N	8:N	_
+11	todmüde	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	weder	_	Word	Word	_	8	N	8:N	_
+14	hungrig	_	Word	Word	_	8	C	8:C	_
+15	oder	_	Word	Word	_	8	N	8:N	_
+16	durstig	_	Word	Word	_	8	C	8:C	_
+17	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+18	noch	_	Word	Word	_	8	N	8:N	_
+19	todängstlich	_	Word	Word	_	8	C	8:C	_
+20	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

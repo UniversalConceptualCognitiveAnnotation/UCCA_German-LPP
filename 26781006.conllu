@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 26781006
+# text = Das ist überhaupt nicht lustig " , sagte der Laternen anzünder . Jetzt reden wir schon einen Monat lang miteinander . " - "
+1	Das	_	Word	Word	_	5	A	5:A	_
+2	ist	_	Word	Word	_	5	F	5:F	_
+3	überhaupt	_	Word	Word	_	4	E	4:E	_
+4	nicht	_	Word	Word	_	5	D	5:D	_
+5	lustig	_	Word	Word	_	8	A	8:A	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	sagte	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	Laternen	_	Word	Word	_	11	A	11:A	_
+11	anzünder	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	Jetzt	_	Word	Word	_	14	T	14:T	_
+14	reden	_	Word	Word	_	5	H	5:H	_
+15	wir	_	Word	Word	_	14	A	14:A	_
+16	schon	_	Word	Word	_	14	D	14:D	_
+17	einen	_	Word	Word	_	18	F	18:F	_
+18	Monat	_	Word	Word	_	14	T	14:T	_
+19	lang	_	Word	Word	_	14	D	14:D	_
+20	miteinander	_	Word	Word	_	14	Terminal	14:Terminal	_
+21	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+23	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+24	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+

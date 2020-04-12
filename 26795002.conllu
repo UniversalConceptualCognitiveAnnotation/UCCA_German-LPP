@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26795002
+# text = Gibt es Jäger auf diesem Planeten ? " - "
+1	Gibt	_	Word	Word	_	0	H	0:H	_
+2	es	_	Word	Word	_	1	F	1:F	_
+3	Jäger	_	Word	Word	_	1	A	1:A	_
+4	auf	_	Word	Word	_	6	R	6:R	_
+5	diesem	_	Word	Word	_	6	E	6:E	_
+6	Planeten	_	Word	Word	_	1	A	1:A	_
+7	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

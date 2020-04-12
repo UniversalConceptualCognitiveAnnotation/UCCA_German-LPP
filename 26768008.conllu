@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26768008
+# text = Der kleine Prinz schaute sich nach einer Sitz gelegenheit um , doch der herrliche Hermelin mantel nahm den ganzen Planten ein .
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	4	A	4:A	_
+4	schaute	_	Word	Word	_	0	H	0:H	_
+5	sich	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	nach	_	Word	Word	_	9	R	9:R	_
+7	einer	_	Word	Word	_	9	F	9:F	_
+8	Sitz	_	Word	Word	_	9	E	9:E	_
+9	gelegenheit	_	Word	Word	_	4	A	4:A	_
+10	um	_	Word	Word	_	4	Terminal	4:Terminal	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	doch	_	Word	Word	_	17	L	17:L	_
+13	der	_	Word	Word	_	16	F	16:F	_
+14	herrliche	_	Word	Word	_	16	E	16:E	_
+15	Hermelin	_	Word	Word	_	16	E	16:E	_
+16	mantel	_	Word	Word	_	17	A	17:A	_
+17	nahm	_	Word	Word	_	4	H	4:H	_
+18	den	_	Word	Word	_	20	F	20:F	_
+19	ganzen	_	Word	Word	_	20	E	20:E	_
+20	Planten	_	Word	Word	_	17	A	17:A	_
+21	ein	_	Word	Word	_	17	Terminal	17:Terminal	_
+22	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

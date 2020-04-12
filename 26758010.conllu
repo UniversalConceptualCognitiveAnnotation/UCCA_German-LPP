@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26758010
+# text = Bei dem Zeichnen der Affenbrotbäume hatte ich jedoch das Gefühl , es sei wirklich dringend .
+1	Bei	_	Word	Word	_	10	L	10:L	_
+2	dem	_	Word	Word	_	3	F	3:F	_
+3	Zeichnen	_	Word	Word	_	0	H	0:H	_
+4	der	_	Word	Word	_	5	R	5:R	_
+5	Affenbrotbäume	_	Word	Word	_	3	A	3:A	_
+6	hatte	_	Word	Word	_	10	F	10:F	_
+7	ich	_	Word	Word	_	10	A	10:A|3:A	_
+8	jedoch	_	Word	Word	_	10	D	10:D	_
+9	das	_	Word	Word	_	10	F	10:F	_
+10	Gefühl	_	Word	Word	_	3	H	3:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	es	_	Word	Word	_	15	A	15:A	_
+13	sei	_	Word	Word	_	15	F	15:F	_
+14	wirklich	_	Word	Word	_	15	G	15:G	_
+15	dringend	_	Word	Word	_	10	A	10:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

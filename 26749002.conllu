@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26749002
+# text = Aber meine Meinung über sie hat sich deshalb nicht sonderlich verbessert .
+1	Aber	_	Word	Word	_	7	L	7:L	_
+2	meine	_	Word	Word	_	3	A	3:A	_
+3	Meinung	_	Word	Word	_	7	A	7:A	_
+4	über	_	Word	Word	_	5	R	5:R	_
+5	sie	_	Word	Word	_	3	A	3:A	_
+6	hat	_	Word	Word	_	7	F	7:F	_
+7	sich	_	Word	Word	_	0	H	0:H	_
+8	deshalb	_	Word	Word	_	7	A	7:A	_
+9	nicht	_	Word	Word	_	7	D	7:D	_
+10	sonderlich	_	Word	Word	_	7	D	7:D	_
+11	verbessert	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 26785007
+# text = Aber was heißt , vergänglich ' ? " , wiederholte der kleine Prinz , der niemals von einer Frage abließ , die er einmal gestellt hatte . - "
+1	Aber	_	Word	Word	_	3	L	3:L	_
+2	was	_	Word	Word	_	3	A	3:A	_
+3	heißt	_	Word	Word	_	10	A	10:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	vergänglich	_	Word	Word	_	3	A	3:A	_
+6	'	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	?	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	wiederholte	_	Word	Word	_	0	H	0:H	_
+11	der	_	Word	Word	_	13	F	13:F	_
+12	kleine	_	Word	Word	_	13	E	13:E	_
+13	Prinz	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	der	_	Word	Word	_	20	R	20:R	_
+16	niemals	_	Word	Word	_	20	T	20:T	_
+17	von	_	Word	Word	_	19	R	19:R	_
+18	einer	_	Word	Word	_	19	E	19:E	_
+19	Frage	_	Word	Word	_	20	A	20:A	_
+20	abließ	_	Word	Word	_	13	E	13:E	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	die	_	Word	Word	_	25	R	25:R	_
+23	er	_	Word	Word	_	25	A	25:A	_
+24	einmal	_	Word	Word	_	25	T	25:T	_
+25	gestellt	_	Word	Word	_	19	E	19:E	_
+26	hatte	_	Word	Word	_	25	F	25:F	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+28	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+29	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+

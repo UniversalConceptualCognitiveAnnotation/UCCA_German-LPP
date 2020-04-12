@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26802002
+# text = Mein Freund der Fuchs " , sagte er . - "
+1	Mein	_	Word	Word	_	2	A	2:A	_
+2	Freund	_	Word	Word	_	4	E	4:E	_
+3	der	_	Word	Word	_	4	R	4:R	_
+4	Fuchs	_	Word	Word	_	7	A	7:A	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	H	0:H	_
+8	er	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

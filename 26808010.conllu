@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26808010
+# text = So senkte ich selbst die Augen hinab an den Fuß der Mauer und sprang zu der Seite !
+1	So	_	Word	Word	_	14	L	14:L	_
+2	senkte	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A|14:A	_
+4	selbst	_	Word	Word	_	2	D	2:D	_
+5	die	_	Word	Word	_	6	F	6:F	_
+6	Augen	_	Word	Word	_	2	A	2:A	_
+7	hinab	_	Word	Word	_	2	Terminal	2:Terminal	_
+8	an	_	Word	Word	_	10	R	10:R	_
+9	den	_	Word	Word	_	10	F	10:F	_
+10	Fuß	_	Word	Word	_	2	A	2:A	_
+11	der	_	Word	Word	_	12	R	12:R	_
+12	Mauer	_	Word	Word	_	10	E	10:E	_
+13	und	_	Word	Word	_	14	L	14:L	_
+14	sprang	_	Word	Word	_	2	H	2:H	_
+15	zu	_	Word	Word	_	17	R	17:R	_
+16	der	_	Word	Word	_	17	F	17:F	_
+17	Seite	_	Word	Word	_	14	A	14:A	_
+18	!	_	Punctuation	Punctuation	_	17	U	17:U	_
+

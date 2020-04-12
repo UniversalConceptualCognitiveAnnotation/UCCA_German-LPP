@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 26788013
+# text = Ihr vertraut mir ja .
+1	Ihr	_	Word	Word	_	2	A	2:A	_
+2	vertraut	_	Word	Word	_	0	H	0:H	_
+3	mir	_	Word	Word	_	2	A	2:A	_
+4	ja	_	Word	Word	_	2	D	2:D	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26768004
+# text = Ah ! Ein Untertan " , freute er sich , als er den kleinen Prinzen sah .
+1	Ah	_	Word	Word	_	4	F	4:F	_
+2	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	Ein	_	Word	Word	_	4	F	4:F	_
+4	Untertan	_	Word	Word	_	7	A	7:A	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	freute	_	Word	Word	_	0	H	0:H	_
+8	er	_	Word	Word	_	7	A	7:A	_
+9	sich	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	als	_	Word	Word	_	16	L	16:L	_
+12	er	_	Word	Word	_	16	A	16:A	_
+13	den	_	Word	Word	_	15	F	15:F	_
+14	kleinen	_	Word	Word	_	15	E	15:E	_
+15	Prinzen	_	Word	Word	_	16	A	16:A	_
+16	sah	_	Word	Word	_	7	H	7:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26792001
+# text = Die einzigen Berge , die er kannte , waren die drei Vulkane , die ihm bis zu den Knien reichten .
+1	Die	_	Word	Word	_	3	F	3:F	_
+2	einzigen	_	Word	Word	_	3	E	3:E	_
+3	Berge	_	Word	Word	_	9	A	9:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	die	_	Word	Word	_	7	R	7:R	_
+6	er	_	Word	Word	_	7	A	7:A	_
+7	kannte	_	Word	Word	_	3	E	3:E	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	waren	_	Word	Word	_	0	H	0:H	_
+10	die	_	Word	Word	_	12	F	12:F	_
+11	drei	_	Word	Word	_	12	Q	12:Q	_
+12	Vulkane	_	Word	Word	_	9	A	9:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	die	_	Word	Word	_	20	R	20:R	_
+15	ihm	_	Word	Word	_	20	A	20:A	_
+16	bis	_	Word	Word	_	19	R	19:R	_
+17	zu	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	den	_	Word	Word	_	19	F	19:F	_
+19	Knien	_	Word	Word	_	20	A	20:A	_
+20	reichten	_	Word	Word	_	12	E	12:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26781004
+# text = Jetzt dreht er sich ein Mal pro Minute , mir bleibt keine Sekunde Pause . Pro Minute zünde ich einmal an und lösche einmal aus . - "
+1	Jetzt	_	Word	Word	_	2	T	2:T	_
+2	dreht	_	Word	Word	_	0	H	0:H	_
+3	er	_	Word	Word	_	2	A	2:A	_
+4	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	ein	_	Word	Word	_	6	F	6:F	_
+6	Mal	_	Word	Word	_	2	D	2:D	_
+7	pro	_	Word	Word	_	8	R	8:R	_
+8	Minute	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	mir	_	Word	Word	_	11	A	11:A	_
+11	bleibt	_	Word	Word	_	2	H	2:H	_
+12	keine	_	Word	Word	_	11	D	11:D	_
+13	Sekunde	_	Word	Word	_	11	A	11:A	_
+14	Pause	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	Pro	_	Word	Word	_	17	R	17:R	_
+17	Minute	_	Word	Word	_	18	T	18:T	_
+18	zünde	_	Word	Word	_	2	H	2:H	_
+19	ich	_	Word	Word	_	18	A	18:A|23:A	_
+20	einmal	_	Word	Word	_	18	D	18:D	_
+21	an	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	und	_	Word	Word	_	23	L	23:L	_
+23	lösche	_	Word	Word	_	2	H	2:H	_
+24	einmal	_	Word	Word	_	23	D	23:D	_
+25	aus	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+28	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+

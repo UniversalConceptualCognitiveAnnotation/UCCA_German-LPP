@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26763008
+# text = Langsam zog sie sich an und rückte ihre Blütenblätter eines nach dem anderen zurecht .
+1	Langsam	_	Word	Word	_	2	D	2:D	_
+2	zog	_	Word	Word	_	0	H	0:H	_
+3	sie	_	Word	Word	_	2	A	2:A|7:A	_
+4	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	und	_	Word	Word	_	7	L	7:L	_
+7	rückte	_	Word	Word	_	2	H	2:H	_
+8	ihre	_	Word	Word	_	9	E	9:E	_
+9	Blütenblätter	_	Word	Word	_	7	A	7:A	_
+10	eines	_	Word	Word	_	7	D	7:D	_
+11	nach	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	dem	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	anderen	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	zurecht	_	Word	Word	_	7	Terminal	7:Terminal	_
+15	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

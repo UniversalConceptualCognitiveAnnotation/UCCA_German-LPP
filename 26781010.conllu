@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26781010
+# text = Der kleine Prinz schaute ihn an und er liebte diesen Anzünder , der sich so streng an die Vorschrift hielt .
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	4	A	4:A	_
+4	schaute	_	Word	Word	_	0	H	0:H	_
+5	ihn	_	Word	Word	_	4	A	4:A	_
+6	an	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	und	_	Word	Word	_	9	L	9:L	_
+8	er	_	Word	Word	_	9	A	9:A	_
+9	liebte	_	Word	Word	_	4	H	4:H	_
+10	diesen	_	Word	Word	_	11	E	11:E	_
+11	Anzünder	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	der	_	Word	Word	_	14	R	14:R	_
+14	sich	_	Word	Word	_	11	E	11:E	_
+15	so	_	Word	Word	_	16	E	16:E	_
+16	streng	_	Word	Word	_	14	D	14:D	_
+17	an	_	Word	Word	_	19	R	19:R	_
+18	die	_	Word	Word	_	19	F	19:F	_
+19	Vorschrift	_	Word	Word	_	14	A	14:A	_
+20	hielt	_	Word	Word	_	14	Terminal	14:Terminal	_
+21	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

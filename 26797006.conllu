@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26797006
+# text = Also hast du nichts gewonnen ! " - "
+1	Also	_	Word	Word	_	5	L	5:L	_
+2	hast	_	Word	Word	_	5	F	5:F	_
+3	du	_	Word	Word	_	5	A	5:A	_
+4	nichts	_	Word	Word	_	5	A	5:A	_
+5	gewonnen	_	Word	Word	_	0	H	0:H	_
+6	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26783010
+# text = Das ist sehr interessant " , sagte der kleine Prinz .
+1	Das	_	Word	Word	_	4	A	4:A	_
+2	ist	_	Word	Word	_	4	F	4:F	_
+3	sehr	_	Word	Word	_	4	D	4:D	_
+4	interessant	_	Word	Word	_	7	A	7:A	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

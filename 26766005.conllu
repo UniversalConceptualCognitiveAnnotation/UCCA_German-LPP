@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26766005
+# text = Er besaß auch einen erloschenen Vulkan .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	besaß	_	Word	Word	_	0	H	0:H	_
+3	auch	_	Word	Word	_	2	D	2:D	_
+4	einen	_	Word	Word	_	6	Q	6:Q	_
+5	erloschenen	_	Word	Word	_	6	E	6:E	_
+6	Vulkan	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26750014
+# text = Hier das beste Porträt , das ich später von ihm zu Stande brachte .
+1	Hier	_	Word	Word	_	0	H	0:H	_
+2	das	_	Word	Word	_	4	F	4:F	_
+3	beste	_	Word	Word	_	4	E	4:E	_
+4	Porträt	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	das	_	Word	Word	_	11	R	11:R	_
+7	ich	_	Word	Word	_	11	A	11:A	_
+8	später	_	Word	Word	_	11	T	11:T	_
+9	von	_	Word	Word	_	10	R	10:R	_
+10	ihm	_	Word	Word	_	11	A	11:A	_
+11	zu	_	Word	Word	_	4	E	4:E	_
+12	Stande	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	brachte	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

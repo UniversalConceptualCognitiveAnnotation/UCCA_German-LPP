@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 26814011
+# text = Mal sage ich mir : Bestimmt nicht ! Der kleine Prinz schützt die Blume jede Nacht unter ihrer Glas glocke und hat ein wachsames Auge auf das Schaf ... Dann bin ich glücklich .
+1	Mal	_	Word	Word	_	2	D	2:D	_
+2	sage	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	mir	_	Word	Word	_	2	A	2:A	_
+5	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Bestimmt	_	Word	Word	_	7	G	7:G	_
+7	nicht	_	Word	Word	_	2	A	2:A	_
+8	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	0	C	0:C|22:A	_
+12	schützt	_	Word	Word	_	7	H	7:H	_
+13	die	_	Word	Word	_	14	F	14:F	_
+14	Blume	_	Word	Word	_	12	A	12:A	_
+15	jede	_	Word	Word	_	16	E	16:E	_
+16	Nacht	_	Word	Word	_	12	T	12:T	_
+17	unter	_	Word	Word	_	20	R	20:R	_
+18	ihrer	_	Word	Word	_	20	E	20:E	_
+19	Glas	_	Word	Word	_	20	E	20:E	_
+20	glocke	_	Word	Word	_	12	A	12:A	_
+21	und	_	Word	Word	_	22	L	22:L	_
+22	hat	_	Word	Word	_	7	H	7:H	_
+23	ein	_	Word	Word	_	25	F	25:F	_
+24	wachsames	_	Word	Word	_	25	E	25:E	_
+25	Auge	_	Word	Word	_	22	A	22:A	_
+26	auf	_	Word	Word	_	28	R	28:R	_
+27	das	_	Word	Word	_	28	F	28:F	_
+28	Schaf	_	Word	Word	_	22	A	22:A	_
+29	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	Dann	_	Word	Word	_	33	L	33:L	_
+31	bin	_	Word	Word	_	33	F	33:F	_
+32	ich	_	Word	Word	_	33	A	33:A	_
+33	glücklich	_	Word	Word	_	2	H	2:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

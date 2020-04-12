@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26767000
+# text = - " Aber der Wind ... " - " So erkältet bin ich gar nicht ... Der nächtliche Wind wird mir gut tun . Ich bin eine Blume . " - "
+1	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	Aber	_	Word	Word	_	11	L	11:L	_
+4	der	_	Word	Word	_	5	F	5:F	_
+5	Wind	_	Word	Word	_	0	H	0:H	_
+6	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	So	_	Word	Word	_	11	D	11:D	_
+11	erkältet	_	Word	Word	_	5	H	5:H	_
+12	bin	_	Word	Word	_	11	F	11:F	_
+13	ich	_	Word	Word	_	11	A	11:A	_
+14	gar	_	Word	Word	_	15	E	15:E	_
+15	nicht	_	Word	Word	_	11	D	11:D	_
+16	...	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	Der	_	Word	Word	_	19	F	19:F	_
+18	nächtliche	_	Word	Word	_	19	E	19:E	_
+19	Wind	_	Word	Word	_	22	A	22:A	_
+20	wird	_	Word	Word	_	22	F	22:F	_
+21	mir	_	Word	Word	_	22	A	22:A	_
+22	gut	_	Word	Word	_	11	H	11:H	_
+23	tun	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+25	Ich	_	Word	Word	_	26	A	26:A	_
+26	bin	_	Word	Word	_	11	H	11:H	_
+27	eine	_	Word	Word	_	28	F	28:F	_
+28	Blume	_	Word	Word	_	26	A	26:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+32	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26767003
+# text = Dann fügte sie hinzu : - " Trödel nicht so rum , das ist ärgerlich . Du hast entschieden fortzugehen . Mach dich auf den Weg ! "
+1	Dann	_	Word	Word	_	2	L	2:L	_
+2	fügte	_	Word	Word	_	0	H	0:H	_
+3	sie	_	Word	Word	_	2	A	2:A	_
+4	hinzu	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Trödel	_	Word	Word	_	2	A	2:A	_
+9	nicht	_	Word	Word	_	8	D	8:D	_
+10	so	_	Word	Word	_	8	D	8:D	_
+11	rum	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	das	_	Word	Word	_	15	A	15:A	_
+14	ist	_	Word	Word	_	15	F	15:F	_
+15	ärgerlich	_	Word	Word	_	8	H	8:H	_
+16	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	Du	_	Word	Word	_	19	A	19:A|8:A|20:A|22:A	_
+18	hast	_	Word	Word	_	19	F	19:F	_
+19	entschieden	_	Word	Word	_	8	H	8:H	_
+20	fortzugehen	_	Word	Word	_	19	A	19:A	_
+21	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+22	Mach	_	Word	Word	_	8	H	8:H	_
+23	dich	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	auf	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	den	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	Weg	_	Word	Word	_	22	Terminal	22:Terminal	_
+27	!	_	Punctuation	Punctuation	_	22	U	22:U	_
+28	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+

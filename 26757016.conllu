@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26757016
+# text = Daher gab es auch gute Samen von guten Pflanzen und schlechte Samen von schlechten Pflanzen .
+1	Daher	_	Word	Word	_	12	L	12:L	_
+2	gab	_	Word	Word	_	0	H	0:H	_
+3	es	_	Word	Word	_	2	F	2:F	_
+4	auch	_	Word	Word	_	12	L	12:L	_
+5	gute	_	Word	Word	_	6	E	6:E	_
+6	Samen	_	Word	Word	_	2	A	2:A	_
+7	von	_	Word	Word	_	9	R	9:R	_
+8	guten	_	Word	Word	_	9	E	9:E	_
+9	Pflanzen	_	Word	Word	_	2	A	2:A	_
+10	und	_	Word	Word	_	12	L	12:L	_
+11	schlechte	_	Word	Word	_	12	E	12:E	_
+12	Samen	_	Word	Word	_	2	H	2:H	_
+13	von	_	Word	Word	_	15	R	15:R	_
+14	schlechten	_	Word	Word	_	15	E	15:E	_
+15	Pflanzen	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

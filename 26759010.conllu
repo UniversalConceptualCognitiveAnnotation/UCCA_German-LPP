@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26759010
+# text = Und ein wenig später fügtest du hinzu : - " Weißt du ... wenn man sehr traurig ist , dann liebt man Sonnenuntergänge . " - "
+1	Und	_	Word	Word	_	5	L	5:L	_
+2	ein	_	Word	Word	_	4	F	4:F	_
+3	wenig	_	Word	Word	_	4	E	4:E	_
+4	später	_	Word	Word	_	5	T	5:T	_
+5	fügtest	_	Word	Word	_	0	H	0:H	_
+6	du	_	Word	Word	_	5	A	5:A	_
+7	hinzu	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	Weißt	_	Word	Word	_	5	A	5:A	_
+12	du	_	Word	Word	_	11	A	11:A	_
+13	...	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	wenn	_	Word	Word	_	17	L	17:L	_
+15	man	_	Word	Word	_	17	A	17:A	_
+16	sehr	_	Word	Word	_	17	D	17:D	_
+17	traurig	_	Word	Word	_	11	H	11:H	_
+18	ist	_	Word	Word	_	17	F	17:F	_
+19	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+20	dann	_	Word	Word	_	21	L	21:L	_
+21	liebt	_	Word	Word	_	11	H	11:H	_
+22	man	_	Word	Word	_	21	A	21:A	_
+23	Sonnenuntergänge	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+27	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

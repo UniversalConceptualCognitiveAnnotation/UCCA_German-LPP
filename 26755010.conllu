@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26755010
+# text = Zu dem Glück für den Asteroiden B 612 zwang ein türkischer Diktator sein Volk unter Androhung der Todes strafe , sich nach europäischer Art zu kleiden .
+1	Zu	_	Word	Word	_	9	G	9:G	_
+2	dem	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Glück	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	für	_	Word	Word	_	6	R	6:R	_
+5	den	_	Word	Word	_	6	F	6:F	_
+6	Asteroiden	_	Word	Word	_	9	A	9:A	_
+7	B	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	612	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	zwang	_	Word	Word	_	0	H	0:H	_
+10	ein	_	Word	Word	_	12	F	12:F	_
+11	türkischer	_	Word	Word	_	12	E	12:E	_
+12	Diktator	_	Word	Word	_	0	S	0:S|16:A	_
+13	sein	_	Word	Word	_	14	E	14:E	_
+14	Volk	_	Word	Word	_	9	A	9:A	_
+15	unter	_	Word	Word	_	16	R	16:R	_
+16	Androhung	_	Word	Word	_	9	A	9:A	_
+17	der	_	Word	Word	_	19	R	19:R	_
+18	Todes	_	Word	Word	_	19	D	19:D	_
+19	strafe	_	Word	Word	_	16	A	16:A	_
+20	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+21	sich	_	Word	Word	_	9	A	9:A	_
+22	nach	_	Word	Word	_	24	R	24:R	_
+23	europäischer	_	Word	Word	_	24	E	24:E	_
+24	Art	_	Word	Word	_	21	A	21:A	_
+25	zu	_	Word	Word	_	9	F	9:F	_
+26	kleiden	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

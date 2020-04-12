@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26813009
+# text = Einen Augenblick lang erstarrte er .
+1	Einen	_	Word	Word	_	2	F	2:F	_
+2	Augenblick	_	Word	Word	_	4	T	4:T	_
+3	lang	_	Word	Word	_	4	D	4:D	_
+4	erstarrte	_	Word	Word	_	0	H	0:H	_
+5	er	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

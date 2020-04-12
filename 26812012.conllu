@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 26812012
+# text = Aber quälte sich noch : - " Du hast nicht recht getan . Es wird traurig sein . Es wird aussehen , als sei ich tot ... aber das wird nicht stimmen ... " Ich schwieg . - "
+1	Aber	_	Word	Word	_	12	L	12:L	_
+2	quälte	_	Word	Word	_	0	H	0:H	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	noch	_	Word	Word	_	2	D	2:D	_
+5	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Du	_	Word	Word	_	12	A	12:A	_
+9	hast	_	Word	Word	_	12	F	12:F	_
+10	nicht	_	Word	Word	_	12	D	12:D	_
+11	recht	_	Word	Word	_	12	D	12:D	_
+12	getan	_	Word	Word	_	2	H	2:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Es	_	Word	Word	_	16	A	16:A	_
+15	wird	_	Word	Word	_	16	F	16:F	_
+16	traurig	_	Word	Word	_	12	H	12:H	_
+17	sein	_	Word	Word	_	16	F	16:F	_
+18	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+19	Es	_	Word	Word	_	21	A	21:A	_
+20	wird	_	Word	Word	_	21	F	21:F	_
+21	aussehen	_	Word	Word	_	12	H	12:H	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	als	_	Word	Word	_	26	R	26:R	_
+24	sei	_	Word	Word	_	26	F	26:F	_
+25	ich	_	Word	Word	_	26	A	26:A	_
+26	tot	_	Word	Word	_	21	A	21:A	_
+27	...	_	Punctuation	Punctuation	_	12	U	12:U	_
+28	aber	_	Word	Word	_	32	L	32:L	_
+29	das	_	Word	Word	_	32	A	32:A	_
+30	wird	_	Word	Word	_	32	F	32:F	_
+31	nicht	_	Word	Word	_	32	D	32:D	_
+32	stimmen	_	Word	Word	_	12	H	12:H	_
+33	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+34	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+35	Ich	_	Word	Word	_	36	A	36:A	_
+36	schwieg	_	Word	Word	_	2	H	2:H	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	-	_	Punctuation	Punctuation	_	36	U	36:U	_
+39	"	_	Punctuation	Punctuation	_	36	U	36:U	_
+

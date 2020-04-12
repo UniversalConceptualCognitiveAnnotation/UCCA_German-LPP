@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26804002
+# text = Mir schien , ich trüge einen zerbrechlichen Schatz .
+1	Mir	_	Word	Word	_	5	F	5:F	_
+2	schien	_	Word	Word	_	5	G	5:G	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	ich	_	Word	Word	_	5	A	5:A	_
+5	trüge	_	Word	Word	_	0	H	0:H	_
+6	einen	_	Word	Word	_	8	F	8:F	_
+7	zerbrechlichen	_	Word	Word	_	8	E	8:E	_
+8	Schatz	_	Word	Word	_	5	A	5:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

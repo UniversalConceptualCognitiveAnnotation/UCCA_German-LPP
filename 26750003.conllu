@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26750003
+# text = Dabei ging es für mich um Leben und Tod .
+1	Dabei	_	Word	Word	_	2	A	2:A	_
+2	ging	_	Word	Word	_	0	H	0:H	_
+3	es	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	für	_	Word	Word	_	5	R	5:R	_
+5	mich	_	Word	Word	_	2	A	2:A	_
+6	um	_	Word	Word	_	7	R	7:R	_
+7	Leben	_	Word	Word	_	2	A	2:A	_
+8	und	_	Word	Word	_	7	N	7:N	_
+9	Tod	_	Word	Word	_	7	C	7:C	_
+10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

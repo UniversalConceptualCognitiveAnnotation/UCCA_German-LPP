@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26756028
+# text = Mein Freund gab mir nie irgendwelche Erklärungen .
+1	Mein	_	Word	Word	_	2	E	2:E	_
+2	Freund	_	Word	Word	_	7	A	7:A	_
+3	gab	_	Word	Word	_	7	D	7:D	_
+4	mir	_	Word	Word	_	7	A	7:A	_
+5	nie	_	Word	Word	_	7	T	7:T	_
+6	irgendwelche	_	Word	Word	_	7	D	7:D	_
+7	Erklärungen	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

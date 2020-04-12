@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26781013
+# text = Man kann gleichzeitig pflichtbewusst und faul sein .
+1	Man	_	Word	Word	_	4	A	4:A|6:A	_
+2	kann	_	Word	Word	_	4	D	4:D	_
+3	gleichzeitig	_	Word	Word	_	4	D	4:D	_
+4	pflichtbewusst	_	Word	Word	_	0	H	0:H	_
+5	und	_	Word	Word	_	6	L	6:L	_
+6	faul	_	Word	Word	_	4	H	4:H	_
+7	sein	_	Word	Word	_	6	F	6:F	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

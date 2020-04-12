@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26814009
+# text = Er wird sein Schaf niemals anbinden können .
+1	Er	_	Word	Word	_	6	A	6:A	_
+2	wird	_	Word	Word	_	6	F	6:F	_
+3	sein	_	Word	Word	_	6	A	6:A	_
+4	Schaf	_	Word	Word	_	3	A	3:A	_
+5	niemals	_	Word	Word	_	6	D	6:D	_
+6	anbinden	_	Word	Word	_	0	H	0:H	_
+7	können	_	Word	Word	_	6	D	6:D	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 26755002
+# text = Ich wusste genau , dass es neben den großen Planeten wie der Erde , dem Jupiter , dem Mars oder der Venus , denen wir Namen gegeben hatten , noch hunderte anderer Planeten gibt , die manchmal so klein sind , dass man sie selbst durch ein Teleskop kaum erkennen kann .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	wusste	_	Word	Word	_	0	H	0:H	_
+3	genau	_	Word	Word	_	2	D	2:D	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	dass	_	Word	Word	_	34	R	34:R	_
+6	es	_	Word	Word	_	34	F	34:F	_
+7	neben	_	Word	Word	_	34	D	34:D	_
+8	den	_	Word	Word	_	10	F	10:F	_
+9	großen	_	Word	Word	_	10	E	10:E	_
+10	Planeten	_	Word	Word	_	34	A	34:A	_
+11	wie	_	Word	Word	_	13	R	13:R	_
+12	der	_	Word	Word	_	13	F	13:F	_
+13	Erde	_	Word	Word	_	10	E	10:E	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	dem	_	Word	Word	_	16	F	16:F	_
+16	Jupiter	_	Word	Word	_	13	C	13:C	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	dem	_	Word	Word	_	19	F	19:F	_
+19	Mars	_	Word	Word	_	13	C	13:C	_
+20	oder	_	Word	Word	_	13	N	13:N	_
+21	der	_	Word	Word	_	22	F	22:F	_
+22	Venus	_	Word	Word	_	13	C	13:C	_
+23	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+24	denen	_	Word	Word	_	26	R	26:R	_
+25	wir	_	Word	Word	_	26	A	26:A	_
+26	Namen	_	Word	Word	_	13	E	13:E	_
+27	gegeben	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	hatten	_	Word	Word	_	26	F	26:F	_
+29	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+30	noch	_	Word	Word	_	34	D	34:D	_
+31	hunderte	_	Word	Word	_	33	Q	33:Q	_
+32	anderer	_	Word	Word	_	33	E	33:E	_
+33	Planeten	_	Word	Word	_	34	A	34:A	_
+34	gibt	_	Word	Word	_	2	A	2:A	_
+35	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	die	_	Word	Word	_	39	R	39:R	_
+37	manchmal	_	Word	Word	_	39	D	39:D	_
+38	so	_	Word	Word	_	39	E	39:E	_
+39	klein	_	Word	Word	_	33	E	33:E	_
+40	sind	_	Word	Word	_	39	F	39:F	_
+41	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+42	dass	_	Word	Word	_	50	L	50:L	_
+43	man	_	Word	Word	_	50	A	50:A	_
+44	sie	_	Word	Word	_	50	A	50:A	_
+45	selbst	_	Word	Word	_	50	D	50:D	_
+46	durch	_	Word	Word	_	48	R	48:R	_
+47	ein	_	Word	Word	_	48	F	48:F	_
+48	Teleskop	_	Word	Word	_	50	A	50:A	_
+49	kaum	_	Word	Word	_	50	D	50:D	_
+50	erkennen	_	Word	Word	_	39	H	39:H	_
+51	kann	_	Word	Word	_	50	D	50:D	_
+52	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+

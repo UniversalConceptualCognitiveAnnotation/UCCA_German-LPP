@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26773010
+# text = Wieder zog der Eitle zu dem Gruß seinen Hut .
+1	Wieder	_	Word	Word	_	2	L	2:L	_
+2	zog	_	Word	Word	_	0	H	0:H	_
+3	der	_	Word	Word	_	4	F	4:F	_
+4	Eitle	_	Word	Word	_	2	A	2:A	_
+5	zu	_	Word	Word	_	7	R	7:R	_
+6	dem	_	Word	Word	_	7	F	7:F	_
+7	Gruß	_	Word	Word	_	2	A	2:A	_
+8	seinen	_	Word	Word	_	9	E	9:E	_
+9	Hut	_	Word	Word	_	2	A	2:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

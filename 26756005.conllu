@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26756005
+# text = Aber wir , die das Leben verstehen , lachen natürlich über Zahlen !
+1	Aber	_	Word	Word	_	9	L	9:L	_
+2	wir	_	Word	Word	_	9	A	9:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	die	_	Word	Word	_	7	R	7:R	_
+5	das	_	Word	Word	_	6	F	6:F	_
+6	Leben	_	Word	Word	_	7	A	7:A	_
+7	verstehen	_	Word	Word	_	2	E	2:E	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	lachen	_	Word	Word	_	0	H	0:H	_
+10	natürlich	_	Word	Word	_	9	G	9:G	_
+11	über	_	Word	Word	_	12	R	12:R	_
+12	Zahlen	_	Word	Word	_	9	A	9:A	_
+13	!	_	Punctuation	Punctuation	_	12	U	12:U	_
+

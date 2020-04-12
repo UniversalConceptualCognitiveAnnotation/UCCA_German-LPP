@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26780012
+# text = Ich verstehe es nicht " , sagte der kleine Prinz . - "
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	verstehe	_	Word	Word	_	7	A	7:A	_
+3	es	_	Word	Word	_	2	A	2:A	_
+4	nicht	_	Word	Word	_	2	D	2:D	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

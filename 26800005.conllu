@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26800005
+# text = Sie haben es aber eilig " , sagte der kleine Prinz . " Wohin wollen sie ? " - "
+1	Sie	_	Word	Word	_	5	A	5:A	_
+2	haben	_	Word	Word	_	5	F	5:F	_
+3	es	_	Word	Word	_	5	F	5:F	_
+4	aber	_	Word	Word	_	15	L	15:L	_
+5	eilig	_	Word	Word	_	8	A	8:A	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	sagte	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	Wohin	_	Word	Word	_	15	A	15:A	_
+15	wollen	_	Word	Word	_	5	H	5:H	_
+16	sie	_	Word	Word	_	15	A	15:A	_
+17	?	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+19	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+

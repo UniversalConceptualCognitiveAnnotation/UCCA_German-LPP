@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26766001
+# text = An dem Tag seiner Abreise räumte er seinen Planeten auf .
+1	An	_	Word	Word	_	3	R	3:R	_
+2	dem	_	Word	Word	_	3	F	3:F	_
+3	Tag	_	Word	Word	_	6	T	6:T	_
+4	seiner	_	Word	Word	_	5	A	5:A	_
+5	Abreise	_	Word	Word	_	6	H	6:H	_
+6	räumte	_	Word	Word	_	0	H	0:H	_
+7	er	_	Word	Word	_	6	A	6:A	_
+8	seinen	_	Word	Word	_	9	E	9:E	_
+9	Planeten	_	Word	Word	_	6	A	6:A	_
+10	auf	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

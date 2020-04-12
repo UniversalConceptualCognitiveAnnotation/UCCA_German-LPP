@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26774001
+# text = Ich verehre dich " , sagte der kleine Prinz , und zuckte dabei mit den Schultern . "
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	verehre	_	Word	Word	_	6	A	6:A	_
+3	dich	_	Word	Word	_	2	A	2:A	_
+4	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sagte	_	Word	Word	_	0	H	0:H	_
+7	der	_	Word	Word	_	9	F	9:F	_
+8	kleine	_	Word	Word	_	9	E	9:E	_
+9	Prinz	_	Word	Word	_	0	C	0:C|12:A	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	und	_	Word	Word	_	12	L	12:L	_
+12	zuckte	_	Word	Word	_	6	H	6:H	_
+13	dabei	_	Word	Word	_	12	A	12:A	_
+14	mit	_	Word	Word	_	16	R	16:R	_
+15	den	_	Word	Word	_	16	F	16:F	_
+16	Schultern	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+

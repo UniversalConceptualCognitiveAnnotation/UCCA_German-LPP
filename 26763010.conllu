@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26763010
+# text = Sie wollte nur in voller Schönheit aufblühen .
+1	Sie	_	Word	Word	_	7	A	7:A	_
+2	wollte	_	Word	Word	_	7	D	7:D	_
+3	nur	_	Word	Word	_	7	D	7:D	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	voller	_	Word	Word	_	6	E	6:E	_
+6	Schönheit	_	Word	Word	_	7	A	7:A	_
+7	aufblühen	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

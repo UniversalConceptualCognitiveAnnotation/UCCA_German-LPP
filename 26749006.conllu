@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26749006
+# text = So sprach ich weder von Riesen schlangen , noch von dem Urwald oder von Sternen .
+1	So	_	Word	Word	_	2	L	2:L	_
+2	sprach	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	weder	_	Word	Word	_	7	N	7:N	_
+5	von	_	Word	Word	_	7	R	7:R	_
+6	Riesen	_	Word	Word	_	7	E	7:E	_
+7	schlangen	_	Word	Word	_	2	A	2:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	noch	_	Word	Word	_	7	N	7:N	_
+10	von	_	Word	Word	_	12	R	12:R	_
+11	dem	_	Word	Word	_	12	F	12:F	_
+12	Urwald	_	Word	Word	_	7	C	7:C	_
+13	oder	_	Word	Word	_	7	N	7:N	_
+14	von	_	Word	Word	_	15	R	15:R	_
+15	Sternen	_	Word	Word	_	7	C	7:C	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

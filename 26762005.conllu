@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26762005
+# text = Mein Hammer , mein Bolzen , der Durst und der Hunger erschienen mir auf einmal albern .
+1	Mein	_	Word	Word	_	2	E	2:E	_
+2	Hammer	_	Word	Word	_	16	A	16:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	mein	_	Word	Word	_	5	E	5:E	_
+5	Bolzen	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	der	_	Word	Word	_	8	F	8:F	_
+8	Durst	_	Word	Word	_	2	C	2:C	_
+9	und	_	Word	Word	_	2	N	2:N	_
+10	der	_	Word	Word	_	11	F	11:F	_
+11	Hunger	_	Word	Word	_	2	C	2:C	_
+12	erschienen	_	Word	Word	_	16	G	16:G	_
+13	mir	_	Word	Word	_	16	A	16:A	_
+14	auf	_	Word	Word	_	16	D	16:D	_
+15	einmal	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	albern	_	Word	Word	_	0	H	0:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

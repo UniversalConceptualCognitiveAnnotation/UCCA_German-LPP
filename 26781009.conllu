@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26781009
+# text = Und er zündete seine Laterne wieder an .
+1	Und	_	Word	Word	_	3	L	3:L	_
+2	er	_	Word	Word	_	3	A	3:A	_
+3	zündete	_	Word	Word	_	0	H	0:H	_
+4	seine	_	Word	Word	_	5	E	5:E	_
+5	Laterne	_	Word	Word	_	3	A	3:A	_
+6	wieder	_	Word	Word	_	3	D	3:D	_
+7	an	_	Word	Word	_	3	Terminal	3:Terminal	_
+8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26777000
+# text = - " Millionen dieser kleinen Dinger , die man manchmal an dem Himmel sieht . " - "
+1	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	Millionen	_	Word	Word	_	6	Q	6:Q	_
+4	dieser	_	Word	Word	_	6	R	6:R	_
+5	kleinen	_	Word	Word	_	6	E	6:E	_
+6	Dinger	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	die	_	Word	Word	_	14	R	14:R	_
+9	man	_	Word	Word	_	14	A	14:A	_
+10	manchmal	_	Word	Word	_	14	T	14:T	_
+11	an	_	Word	Word	_	13	R	13:R	_
+12	dem	_	Word	Word	_	13	F	13:F	_
+13	Himmel	_	Word	Word	_	14	A	14:A	_
+14	sieht	_	Word	Word	_	6	E	6:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+

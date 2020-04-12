@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 26753003
+# text = Als er das erste Mal mein Flugzeug sah ( ich zeichne mein Flugzeug hier nicht , denn das ist viel zu schwierig für mich ) , da fragte er mich : - " Was ist dieses Ding ? " - "
+1	Als	_	Word	Word	_	11	L	11:L	_
+2	er	_	Word	Word	_	8	A	8:A	_
+3	das	_	Word	Word	_	8	T	8:T	_
+4	erste	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Mal	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	mein	_	Word	Word	_	7	E	7:E	_
+7	Flugzeug	_	Word	Word	_	8	A	8:A	_
+8	sah	_	Word	Word	_	0	H	0:H	_
+9	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	ich	_	Word	Word	_	11	A	11:A	_
+11	zeichne	_	Word	Word	_	8	H	8:H	_
+12	mein	_	Word	Word	_	13	E	13:E	_
+13	Flugzeug	_	Word	Word	_	11	A	11:A	_
+14	hier	_	Word	Word	_	11	A	11:A	_
+15	nicht	_	Word	Word	_	11	D	11:D	_
+16	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	denn	_	Word	Word	_	22	L	22:L	_
+18	das	_	Word	Word	_	22	A	22:A	_
+19	ist	_	Word	Word	_	22	F	22:F	_
+20	viel	_	Word	Word	_	22	D	22:D	_
+21	zu	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	schwierig	_	Word	Word	_	8	H	8:H	_
+23	für	_	Word	Word	_	24	R	24:R	_
+24	mich	_	Word	Word	_	22	A	22:A	_
+25	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+26	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+27	da	_	Word	Word	_	28	L	28:L	_
+28	fragte	_	Word	Word	_	8	H	8:H	_
+29	er	_	Word	Word	_	28	A	28:A	_
+30	mich	_	Word	Word	_	28	A	28:A	_
+31	:	_	Punctuation	Punctuation	_	28	U	28:U	_
+32	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+33	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+34	Was	_	Word	Word	_	35	A	35:A	_
+35	ist	_	Word	Word	_	28	A	28:A	_
+36	dieses	_	Word	Word	_	37	E	37:E	_
+37	Ding	_	Word	Word	_	35	A	35:A	_
+38	?	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+40	-	_	Punctuation	Punctuation	_	37	U	37:U	_
+41	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+

@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26805003
+# text = Aber da war kein Dorf und ich glaubte zu träumen . - "
+1	Aber	_	Word	Word	_	8	L	8:L	_
+2	da	_	Word	Word	_	3	A	3:A	_
+3	war	_	Word	Word	_	0	H	0:H	_
+4	kein	_	Word	Word	_	3	D	3:D	_
+5	Dorf	_	Word	Word	_	3	A	3:A	_
+6	und	_	Word	Word	_	8	L	8:L	_
+7	ich	_	Word	Word	_	8	A	8:A|10:A	_
+8	glaubte	_	Word	Word	_	3	H	3:H	_
+9	zu	_	Word	Word	_	10	F	10:F	_
+10	träumen	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

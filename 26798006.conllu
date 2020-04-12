@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 26798006
+# text = Es ist die Zeit , die ich für meine Rose geopfert habe , die sie so bedeutsam macht " ... sagte der kleine Prinz , um sich daran zu erinnern . - "
+1	Es	_	Word	Word	_	2	F	2:F	_
+2	ist	_	Word	Word	_	21	A	21:A	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Zeit	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	die	_	Word	Word	_	11	R	11:R	_
+7	ich	_	Word	Word	_	11	A	11:A	_
+8	für	_	Word	Word	_	10	R	10:R	_
+9	meine	_	Word	Word	_	10	E	10:E	_
+10	Rose	_	Word	Word	_	11	A	11:A	_
+11	geopfert	_	Word	Word	_	4	E	4:E	_
+12	habe	_	Word	Word	_	11	F	11:F	_
+13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	die	_	Word	Word	_	18	R	18:R	_
+15	sie	_	Word	Word	_	18	A	18:A	_
+16	so	_	Word	Word	_	18	D	18:D	_
+17	bedeutsam	_	Word	Word	_	18	D	18:D	_
+18	macht	_	Word	Word	_	4	E	4:E	_
+19	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	...	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	sagte	_	Word	Word	_	0	H	0:H	_
+22	der	_	Word	Word	_	24	F	24:F	_
+23	kleine	_	Word	Word	_	24	E	24:E	_
+24	Prinz	_	Word	Word	_	0	C	0:C|27:A	_
+25	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	um	_	Word	Word	_	27	L	27:L	_
+27	sich	_	Word	Word	_	21	H	21:H	_
+28	daran	_	Word	Word	_	27	A	27:A	_
+29	zu	_	Word	Word	_	27	F	27:F	_
+30	erinnern	_	Word	Word	_	27	Terminal	27:Terminal	_
+31	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+32	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+33	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+

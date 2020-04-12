@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 26822009
+# text = Also seid freundlich !
+1	Also	_	Word	Word	_	3	L	3:L	_
+2	seid	_	Word	Word	_	3	F	3:F	_
+3	freundlich	_	Word	Word	_	0	H	0:H	_
+4	!	_	Punctuation	Punctuation	_	3	U	3:U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26802009
+# text = Dennoch machten wir uns auf den Weg .
+1	Dennoch	_	Word	Word	_	2	L	2:L	_
+2	machten	_	Word	Word	_	0	H	0:H	_
+3	wir	_	Word	Word	_	2	A	2:A	_
+4	uns	_	Word	Word	_	2	A	2:A	_
+5	auf	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	den	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	Weg	_	Word	Word	_	2	Terminal	2:Terminal	_
+8	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

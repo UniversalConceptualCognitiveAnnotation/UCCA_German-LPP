@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 26814015
+# text = Für euch , die ihr den kleinen Prinzen auch liebt , gilt ebenso wie für mich , dass nichts auf der Welt gleich bleibt , wenn irgendwo , man weiß nicht mal wo , ein Schaf , das wir nicht kennen eine Blume gefressen hat , oder aber nicht ...
+1	Für	_	Word	Word	_	2	R	2:R	_
+2	euch	_	Word	Word	_	12	A	12:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	die	_	Word	Word	_	10	R	10:R	_
+5	ihr	_	Word	Word	_	10	A	10:A	_
+6	den	_	Word	Word	_	8	F	8:F	_
+7	kleinen	_	Word	Word	_	8	E	8:E	_
+8	Prinzen	_	Word	Word	_	10	A	10:A	_
+9	auch	_	Word	Word	_	10	D	10:D	_
+10	liebt	_	Word	Word	_	2	E	2:E	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	gilt	_	Word	Word	_	0	H	0:H	_
+13	ebenso	_	Word	Word	_	12	D	12:D	_
+14	wie	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	für	_	Word	Word	_	16	R	16:R	_
+16	mich	_	Word	Word	_	12	A	12:A	_
+17	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+18	dass	_	Word	Word	_	23	R	23:R	_
+19	nichts	_	Word	Word	_	23	A	23:A	_
+20	auf	_	Word	Word	_	22	R	22:R	_
+21	der	_	Word	Word	_	22	F	22:F	_
+22	Welt	_	Word	Word	_	19	E	19:E	_
+23	gleich	_	Word	Word	_	12	A	12:A	_
+24	bleibt	_	Word	Word	_	23	D	23:D	_
+25	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+26	wenn	_	Word	Word	_	30	L	30:L	_
+27	irgendwo	_	Word	Word	_	44	A	44:A	_
+28	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+29	man	_	Word	Word	_	30	A	30:A	_
+30	weiß	_	Word	Word	_	12	H	12:H	_
+31	nicht	_	Word	Word	_	30	D	30:D	_
+32	mal	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	wo	_	Word	Word	_	30	A	30:A	_
+34	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+35	ein	_	Word	Word	_	36	F	36:F	_
+36	Schaf	_	Word	Word	_	0	C	0:C|41:A|49:A	_
+37	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	das	_	Word	Word	_	41	R	41:R	_
+39	wir	_	Word	Word	_	41	A	41:A	_
+40	nicht	_	Word	Word	_	41	D	41:D	_
+41	kennen	_	Word	Word	_	36	E	36:E	_
+42	eine	_	Word	Word	_	43	F	43:F	_
+43	Blume	_	Word	Word	_	0	C	0:C|49:A	_
+44	gefressen	_	Word	Word	_	12	H	12:H	_
+45	hat	_	Word	Word	_	44	F	44:F	_
+46	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+47	oder	_	Word	Word	_	49	L	49:L	_
+48	aber	_	Word	Word	_	49	L	49:L	_
+49	nicht	_	Word	Word	_	12	H	12:H	_
+50	...	_	Punctuation	Punctuation	_	49	U	49:U	_
+

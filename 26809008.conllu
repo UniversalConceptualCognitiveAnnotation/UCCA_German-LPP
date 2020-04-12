@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26809008
+# text = Gerade wollte ich ihm sagen , dass mir die Reparatur trotz aller Hoffnungslosigkeit gelungen war !
+1	Gerade	_	Word	Word	_	5	T	5:T	_
+2	wollte	_	Word	Word	_	5	D	5:D	_
+3	ich	_	Word	Word	_	5	A	5:A	_
+4	ihm	_	Word	Word	_	5	A	5:A	_
+5	sagen	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	dass	_	Word	Word	_	14	R	14:R	_
+8	mir	_	Word	Word	_	14	A	14:A	_
+9	die	_	Word	Word	_	10	F	10:F	_
+10	Reparatur	_	Word	Word	_	14	A	14:A	_
+11	trotz	_	Word	Word	_	13	R	13:R	_
+12	aller	_	Word	Word	_	13	E	13:E	_
+13	Hoffnungslosigkeit	_	Word	Word	_	14	A	14:A	_
+14	gelungen	_	Word	Word	_	5	A	5:A	_
+15	war	_	Word	Word	_	14	F	14:F	_
+16	!	_	Punctuation	Punctuation	_	14	U	14:U	_
+

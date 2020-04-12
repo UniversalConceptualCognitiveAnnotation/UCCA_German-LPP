@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 26752001
+# text = Aber ich war sehr überrascht , als ich sah , wie das Gesicht meines jungen Kritikers strahlte : - " Genauso wollte ich es ! Glaubst Du , man braucht viel Gras für dieses Schaf ? " - "
+1	Aber	_	Word	Word	_	9	L	9:L	_
+2	ich	_	Word	Word	_	5	A	5:A	_
+3	war	_	Word	Word	_	5	F	5:F	_
+4	sehr	_	Word	Word	_	5	D	5:D	_
+5	überrascht	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	als	_	Word	Word	_	9	L	9:L	_
+8	ich	_	Word	Word	_	9	A	9:A	_
+9	sah	_	Word	Word	_	5	H	5:H	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	wie	_	Word	Word	_	9	A	9:A	_
+12	das	_	Word	Word	_	13	F	13:F	_
+13	Gesicht	_	Word	Word	_	17	A	17:A	_
+14	meines	_	Word	Word	_	16	R	16:R	_
+15	jungen	_	Word	Word	_	16	E	16:E	_
+16	Kritikers	_	Word	Word	_	17	A	17:A	_
+17	strahlte	_	Word	Word	_	11	E	11:E	_
+18	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+19	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+20	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	Genauso	_	Word	Word	_	22	D	22:D	_
+22	wollte	_	Word	Word	_	5	H	5:H	_
+23	ich	_	Word	Word	_	22	A	22:A	_
+24	es	_	Word	Word	_	22	A	22:A	_
+25	!	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	Glaubst	_	Word	Word	_	22	H	22:H	_
+27	Du	_	Word	Word	_	26	A	26:A	_
+28	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+29	man	_	Word	Word	_	30	A	30:A	_
+30	braucht	_	Word	Word	_	26	A	26:A	_
+31	viel	_	Word	Word	_	32	E	32:E	_
+32	Gras	_	Word	Word	_	30	A	30:A	_
+33	für	_	Word	Word	_	35	R	35:R	_
+34	dieses	_	Word	Word	_	35	E	35:E	_
+35	Schaf	_	Word	Word	_	30	A	30:A	_
+36	?	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+38	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+39	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

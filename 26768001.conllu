@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26768001
+# text = So begann er , ihnen einen Besuch abzustatten , um sich zu beschäftigen und sich schlau zu machen .
+1	So	_	Word	Word	_	11	L	11:L	_
+2	begann	_	Word	Word	_	0	H	0:H	_
+3	er	_	Word	Word	_	2	A	2:A|6:A|11:A|15:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	ihnen	_	Word	Word	_	6	A	6:A	_
+6	einen	_	Word	Word	_	2	A	2:A	_
+7	Besuch	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	abzustatten	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	um	_	Word	Word	_	11	L	11:L	_
+11	sich	_	Word	Word	_	2	H	2:H	_
+12	zu	_	Word	Word	_	11	F	11:F	_
+13	beschäftigen	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	und	_	Word	Word	_	15	L	15:L	_
+15	sich	_	Word	Word	_	2	H	2:H	_
+16	schlau	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	zu	_	Word	Word	_	15	F	15:F	_
+18	machen	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

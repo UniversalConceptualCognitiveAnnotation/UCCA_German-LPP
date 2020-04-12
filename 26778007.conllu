@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26778007
+# text = Was soll das heißen ? " - "
+1	Was	_	Word	Word	_	4	A	4:A	_
+2	soll	_	Word	Word	_	4	G	4:G	_
+3	das	_	Word	Word	_	4	A	4:A	_
+4	heißen	_	Word	Word	_	0	H	0:H	_
+5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+

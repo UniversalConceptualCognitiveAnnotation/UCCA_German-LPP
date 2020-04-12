@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 26753010
+# text = Plötzlich wurde mir klar , was es mit seiner Anwesenheit auf sich haben könnte und ich fragte schnell : - " Du stammst also von einem anderen Planeten ? "
+1	Plötzlich	_	Word	Word	_	4	D	4:D	_
+2	wurde	_	Word	Word	_	4	F	4:F	_
+3	mir	_	Word	Word	_	4	A	4:A	_
+4	klar	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	was	_	Word	Word	_	11	A	11:A	_
+7	es	_	Word	Word	_	11	F	11:F	_
+8	mit	_	Word	Word	_	10	R	10:R	_
+9	seiner	_	Word	Word	_	10	E	10:E	_
+10	Anwesenheit	_	Word	Word	_	11	A	11:A	_
+11	auf	_	Word	Word	_	4	A	4:A	_
+12	sich	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	haben	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	könnte	_	Word	Word	_	11	D	11:D	_
+15	und	_	Word	Word	_	17	L	17:L	_
+16	ich	_	Word	Word	_	17	A	17:A	_
+17	fragte	_	Word	Word	_	4	H	4:H	_
+18	schnell	_	Word	Word	_	17	D	17:D	_
+19	:	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+22	Du	_	Word	Word	_	23	A	23:A	_
+23	stammst	_	Word	Word	_	17	A	17:A	_
+24	also	_	Word	Word	_	23	F	23:F	_
+25	von	_	Word	Word	_	28	R	28:R	_
+26	einem	_	Word	Word	_	28	F	28:F	_
+27	anderen	_	Word	Word	_	28	E	28:E	_
+28	Planeten	_	Word	Word	_	23	A	23:A	_
+29	?	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+

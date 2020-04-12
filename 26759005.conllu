@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26759005
+# text = Tatsächlich . Wenn es in den Vereinigten Staaten von Amerika Mittags zeit ist , das weiß ja jeder , dann geht in Frankreich die Sonne unter .
+1	Tatsächlich	_	Word	Word	_	0	H	0:H	_
+2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Wenn	_	Word	Word	_	13	L	13:L	_
+4	es	_	Word	Word	_	13	F	13:F	_
+5	in	_	Word	Word	_	7	R	7:R	_
+6	den	_	Word	Word	_	7	F	7:F	_
+7	Vereinigten	_	Word	Word	_	13	A	13:A	_
+8	Staaten	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	von	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Amerika	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	Mittags	_	Word	Word	_	12	E	12:E	_
+12	zeit	_	Word	Word	_	13	T	13:T	_
+13	ist	_	Word	Word	_	1	H	1:H	_
+14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+15	das	_	Word	Word	_	16	A	16:A	_
+16	weiß	_	Word	Word	_	1	H	1:H	_
+17	ja	_	Word	Word	_	16	D	16:D	_
+18	jeder	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+20	dann	_	Word	Word	_	21	L	21:L	_
+21	geht	_	Word	Word	_	1	H	1:H	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	Frankreich	_	Word	Word	_	21	A	21:A	_
+24	die	_	Word	Word	_	25	F	25:F	_
+25	Sonne	_	Word	Word	_	21	A	21:A	_
+26	unter	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

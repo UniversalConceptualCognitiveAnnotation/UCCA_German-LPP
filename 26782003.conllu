@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26782003
+# text = Und er löschte seine Laterne . "
+1	Und	_	Word	Word	_	3	L	3:L	_
+2	er	_	Word	Word	_	3	A	3:A	_
+3	löschte	_	Word	Word	_	0	H	0:H	_
+4	seine	_	Word	Word	_	5	E	5:E	_
+5	Laterne	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

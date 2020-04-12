@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26751004
+# text = Er antwortete mir : - " Das macht nichts . Zeichne mir ein Schaf . "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	antwortete	_	Word	Word	_	0	H	0:H	_
+3	mir	_	Word	Word	_	2	A	2:A	_
+4	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	Das	_	Word	Word	_	8	A	8:A	_
+8	macht	_	Word	Word	_	2	A	2:A	_
+9	nichts	_	Word	Word	_	8	D	8:D	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Zeichne	_	Word	Word	_	8	H	8:H	_
+12	mir	_	Word	Word	_	11	A	11:A	_
+13	ein	_	Word	Word	_	14	F	14:F	_
+14	Schaf	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+

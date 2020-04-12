@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 26769005
+# text = Wenn ich den Befehl erteile " , sagte er häufig , " dass sich ein General in einen Meeresvogel verwandeln soll und der General gehorcht nicht , so wäre es nicht sein Fehler . Es wäre mein Fehler . " - "
+1	Wenn	_	Word	Word	_	25	L	25:L	_
+2	ich	_	Word	Word	_	5	A	5:A|38:A	_
+3	den	_	Word	Word	_	4	F	4:F	_
+4	Befehl	_	Word	Word	_	5	A	5:A	_
+5	erteile	_	Word	Word	_	8	A	8:A	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	sagte	_	Word	Word	_	0	H	0:H	_
+9	er	_	Word	Word	_	8	A	8:A	_
+10	häufig	_	Word	Word	_	8	D	8:D	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	dass	_	Word	Word	_	14	R	14:R	_
+14	sich	_	Word	Word	_	5	A	5:A	_
+15	ein	_	Word	Word	_	16	F	16:F	_
+16	General	_	Word	Word	_	14	A	14:A	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	einen	_	Word	Word	_	19	F	19:F	_
+19	Meeresvogel	_	Word	Word	_	14	A	14:A	_
+20	verwandeln	_	Word	Word	_	14	Terminal	14:Terminal	_
+21	soll	_	Word	Word	_	14	D	14:D	_
+22	und	_	Word	Word	_	25	L	25:L	_
+23	der	_	Word	Word	_	24	F	24:F	_
+24	General	_	Word	Word	_	0	C	0:C|33:A	_
+25	gehorcht	_	Word	Word	_	5	H	5:H	_
+26	nicht	_	Word	Word	_	25	D	25:D	_
+27	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+28	so	_	Word	Word	_	33	L	33:L	_
+29	wäre	_	Word	Word	_	33	D	33:D	_
+30	es	_	Word	Word	_	33	A	33:A	_
+31	nicht	_	Word	Word	_	33	D	33:D	_
+32	sein	_	Word	Word	_	33	E	33:E	_
+33	Fehler	_	Word	Word	_	5	H	5:H	_
+34	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+35	Es	_	Word	Word	_	38	A	38:A	_
+36	wäre	_	Word	Word	_	38	D	38:D	_
+37	mein	_	Word	Word	_	38	E	38:E	_
+38	Fehler	_	Word	Word	_	5	H	5:H	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+41	-	_	Punctuation	Punctuation	_	38	U	38:U	_
+42	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

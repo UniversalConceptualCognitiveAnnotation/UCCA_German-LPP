@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26809005
+# text = Er blickte mich ernst an und legte mir seine Arme um den Hals .
+1	Er	_	Word	Word	_	2	A	2:A|7:A	_
+2	blickte	_	Word	Word	_	0	H	0:H	_
+3	mich	_	Word	Word	_	2	A	2:A	_
+4	ernst	_	Word	Word	_	2	D	2:D	_
+5	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	und	_	Word	Word	_	7	L	7:L	_
+7	legte	_	Word	Word	_	2	H	2:H	_
+8	mir	_	Word	Word	_	7	A	7:A	_
+9	seine	_	Word	Word	_	10	E	10:E	_
+10	Arme	_	Word	Word	_	7	A	7:A	_
+11	um	_	Word	Word	_	13	R	13:R	_
+12	den	_	Word	Word	_	13	F	13:F	_
+13	Hals	_	Word	Word	_	7	A	7:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

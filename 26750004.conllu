@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26750004
+# text = Ich hatte Trink wasser für knapp acht Tage .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	hatte	_	Word	Word	_	0	H	0:H	_
+3	Trink	_	Word	Word	_	4	E	4:E	_
+4	wasser	_	Word	Word	_	2	A	2:A	_
+5	für	_	Word	Word	_	8	R	8:R	_
+6	knapp	_	Word	Word	_	8	E	8:E	_
+7	acht	_	Word	Word	_	8	Q	8:Q	_
+8	Tage	_	Word	Word	_	2	T	2:T	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

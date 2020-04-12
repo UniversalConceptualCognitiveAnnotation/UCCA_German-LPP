@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26784004
+# text = Weil Betrunkene doppelt sehen . So würde der Geograph zwei Berge verzeichnen , wo es nur einen einzigen gibt . " - "
+1	Weil	_	Word	Word	_	12	L	12:L	_
+2	Betrunkene	_	Word	Word	_	4	A	4:A	_
+3	doppelt	_	Word	Word	_	4	D	4:D	_
+4	sehen	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	So	_	Word	Word	_	12	L	12:L	_
+7	würde	_	Word	Word	_	12	D	12:D	_
+8	der	_	Word	Word	_	9	F	9:F	_
+9	Geograph	_	Word	Word	_	12	A	12:A	_
+10	zwei	_	Word	Word	_	11	Q	11:Q	_
+11	Berge	_	Word	Word	_	0	C	0:C|17:C	_
+12	verzeichnen	_	Word	Word	_	4	H	4:H	_
+13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	wo	_	Word	Word	_	19	A	19:A	_
+15	es	_	Word	Word	_	19	F	19:F	_
+16	nur	_	Word	Word	_	19	D	19:D	_
+17	einen	_	Word	Word	_	19	A	19:A	_
+18	einzigen	_	Word	Word	_	17	E	17:E	_
+19	gibt	_	Word	Word	_	4	H	4:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+

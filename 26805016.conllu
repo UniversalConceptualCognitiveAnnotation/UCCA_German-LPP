@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26805016
+# text = Es tat dem Herzen so gut wie ein Geschenk .
+1	Es	_	Word	Word	_	2	A	2:A	_
+2	tat	_	Word	Word	_	0	H	0:H	_
+3	dem	_	Word	Word	_	4	F	4:F	_
+4	Herzen	_	Word	Word	_	2	A	2:A	_
+5	so	_	Word	Word	_	2	D	2:D	_
+6	gut	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	wie	_	Word	Word	_	9	R	9:R	_
+8	ein	_	Word	Word	_	9	F	9:F	_
+9	Geschenk	_	Word	Word	_	2	A	2:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

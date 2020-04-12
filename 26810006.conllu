@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 26810006
+# text = Natürlich ... " - " Es ist so wie mit dem Wasser . Was du mir zu trinken gabst , war wie Musik , wegen der Rolle und des Seils ... erinnerst du dich ... es war köstlich . " - "
+1	Natürlich	_	Word	Word	_	0	H	0:H	_
+2	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Es	_	Word	Word	_	7	F	7:F	_
+7	ist	_	Word	Word	_	1	H	1:H	_
+8	so	_	Word	Word	_	7	F	7:F	_
+9	wie	_	Word	Word	_	7	D	7:D	_
+10	mit	_	Word	Word	_	12	R	12:R	_
+11	dem	_	Word	Word	_	12	F	12:F	_
+12	Wasser	_	Word	Word	_	7	A	7:A	_
+13	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+14	Was	_	Word	Word	_	19	A	19:A	_
+15	du	_	Word	Word	_	19	A	19:A	_
+16	mir	_	Word	Word	_	19	A	19:A|18:A	_
+17	zu	_	Word	Word	_	18	F	18:F	_
+18	trinken	_	Word	Word	_	19	A	19:A	_
+19	gabst	_	Word	Word	_	7	H	7:H	_
+20	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	war	_	Word	Word	_	7	H	7:H	_
+22	wie	_	Word	Word	_	21	D	21:D	_
+23	Musik	_	Word	Word	_	21	A	21:A	_
+24	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+25	wegen	_	Word	Word	_	27	D	27:D	_
+26	der	_	Word	Word	_	27	R	27:R	_
+27	Rolle	_	Word	Word	_	7	H	7:H	_
+28	und	_	Word	Word	_	27	N	27:N	_
+29	des	_	Word	Word	_	30	R	30:R	_
+30	Seils	_	Word	Word	_	27	C	27:C	_
+31	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+32	erinnerst	_	Word	Word	_	7	H	7:H	_
+33	du	_	Word	Word	_	32	A	32:A	_
+34	dich	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+36	es	_	Word	Word	_	38	A	38:A	_
+37	war	_	Word	Word	_	38	F	38:F	_
+38	köstlich	_	Word	Word	_	7	H	7:H	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+41	-	_	Punctuation	Punctuation	_	38	U	38:U	_
+42	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

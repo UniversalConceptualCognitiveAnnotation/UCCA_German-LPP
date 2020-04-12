@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26769010
+# text = Über wen konnte der König denn regieren ? - "
+1	Über	_	Word	Word	_	2	R	2:R	_
+2	wen	_	Word	Word	_	7	A	7:A	_
+3	konnte	_	Word	Word	_	7	D	7:D	_
+4	der	_	Word	Word	_	5	F	5:F	_
+5	König	_	Word	Word	_	7	A	7:A	_
+6	denn	_	Word	Word	_	7	F	7:F	_
+7	regieren	_	Word	Word	_	0	H	0:H	_
+8	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

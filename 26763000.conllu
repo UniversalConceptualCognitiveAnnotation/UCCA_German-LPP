@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26763000
+# text = Kapitel VIII Schon bald lernte ich jene Blume besser kennen .
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	VIII	_	Word	Word	_	0	H	0:H	_
+3	Schon	_	Word	Word	_	4	E	4:E	_
+4	bald	_	Word	Word	_	5	T	5:T	_
+5	lernte	_	Word	Word	_	2	H	2:H	_
+6	ich	_	Word	Word	_	5	A	5:A	_
+7	jene	_	Word	Word	_	8	E	8:E	_
+8	Blume	_	Word	Word	_	5	A	5:A	_
+9	besser	_	Word	Word	_	5	D	5:D	_
+10	kennen	_	Word	Word	_	5	Terminal	5:Terminal	_
+11	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

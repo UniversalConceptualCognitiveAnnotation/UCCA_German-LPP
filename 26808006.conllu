@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26808006
+# text = Ich war noch zwanzig Meter von der Mauer weg und ich sah noch immer nichts .
+1	Ich	_	Word	Word	_	9	A	9:A	_
+2	war	_	Word	Word	_	9	F	9:F	_
+3	noch	_	Word	Word	_	9	D	9:D	_
+4	zwanzig	_	Word	Word	_	5	Q	5:Q	_
+5	Meter	_	Word	Word	_	9	A	9:A	_
+6	von	_	Word	Word	_	8	R	8:R	_
+7	der	_	Word	Word	_	8	F	8:F	_
+8	Mauer	_	Word	Word	_	9	A	9:A	_
+9	weg	_	Word	Word	_	0	H	0:H	_
+10	und	_	Word	Word	_	12	L	12:L	_
+11	ich	_	Word	Word	_	12	A	12:A	_
+12	sah	_	Word	Word	_	9	H	9:H	_
+13	noch	_	Word	Word	_	12	D	12:D	_
+14	immer	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	nichts	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

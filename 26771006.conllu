@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26771006
+# text = Zu was für einem Minister ? " - "
+1	Zu	_	Word	Word	_	5	R	5:R	_
+2	was	_	Word	Word	_	5	D	5:D	_
+3	für	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	einem	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	Minister	_	Word	Word	_	0	H	0:H	_
+6	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

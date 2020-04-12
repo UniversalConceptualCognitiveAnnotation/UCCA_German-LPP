@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26751006
+# text = Jenes von der geschlossenen Riesen schlange .
+1	Jenes	_	Word	Word	_	0	H	0:H	_
+2	von	_	Word	Word	_	6	R	6:R	_
+3	der	_	Word	Word	_	6	F	6:F	_
+4	geschlossenen	_	Word	Word	_	6	E	6:E	_
+5	Riesen	_	Word	Word	_	6	E	6:E	_
+6	schlange	_	Word	Word	_	1	E	1:E	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

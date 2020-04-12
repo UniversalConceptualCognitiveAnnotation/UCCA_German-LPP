@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26806012
+# text = Dein Fuchs ... seine Ohren ... sie sehen ein bisschen wie Hörner aus ... sie sind zu lang ! "
+1	Dein	_	Word	Word	_	2	E	2:E	_
+2	Fuchs	_	Word	Word	_	8	A	8:A	_
+3	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	seine	_	Word	Word	_	5	E	5:E	_
+5	Ohren	_	Word	Word	_	8	A	8:A	_
+6	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	sie	_	Word	Word	_	8	F	8:F	_
+8	sehen	_	Word	Word	_	0	H	0:H	_
+9	ein	_	Word	Word	_	8	D	8:D	_
+10	bisschen	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	wie	_	Word	Word	_	12	R	12:R	_
+12	Hörner	_	Word	Word	_	8	A	8:A	_
+13	aus	_	Word	Word	_	8	Terminal	8:Terminal	_
+14	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	sie	_	Word	Word	_	18	A	18:A	_
+16	sind	_	Word	Word	_	18	F	18:F	_
+17	zu	_	Word	Word	_	18	E	18:E	_
+18	lang	_	Word	Word	_	8	H	8:H	_
+19	!	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

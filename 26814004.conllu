@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26814004
+# text = Das heißt ... nicht ganz .
+1	Das	_	Word	Word	_	4	F	4:F	_
+2	heißt	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	nicht	_	Word	Word	_	0	H	0:H	_
+5	ganz	_	Word	Word	_	4	E	4:E	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

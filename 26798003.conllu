@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 26798003
+# text = Adieu " , sagte der Fuchs . " Hier mein Geheimnis . Es ist sehr einfach : Man sieht nur mit dem Herzen . Das Wesentliche ist für die Augen unsichtbar . " - "
+1	Adieu	_	Word	Word	_	4	A	4:A	_
+2	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	sagte	_	Word	Word	_	0	H	0:H	_
+5	der	_	Word	Word	_	6	F	6:F	_
+6	Fuchs	_	Word	Word	_	4	A	4:A	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Hier	_	Word	Word	_	1	H	1:H	_
+10	mein	_	Word	Word	_	11	E	11:E	_
+11	Geheimnis	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	Es	_	Word	Word	_	16	A	16:A	_
+14	ist	_	Word	Word	_	16	F	16:F	_
+15	sehr	_	Word	Word	_	16	D	16:D	_
+16	einfach	_	Word	Word	_	1	H	1:H	_
+17	:	_	Punctuation	Punctuation	_	1	U	1:U	_
+18	Man	_	Word	Word	_	19	A	19:A	_
+19	sieht	_	Word	Word	_	1	H	1:H	_
+20	nur	_	Word	Word	_	19	D	19:D	_
+21	mit	_	Word	Word	_	23	R	23:R	_
+22	dem	_	Word	Word	_	23	F	23:F	_
+23	Herzen	_	Word	Word	_	19	A	19:A	_
+24	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+25	Das	_	Word	Word	_	26	F	26:F	_
+26	Wesentliche	_	Word	Word	_	31	A	31:A	_
+27	ist	_	Word	Word	_	31	F	31:F	_
+28	für	_	Word	Word	_	30	R	30:R	_
+29	die	_	Word	Word	_	30	F	30:F	_
+30	Augen	_	Word	Word	_	31	A	31:A	_
+31	unsichtbar	_	Word	Word	_	1	H	1:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+34	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+35	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+

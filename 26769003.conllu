@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26769003
+# text = Er war ein strenger Monarch .
+1	Er	_	Word	Word	_	4	A	4:A|5:A	_
+2	war	_	Word	Word	_	4	F	4:F	_
+3	ein	_	Word	Word	_	5	F	5:F	_
+4	strenger	_	Word	Word	_	0	H	0:H	_
+5	Monarch	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

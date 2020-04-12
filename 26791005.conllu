@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 26791005
+# text = Die Menschen ? Ich glaube , es gibt sechs oder sieben . Ich habe sie gesehen , nur ist das Jahre her . Man weiß ja nie , wo man sie findet . Der Wind treibt sie umher . Ihnen fehlen Wurzeln , das macht ihnen zu schaffen . " - "
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Menschen	_	Word	Word	_	0	C	0:C|9:C	_
+3	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Ich	_	Word	Word	_	5	A	5:A	_
+5	glaube	_	Word	Word	_	2	H	2:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	es	_	Word	Word	_	8	A	8:A	_
+8	gibt	_	Word	Word	_	5	A	5:A	_
+9	sechs	_	Word	Word	_	8	A	8:A	_
+10	oder	_	Word	Word	_	9	N	9:N	_
+11	sieben	_	Word	Word	_	9	C	9:C	_
+12	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	Ich	_	Word	Word	_	16	A	16:A	_
+14	habe	_	Word	Word	_	16	F	16:F	_
+15	sie	_	Word	Word	_	16	A	16:A	_
+16	gesehen	_	Word	Word	_	2	H	2:H	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	nur	_	Word	Word	_	19	D	19:D	_
+19	ist	_	Word	Word	_	2	H	2:H	_
+20	das	_	Word	Word	_	19	A	19:A	_
+21	Jahre	_	Word	Word	_	19	T	19:T	_
+22	her	_	Word	Word	_	19	D	19:D	_
+23	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	Man	_	Word	Word	_	25	A	25:A	_
+25	weiß	_	Word	Word	_	2	H	2:H	_
+26	ja	_	Word	Word	_	25	D	25:D	_
+27	nie	_	Word	Word	_	25	T	25:T	_
+28	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+29	wo	_	Word	Word	_	32	A	32:A	_
+30	man	_	Word	Word	_	32	A	32:A	_
+31	sie	_	Word	Word	_	32	A	32:A	_
+32	findet	_	Word	Word	_	2	H	2:H	_
+33	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+34	Der	_	Word	Word	_	35	F	35:F	_
+35	Wind	_	Word	Word	_	36	A	36:A	_
+36	treibt	_	Word	Word	_	2	H	2:H	_
+37	sie	_	Word	Word	_	36	A	36:A	_
+38	umher	_	Word	Word	_	36	Terminal	36:Terminal	_
+39	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+40	Ihnen	_	Word	Word	_	41	A	41:A	_
+41	fehlen	_	Word	Word	_	2	H	2:H	_
+42	Wurzeln	_	Word	Word	_	41	A	41:A	_
+43	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+44	das	_	Word	Word	_	45	A	45:A	_
+45	macht	_	Word	Word	_	2	H	2:H	_
+46	ihnen	_	Word	Word	_	45	A	45:A	_
+47	zu	_	Word	Word	_	45	F	45:F	_
+48	schaffen	_	Word	Word	_	45	Terminal	45:Terminal	_
+49	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+50	"	_	Punctuation	Punctuation	_	45	U	45:U	_
+51	-	_	Punctuation	Punctuation	_	45	U	45:U	_
+52	"	_	Punctuation	Punctuation	_	45	U	45:U	_
+

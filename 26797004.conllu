@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26797004
+# text = Aber du wirst weinen ! " , sagte der kleine Prinz . - "
+1	Aber	_	Word	Word	_	4	L	4:L	_
+2	du	_	Word	Word	_	4	A	4:A	_
+3	wirst	_	Word	Word	_	4	F	4:F	_
+4	weinen	_	Word	Word	_	8	A	8:A	_
+5	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	sagte	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+

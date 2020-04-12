@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26803017
+# text = Mein Haus versteckte an dem Grunde seines Herzens ein Geheimnis . - "
+1	Mein	_	Word	Word	_	2	E	2:E	_
+2	Haus	_	Word	Word	_	3	A	3:A	_
+3	versteckte	_	Word	Word	_	0	H	0:H	_
+4	an	_	Word	Word	_	6	R	6:R	_
+5	dem	_	Word	Word	_	6	F	6:F	_
+6	Grunde	_	Word	Word	_	3	A	3:A	_
+7	seines	_	Word	Word	_	8	R	8:R	_
+8	Herzens	_	Word	Word	_	6	E	6:E	_
+9	ein	_	Word	Word	_	10	F	10:F	_
+10	Geheimnis	_	Word	Word	_	3	A	3:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

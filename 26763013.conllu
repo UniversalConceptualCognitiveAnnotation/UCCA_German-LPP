@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26763013
+# text = Und dann , eines morgens , als die Sonne aufging , hatte sie sich gezeigt .
+1	Und	_	Word	Word	_	10	L	10:L	_
+2	dann	_	Word	Word	_	10	L	10:L	_
+3	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+4	eines	_	Word	Word	_	5	F	5:F	_
+5	morgens	_	Word	Word	_	14	T	14:T	_
+6	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+7	als	_	Word	Word	_	10	L	10:L	_
+8	die	_	Word	Word	_	9	F	9:F	_
+9	Sonne	_	Word	Word	_	10	A	10:A	_
+10	aufging	_	Word	Word	_	14	H	14:H	_
+11	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+12	hatte	_	Word	Word	_	14	F	14:F	_
+13	sie	_	Word	Word	_	14	A	14:A	_
+14	sich	_	Word	Word	_	0	H	0:H	_
+15	gezeigt	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

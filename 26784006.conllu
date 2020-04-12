@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 26784006
+# text = Das ist wohl möglich . Wenn der Forscher also glaubwürdig erscheint , dann macht man eine Untersuchung über seine Entdeckung . " - "
+1	Das	_	Word	Word	_	4	A	4:A	_
+2	ist	_	Word	Word	_	4	F	4:F	_
+3	wohl	_	Word	Word	_	4	D	4:D	_
+4	möglich	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Wenn	_	Word	Word	_	10	L	10:L	_
+7	der	_	Word	Word	_	8	F	8:F	_
+8	Forscher	_	Word	Word	_	10	A	10:A	_
+9	also	_	Word	Word	_	10	L	10:L	_
+10	glaubwürdig	_	Word	Word	_	4	H	4:H	_
+11	erscheint	_	Word	Word	_	10	G	10:G	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	dann	_	Word	Word	_	14	L	14:L	_
+14	macht	_	Word	Word	_	4	H	4:H	_
+15	man	_	Word	Word	_	14	A	14:A	_
+16	eine	_	Word	Word	_	17	F	17:F	_
+17	Untersuchung	_	Word	Word	_	14	A	14:A	_
+18	über	_	Word	Word	_	20	R	20:R	_
+19	seine	_	Word	Word	_	20	A	20:A	_
+20	Entdeckung	_	Word	Word	_	17	A	17:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+

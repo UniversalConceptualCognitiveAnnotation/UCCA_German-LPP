@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26802006
+# text = Er erkennt die Gefahr nicht , sagte ich mir .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	erkennt	_	Word	Word	_	7	A	7:A	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Gefahr	_	Word	Word	_	2	A	2:A	_
+5	nicht	_	Word	Word	_	2	D	2:D	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	H	0:H	_
+8	ich	_	Word	Word	_	7	A	7:A	_
+9	mir	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

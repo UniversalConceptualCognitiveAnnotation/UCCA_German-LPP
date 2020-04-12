@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26780008
+# text = Die Laterne zu löschen . Guten Abend . "
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Laterne	_	Word	Word	_	4	A	4:A	_
+3	zu	_	Word	Word	_	4	F	4:F	_
+4	löschen	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Guten	_	Word	Word	_	4	H	4:H	_
+7	Abend	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

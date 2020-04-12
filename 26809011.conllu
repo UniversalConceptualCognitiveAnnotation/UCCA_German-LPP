@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 26809011
+# text = Ich wartete lange .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	wartete	_	Word	Word	_	0	H	0:H	_
+3	lange	_	Word	Word	_	2	D	2:D	_
+4	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

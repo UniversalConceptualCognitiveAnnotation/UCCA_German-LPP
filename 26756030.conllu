@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26756030
+# text = Aber ich weiß nicht , wie man durch Kisten bretter hindurch Schafe sieht .
+1	Aber	_	Word	Word	_	3	L	3:L	_
+2	ich	_	Word	Word	_	3	A	3:A	_
+3	weiß	_	Word	Word	_	0	H	0:H	_
+4	nicht	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	wie	_	Word	Word	_	3	A	3:A	_
+7	man	_	Word	Word	_	13	A	13:A	_
+8	durch	_	Word	Word	_	10	R	10:R	_
+9	Kisten	_	Word	Word	_	10	E	10:E	_
+10	bretter	_	Word	Word	_	13	A	13:A	_
+11	hindurch	_	Word	Word	_	10	R	10:R	_
+12	Schafe	_	Word	Word	_	13	A	13:A	_
+13	sieht	_	Word	Word	_	6	E	6:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

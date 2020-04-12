@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26787014
+# text = Niemals verwechselten sie die Reihenfolge ihres Auftritts .
+1	Niemals	_	Word	Word	_	2	T	2:T	_
+2	verwechselten	_	Word	Word	_	0	H	0:H	_
+3	sie	_	Word	Word	_	2	A	2:A	_
+4	die	_	Word	Word	_	5	F	5:F	_
+5	Reihenfolge	_	Word	Word	_	2	A	2:A	_
+6	ihres	_	Word	Word	_	7	A	7:A	_
+7	Auftritts	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

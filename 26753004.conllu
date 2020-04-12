@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26753004
+# text = Das ist kein Ding . Es fliegt . Das ist ein Flugzeug . Das ist mein Flugzeug . "
+1	Das	_	Word	Word	_	2	A	2:A	_
+2	ist	_	Word	Word	_	0	H	0:H	_
+3	kein	_	Word	Word	_	2	D	2:D	_
+4	Ding	_	Word	Word	_	2	A	2:A	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Es	_	Word	Word	_	7	A	7:A	_
+7	fliegt	_	Word	Word	_	2	H	2:H	_
+8	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	Das	_	Word	Word	_	10	A	10:A	_
+10	ist	_	Word	Word	_	2	H	2:H	_
+11	ein	_	Word	Word	_	12	F	12:F	_
+12	Flugzeug	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	Das	_	Word	Word	_	15	A	15:A	_
+15	ist	_	Word	Word	_	2	H	2:H	_
+16	mein	_	Word	Word	_	17	E	17:E	_
+17	Flugzeug	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+

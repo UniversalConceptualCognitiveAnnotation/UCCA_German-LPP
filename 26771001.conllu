@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26771001
+# text = Hm ! Hm ! das wird um ... um ... es wird heute Abend um sieben Uhr vierzig sein ! Und du wirst sehen , wie man mir gehorcht . "
+1	Hm	_	Word	Word	_	19	F	19:F	_
+2	!	_	Punctuation	Punctuation	_	19	U	19:U	_
+3	Hm	_	Word	Word	_	19	F	19:F	_
+4	!	_	Punctuation	Punctuation	_	19	U	19:U	_
+5	das	_	Word	Word	_	19	F	19:F	_
+6	wird	_	Word	Word	_	19	F	19:F	_
+7	um	_	Word	Word	_	19	F	19:F	_
+8	...	_	Punctuation	Punctuation	_	19	U	19:U	_
+9	um	_	Word	Word	_	19	F	19:F	_
+10	...	_	Punctuation	Punctuation	_	19	U	19:U	_
+11	es	_	Word	Word	_	19	A	19:A	_
+12	wird	_	Word	Word	_	19	F	19:F	_
+13	heute	_	Word	Word	_	14	E	14:E	_
+14	Abend	_	Word	Word	_	19	T	19:T	_
+15	um	_	Word	Word	_	17	R	17:R	_
+16	sieben	_	Word	Word	_	17	Q	17:Q	_
+17	Uhr	_	Word	Word	_	19	T	19:T	_
+18	vierzig	_	Word	Word	_	17	C	17:C	_
+19	sein	_	Word	Word	_	0	H	0:H	_
+20	!	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Und	_	Word	Word	_	24	L	24:L	_
+22	du	_	Word	Word	_	24	A	24:A	_
+23	wirst	_	Word	Word	_	24	F	24:F	_
+24	sehen	_	Word	Word	_	19	H	19:H	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	wie	_	Word	Word	_	29	D	29:D	_
+27	man	_	Word	Word	_	29	A	29:A	_
+28	mir	_	Word	Word	_	29	A	29:A	_
+29	gehorcht	_	Word	Word	_	24	A	24:A	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+

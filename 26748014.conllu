@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26748014
+# text = Ich flog ein bisschen in der Welt herum .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	flog	_	Word	Word	_	0	H	0:H	_
+3	ein	_	Word	Word	_	2	D	2:D	_
+4	bisschen	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	in	_	Word	Word	_	7	R	7:R	_
+6	der	_	Word	Word	_	7	F	7:F	_
+7	Welt	_	Word	Word	_	2	A	2:A	_
+8	herum	_	Word	Word	_	2	D	2:D	_
+9	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

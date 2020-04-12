@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26781007
+# text = Einen Monat ? " - "
+1	Einen	_	Word	Word	_	2	F	2:F	_
+2	Monat	_	Word	Word	_	0	H	0:H	_
+3	?	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+

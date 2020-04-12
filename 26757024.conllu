@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26757024
+# text = So einen Affenbrotbaum wird man nicht mehr los , wenn man sich zu spät darum kümmert .
+1	So	_	Word	Word	_	3	E	3:E	_
+2	einen	_	Word	Word	_	3	F	3:F	_
+3	Affenbrotbaum	_	Word	Word	_	4	A	4:A	_
+4	wird	_	Word	Word	_	0	H	0:H	_
+5	man	_	Word	Word	_	4	A	4:A	_
+6	nicht	_	Word	Word	_	4	D	4:D	_
+7	mehr	_	Word	Word	_	6	E	6:E	_
+8	los	_	Word	Word	_	4	Terminal	4:Terminal	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	wenn	_	Word	Word	_	12	L	12:L	_
+11	man	_	Word	Word	_	12	A	12:A	_
+12	sich	_	Word	Word	_	4	H	4:H	_
+13	zu	_	Word	Word	_	14	E	14:E	_
+14	spät	_	Word	Word	_	12	T	12:T	_
+15	darum	_	Word	Word	_	12	A	12:A	_
+16	kümmert	_	Word	Word	_	12	Terminal	12:Terminal	_
+17	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

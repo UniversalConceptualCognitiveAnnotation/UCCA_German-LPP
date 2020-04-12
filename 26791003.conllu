@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26791003
+# text = Wo sind die Menschen ? " , fragte der kleine Prinz höflich .
+1	Wo	_	Word	Word	_	8	A	8:A	_
+2	sind	_	Word	Word	_	1	F	1:F	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Menschen	_	Word	Word	_	1	A	1:A	_
+5	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	fragte	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	8	A	8:A	_
+12	höflich	_	Word	Word	_	8	D	8:D	_
+13	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

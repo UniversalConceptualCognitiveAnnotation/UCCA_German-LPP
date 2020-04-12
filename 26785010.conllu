@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 26785010
+# text = Meine Blume ist vergänglich , sagte sich der kleine Prinz und sie hat nur vier Dornen , um sich gegen die Welt zu verteidigen . Und ich hab sie ganz allein bei mir zurückgelassen .
+1	Meine	_	Word	Word	_	2	E	2:E	_
+2	Blume	_	Word	Word	_	0	C	0:C|19:A	_
+3	ist	_	Word	Word	_	4	F	4:F	_
+4	vergänglich	_	Word	Word	_	6	A	6:A	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sagte	_	Word	Word	_	0	H	0:H	_
+7	sich	_	Word	Word	_	6	A	6:A	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	6	A	6:A	_
+11	und	_	Word	Word	_	13	L	13:L	_
+12	sie	_	Word	Word	_	13	A	13:A	_
+13	hat	_	Word	Word	_	4	H	4:H	_
+14	nur	_	Word	Word	_	13	D	13:D	_
+15	vier	_	Word	Word	_	16	Q	16:Q	_
+16	Dornen	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	um	_	Word	Word	_	19	L	19:L	_
+19	sich	_	Word	Word	_	4	H	4:H	_
+20	gegen	_	Word	Word	_	22	R	22:R	_
+21	die	_	Word	Word	_	22	F	22:F	_
+22	Welt	_	Word	Word	_	19	A	19:A	_
+23	zu	_	Word	Word	_	19	F	19:F	_
+24	verteidigen	_	Word	Word	_	19	Terminal	19:Terminal	_
+25	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+26	Und	_	Word	Word	_	34	L	34:L	_
+27	ich	_	Word	Word	_	34	A	34:A	_
+28	hab	_	Word	Word	_	34	F	34:F	_
+29	sie	_	Word	Word	_	34	A	34:A	_
+30	ganz	_	Word	Word	_	31	E	31:E	_
+31	allein	_	Word	Word	_	34	D	34:D	_
+32	bei	_	Word	Word	_	33	R	33:R	_
+33	mir	_	Word	Word	_	34	A	34:A	_
+34	zurückgelassen	_	Word	Word	_	4	H	4:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

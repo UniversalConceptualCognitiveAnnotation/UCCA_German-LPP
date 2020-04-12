@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26769017
+# text = Über das alles ... " , antwortete der König .
+1	Über	_	Word	Word	_	2	R	2:R	_
+2	das	_	Word	Word	_	7	A	7:A	_
+3	alles	_	Word	Word	_	2	E	2:E	_
+4	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	antwortete	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	9	F	9:F	_
+9	König	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

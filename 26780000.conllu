@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26780000
+# text = Kapitel XIV Der fünfte Planet war äußerst merkwürdig .
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	XIV	_	Word	Word	_	0	H	0:H	_
+3	Der	_	Word	Word	_	5	F	5:F	_
+4	fünfte	_	Word	Word	_	5	E	5:E	_
+5	Planet	_	Word	Word	_	8	A	8:A	_
+6	war	_	Word	Word	_	8	F	8:F	_
+7	äußerst	_	Word	Word	_	8	D	8:D	_
+8	merkwürdig	_	Word	Word	_	2	H	2:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

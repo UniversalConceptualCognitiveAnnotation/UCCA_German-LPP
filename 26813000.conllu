@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 26813000
+# text = - " Es wird fröhlich sein . Auch ich werde die Sterne betrachten . Alle Sterne werden wie Brunnen sein , mit einer verrosteten Winde . Alle Sterne werden mir zu trinken geben . "
+1	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	Es	_	Word	Word	_	5	A	5:A	_
+4	wird	_	Word	Word	_	5	F	5:F	_
+5	fröhlich	_	Word	Word	_	0	H	0:H	_
+6	sein	_	Word	Word	_	5	F	5:F	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Auch	_	Word	Word	_	13	L	13:L	_
+9	ich	_	Word	Word	_	13	A	13:A	_
+10	werde	_	Word	Word	_	13	F	13:F	_
+11	die	_	Word	Word	_	12	F	12:F	_
+12	Sterne	_	Word	Word	_	13	A	13:A	_
+13	betrachten	_	Word	Word	_	5	H	5:H	_
+14	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	Alle	_	Word	Word	_	16	Q	16:Q	_
+16	Sterne	_	Word	Word	_	18	A	18:A	_
+17	werden	_	Word	Word	_	18	F	18:F	_
+18	wie	_	Word	Word	_	5	H	5:H	_
+19	Brunnen	_	Word	Word	_	18	A	18:A	_
+20	sein	_	Word	Word	_	18	F	18:F	_
+21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	mit	_	Word	Word	_	25	R	25:R	_
+23	einer	_	Word	Word	_	25	F	25:F	_
+24	verrosteten	_	Word	Word	_	25	E	25:E	_
+25	Winde	_	Word	Word	_	19	E	19:E	_
+26	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+27	Alle	_	Word	Word	_	28	Q	28:Q	_
+28	Sterne	_	Word	Word	_	33	A	33:A	_
+29	werden	_	Word	Word	_	33	F	33:F	_
+30	mir	_	Word	Word	_	33	A	33:A|32:A	_
+31	zu	_	Word	Word	_	32	F	32:F	_
+32	trinken	_	Word	Word	_	33	A	33:A	_
+33	geben	_	Word	Word	_	5	H	5:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	"	_	Punctuation	Punctuation	_	33	U	33:U	_
+

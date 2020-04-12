@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26793006
+# text = Sie glichen alle seiner Blume . - "
+1	Sie	_	Word	Word	_	2	A	2:A	_
+2	glichen	_	Word	Word	_	0	H	0:H	_
+3	alle	_	Word	Word	_	1	Q	1:Q	_
+4	seiner	_	Word	Word	_	5	E	5:E	_
+5	Blume	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

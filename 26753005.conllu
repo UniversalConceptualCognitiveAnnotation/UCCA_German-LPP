@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26753005
+# text = Ich war stolz ihm mitzuteilen , dass ich fliegen konnte .
+1	Ich	_	Word	Word	_	3	A	3:A|5:A	_
+2	war	_	Word	Word	_	3	F	3:F	_
+3	stolz	_	Word	Word	_	0	H	0:H	_
+4	ihm	_	Word	Word	_	5	A	5:A	_
+5	mitzuteilen	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	dass	_	Word	Word	_	9	R	9:R	_
+8	ich	_	Word	Word	_	9	A	9:A	_
+9	fliegen	_	Word	Word	_	5	A	5:A	_
+10	konnte	_	Word	Word	_	9	D	9:D	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

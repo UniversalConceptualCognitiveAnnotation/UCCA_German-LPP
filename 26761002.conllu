@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 26761002
+# text = Um wichtige Dinge ? "
+1	Um	_	Word	Word	_	3	R	3:R	_
+2	wichtige	_	Word	Word	_	3	E	3:E	_
+3	Dinge	_	Word	Word	_	0	H	0:H	_
+4	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+

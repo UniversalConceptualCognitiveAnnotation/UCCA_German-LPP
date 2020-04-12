@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26798004
+# text = Das Wesentliche ist für die Augen unsichtbar " , wiederholte der kleine Prinz , um sich daran zu erinnern . - "
+1	Das	_	Word	Word	_	2	F	2:F	_
+2	Wesentliche	_	Word	Word	_	7	A	7:A	_
+3	ist	_	Word	Word	_	7	F	7:F	_
+4	für	_	Word	Word	_	6	R	6:R	_
+5	die	_	Word	Word	_	6	F	6:F	_
+6	Augen	_	Word	Word	_	7	A	7:A	_
+7	unsichtbar	_	Word	Word	_	10	A	10:A	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	wiederholte	_	Word	Word	_	0	H	0:H	_
+11	der	_	Word	Word	_	13	F	13:F	_
+12	kleine	_	Word	Word	_	13	E	13:E	_
+13	Prinz	_	Word	Word	_	0	C	0:C|16:A	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	um	_	Word	Word	_	16	L	16:L	_
+16	sich	_	Word	Word	_	10	H	10:H	_
+17	daran	_	Word	Word	_	16	A	16:A	_
+18	zu	_	Word	Word	_	16	F	16:F	_
+19	erinnern	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+22	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+

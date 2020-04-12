@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26759007
+# text = Leider ist Frankreich viel zu weit entfernt .
+1	Leider	_	Word	Word	_	7	G	7:G	_
+2	ist	_	Word	Word	_	7	F	7:F	_
+3	Frankreich	_	Word	Word	_	7	A	7:A	_
+4	viel	_	Word	Word	_	6	E	6:E	_
+5	zu	_	Word	Word	_	6	E	6:E	_
+6	weit	_	Word	Word	_	7	D	7:D	_
+7	entfernt	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

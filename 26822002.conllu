@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26822002
+# text = Und ihr werdet sehen wie sich alles verändert ... Und kein Erwachsener wird jemals verstehen , welche große Bedeutung das hat .
+1	Und	_	Word	Word	_	15	L	15:L	_
+2	ihr	_	Word	Word	_	4	A	4:A	_
+3	werdet	_	Word	Word	_	4	F	4:F	_
+4	sehen	_	Word	Word	_	0	H	0:H	_
+5	wie	_	Word	Word	_	6	R	6:R	_
+6	sich	_	Word	Word	_	4	A	4:A	_
+7	alles	_	Word	Word	_	6	A	6:A	_
+8	verändert	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Und	_	Word	Word	_	15	L	15:L	_
+11	kein	_	Word	Word	_	15	D	15:D	_
+12	Erwachsener	_	Word	Word	_	15	A	15:A	_
+13	wird	_	Word	Word	_	15	F	15:F	_
+14	jemals	_	Word	Word	_	15	T	15:T	_
+15	verstehen	_	Word	Word	_	4	H	4:H	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	welche	_	Word	Word	_	19	D	19:D	_
+18	große	_	Word	Word	_	19	D	19:D	_
+19	Bedeutung	_	Word	Word	_	15	A	15:A	_
+20	das	_	Word	Word	_	19	A	19:A	_
+21	hat	_	Word	Word	_	19	F	19:F	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

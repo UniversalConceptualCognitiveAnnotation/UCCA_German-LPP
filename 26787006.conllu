@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26787006
+# text = Zuerst waren die Anzünder in Neuseeland und Australien an der Reihe .
+1	Zuerst	_	Word	Word	_	9	D	9:D	_
+2	waren	_	Word	Word	_	9	F	9:F	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Anzünder	_	Word	Word	_	9	A	9:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	Neuseeland	_	Word	Word	_	4	E	4:E	_
+7	und	_	Word	Word	_	6	N	6:N	_
+8	Australien	_	Word	Word	_	6	C	6:C	_
+9	an	_	Word	Word	_	0	H	0:H	_
+10	der	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Reihe	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

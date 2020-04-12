@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26783000
+# text = Kapitel XV Der sechste Planet war um das Zehnfache größer .
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	XV	_	Word	Word	_	0	H	0:H	_
+3	Der	_	Word	Word	_	5	F	5:F	_
+4	sechste	_	Word	Word	_	5	E	5:E	_
+5	Planet	_	Word	Word	_	10	A	10:A	_
+6	war	_	Word	Word	_	10	F	10:F	_
+7	um	_	Word	Word	_	9	R	9:R	_
+8	das	_	Word	Word	_	9	F	9:F	_
+9	Zehnfache	_	Word	Word	_	10	D	10:D	_
+10	größer	_	Word	Word	_	2	H	2:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

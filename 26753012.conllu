@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 26753012
+# text = Er nickte nur sanft während er mein Flugzeug betrachtete : - " Auf diesem Ding kannst du nicht von sehr weit her kommen ... " Und er verfiel in eine lange Träumerei .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	nickte	_	Word	Word	_	0	H	0:H	_
+3	nur	_	Word	Word	_	2	D	2:D	_
+4	sanft	_	Word	Word	_	2	D	2:D	_
+5	während	_	Word	Word	_	9	L	9:L	_
+6	er	_	Word	Word	_	9	A	9:A	_
+7	mein	_	Word	Word	_	8	E	8:E	_
+8	Flugzeug	_	Word	Word	_	9	A	9:A	_
+9	betrachtete	_	Word	Word	_	2	H	2:H	_
+10	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	Auf	_	Word	Word	_	15	R	15:R	_
+14	diesem	_	Word	Word	_	15	E	15:E	_
+15	Ding	_	Word	Word	_	23	A	23:A	_
+16	kannst	_	Word	Word	_	23	D	23:D	_
+17	du	_	Word	Word	_	23	A	23:A	_
+18	nicht	_	Word	Word	_	23	D	23:D	_
+19	von	_	Word	Word	_	21	R	21:R	_
+20	sehr	_	Word	Word	_	21	E	21:E	_
+21	weit	_	Word	Word	_	23	A	23:A	_
+22	her	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	kommen	_	Word	Word	_	2	H	2:H	_
+24	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+25	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+26	Und	_	Word	Word	_	28	L	28:L	_
+27	er	_	Word	Word	_	28	A	28:A|32:A	_
+28	verfiel	_	Word	Word	_	2	H	2:H	_
+29	in	_	Word	Word	_	32	R	32:R	_
+30	eine	_	Word	Word	_	32	F	32:F	_
+31	lange	_	Word	Word	_	32	D	32:D	_
+32	Träumerei	_	Word	Word	_	28	A	28:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

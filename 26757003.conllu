@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 26757003
+# text = Auch das geschah dank eines Schafs , denn plötzlich fragte mich der kleine Prinz wie von einem schlimmen Zweifel überkommen : - " Es ist doch wahr , dass Schafe Sträucher fressen , oder ? " - "
+1	Auch	_	Word	Word	_	10	L	10:L	_
+2	das	_	Word	Word	_	3	A	3:A	_
+3	geschah	_	Word	Word	_	0	H	0:H	_
+4	dank	_	Word	Word	_	3	A	3:A	_
+5	eines	_	Word	Word	_	6	R	6:R	_
+6	Schafs	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	denn	_	Word	Word	_	10	L	10:L	_
+9	plötzlich	_	Word	Word	_	10	T	10:T	_
+10	fragte	_	Word	Word	_	3	H	3:H	_
+11	mich	_	Word	Word	_	10	A	10:A	_
+12	der	_	Word	Word	_	14	F	14:F	_
+13	kleine	_	Word	Word	_	14	E	14:E	_
+14	Prinz	_	Word	Word	_	10	A	10:A	_
+15	wie	_	Word	Word	_	20	R	20:R	_
+16	von	_	Word	Word	_	19	R	19:R	_
+17	einem	_	Word	Word	_	19	F	19:F	_
+18	schlimmen	_	Word	Word	_	19	E	19:E	_
+19	Zweifel	_	Word	Word	_	20	A	20:A	_
+20	überkommen	_	Word	Word	_	14	E	14:E	_
+21	:	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+23	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+24	Es	_	Word	Word	_	27	F	27:F	_
+25	ist	_	Word	Word	_	27	F	27:F	_
+26	doch	_	Word	Word	_	27	D	27:D	_
+27	wahr	_	Word	Word	_	10	A	10:A	_
+28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	dass	_	Word	Word	_	32	R	32:R	_
+30	Schafe	_	Word	Word	_	32	A	32:A	_
+31	Sträucher	_	Word	Word	_	32	A	32:A	_
+32	fressen	_	Word	Word	_	27	A	27:A	_
+33	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+34	oder	_	Word	Word	_	27	H	27:H	_
+35	?	_	Punctuation	Punctuation	_	27	U	27:U	_
+36	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+37	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+38	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+

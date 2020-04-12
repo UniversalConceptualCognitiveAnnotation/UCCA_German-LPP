@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26766002
+# text = Die noch aktiven Vulkane fegte er sorgfältig sauber .
+1	Die	_	Word	Word	_	4	F	4:F	_
+2	noch	_	Word	Word	_	3	D	3:D	_
+3	aktiven	_	Word	Word	_	4	E	4:E	_
+4	Vulkane	_	Word	Word	_	5	A	5:A	_
+5	fegte	_	Word	Word	_	0	H	0:H	_
+6	er	_	Word	Word	_	5	A	5:A	_
+7	sorgfältig	_	Word	Word	_	5	D	5:D	_
+8	sauber	_	Word	Word	_	5	D	5:D	_
+9	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

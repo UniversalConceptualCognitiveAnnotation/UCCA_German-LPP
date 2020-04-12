@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26783002
+# text = Sieh da ! Ein Forscher ! " , freute er sich , als er den kleinen Prinzen erblickte .
+1	Sieh	_	Word	Word	_	9	A	9:A	_
+2	da	_	Word	Word	_	1	A	1:A	_
+3	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	Ein	_	Word	Word	_	5	F	5:F	_
+5	Forscher	_	Word	Word	_	1	H	1:H	_
+6	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	freute	_	Word	Word	_	0	H	0:H	_
+10	er	_	Word	Word	_	9	A	9:A	_
+11	sich	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	als	_	Word	Word	_	18	L	18:L	_
+14	er	_	Word	Word	_	18	A	18:A	_
+15	den	_	Word	Word	_	17	F	17:F	_
+16	kleinen	_	Word	Word	_	17	E	17:E	_
+17	Prinzen	_	Word	Word	_	18	A	18:A	_
+18	erblickte	_	Word	Word	_	9	H	9:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

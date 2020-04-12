@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26769007
+# text = Ich befehle dir , dich zu setzen " , antwortete der König , und rückte würdevoll einen Zipfel seines Hermelin mantels zurecht .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	befehle	_	Word	Word	_	10	A	10:A	_
+3	dir	_	Word	Word	_	2	A	2:A|5:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	dich	_	Word	Word	_	2	A	2:A	_
+6	zu	_	Word	Word	_	5	F	5:F	_
+7	setzen	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	antwortete	_	Word	Word	_	0	H	0:H	_
+11	der	_	Word	Word	_	12	F	12:F	_
+12	König	_	Word	Word	_	0	C	0:C|15:A	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	und	_	Word	Word	_	15	L	15:L	_
+15	rückte	_	Word	Word	_	10	H	10:H	_
+16	würdevoll	_	Word	Word	_	15	D	15:D	_
+17	einen	_	Word	Word	_	18	F	18:F	_
+18	Zipfel	_	Word	Word	_	15	A	15:A	_
+19	seines	_	Word	Word	_	21	R	21:R	_
+20	Hermelin	_	Word	Word	_	21	E	21:E	_
+21	mantels	_	Word	Word	_	18	E	18:E	_
+22	zurecht	_	Word	Word	_	15	Terminal	15:Terminal	_
+23	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

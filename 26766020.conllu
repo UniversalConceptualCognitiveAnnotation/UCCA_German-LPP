@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26766020
+# text = Aber das lag nicht an ihrer Erkältung . - "
+1	Aber	_	Word	Word	_	3	L	3:L	_
+2	das	_	Word	Word	_	3	A	3:A	_
+3	lag	_	Word	Word	_	0	H	0:H	_
+4	nicht	_	Word	Word	_	3	D	3:D	_
+5	an	_	Word	Word	_	7	R	7:R	_
+6	ihrer	_	Word	Word	_	7	A	7:A	_
+7	Erkältung	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

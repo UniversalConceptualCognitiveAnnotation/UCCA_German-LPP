@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26800011
+# text = Und der Donner eines dritten Schnell zugs grollte . - "
+1	Und	_	Word	Word	_	8	L	8:L	_
+2	der	_	Word	Word	_	3	F	3:F	_
+3	Donner	_	Word	Word	_	8	A	8:A	_
+4	eines	_	Word	Word	_	7	R	7:R	_
+5	dritten	_	Word	Word	_	7	E	7:E	_
+6	Schnell	_	Word	Word	_	7	E	7:E	_
+7	zugs	_	Word	Word	_	3	E	3:E	_
+8	grollte	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26809002
+# text = Ich hatte ihm seinen goldenen Schal abgebunden .
+1	Ich	_	Word	Word	_	7	A	7:A	_
+2	hatte	_	Word	Word	_	7	F	7:F	_
+3	ihm	_	Word	Word	_	7	A	7:A	_
+4	seinen	_	Word	Word	_	6	E	6:E	_
+5	goldenen	_	Word	Word	_	6	E	6:E	_
+6	Schal	_	Word	Word	_	7	A	7:A	_
+7	abgebunden	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

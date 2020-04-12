@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26748011
+# text = Derart entmutigt war ich von dem Misserfolg meiner Zeichnungen Nr . 1 und Nr . 2 .
+1	Derart	_	Word	Word	_	2	D	2:D	_
+2	entmutigt	_	Word	Word	_	0	H	0:H	_
+3	war	_	Word	Word	_	2	F	2:F	_
+4	ich	_	Word	Word	_	2	A	2:A	_
+5	von	_	Word	Word	_	7	R	7:R	_
+6	dem	_	Word	Word	_	7	F	7:F	_
+7	Misserfolg	_	Word	Word	_	2	A	2:A	_
+8	meiner	_	Word	Word	_	9	R	9:R	_
+9	Zeichnungen	_	Word	Word	_	7	A	7:A	_
+10	Nr	_	Word	Word	_	12	E	12:E	_
+11	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	1	_	Word	Word	_	9	E	9:E	_
+13	und	_	Word	Word	_	12	N	12:N	_
+14	Nr	_	Word	Word	_	16	E	16:E	_
+15	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	2	_	Word	Word	_	12	C	12:C	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

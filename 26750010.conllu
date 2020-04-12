@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26750010
+# text = Zeichne mir ein Schaf . "
+1	Zeichne	_	Word	Word	_	0	H	0:H	_
+2	mir	_	Word	Word	_	1	A	1:A	_
+3	ein	_	Word	Word	_	4	F	4:F	_
+4	Schaf	_	Word	Word	_	1	A	1:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+

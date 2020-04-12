@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26808008
+# text = Ich blieb stehen , das Herz zog sich in mir zusammen , aber noch immer verstand ich nicht . - "
+1	Ich	_	Word	Word	_	3	A	3:A	_
+2	blieb	_	Word	Word	_	3	D	3:D	_
+3	stehen	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	das	_	Word	Word	_	6	F	6:F	_
+6	Herz	_	Word	Word	_	7	A	7:A	_
+7	zog	_	Word	Word	_	3	H	3:H	_
+8	sich	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	mir	_	Word	Word	_	7	A	7:A	_
+11	zusammen	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	aber	_	Word	Word	_	16	L	16:L	_
+14	noch	_	Word	Word	_	15	E	15:E	_
+15	immer	_	Word	Word	_	16	D	16:D	_
+16	verstand	_	Word	Word	_	3	H	3:H	_
+17	ich	_	Word	Word	_	16	A	16:A	_
+18	nicht	_	Word	Word	_	16	D	16:D	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+

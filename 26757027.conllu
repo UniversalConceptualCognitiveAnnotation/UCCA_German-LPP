@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26757027
+# text = Und wenn der Planet zu klein ist und die Affenbrotbäume zu zahlreich werden , dann sprengen sie ihn .
+1	Und	_	Word	Word	_	12	L	12:L	_
+2	wenn	_	Word	Word	_	12	L	12:L	_
+3	der	_	Word	Word	_	4	F	4:F	_
+4	Planet	_	Word	Word	_	6	A	6:A	_
+5	zu	_	Word	Word	_	6	E	6:E	_
+6	klein	_	Word	Word	_	0	H	0:H	_
+7	ist	_	Word	Word	_	6	F	6:F	_
+8	und	_	Word	Word	_	12	L	12:L	_
+9	die	_	Word	Word	_	10	F	10:F	_
+10	Affenbrotbäume	_	Word	Word	_	12	A	12:A	_
+11	zu	_	Word	Word	_	12	E	12:E	_
+12	zahlreich	_	Word	Word	_	6	H	6:H	_
+13	werden	_	Word	Word	_	12	F	12:F	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	dann	_	Word	Word	_	16	L	16:L	_
+16	sprengen	_	Word	Word	_	6	H	6:H	_
+17	sie	_	Word	Word	_	16	A	16:A	_
+18	ihn	_	Word	Word	_	16	A	16:A	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 26775001
+# text = Es war ein sehr kurzer Besuch , doch tauchte er den kleinen Prinzen in eine große Traurigkeit : - " Was machst du da ? " , fragte er den Säufer , der schweigend vor einer Ansammlung leerer und voller Flaschen saß . - "
+1	Es	_	Word	Word	_	6	F	6:F	_
+2	war	_	Word	Word	_	6	F	6:F	_
+3	ein	_	Word	Word	_	6	F	6:F	_
+4	sehr	_	Word	Word	_	5	E	5:E	_
+5	kurzer	_	Word	Word	_	6	D	6:D	_
+6	Besuch	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	doch	_	Word	Word	_	9	L	9:L	_
+9	tauchte	_	Word	Word	_	6	H	6:H	_
+10	er	_	Word	Word	_	9	A	9:A	_
+11	den	_	Word	Word	_	13	F	13:F	_
+12	kleinen	_	Word	Word	_	13	E	13:E	_
+13	Prinzen	_	Word	Word	_	9	A	9:A	_
+14	in	_	Word	Word	_	17	R	17:R	_
+15	eine	_	Word	Word	_	17	F	17:F	_
+16	große	_	Word	Word	_	17	D	17:D	_
+17	Traurigkeit	_	Word	Word	_	9	A	9:A	_
+18	:	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+21	Was	_	Word	Word	_	22	A	22:A	_
+22	machst	_	Word	Word	_	28	A	28:A	_
+23	du	_	Word	Word	_	22	A	22:A	_
+24	da	_	Word	Word	_	22	A	22:A	_
+25	?	_	Punctuation	Punctuation	_	28	U	28:U	_
+26	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	fragte	_	Word	Word	_	6	H	6:H	_
+29	er	_	Word	Word	_	28	A	28:A	_
+30	den	_	Word	Word	_	31	F	31:F	_
+31	Säufer	_	Word	Word	_	28	A	28:A	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	der	_	Word	Word	_	42	R	42:R	_
+34	schweigend	_	Word	Word	_	42	D	42:D	_
+35	vor	_	Word	Word	_	37	R	37:R	_
+36	einer	_	Word	Word	_	37	E	37:E	_
+37	Ansammlung	_	Word	Word	_	42	A	42:A	_
+38	leerer	_	Word	Word	_	41	E	41:E	_
+39	und	_	Word	Word	_	38	N	38:N	_
+40	voller	_	Word	Word	_	38	C	38:C	_
+41	Flaschen	_	Word	Word	_	37	E	37:E	_
+42	saß	_	Word	Word	_	31	E	31:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+44	-	_	Punctuation	Punctuation	_	42	U	42:U	_
+45	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+

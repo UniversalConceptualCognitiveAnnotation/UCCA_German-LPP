@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 26771004
+# text = Und dann langweilte er sich schon ein bisschen : - " Ich habe hier nichts mehr zu tun " , sagte er zu dem König . Ich werde wieder aufbrechen ! " - "
+1	Und	_	Word	Word	_	21	L	21:L	_
+2	dann	_	Word	Word	_	21	L	21:L	_
+3	langweilte	_	Word	Word	_	0	H	0:H	_
+4	er	_	Word	Word	_	3	A	3:A	_
+5	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	schon	_	Word	Word	_	3	D	3:D	_
+7	ein	_	Word	Word	_	3	D	3:D	_
+8	bisschen	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	Ich	_	Word	Word	_	13	A	13:A	_
+13	habe	_	Word	Word	_	21	A	21:A	_
+14	hier	_	Word	Word	_	13	A	13:A	_
+15	nichts	_	Word	Word	_	13	D	13:D	_
+16	mehr	_	Word	Word	_	15	E	15:E	_
+17	zu	_	Word	Word	_	13	Terminal	13:Terminal	_
+18	tun	_	Word	Word	_	13	Terminal	13:Terminal	_
+19	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	sagte	_	Word	Word	_	3	H	3:H	_
+22	er	_	Word	Word	_	21	A	21:A	_
+23	zu	_	Word	Word	_	25	R	25:R	_
+24	dem	_	Word	Word	_	25	F	25:F	_
+25	König	_	Word	Word	_	21	A	21:A	_
+26	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+27	Ich	_	Word	Word	_	30	A	30:A	_
+28	werde	_	Word	Word	_	30	F	30:F	_
+29	wieder	_	Word	Word	_	30	D	30:D	_
+30	aufbrechen	_	Word	Word	_	13	H	13:H	_
+31	!	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+34	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26755017
+# text = Sie fragen euch : " Wie alt ist er ? Wie viele Geschwister hat er ? Wie viel wiegt er ? Wie viel verdient sein Vater ? "
+1	Sie	_	Word	Word	_	2	A	2:A	_
+2	fragen	_	Word	Word	_	0	H	0:H	_
+3	euch	_	Word	Word	_	2	A	2:A	_
+4	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Wie	_	Word	Word	_	7	D	7:D	_
+7	alt	_	Word	Word	_	2	A	2:A	_
+8	ist	_	Word	Word	_	7	F	7:F	_
+9	er	_	Word	Word	_	7	A	7:A	_
+10	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	Wie	_	Word	Word	_	14	D	14:D	_
+12	viele	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Geschwister	_	Word	Word	_	14	A	14:A	_
+14	hat	_	Word	Word	_	7	H	7:H	_
+15	er	_	Word	Word	_	14	A	14:A	_
+16	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+17	Wie	_	Word	Word	_	19	D	19:D	_
+18	viel	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	wiegt	_	Word	Word	_	7	H	7:H	_
+20	er	_	Word	Word	_	19	A	19:A	_
+21	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+22	Wie	_	Word	Word	_	24	D	24:D	_
+23	viel	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	verdient	_	Word	Word	_	7	H	7:H	_
+25	sein	_	Word	Word	_	26	E	26:E	_
+26	Vater	_	Word	Word	_	24	A	24:A	_
+27	?	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

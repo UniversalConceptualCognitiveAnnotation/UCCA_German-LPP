@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26793001
+# text = Und alle Straßen führen zu Menschen . - "
+1	Und	_	Word	Word	_	4	L	4:L	_
+2	alle	_	Word	Word	_	3	Q	3:Q	_
+3	Straßen	_	Word	Word	_	4	A	4:A	_
+4	führen	_	Word	Word	_	0	H	0:H	_
+5	zu	_	Word	Word	_	6	R	6:R	_
+6	Menschen	_	Word	Word	_	4	A	4:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

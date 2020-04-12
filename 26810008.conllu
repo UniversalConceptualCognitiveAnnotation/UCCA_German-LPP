@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26810008
+# text = Mein Stern ist so klein , dass ich dir nicht zeigen kann , wo genau er sich befindet .
+1	Mein	_	Word	Word	_	2	E	2:E	_
+2	Stern	_	Word	Word	_	5	A	5:A	_
+3	ist	_	Word	Word	_	5	F	5:F	_
+4	so	_	Word	Word	_	5	D	5:D	_
+5	klein	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	dass	_	Word	Word	_	11	R	11:R	_
+8	ich	_	Word	Word	_	11	A	11:A	_
+9	dir	_	Word	Word	_	11	A	11:A	_
+10	nicht	_	Word	Word	_	11	D	11:D	_
+11	zeigen	_	Word	Word	_	5	A	5:A	_
+12	kann	_	Word	Word	_	11	D	11:D	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	wo	_	Word	Word	_	17	A	17:A	_
+15	genau	_	Word	Word	_	17	D	17:D	_
+16	er	_	Word	Word	_	17	A	17:A	_
+17	sich	_	Word	Word	_	11	A	11:A	_
+18	befindet	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

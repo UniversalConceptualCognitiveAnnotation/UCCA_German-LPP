@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26771010
+# text = Oh ! Aber ich habe es schon gesehen . " , sagte der kleine Prinz und neigte seinen Kopf , um nochmals auf die andere Seite des Planeten zu schauen . "
+1	Oh	_	Word	Word	_	12	A	12:A	_
+2	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Aber	_	Word	Word	_	8	L	8:L	_
+4	ich	_	Word	Word	_	8	A	8:A	_
+5	habe	_	Word	Word	_	8	F	8:F	_
+6	es	_	Word	Word	_	8	A	8:A	_
+7	schon	_	Word	Word	_	8	D	8:D	_
+8	gesehen	_	Word	Word	_	1	H	1:H	_
+9	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	sagte	_	Word	Word	_	0	H	0:H	_
+13	der	_	Word	Word	_	15	F	15:F	_
+14	kleine	_	Word	Word	_	15	E	15:E	_
+15	Prinz	_	Word	Word	_	0	C	0:C|17:A|30:A	_
+16	und	_	Word	Word	_	17	L	17:L	_
+17	neigte	_	Word	Word	_	12	H	12:H	_
+18	seinen	_	Word	Word	_	19	E	19:E	_
+19	Kopf	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+21	um	_	Word	Word	_	30	L	30:L	_
+22	nochmals	_	Word	Word	_	30	D	30:D	_
+23	auf	_	Word	Word	_	26	R	26:R	_
+24	die	_	Word	Word	_	26	F	26:F	_
+25	andere	_	Word	Word	_	26	E	26:E	_
+26	Seite	_	Word	Word	_	30	A	30:A	_
+27	des	_	Word	Word	_	28	R	28:R	_
+28	Planeten	_	Word	Word	_	26	E	26:E	_
+29	zu	_	Word	Word	_	30	F	30:F	_
+30	schauen	_	Word	Word	_	12	H	12:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+

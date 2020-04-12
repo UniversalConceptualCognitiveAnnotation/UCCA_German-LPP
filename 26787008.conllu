@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26787008
+# text = Dann begann der Tanz der Laternen anzünder in China und Sibirien .
+1	Dann	_	Word	Word	_	2	L	2:L	_
+2	begann	_	Word	Word	_	0	H	0:H	_
+3	der	_	Word	Word	_	4	F	4:F	_
+4	Tanz	_	Word	Word	_	2	A	2:A	_
+5	der	_	Word	Word	_	7	R	7:R	_
+6	Laternen	_	Word	Word	_	7	E	7:E	_
+7	anzünder	_	Word	Word	_	4	A	4:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	China	_	Word	Word	_	2	A	2:A	_
+10	und	_	Word	Word	_	9	N	9:N	_
+11	Sibirien	_	Word	Word	_	9	C	9:C	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

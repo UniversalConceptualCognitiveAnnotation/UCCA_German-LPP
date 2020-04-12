@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26759006
+# text = Man müsste innerhalb einer Minute nach Frankreich gelangen können , um den Sonnenuntergang dort zu sehen .
+1	Man	_	Word	Word	_	8	A	8:A|16:A	_
+2	müsste	_	Word	Word	_	8	D	8:D	_
+3	innerhalb	_	Word	Word	_	5	R	5:R	_
+4	einer	_	Word	Word	_	5	Q	5:Q	_
+5	Minute	_	Word	Word	_	8	T	8:T	_
+6	nach	_	Word	Word	_	7	R	7:R	_
+7	Frankreich	_	Word	Word	_	8	A	8:A	_
+8	gelangen	_	Word	Word	_	0	H	0:H	_
+9	können	_	Word	Word	_	8	D	8:D	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	um	_	Word	Word	_	16	L	16:L	_
+12	den	_	Word	Word	_	13	F	13:F	_
+13	Sonnenuntergang	_	Word	Word	_	16	A	16:A	_
+14	dort	_	Word	Word	_	16	A	16:A	_
+15	zu	_	Word	Word	_	16	F	16:F	_
+16	sehen	_	Word	Word	_	8	H	8:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26764002
+# text = Und ganz verwirrt holte der kleine Prinz eine Kanne mit frischem Wasser , um die Blume zu gießen .
+1	Und	_	Word	Word	_	4	L	4:L	_
+2	ganz	_	Word	Word	_	3	D	3:D	_
+3	verwirrt	_	Word	Word	_	0	H	0:H	_
+4	holte	_	Word	Word	_	3	H	3:H	_
+5	der	_	Word	Word	_	7	F	7:F	_
+6	kleine	_	Word	Word	_	7	E	7:E	_
+7	Prinz	_	Word	Word	_	0	C	0:C|3:A|18:A	_
+8	eine	_	Word	Word	_	9	F	9:F	_
+9	Kanne	_	Word	Word	_	4	A	4:A	_
+10	mit	_	Word	Word	_	12	R	12:R	_
+11	frischem	_	Word	Word	_	12	E	12:E	_
+12	Wasser	_	Word	Word	_	9	E	9:E	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	um	_	Word	Word	_	18	L	18:L	_
+15	die	_	Word	Word	_	16	F	16:F	_
+16	Blume	_	Word	Word	_	18	A	18:A	_
+17	zu	_	Word	Word	_	18	F	18:F	_
+18	gießen	_	Word	Word	_	3	H	3:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

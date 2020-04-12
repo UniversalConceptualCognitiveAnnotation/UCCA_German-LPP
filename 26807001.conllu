@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26807001
+# text = Er sagte : - " Weißt du , mein Fall zu der Erde ... morgen jährt er sich . "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	sagte	_	Word	Word	_	0	H	0:H	_
+3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Weißt	_	Word	Word	_	2	A	2:A	_
+7	du	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	mein	_	Word	Word	_	10	A	10:A	_
+10	Fall	_	Word	Word	_	6	H	6:H	_
+11	zu	_	Word	Word	_	13	R	13:R	_
+12	der	_	Word	Word	_	13	F	13:F	_
+13	Erde	_	Word	Word	_	10	A	10:A	_
+14	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	morgen	_	Word	Word	_	16	T	16:T	_
+16	jährt	_	Word	Word	_	6	H	6:H	_
+17	er	_	Word	Word	_	16	A	16:A	_
+18	sich	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+

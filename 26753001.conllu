@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26753001
+# text = Der kleine Prinz stellte mir viele Fragen , aber schien meine zu überhören .
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	0	C	0:C|13:A	_
+4	stellte	_	Word	Word	_	0	H	0:H	_
+5	mir	_	Word	Word	_	4	A	4:A	_
+6	viele	_	Word	Word	_	4	D	4:D	_
+7	Fragen	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	aber	_	Word	Word	_	13	L	13:L	_
+10	schien	_	Word	Word	_	13	G	13:G	_
+11	meine	_	Word	Word	_	13	A	13:A	_
+12	zu	_	Word	Word	_	13	F	13:F	_
+13	überhören	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

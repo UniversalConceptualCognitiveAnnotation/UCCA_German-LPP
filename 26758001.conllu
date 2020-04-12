@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26758001
+# text = Und eines Tages riet er mir , mich doch zu bemühen , eine schöne Zeichnung zu Stande zu bringen , damit die Kinder bei mir zuhause es sich einprägten . - "
+1	Und	_	Word	Word	_	8	L	8:L	_
+2	eines	_	Word	Word	_	3	F	3:F	_
+3	Tages	_	Word	Word	_	4	T	4:T	_
+4	riet	_	Word	Word	_	0	H	0:H	_
+5	er	_	Word	Word	_	4	A	4:A	_
+6	mir	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	mich	_	Word	Word	_	4	H	4:H	_
+9	doch	_	Word	Word	_	8	D	8:D	_
+10	zu	_	Word	Word	_	8	F	8:F	_
+11	bemühen	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	eine	_	Word	Word	_	15	F	15:F	_
+14	schöne	_	Word	Word	_	15	E	15:E	_
+15	Zeichnung	_	Word	Word	_	16	A	16:A	_
+16	zu	_	Word	Word	_	4	H	4:H	_
+17	Stande	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	zu	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	bringen	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+21	damit	_	Word	Word	_	28	L	28:L	_
+22	die	_	Word	Word	_	23	F	23:F	_
+23	Kinder	_	Word	Word	_	26	A	26:A	_
+24	bei	_	Word	Word	_	26	R	26:R	_
+25	mir	_	Word	Word	_	26	A	26:A	_
+26	zuhause	_	Word	Word	_	28	A	28:A	_
+27	es	_	Word	Word	_	28	A	28:A	_
+28	sich	_	Word	Word	_	4	H	4:H	_
+29	einprägten	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+32	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+

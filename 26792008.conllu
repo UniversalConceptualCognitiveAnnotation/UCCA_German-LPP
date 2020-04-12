@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26792008
+# text = Werdet meine Freunde , ich bin allein " , sagte er . - "
+1	Werdet	_	Word	Word	_	10	A	10:A	_
+2	meine	_	Word	Word	_	1	A	1:A	_
+3	Freunde	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	ich	_	Word	Word	_	7	A	7:A	_
+6	bin	_	Word	Word	_	7	F	7:F	_
+7	allein	_	Word	Word	_	1	H	1:H	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	sagte	_	Word	Word	_	0	H	0:H	_
+11	er	_	Word	Word	_	10	A	10:A	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

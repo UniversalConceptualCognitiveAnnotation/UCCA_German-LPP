@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26800009
+# text = Waren sie nicht zufrieden , dort , wo sie waren ? " - "
+1	Waren	_	Word	Word	_	4	F	4:F	_
+2	sie	_	Word	Word	_	4	A	4:A	_
+3	nicht	_	Word	Word	_	4	D	4:D	_
+4	zufrieden	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	dort	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	wo	_	Word	Word	_	6	E	6:E	_
+9	sie	_	Word	Word	_	10	A	10:A	_
+10	waren	_	Word	Word	_	8	E	8:E	_
+11	?	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

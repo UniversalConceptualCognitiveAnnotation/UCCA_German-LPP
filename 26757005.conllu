@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26757005
+# text = Ah ! Da bin ich froh . "
+1	Ah	_	Word	Word	_	6	F	6:F	_
+2	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	Da	_	Word	Word	_	6	A	6:A	_
+4	bin	_	Word	Word	_	6	F	6:F	_
+5	ich	_	Word	Word	_	6	A	6:A	_
+6	froh	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26757002
+# text = Auf diese Weise erfuhr ich an dem dritten Tag von der Tragödie mit den Affenbrotbäumen .
+1	Auf	_	Word	Word	_	3	R	3:R	_
+2	diese	_	Word	Word	_	3	E	3:E	_
+3	Weise	_	Word	Word	_	4	D	4:D	_
+4	erfuhr	_	Word	Word	_	0	H	0:H	_
+5	ich	_	Word	Word	_	4	A	4:A	_
+6	an	_	Word	Word	_	9	R	9:R	_
+7	dem	_	Word	Word	_	9	F	9:F	_
+8	dritten	_	Word	Word	_	9	E	9:E	_
+9	Tag	_	Word	Word	_	4	T	4:T	_
+10	von	_	Word	Word	_	12	R	12:R	_
+11	der	_	Word	Word	_	12	F	12:F	_
+12	Tragödie	_	Word	Word	_	4	A	4:A	_
+13	mit	_	Word	Word	_	15	R	15:R	_
+14	den	_	Word	Word	_	15	F	15:F	_
+15	Affenbrotbäumen	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 26792003
+# text = Von einem so hohen Berg " , sagte er sich , " werde ich den ganzen Planeten und alle Menschen auf einmal sehen ... " Aber er sah nur die Spitzen von scharfen Felsen . - "
+1	Von	_	Word	Word	_	5	R	5:R	_
+2	einem	_	Word	Word	_	5	F	5:F	_
+3	so	_	Word	Word	_	4	D	4:D	_
+4	hohen	_	Word	Word	_	5	E	5:E	_
+5	Berg	_	Word	Word	_	23	A	23:A	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	sagte	_	Word	Word	_	0	H	0:H	_
+9	er	_	Word	Word	_	8	A	8:A	_
+10	sich	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	werde	_	Word	Word	_	23	F	23:F	_
+14	ich	_	Word	Word	_	23	A	23:A	_
+15	den	_	Word	Word	_	17	F	17:F	_
+16	ganzen	_	Word	Word	_	17	E	17:E	_
+17	Planeten	_	Word	Word	_	23	A	23:A	_
+18	und	_	Word	Word	_	17	N	17:N	_
+19	alle	_	Word	Word	_	20	Q	20:Q	_
+20	Menschen	_	Word	Word	_	17	C	17:C	_
+21	auf	_	Word	Word	_	22	R	22:R	_
+22	einmal	_	Word	Word	_	23	D	23:D	_
+23	sehen	_	Word	Word	_	8	A	8:A	_
+24	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+26	Aber	_	Word	Word	_	28	L	28:L	_
+27	er	_	Word	Word	_	28	A	28:A	_
+28	sah	_	Word	Word	_	8	H	8:H	_
+29	nur	_	Word	Word	_	28	D	28:D	_
+30	die	_	Word	Word	_	31	F	31:F	_
+31	Spitzen	_	Word	Word	_	28	A	28:A	_
+32	von	_	Word	Word	_	34	R	34:R	_
+33	scharfen	_	Word	Word	_	34	E	34:E	_
+34	Felsen	_	Word	Word	_	31	E	31:E	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+37	"	_	Punctuation	Punctuation	_	34	U	34:U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26787009
+# text = Dann verschwanden auch sie hinter den Kulissen .
+1	Dann	_	Word	Word	_	2	L	2:L	_
+2	verschwanden	_	Word	Word	_	0	H	0:H	_
+3	auch	_	Word	Word	_	2	D	2:D	_
+4	sie	_	Word	Word	_	2	A	2:A	_
+5	hinter	_	Word	Word	_	7	R	7:R	_
+6	den	_	Word	Word	_	7	F	7:F	_
+7	Kulissen	_	Word	Word	_	2	A	2:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

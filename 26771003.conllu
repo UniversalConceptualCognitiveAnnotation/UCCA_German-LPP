@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26771003
+# text = Er bedauerte , dass ihm der Sonnenuntergang vorenthalten blieb .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	bedauerte	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	dass	_	Word	Word	_	8	R	8:R	_
+5	ihm	_	Word	Word	_	8	A	8:A	_
+6	der	_	Word	Word	_	7	F	7:F	_
+7	Sonnenuntergang	_	Word	Word	_	8	A	8:A	_
+8	vorenthalten	_	Word	Word	_	2	A	2:A	_
+9	blieb	_	Word	Word	_	8	D	8:D	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

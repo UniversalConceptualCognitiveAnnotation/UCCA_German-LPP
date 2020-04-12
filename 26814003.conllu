@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26814003
+# text = Jetzt habe ich ein bisschen Trost gefunden .
+1	Jetzt	_	Word	Word	_	7	T	7:T	_
+2	habe	_	Word	Word	_	7	F	7:F	_
+3	ich	_	Word	Word	_	7	A	7:A	_
+4	ein	_	Word	Word	_	7	D	7:D	_
+5	bisschen	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Trost	_	Word	Word	_	7	A	7:A	_
+7	gefunden	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

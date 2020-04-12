@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26763012
+# text = So hatte sie tagelang vor dem Spiegel gestanden .
+1	So	_	Word	Word	_	8	D	8:D	_
+2	hatte	_	Word	Word	_	8	F	8:F	_
+3	sie	_	Word	Word	_	8	A	8:A	_
+4	tagelang	_	Word	Word	_	8	T	8:T	_
+5	vor	_	Word	Word	_	7	R	7:R	_
+6	dem	_	Word	Word	_	7	F	7:F	_
+7	Spiegel	_	Word	Word	_	8	A	8:A	_
+8	gestanden	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

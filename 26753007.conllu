@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26753007
+# text = Ah ! Das ist lustig ... " Und der kleine Prinz brach in ein herzliches Lachen aus , das mich sehr verärgerte .
+1	Ah	_	Word	Word	_	5	F	5:F	_
+2	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	Das	_	Word	Word	_	5	A	5:A	_
+4	ist	_	Word	Word	_	5	F	5:F	_
+5	lustig	_	Word	Word	_	0	H	0:H	_
+6	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Und	_	Word	Word	_	12	L	12:L	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	12	A	12:A	_
+12	brach	_	Word	Word	_	5	H	5:H	_
+13	in	_	Word	Word	_	16	R	16:R	_
+14	ein	_	Word	Word	_	16	F	16:F	_
+15	herzliches	_	Word	Word	_	16	E	16:E	_
+16	Lachen	_	Word	Word	_	12	A	12:A	_
+17	aus	_	Word	Word	_	12	Terminal	12:Terminal	_
+18	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+19	das	_	Word	Word	_	22	R	22:R	_
+20	mich	_	Word	Word	_	22	A	22:A	_
+21	sehr	_	Word	Word	_	22	D	22:D	_
+22	verärgerte	_	Word	Word	_	16	E	16:E	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

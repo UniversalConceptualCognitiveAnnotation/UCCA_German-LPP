@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26792007
+# text = Wer seid ihr ... Wer seid ihr ... Wer seid ihr ... " , antwortete das Echo . - "
+1	Wer	_	Word	Word	_	2	A	2:A	_
+2	seid	_	Word	Word	_	15	A	15:A	_
+3	ihr	_	Word	Word	_	2	A	2:A	_
+4	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Wer	_	Word	Word	_	6	A	6:A	_
+6	seid	_	Word	Word	_	2	H	2:H	_
+7	ihr	_	Word	Word	_	6	A	6:A	_
+8	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	Wer	_	Word	Word	_	10	A	10:A	_
+10	seid	_	Word	Word	_	2	H	2:H	_
+11	ihr	_	Word	Word	_	10	A	10:A	_
+12	...	_	Punctuation	Punctuation	_	15	U	15:U	_
+13	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	antwortete	_	Word	Word	_	0	H	0:H	_
+16	das	_	Word	Word	_	17	F	17:F	_
+17	Echo	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26797002
+# text = Und als die Stunde des Abschieds nahte : - " Ach ! " sagte der Fuchs , " ich werde weinen . " - "
+1	Und	_	Word	Word	_	14	L	14:L	_
+2	als	_	Word	Word	_	14	L	14:L	_
+3	die	_	Word	Word	_	6	F	6:F	_
+4	Stunde	_	Word	Word	_	6	A	6:A	_
+5	des	_	Word	Word	_	6	R	6:R	_
+6	Abschieds	_	Word	Word	_	7	A	7:A	_
+7	nahte	_	Word	Word	_	0	H	0:H	_
+8	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	Ach	_	Word	Word	_	21	F	21:F	_
+12	!	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	sagte	_	Word	Word	_	7	H	7:H	_
+15	der	_	Word	Word	_	16	F	16:F	_
+16	Fuchs	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	ich	_	Word	Word	_	21	A	21:A	_
+20	werde	_	Word	Word	_	21	F	21:F	_
+21	weinen	_	Word	Word	_	14	A	14:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

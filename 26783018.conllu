@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26783018
+# text = Und Städte und Flüsse und Wüsten ? " - "
+1	Und	_	Word	Word	_	2	L	2:L	_
+2	Städte	_	Word	Word	_	0	H	0:H	_
+3	und	_	Word	Word	_	2	N	2:N	_
+4	Flüsse	_	Word	Word	_	2	C	2:C	_
+5	und	_	Word	Word	_	2	N	2:N	_
+6	Wüsten	_	Word	Word	_	2	C	2:C	_
+7	?	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+

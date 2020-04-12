@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 26748004
+# text = Sie sah so aus : Ich zeigte mein Meister werk den Erwachsenen und habe sie gefragt , ob sie vor meiner Zeichnung Angst hätten : Sie haben mir geantwortet : " Warum sollte man vor einem Hut Angst haben ? "
+1	Sie	_	Word	Word	_	2	A	2:A	_
+2	sah	_	Word	Word	_	0	H	0:H	_
+3	so	_	Word	Word	_	2	A	2:A	_
+4	aus	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Ich	_	Word	Word	_	7	A	7:A|16:A	_
+7	zeigte	_	Word	Word	_	2	H	2:H	_
+8	mein	_	Word	Word	_	10	E	10:E	_
+9	Meister	_	Word	Word	_	10	E	10:E	_
+10	werk	_	Word	Word	_	7	A	7:A	_
+11	den	_	Word	Word	_	12	F	12:F	_
+12	Erwachsenen	_	Word	Word	_	7	A	7:A	_
+13	und	_	Word	Word	_	16	L	16:L	_
+14	habe	_	Word	Word	_	16	F	16:F	_
+15	sie	_	Word	Word	_	16	A	16:A	_
+16	gefragt	_	Word	Word	_	2	H	2:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	ob	_	Word	Word	_	23	R	23:R	_
+19	sie	_	Word	Word	_	23	A	23:A	_
+20	vor	_	Word	Word	_	22	R	22:R	_
+21	meiner	_	Word	Word	_	22	E	22:E	_
+22	Zeichnung	_	Word	Word	_	23	A	23:A	_
+23	Angst	_	Word	Word	_	16	A	16:A	_
+24	hätten	_	Word	Word	_	23	D	23:D	_
+25	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+26	Sie	_	Word	Word	_	29	A	29:A	_
+27	haben	_	Word	Word	_	29	F	29:F	_
+28	mir	_	Word	Word	_	29	A	29:A	_
+29	geantwortet	_	Word	Word	_	2	H	2:H	_
+30	:	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+32	Warum	_	Word	Word	_	29	A	29:A	_
+33	sollte	_	Word	Word	_	38	D	38:D	_
+34	man	_	Word	Word	_	38	A	38:A	_
+35	vor	_	Word	Word	_	37	R	37:R	_
+36	einem	_	Word	Word	_	37	F	37:F	_
+37	Hut	_	Word	Word	_	38	A	38:A	_
+38	Angst	_	Word	Word	_	32	H	32:H	_
+39	haben	_	Word	Word	_	38	F	38:F	_
+40	?	_	Punctuation	Punctuation	_	38	U	38:U	_
+41	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

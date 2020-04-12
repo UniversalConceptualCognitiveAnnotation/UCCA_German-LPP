@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26814008
+# text = An dem Maul korb , den ich für den kleinen Prinzen gezeichnet habe , habe ich den Leder riemen vergessen !
+1	An	_	Word	Word	_	20	R	20:R	_
+2	dem	_	Word	Word	_	4	F	4:F	_
+3	Maul	_	Word	Word	_	4	E	4:E	_
+4	korb	_	Word	Word	_	20	A	20:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	den	_	Word	Word	_	12	R	12:R	_
+7	ich	_	Word	Word	_	12	A	12:A	_
+8	für	_	Word	Word	_	11	R	11:R	_
+9	den	_	Word	Word	_	11	F	11:F	_
+10	kleinen	_	Word	Word	_	11	E	11:E	_
+11	Prinzen	_	Word	Word	_	12	A	12:A	_
+12	gezeichnet	_	Word	Word	_	4	E	4:E	_
+13	habe	_	Word	Word	_	12	F	12:F	_
+14	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+15	habe	_	Word	Word	_	20	F	20:F	_
+16	ich	_	Word	Word	_	20	A	20:A	_
+17	den	_	Word	Word	_	19	F	19:F	_
+18	Leder	_	Word	Word	_	19	E	19:E	_
+19	riemen	_	Word	Word	_	20	A	20:A	_
+20	vergessen	_	Word	Word	_	0	H	0:H	_
+21	!	_	Punctuation	Punctuation	_	20	U	20:U	_
+

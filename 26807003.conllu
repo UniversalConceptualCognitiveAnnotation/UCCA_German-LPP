@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 26807003
+# text = Währenddessen fiel mir eine Frage ein : - " Also ist es kein Zufall , dass du an dem Morgen , an dem ich dich traf , so ganz allein , tausend Meilen von besiedeltem Gebiet entfernt , spazieren gingst !
+1	Währenddessen	_	Word	Word	_	14	L	14:L	_
+2	fiel	_	Word	Word	_	0	H	0:H	_
+3	mir	_	Word	Word	_	2	A	2:A	_
+4	eine	_	Word	Word	_	5	F	5:F	_
+5	Frage	_	Word	Word	_	2	A	2:A	_
+6	ein	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	Also	_	Word	Word	_	14	L	14:L	_
+11	ist	_	Word	Word	_	14	F	14:F	_
+12	es	_	Word	Word	_	14	F	14:F	_
+13	kein	_	Word	Word	_	14	D	14:D	_
+14	Zufall	_	Word	Word	_	2	H	2:H	_
+15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	dass	_	Word	Word	_	39	R	39:R	_
+17	du	_	Word	Word	_	39	A	39:A	_
+18	an	_	Word	Word	_	20	R	20:R	_
+19	dem	_	Word	Word	_	20	F	20:F	_
+20	Morgen	_	Word	Word	_	39	A	39:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	an	_	Word	Word	_	26	R	26:R	_
+23	dem	_	Word	Word	_	26	A	26:A	_
+24	ich	_	Word	Word	_	26	A	26:A	_
+25	dich	_	Word	Word	_	26	A	26:A	_
+26	traf	_	Word	Word	_	20	E	20:E	_
+27	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+28	so	_	Word	Word	_	30	E	30:E	_
+29	ganz	_	Word	Word	_	30	E	30:E	_
+30	allein	_	Word	Word	_	39	D	39:D	_
+31	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+32	tausend	_	Word	Word	_	33	Q	33:Q	_
+33	Meilen	_	Word	Word	_	37	A	37:A	_
+34	von	_	Word	Word	_	36	R	36:R	_
+35	besiedeltem	_	Word	Word	_	36	E	36:E	_
+36	Gebiet	_	Word	Word	_	37	A	37:A	_
+37	entfernt	_	Word	Word	_	39	A	39:A	_
+38	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+39	spazieren	_	Word	Word	_	14	A	14:A	_
+40	gingst	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	!	_	Punctuation	Punctuation	_	39	U	39:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26754004
+# text = Und , vielleicht ein bisschen traurig , fügte er hinzu : - " Geradeaus kommt man nicht besonders weit ... "
+1	Und	_	Word	Word	_	8	L	8:L	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	vielleicht	_	Word	Word	_	6	G	6:G	_
+4	ein	_	Word	Word	_	6	D	6:D	_
+5	bisschen	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	traurig	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	fügte	_	Word	Word	_	6	H	6:H	_
+9	er	_	Word	Word	_	8	A	8:A	_
+10	hinzu	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	Geradeaus	_	Word	Word	_	15	A	15:A	_
+15	kommt	_	Word	Word	_	8	A	8:A	_
+16	man	_	Word	Word	_	15	A	15:A	_
+17	nicht	_	Word	Word	_	15	D	15:D	_
+18	besonders	_	Word	Word	_	15	D	15:D	_
+19	weit	_	Word	Word	_	15	D	15:D	_
+20	...	_	Punctuation	Punctuation	_	15	U	15:U	_
+21	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+

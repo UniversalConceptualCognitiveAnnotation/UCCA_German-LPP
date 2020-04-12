@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26793005
+# text = Der kleine Prinz schaute sie an .
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	4	A	4:A	_
+4	schaute	_	Word	Word	_	0	H	0:H	_
+5	sie	_	Word	Word	_	4	A	4:A	_
+6	an	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

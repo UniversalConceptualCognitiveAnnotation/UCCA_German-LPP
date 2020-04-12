@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26822003
+# text = Das ist für mich die schönste und die traurigste Landschaft der Welt .
+1	Das	_	Word	Word	_	6	A	6:A|9:A	_
+2	ist	_	Word	Word	_	6	F	6:F	_
+3	für	_	Word	Word	_	4	R	4:R	_
+4	mich	_	Word	Word	_	6	A	6:A	_
+5	die	_	Word	Word	_	6	F	6:F	_
+6	schönste	_	Word	Word	_	0	H	0:H	_
+7	und	_	Word	Word	_	9	L	9:L	_
+8	die	_	Word	Word	_	9	F	9:F	_
+9	traurigste	_	Word	Word	_	6	H	6:H	_
+10	Landschaft	_	Word	Word	_	9	A	9:A|6:A	_
+11	der	_	Word	Word	_	12	R	12:R	_
+12	Welt	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

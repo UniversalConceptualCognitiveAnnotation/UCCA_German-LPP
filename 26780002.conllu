@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26780002
+# text = Es gab gerade genug Platz für eine Straßen laterne und einen Laternen anzünder .
+1	Es	_	Word	Word	_	4	F	4:F	_
+2	gab	_	Word	Word	_	4	F	4:F	_
+3	gerade	_	Word	Word	_	4	D	4:D	_
+4	genug	_	Word	Word	_	0	H	0:H	_
+5	Platz	_	Word	Word	_	4	A	4:A	_
+6	für	_	Word	Word	_	9	R	9:R	_
+7	eine	_	Word	Word	_	9	Q	9:Q	_
+8	Straßen	_	Word	Word	_	9	E	9:E	_
+9	laterne	_	Word	Word	_	4	A	4:A	_
+10	und	_	Word	Word	_	9	N	9:N	_
+11	einen	_	Word	Word	_	13	Q	13:Q	_
+12	Laternen	_	Word	Word	_	0	root	0:root	_
+13	anzünder	_	Word	Word	_	9	C	9:C	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

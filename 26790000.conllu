@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26790000
+# text = - " Oh ! Ich habe sehr gut verstanden " , sagte der kleine Prinz , " aber warum sprichst du immer in Rätseln ? " - "
+1	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	Oh	_	Word	Word	_	9	F	9:F	_
+4	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Ich	_	Word	Word	_	9	A	9:A	_
+6	habe	_	Word	Word	_	9	F	9:F	_
+7	sehr	_	Word	Word	_	8	E	8:E	_
+8	gut	_	Word	Word	_	9	D	9:D	_
+9	verstanden	_	Word	Word	_	12	A	12:A	_
+10	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	sagte	_	Word	Word	_	0	H	0:H	_
+13	der	_	Word	Word	_	15	F	15:F	_
+14	kleine	_	Word	Word	_	15	E	15:E	_
+15	Prinz	_	Word	Word	_	12	A	12:A	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+18	aber	_	Word	Word	_	20	L	20:L	_
+19	warum	_	Word	Word	_	20	A	20:A	_
+20	sprichst	_	Word	Word	_	9	H	9:H	_
+21	du	_	Word	Word	_	20	A	20:A	_
+22	immer	_	Word	Word	_	20	T	20:T	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	Rätseln	_	Word	Word	_	20	A	20:A	_
+25	?	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+28	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+
