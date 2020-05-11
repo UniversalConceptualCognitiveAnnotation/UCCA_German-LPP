@@ -1,0 +1,20 @@
+#BOS 26788011
+Aber	Word	--	Terminal	500
+verliert	Word	--	Terminal	501
+nicht	Word	--	Terminal	502
+eure	Word	--	Terminal	503
+Zeit	Word	--	Terminal	504
+damit	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	510
+#501	FN	--	P	509
+#502	FN	--	D	509
+#503	FN	--	E	507
+#504	FN	--	C	507
+#505	FN	--	A	509
+#506	PNCT	--	U	509
+#507	FN	--	A	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26788011

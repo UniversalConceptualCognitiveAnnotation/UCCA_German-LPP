@@ -1,0 +1,38 @@
+#BOS 26766010
+Wir	Word	--	Terminal	500
+auf	Word	--	Terminal	501
+der	Word	--	Terminal	502
+Erde	Word	--	Terminal	503
+sind	Word	--	Terminal	504
+viel	Word	--	Terminal	505
+zu	Word	--	Terminal	506
+klein	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+um	Word	--	Terminal	509
+unsere	Word	--	Terminal	510
+Vulkane	Word	--	Terminal	511
+abzufegen	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	519	A*	518
+#501	FN	--	S	519
+#502	FN	--	F	514
+#503	FN	--	C	514
+#504	FN	--	F	520
+#505	FN	--	D	520
+#506	FN	--	E	515
+#507	FN	--	C	515
+#508	PNCT	--	U	521
+#509	FN	--	L	521
+#510	FN	--	S	516
+#511	FN	--	C	517	A*	516
+#512	FN	--	P	518
+#513	PNCT	--	U	518
+#514	FN	--	A	519
+#515	FN	--	S	520
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	521
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26766010

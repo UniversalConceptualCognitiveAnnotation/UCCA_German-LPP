@@ -1,0 +1,26 @@
+#BOS 26787007
+Die	Word	--	Terminal	500
+gingen	Word	--	Terminal	501
+schlafen	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+wenn	Word	--	Terminal	503
+ihre	Word	--	Terminal	504
+Laternen	Word	--	Terminal	505
+angezündet	Word	--	Terminal	506
+waren	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509
+#501	FN	--	P	509
+#502	PNCT	--	U	513
+#503	FN	--	L	513
+#504	FN	--	E	510
+#505	FN	--	C	510
+#506	FN	--	P	512
+#507	FN	--	F	512
+#508	PNCT	--	U	512
+#509	FN	--	H	513
+#510	FN	--	A	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26787007

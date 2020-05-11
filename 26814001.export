@@ -1,0 +1,41 @@
+#BOS 26814001
+Meine	Word	--	Terminal	500
+Kameraden	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+die	Word	--	Terminal	503
+mich	Word	--	Terminal	504
+zu	Word	--	Terminal	505
+Gesicht	Word	--	Terminal	505
+bekamen	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+waren	Word	--	Terminal	507
+sehr	Word	--	Terminal	508
+glücklich	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+mich	Word	--	Terminal	511
+lebend	Word	--	Terminal	512
+wiederzusehen	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	516
+#501	FN	--	C	516	A*	519	A*	515
+#502	PNCT	--	U	516
+#503	FN	--	R	515
+#504	FN	--	A	515
+#505	FN	--	P	515
+#506	PNCT	--	U	520
+#507	FN	--	F	520
+#508	FN	--	D	520
+#509	FN	--	S	520
+#510	PNCT	--	U	520
+#511	FN	--	C	518	A*	517
+#512	FN	--	S	517
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	E	516
+#516	FN	--	A	520
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26814001

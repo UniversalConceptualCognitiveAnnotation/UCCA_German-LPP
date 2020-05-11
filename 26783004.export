@@ -1,0 +1,23 @@
+#BOS 26783004
+Er	Word	--	Terminal	500
+war	Word	--	Terminal	501
+schon	Word	--	Terminal	502
+so	Word	--	Terminal	503
+viel	Word	--	Terminal	504
+herumgereist	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	FN	--	A	510
+#501	FN	--	F	510
+#502	FN	--	D	510
+#503	FN	--	E	509
+#504	FN	--	C	509
+#505	FN	--	P	510
+#506	PNCT	--	U	510
+#507	PNCT	--	U	510
+#508	PNCT	--	U	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26783004

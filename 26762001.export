@@ -1,0 +1,15 @@
+#BOS 26762001
+Mehr	Word	--	Terminal	500
+brachte	Word	--	Terminal	501
+er	Word	--	Terminal	502
+nicht	Word	--	Terminal	503
+hervor	Word	--	Terminal	501
+.	Punctuation	--	Terminal	504
+#500	FN	--	A	505
+#501	FN	--	P	505
+#502	FN	--	A	505
+#503	FN	--	D	505
+#504	PNCT	--	U	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 26762001

@@ -1,0 +1,30 @@
+#BOS 26763015
+Das	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+wohl	Word	--	Terminal	502
+wahr	Word	--	Terminal	503
+!	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	505
+,	Punctuation	--	Terminal	506
+antwortete	Word	--	Terminal	507
+die	Word	--	Terminal	508
+Blume	Word	--	Terminal	509
+sanftmütig	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	F	512
+#502	FN	--	G	512
+#503	FN	--	S	512
+#504	PNCT	--	U	514
+#505	PNCT	--	U	514
+#506	PNCT	--	U	514
+#507	FN	--	P	514
+#508	FN	--	F	513
+#509	FN	--	C	513
+#510	FN	--	D	514
+#511	PNCT	--	U	514
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26763015

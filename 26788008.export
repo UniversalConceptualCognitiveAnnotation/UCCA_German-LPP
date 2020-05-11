@@ -1,0 +1,26 @@
+#BOS 26788008
+Sie	Word	--	Terminal	500
+finden	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+sie	Word	--	Terminal	503
+seien	Word	--	Terminal	504
+ebenso	Word	--	Terminal	505
+imposant	Word	--	Terminal	506
+wie	Word	--	Terminal	507
+Affenbrotbäume	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512
+#501	FN	--	S	512
+#502	PNCT	--	U	512
+#503	FN	--	A	511
+#504	FN	--	F	511
+#505	FN	--	R	511
+#506	FN	--	S	511
+#507	FN	--	R	510
+#508	FN	--	C	510
+#509	PNCT	--	U	510
+#510	FN	--	A	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26788008

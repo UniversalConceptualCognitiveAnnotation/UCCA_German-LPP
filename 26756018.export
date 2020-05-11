@@ -1,0 +1,31 @@
+#BOS 26756018
+Ich	Word	--	Terminal	500
+werde	Word	--	Terminal	501
+natürlich	Word	--	Terminal	502
+versuchen	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+die	Word	--	Terminal	505
+Abbildungen	Word	--	Terminal	506
+möglichst	Word	--	Terminal	507
+wahrheitsgetreu	Word	--	Terminal	508
+zu	Word	--	Terminal	509
+zeichnen	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	515	A*	514
+#501	FN	--	F	515
+#502	FN	--	G	515
+#503	FN	--	P	515
+#504	PNCT	--	U	515
+#505	FN	--	F	512
+#506	FN	--	C	512
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	F	514
+#510	FN	--	P	514
+#511	PNCT	--	U	514
+#512	FN	--	A	514
+#513	FN	--	D	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26756018

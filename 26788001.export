@@ -1,0 +1,36 @@
+#BOS 26788001
+Ich	Word	--	Terminal	500
+war	Word	--	Terminal	501
+nicht	Word	--	Terminal	502
+ganz	Word	--	Terminal	502
+ehrlich	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+als	Word	--	Terminal	505
+ich	Word	--	Terminal	506
+euch	Word	--	Terminal	507
+von	Word	--	Terminal	508
+den	Word	--	Terminal	509
+Laternen	Word	--	Terminal	510
+anzündern	Word	--	Terminal	511
+erzählte	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514
+#501	FN	--	F	514
+#502	FN	--	D	514
+#503	FN	--	S	514
+#504	PNCT	--	U	518
+#505	FN	--	L	518
+#506	FN	--	A	517
+#507	FN	--	A	517
+#508	FN	--	R	516
+#509	FN	--	F	516
+#510	FN	--	E	516
+#511	FN	--	P	515
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	FN	--	H	518
+#515	FN	--	C	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26788001

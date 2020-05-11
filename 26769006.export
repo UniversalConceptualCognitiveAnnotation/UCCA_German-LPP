@@ -1,0 +1,35 @@
+#BOS 26769006
+Darf	Word	--	Terminal	500
+ich	Word	--	Terminal	501
+mich	Word	--	Terminal	502
+setzen	Word	--	Terminal	502
+?	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	504
+,	Punctuation	--	Terminal	505
+fragte	Word	--	Terminal	506
+der	Word	--	Terminal	507
+kleine	Word	--	Terminal	508
+Prinz	Word	--	Terminal	509
+schüchtern	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	FN	--	D	514
+#501	FN	--	A	514
+#502	FN	--	P	514
+#503	PNCT	--	U	516
+#504	PNCT	--	U	516
+#505	PNCT	--	U	516
+#506	FN	--	P	516
+#507	FN	--	F	515
+#508	FN	--	E	515
+#509	FN	--	C	515
+#510	FN	--	D	516
+#511	PNCT	--	U	516
+#512	PNCT	--	U	516
+#513	PNCT	--	U	516
+#514	FN	--	A	516
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26769006

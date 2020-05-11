@@ -1,0 +1,25 @@
+#BOS 26760009
+Wozu	Word	--	Terminal	500
+sind	Word	--	Terminal	501
+die	Word	--	Terminal	502
+Dornen	Word	--	Terminal	503
+gut	Word	--	Terminal	504
+?	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+#500	FN	--	A	510
+#501	FN	--	F	508
+#502	FN	--	F	507
+#503	FN	--	C	507
+#504	FN	--	S	508
+#505	PNCT	--	U	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	H	511
+#509	FN	--	P	510
+#510	FN	--	H	511
+#511	FN	--	A	514
+#512	FN	--	P	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26760009

@@ -1,0 +1,20 @@
+#BOS 26755018
+Damit	Word	--	Terminal	500
+glauben	Word	--	Terminal	501
+sie	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+ihn	Word	--	Terminal	504
+zu	Word	--	Terminal	505
+kennen	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	509
+#501	FN	--	G	508
+#502	FN	--	A	508
+#503	PNCT	--	U	508
+#504	FN	--	A	508
+#505	FN	--	F	508
+#506	FN	--	S	508
+#507	PNCT	--	U	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26755018

@@ -1,0 +1,21 @@
+#BOS 26781013
+Man	Word	--	Terminal	500
+kann	Word	--	Terminal	501
+gleichzeitig	Word	--	Terminal	502
+pflichtbewusst	Word	--	Terminal	503
+und	Word	--	Terminal	504
+faul	Word	--	Terminal	505
+sein	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	508	A*	509
+#501	FN	--	D	508
+#502	FN	--	D	508
+#503	FN	--	S	508
+#504	FN	--	L	510
+#505	FN	--	S	509
+#506	FN	--	F	509
+#507	PNCT	--	U	509
+#508	FN	--	H	510
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26781013

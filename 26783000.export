@@ -1,0 +1,29 @@
+#BOS 26783000
+Kapitel	Word	--	Terminal	500
+XV	Word	--	Terminal	501
+Der	Word	--	Terminal	502
+sechste	Word	--	Terminal	503
+Planet	Word	--	Terminal	504
+war	Word	--	Terminal	505
+um	Word	--	Terminal	506
+das	Word	--	Terminal	507
+Zehnfache	Word	--	Terminal	508
+größer	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	511
+#501	FN	--	C	511
+#502	FN	--	F	512
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	F	514
+#506	FN	--	R	513
+#507	FN	--	F	513
+#508	FN	--	C	513
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	FN	--	H	515
+#512	FN	--	A	514
+#513	FN	--	D	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26783000

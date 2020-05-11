@@ -1,0 +1,38 @@
+#BOS 26765002
+Er	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+unwichtige	Word	--	Terminal	502
+Worte	Word	--	Terminal	503
+allzu	Word	--	Terminal	504
+ernst	Word	--	Terminal	505
+genommen	Word	--	Terminal	505
+und	Word	--	Terminal	506
+war	Word	--	Terminal	507
+dabei	Word	--	Terminal	508
+sehr	Word	--	Terminal	509
+unglücklich	Word	--	Terminal	510
+geworden	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	A	518	A*	515
+#501	FN	--	F	518
+#502	FN	--	S	516
+#503	FN	--	C	517	A*	516
+#504	FN	--	D	518
+#505	FN	--	P	518
+#506	FN	--	L	519
+#507	FN	--	F	515
+#508	FN	--	A	515
+#509	FN	--	D	515
+#510	FN	--	S	515
+#511	FN	--	F	515
+#512	PNCT	--	U	515
+#513	PNCT	--	U	515
+#514	PNCT	--	U	515
+#515	FN	--	H	519
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26765002

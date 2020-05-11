@@ -1,0 +1,46 @@
+#BOS 26755005
+Ich	Word	--	Terminal	500
+habe	Word	--	Terminal	501
+ernstzunehmende	Word	--	Terminal	502
+Gründe	Word	--	Terminal	503
+zu	Word	--	Terminal	504
+glauben	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+dass	Word	--	Terminal	507
+der	Word	--	Terminal	508
+Heimatplanet	Word	--	Terminal	509
+des	Word	--	Terminal	510
+kleinen	Word	--	Terminal	511
+Prinzen	Word	--	Terminal	512
+der	Word	--	Terminal	513
+Asteroid	Word	--	Terminal	514
+B	Word	--	Terminal	514
+612	Word	--	Terminal	514
+ist	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	523
+#501	FN	--	F	523
+#502	FN	--	S	517
+#503	FN	--	C	518	A*	517
+#504	FN	--	F	523
+#505	FN	--	S	523
+#506	PNCT	--	U	523
+#507	FN	--	R	522
+#508	FN	--	F	521
+#509	FN	--	C	521
+#510	FN	--	R	519
+#511	FN	--	E	519
+#512	FN	--	C	519
+#513	FN	--	F	520
+#514	FN	--	C	520
+#515	FN	--	S	522
+#516	PNCT	--	U	522
+#517	FN	--	E	518
+#518	FN	--	A	523
+#519	FN	--	E	521
+#520	FN	--	A	522
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 26755005

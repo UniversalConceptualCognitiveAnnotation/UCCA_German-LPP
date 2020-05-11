@@ -1,0 +1,23 @@
+#BOS 26763012
+So	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+sie	Word	--	Terminal	502
+tagelang	Word	--	Terminal	503
+vor	Word	--	Terminal	504
+dem	Word	--	Terminal	505
+Spiegel	Word	--	Terminal	506
+gestanden	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	D	510
+#501	FN	--	F	510
+#502	FN	--	A	510
+#503	FN	--	T	510
+#504	FN	--	R	509
+#505	FN	--	F	509
+#506	FN	--	C	509
+#507	FN	--	S	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26763012

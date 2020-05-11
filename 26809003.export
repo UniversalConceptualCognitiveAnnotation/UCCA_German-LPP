@@ -1,0 +1,35 @@
+#BOS 26809003
+Ich	Word	--	Terminal	500
+habe	Word	--	Terminal	501
+ihm	Word	--	Terminal	502
+Wasser	Word	--	Terminal	503
+an	Word	--	Terminal	504
+die	Word	--	Terminal	505
+Schläfen	Word	--	Terminal	506
+getupft	Word	--	Terminal	507
+und	Word	--	Terminal	508
+ihm	Word	--	Terminal	509
+zu	Word	--	Terminal	510
+trinken	Word	--	Terminal	511
+gegeben	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	515	A*	517
+#501	FN	--	F	515
+#502	FN	--	A	515
+#503	FN	--	A	515
+#504	FN	--	R	514
+#505	FN	--	F	514
+#506	FN	--	C	514
+#507	FN	--	P	515
+#508	FN	--	L	518
+#509	FN	--	A	517	A*	516
+#510	FN	--	F	516
+#511	FN	--	P	516
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	FN	--	A	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26809003

@@ -1,0 +1,36 @@
+#BOS 26780002
+Es	Word	--	Terminal	500
+gab	Word	--	Terminal	501
+gerade	Word	--	Terminal	502
+genug	Word	--	Terminal	503
+Platz	Word	--	Terminal	504
+für	Word	--	Terminal	505
+eine	Word	--	Terminal	506
+Straßen	Word	--	Terminal	507
+laterne	Word	--	Terminal	508
+und	Word	--	Terminal	509
+einen	Word	--	Terminal	510
+Laternen	Word	--	Terminal	511
+anzünder	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	518
+#501	FN	--	F	518
+#502	FN	--	D	518
+#503	FN	--	S	518
+#504	FN	--	A	518
+#505	FN	--	R	514
+#506	FN	--	Q	514
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	FN	--	N	517
+#510	FN	--	Q	516
+#511	FN	--	E	516	A*	515
+#512	FN	--	P	515
+#513	PNCT	--	U	515
+#514	FN	--	C	517
+#515	FN	--	C	516
+#516	FN	--	C	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26780002

@@ -1,0 +1,17 @@
+#BOS 26805008
+Ich	Word	--	Terminal	500
+stellte	Word	--	Terminal	501
+ihn	Word	--	Terminal	502
+ganz	Word	--	Terminal	503
+aufrecht	Word	--	Terminal	504
+hin	Word	--	Terminal	501
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	506
+#501	FN	--	P	506
+#502	FN	--	A	506
+#503	FN	--	D	506
+#504	FN	--	D	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 26805008

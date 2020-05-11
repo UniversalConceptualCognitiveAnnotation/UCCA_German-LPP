@@ -1,0 +1,40 @@
+#BOS 26814002
+Ich	Word	--	Terminal	500
+war	Word	--	Terminal	501
+traurig	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+aber	Word	--	Terminal	504
+sagte	Word	--	Terminal	505
+zu	Word	--	Terminal	506
+ihnen	Word	--	Terminal	507
+:	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+Das	Word	--	Terminal	510
+ist	Word	--	Terminal	511
+die	Word	--	Terminal	512
+Erschöpfung	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	515
+#500	FN	--	A	516	A*	520
+#501	FN	--	F	516
+#502	FN	--	S	516
+#503	PNCT	--	U	521
+#504	FN	--	L	521
+#505	FN	--	P	520
+#506	FN	--	R	517
+#507	FN	--	C	517
+#508	PNCT	--	U	520
+#509	PNCT	--	U	520
+#510	FN	--	A	519
+#511	FN	--	F	519
+#512	FN	--	F	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	PNCT	--	U	518
+#516	FN	--	H	521
+#517	FN	--	A	520
+#518	FN	--	P	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26814002

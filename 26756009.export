@@ -1,0 +1,34 @@
+#BOS 26756009
+Denn	Word	--	Terminal	500
+ich	Word	--	Terminal	501
+mag	Word	--	Terminal	502
+es	Word	--	Terminal	503
+nicht	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+wenn	Word	--	Terminal	506
+man	Word	--	Terminal	507
+mein	Word	--	Terminal	508
+Buch	Word	--	Terminal	509
+so	Word	--	Terminal	510
+leichtfertig	Word	--	Terminal	511
+liest	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	517
+#501	FN	--	A	514
+#502	FN	--	S	514
+#503	FN	--	A	514
+#504	FN	--	D	514
+#505	PNCT	--	U	517
+#506	FN	--	L	517
+#507	FN	--	A	516
+#508	FN	--	E	515
+#509	FN	--	C	515
+#510	FN	--	D	516
+#511	FN	--	D	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26756009

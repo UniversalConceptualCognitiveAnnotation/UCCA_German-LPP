@@ -1,0 +1,31 @@
+#BOS 26809004
+Und	Word	--	Terminal	500
+dann	Word	--	Terminal	501
+traute	Word	--	Terminal	502
+ich	Word	--	Terminal	503
+mich	Word	--	Terminal	502
+nicht	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+ihn	Word	--	Terminal	506
+noch	Word	--	Terminal	507
+etwas	Word	--	Terminal	508
+zu	Word	--	Terminal	509
+fragen	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	515
+#501	FN	--	L	515
+#502	FN	--	P	512
+#503	FN	--	A	512
+#504	FN	--	D	512
+#505	PNCT	--	U	515
+#506	FN	--	A	514
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	F	514
+#510	FN	--	P	514
+#511	PNCT	--	U	514
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26809004

@@ -1,0 +1,17 @@
+#BOS 26793010
+Und	Word	--	Terminal	500
+er	Word	--	Terminal	501
+fühlte	Word	--	Terminal	502
+sich	Word	--	Terminal	502
+sehr	Word	--	Terminal	503
+unglücklich	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	L	507
+#501	FN	--	A	506
+#502	FN	--	D	506
+#503	FN	--	D	506
+#504	FN	--	S	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 26793010

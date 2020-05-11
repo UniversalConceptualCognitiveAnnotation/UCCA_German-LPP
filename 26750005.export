@@ -1,0 +1,45 @@
+#BOS 26750005
+An	Word	--	Terminal	500
+dem	Word	--	Terminal	501
+ersten	Word	--	Terminal	502
+Abend	Word	--	Terminal	503
+schlief	Word	--	Terminal	504
+ich	Word	--	Terminal	505
+in	Word	--	Terminal	506
+dem	Word	--	Terminal	507
+Sand	Word	--	Terminal	508
+ein	Word	--	Terminal	504
+,	Punctuation	--	Terminal	509
+tausende	Word	--	Terminal	510
+Meilen	Word	--	Terminal	511
+entfernt	Word	--	Terminal	512
+von	Word	--	Terminal	513
+besiedeltem	Word	--	Terminal	514
+Gebiet	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	R	517
+#501	FN	--	F	517
+#502	FN	--	E	517
+#503	FN	--	C	517
+#504	FN	--	P	522
+#505	FN	--	A	522	A*	523
+#506	FN	--	R	518
+#507	FN	--	F	518
+#508	FN	--	C	518
+#509	PNCT	--	U	524
+#510	FN	--	Q	519
+#511	FN	--	C	519
+#512	FN	--	S	523
+#513	FN	--	R	521
+#514	FN	--	S	520
+#515	FN	--	C	521	A*	520
+#516	PNCT	--	U	521
+#517	FN	--	T	522
+#518	FN	--	A	522
+#519	FN	--	A	523
+#520	FN	--	E	521
+#521	FN	--	A	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 26750005

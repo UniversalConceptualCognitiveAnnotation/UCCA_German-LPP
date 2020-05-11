@@ -1,0 +1,21 @@
+#BOS 26809002
+Ich	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+ihm	Word	--	Terminal	502
+seinen	Word	--	Terminal	503
+goldenen	Word	--	Terminal	504
+Schal	Word	--	Terminal	505
+abgebunden	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	509
+#501	FN	--	F	509
+#502	FN	--	A	509
+#503	FN	--	E	508
+#504	FN	--	E	508
+#505	FN	--	C	508
+#506	FN	--	P	509
+#507	PNCT	--	U	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26809002

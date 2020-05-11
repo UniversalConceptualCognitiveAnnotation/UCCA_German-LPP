@@ -1,0 +1,39 @@
+#BOS 26775007
+fragte	Word	--	Terminal	500
+der	Word	--	Terminal	501
+kleine	Word	--	Terminal	502
+Prinz	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+der	Word	--	Terminal	505
+den	Word	--	Terminal	506
+Wunsch	Word	--	Terminal	507
+hatte	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+ihm	Word	--	Terminal	510
+zu	Word	--	Terminal	511
+helfen	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+-	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	515
+#500	FN	--	P	519
+#501	FN	--	F	518
+#502	FN	--	E	518
+#503	FN	--	C	518	A*	517
+#504	PNCT	--	U	518
+#505	FN	--	R	517
+#506	FN	--	F	516
+#507	FN	--	C	516
+#508	FN	--	F	517
+#509	PNCT	--	U	517
+#510	FN	--	A	517
+#511	FN	--	F	517
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	PNCT	--	U	517
+#516	FN	--	D	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 26775007

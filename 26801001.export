@@ -1,0 +1,23 @@
+#BOS 26801001
+Guten	Word	--	Terminal	500
+Tag	Word	--	Terminal	501
+"	Punctuation	--	Terminal	502
+,	Punctuation	--	Terminal	503
+sagte	Word	--	Terminal	504
+der	Word	--	Terminal	505
+Händler	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	S	508
+#501	FN	--	A	508
+#502	PNCT	--	U	511
+#503	PNCT	--	U	511
+#504	FN	--	P	511
+#505	FN	--	F	510
+#506	FN	--	S	509
+#507	PNCT	--	U	509
+#508	FN	--	A	511
+#509	FN	--	C	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 26801001

@@ -1,0 +1,18 @@
+#BOS 26756003
+Man	Word	--	Terminal	500
+darf	Word	--	Terminal	501
+ihnen	Word	--	Terminal	502
+deswegen	Word	--	Terminal	503
+nicht	Word	--	Terminal	504
+böse	Word	--	Terminal	502
+sein	Word	--	Terminal	502
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	506
+#501	FN	--	D	506
+#502	FN	--	P	506
+#503	FN	--	A	506
+#504	FN	--	D	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 26756003

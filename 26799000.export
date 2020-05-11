@@ -1,0 +1,50 @@
+#BOS 26799000
+-	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
+Ich	Word	--	Terminal	502
+bin	Word	--	Terminal	503
+verantwortlich	Word	--	Terminal	504
+für	Word	--	Terminal	505
+meine	Word	--	Terminal	506
+Rose	Word	--	Terminal	507
+"	Punctuation	--	Terminal	508
+,	Punctuation	--	Terminal	509
+wiederholte	Word	--	Terminal	510
+der	Word	--	Terminal	511
+kleine	Word	--	Terminal	512
+Prinz	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+um	Word	--	Terminal	515
+sich	Word	--	Terminal	516
+daran	Word	--	Terminal	517
+zu	Word	--	Terminal	518
+erinnern	Word	--	Terminal	516
+.	Punctuation	--	Terminal	519
+#500	PNCT	--	U	526
+#501	PNCT	--	U	526
+#502	FN	--	A	524
+#503	FN	--	F	524
+#504	FN	--	S	524
+#505	FN	--	R	521
+#506	FN	--	S	520
+#507	FN	--	C	521	A*	520
+#508	PNCT	--	U	525
+#509	PNCT	--	U	525
+#510	FN	--	P	525
+#511	FN	--	F	522
+#512	FN	--	E	522
+#513	FN	--	C	522	A*	523
+#514	PNCT	--	U	526
+#515	FN	--	L	526
+#516	FN	--	P	523
+#517	FN	--	A	523
+#518	FN	--	F	523
+#519	PNCT	--	U	523
+#520	FN	--	E	521
+#521	FN	--	A	524
+#522	FN	--	A	525
+#523	FN	--	H	526
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 26799000

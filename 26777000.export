@@ -1,0 +1,47 @@
+#BOS 26777000
+-	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
+Millionen	Word	--	Terminal	502
+dieser	Word	--	Terminal	503
+kleinen	Word	--	Terminal	504
+Dinger	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+die	Word	--	Terminal	507
+man	Word	--	Terminal	508
+manchmal	Word	--	Terminal	509
+an	Word	--	Terminal	510
+dem	Word	--	Terminal	511
+Himmel	Word	--	Terminal	512
+sieht	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	515
+-	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	517
+#500	PNCT	--	U	520
+#501	PNCT	--	U	520
+#502	FN	--	Q	520
+#503	FN	--	R	520
+#504	FN	--	E	520
+#505	FN	--	C	520	A*	519
+#506	PNCT	--	U	520
+#507	FN	--	R	519
+#508	FN	--	A	519
+#509	FN	--	T	519
+#510	FN	--	R	518
+#511	FN	--	F	518
+#512	FN	--	C	518
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	PNCT	--	U	519
+#516	PNCT	--	U	519
+#517	PNCT	--	U	519
+#518	FN	--	A	519
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	S	522
+#522	FN	--	A	525
+#523	FN	--	A	525
+#524	FN	--	P	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 26777000

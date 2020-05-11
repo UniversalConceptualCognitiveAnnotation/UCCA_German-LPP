@@ -1,0 +1,34 @@
+#BOS 26768009
+So	Word	--	Terminal	500
+blieb	Word	--	Terminal	501
+er	Word	--	Terminal	502
+stehen	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+doch	Word	--	Terminal	505
+vor	Word	--	Terminal	506
+Müdigkeit	Word	--	Terminal	507
+musste	Word	--	Terminal	508
+er	Word	--	Terminal	509
+gähnen	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	FN	--	L	517
+#501	FN	--	D	514
+#502	FN	--	A	514
+#503	FN	--	S	514
+#504	PNCT	--	U	517
+#505	FN	--	L	517
+#506	FN	--	R	515
+#507	FN	--	S	515
+#508	FN	--	D	516
+#509	FN	--	A	516	A*	515
+#510	FN	--	P	516
+#511	PNCT	--	U	516
+#512	PNCT	--	U	516
+#513	PNCT	--	U	516
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26768009

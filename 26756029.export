@@ -1,0 +1,23 @@
+#BOS 26756029
+Er	Word	--	Terminal	500
+glaubte	Word	--	Terminal	501
+vielleicht	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+ich	Word	--	Terminal	504
+sei	Word	--	Terminal	505
+ihm	Word	--	Terminal	506
+ähnlich	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	510
+#501	FN	--	S	510
+#502	FN	--	G	510
+#503	PNCT	--	U	510
+#504	FN	--	A	509
+#505	FN	--	F	509
+#506	FN	--	A	509
+#507	FN	--	S	509
+#508	PNCT	--	U	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26756029

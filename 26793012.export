@@ -1,0 +1,47 @@
+#BOS 26793012
+Und	Word	--	Terminal	500
+hier	Word	--	Terminal	501
+gab	Word	--	Terminal	502
+es	Word	--	Terminal	503
+gleich	Word	--	Terminal	504
+fünftausend	Word	--	Terminal	505
+von	Word	--	Terminal	506
+ihnen	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+die	Word	--	Terminal	509
+alle	Word	--	Terminal	510
+gleich	Word	--	Terminal	511
+aussahen	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+in	Word	--	Terminal	514
+einem	Word	--	Terminal	515
+einzigen	Word	--	Terminal	516
+Garten	Word	--	Terminal	517
+!	Punctuation	--	Terminal	518
+"	Punctuation	--	Terminal	519
+#500	FN	--	L	524
+#501	FN	--	A	523
+#502	FN	--	S	523
+#503	FN	--	F	523
+#504	FN	--	D	523
+#505	FN	--	Q	521
+#506	FN	--	R	521
+#507	FN	--	C	521	A*	520
+#508	PNCT	--	U	521
+#509	FN	--	R	520
+#510	FN	--	A	520
+#511	FN	--	D	520
+#512	FN	--	S	520
+#513	PNCT	--	U	523
+#514	FN	--	R	522
+#515	FN	--	F	522
+#516	FN	--	E	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	PNCT	--	U	522
+#520	FN	--	E	521
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 26793012

@@ -1,0 +1,22 @@
+#BOS 26783012
+Er	Word	--	Terminal	500
+schaute	Word	--	Terminal	501
+sich	Word	--	Terminal	501
+den	Word	--	Terminal	502
+Planeten	Word	--	Terminal	503
+des	Word	--	Terminal	504
+Geographen	Word	--	Terminal	505
+an	Word	--	Terminal	501
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	509
+#501	FN	--	P	509
+#502	FN	--	F	508
+#503	FN	--	C	508
+#504	FN	--	R	507
+#505	FN	--	C	507
+#506	PNCT	--	U	509
+#507	FN	--	E	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26783012

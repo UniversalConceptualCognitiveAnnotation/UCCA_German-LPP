@@ -1,0 +1,19 @@
+#BOS 26780001
+Es	Word	--	Terminal	500
+war	Word	--	Terminal	501
+der	Word	--	Terminal	502
+kleinste	Word	--	Terminal	502
+von	Word	--	Terminal	503
+allen	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	508
+#501	FN	--	F	508
+#502	FN	--	S	508
+#503	FN	--	R	507
+#504	FN	--	Q	507
+#505	PNCT	--	U	507
+#506	FN	--	C	507
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26780001

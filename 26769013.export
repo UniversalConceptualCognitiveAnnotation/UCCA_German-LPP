@@ -1,0 +1,31 @@
+#BOS 26769013
+Über	Word	--	Terminal	500
+alles	Word	--	Terminal	501
+"	Punctuation	--	Terminal	502
+,	Punctuation	--	Terminal	503
+antwortete	Word	--	Terminal	504
+schlichtweg	Word	--	Terminal	505
+der	Word	--	Terminal	506
+König	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	R	511
+#501	FN	--	C	511
+#502	PNCT	--	U	516
+#503	PNCT	--	U	516
+#504	FN	--	P	516
+#505	FN	--	D	516
+#506	FN	--	F	512
+#507	FN	--	C	512
+#508	PNCT	--	U	512
+#509	PNCT	--	U	512
+#510	PNCT	--	U	512
+#511	FN	--	A	515
+#512	FN	--	A	516
+#513	FN	--	A	515
+#514	FN	--	P	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26769013

@@ -1,0 +1,41 @@
+#BOS 26792013
+Sie	Word	--	Terminal	500
+wiederholen	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+was	Word	--	Terminal	503
+man	Word	--	Terminal	504
+ihnen	Word	--	Terminal	505
+sagt	Word	--	Terminal	506
+...	Punctuation	--	Terminal	507
+Bei	Word	--	Terminal	508
+mir	Word	--	Terminal	509
+zuhause	Word	--	Terminal	510
+hatte	Word	--	Terminal	511
+ich	Word	--	Terminal	512
+eine	Word	--	Terminal	513
+Blume	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520
+#501	FN	--	P	520
+#502	PNCT	--	U	520
+#503	FN	--	C	519	A*	516
+#504	FN	--	A	516
+#505	FN	--	A	516
+#506	FN	--	P	516
+#507	PNCT	--	U	522
+#508	FN	--	R	517
+#509	FN	--	C	517
+#510	FN	--	E	517
+#511	FN	--	S	521
+#512	FN	--	A	521
+#513	FN	--	F	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	519
+#517	FN	--	A	521
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26792013

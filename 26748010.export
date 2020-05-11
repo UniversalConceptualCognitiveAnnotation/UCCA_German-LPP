@@ -1,0 +1,30 @@
+#BOS 26748010
+So	Word	--	Terminal	500
+gab	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+mit	Word	--	Terminal	503
+sechs	Word	--	Terminal	504
+Jahren	Word	--	Terminal	505
+meine	Word	--	Terminal	506
+vielversprechende	Word	--	Terminal	507
+Maler	Word	--	Terminal	508
+karriere	Word	--	Terminal	509
+auf	Word	--	Terminal	501
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	515
+#501	FN	--	P	514
+#502	FN	--	A	514
+#503	FN	--	R	511
+#504	FN	--	E	511
+#505	FN	--	C	511
+#506	FN	--	E	513
+#507	FN	--	S	512
+#508	FN	--	E	513
+#509	FN	--	C	513	A*	512
+#510	PNCT	--	U	514
+#511	FN	--	T	514
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26748010

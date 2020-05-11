@@ -1,0 +1,32 @@
+#BOS 26766014
+Aber	Word	--	Terminal	500
+all	Word	--	Terminal	501
+diese	Word	--	Terminal	502
+vertrauten	Word	--	Terminal	503
+Handgriffe	Word	--	Terminal	504
+erschienen	Word	--	Terminal	505
+ihm	Word	--	Terminal	506
+an	Word	--	Terminal	507
+diesem	Word	--	Terminal	508
+Morgen	Word	--	Terminal	509
+sehr	Word	--	Terminal	510
+angenehm	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	516
+#501	FN	--	Q	513
+#502	FN	--	E	513
+#503	FN	--	E	513
+#504	FN	--	C	513
+#505	FN	--	G	515
+#506	FN	--	A	515
+#507	FN	--	R	514
+#508	FN	--	E	514
+#509	FN	--	C	514
+#510	FN	--	D	515
+#511	FN	--	S	515
+#512	PNCT	--	U	515
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26766014

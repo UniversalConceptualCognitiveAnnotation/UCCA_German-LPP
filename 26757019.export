@@ -1,0 +1,47 @@
+#BOS 26757019
+Es	Word	--	Terminal	500
+reckt	Word	--	Terminal	501
+sich	Word	--	Terminal	501
+und	Word	--	Terminal	502
+schiebt	Word	--	Terminal	503
+ganz	Word	--	Terminal	504
+schüchtern	Word	--	Terminal	505
+noch	Word	--	Terminal	506
+einen	Word	--	Terminal	507
+entzückenden	Word	--	Terminal	508
+kleinen	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+ganz	Word	--	Terminal	511
+harmlosen	Word	--	Terminal	512
+Halm	Word	--	Terminal	513
+der	Word	--	Terminal	514
+Sonne	Word	--	Terminal	515
+entgegen	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	518	A*	524
+#501	FN	--	P	518
+#502	FN	--	L	525
+#503	FN	--	P	524
+#504	FN	--	E	519
+#505	FN	--	C	519
+#506	FN	--	D	524
+#507	FN	--	F	522
+#508	FN	--	D	520
+#509	FN	--	S	520
+#510	PNCT	--	U	522
+#511	FN	--	D	521
+#512	FN	--	S	521
+#513	FN	--	C	522	A*	520	A*	521
+#514	FN	--	F	523
+#515	FN	--	C	523
+#516	FN	--	R	523
+#517	PNCT	--	U	523
+#518	FN	--	H	525
+#519	FN	--	D	524
+#520	FN	--	E	522
+#521	FN	--	E	522
+#522	FN	--	A	524
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 26757019

@@ -1,0 +1,38 @@
+#BOS 26756008
+Für	Word	--	Terminal	500
+all	Word	--	Terminal	501
+jene	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+die	Word	--	Terminal	504
+das	Word	--	Terminal	505
+Leben	Word	--	Terminal	506
+verstehen	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+würde	Word	--	Terminal	509
+das	Word	--	Terminal	510
+viel	Word	--	Terminal	511
+richtiger	Word	--	Terminal	512
+klingen	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	R	518
+#501	FN	--	Q	518
+#502	FN	--	C	518	A*	516
+#503	PNCT	--	U	518
+#504	FN	--	R	516
+#505	FN	--	F	515
+#506	FN	--	C	515
+#507	FN	--	P	516
+#508	PNCT	--	U	519
+#509	FN	--	D	519
+#510	FN	--	A	519
+#511	FN	--	E	517
+#512	FN	--	C	517
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	A	516
+#516	FN	--	E	518
+#517	FN	--	D	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 26756008

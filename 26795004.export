@@ -1,0 +1,45 @@
+#BOS 26795004
+Das	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+interessant	Word	--	Terminal	502
+!	Punctuation	--	Terminal	503
+Und	Word	--	Terminal	504
+Hühner	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+Nein	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+"	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	A	515
+#501	FN	--	F	515
+#502	FN	--	S	515
+#503	PNCT	--	U	520
+#504	FN	--	L	520
+#505	FN	--	A	518	A*	519
+#506	PNCT	--	U	519
+#507	PNCT	--	U	519
+#508	PNCT	--	U	519
+#509	PNCT	--	U	519
+#510	FN	--	D	519
+#511	PNCT	--	U	519
+#512	PNCT	--	U	519
+#513	PNCT	--	U	519
+#514	PNCT	--	U	519
+#515	FN	--	H	520
+#516	FN	--	S	519
+#517	FN	--	S	518
+#518	FN	--	H	520
+#519	FN	--	A	525
+#520	FN	--	A	526
+#521	FN	--	P	525
+#522	FN	--	A	525
+#523	FN	--	P	526
+#524	FN	--	A	526
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 26795004

@@ -1,0 +1,41 @@
+#BOS 26760010
+Der	Word	--	Terminal	500
+kleine	Word	--	Terminal	501
+Prinz	Word	--	Terminal	502
+ließ	Word	--	Terminal	503
+nie	Word	--	Terminal	504
+von	Word	--	Terminal	505
+einer	Word	--	Terminal	506
+Frage	Word	--	Terminal	507
+ab	Word	--	Terminal	503
+,	Punctuation	--	Terminal	508
+wenn	Word	--	Terminal	509
+er	Word	--	Terminal	510
+sie	Word	--	Terminal	511
+einmal	Word	--	Terminal	512
+gestellt	Word	--	Terminal	513
+hatte	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	F	516
+#501	FN	--	E	516
+#502	FN	--	C	516	A*	519
+#503	FN	--	P	520
+#504	FN	--	T	520
+#505	FN	--	R	517
+#506	FN	--	F	517
+#507	FN	--	C	517
+#508	PNCT	--	U	521
+#509	FN	--	L	521
+#510	FN	--	A	518
+#511	FN	--	A	518
+#512	FN	--	T	518
+#513	FN	--	P	518
+#514	FN	--	F	518
+#515	PNCT	--	U	518
+#516	FN	--	A	520
+#517	FN	--	P	519
+#518	FN	--	H	521
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26760010

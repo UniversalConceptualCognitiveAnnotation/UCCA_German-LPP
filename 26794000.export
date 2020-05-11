@@ -1,0 +1,30 @@
+#BOS 26794000
+Kapitel	Word	--	Terminal	500
+XXI	Word	--	Terminal	501
+In	Word	--	Terminal	502
+diesem	Word	--	Terminal	503
+Moment	Word	--	Terminal	504
+tauchte	Word	--	Terminal	505
+der	Word	--	Terminal	506
+Fuchs	Word	--	Terminal	507
+auf	Word	--	Terminal	505
+.	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	E	511
+#501	FN	--	C	511
+#502	FN	--	R	512
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	P	514
+#506	FN	--	F	513
+#507	FN	--	C	513
+#508	PNCT	--	U	514
+#509	PNCT	--	U	514
+#510	PNCT	--	U	514
+#511	FN	--	H	515
+#512	FN	--	T	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26794000

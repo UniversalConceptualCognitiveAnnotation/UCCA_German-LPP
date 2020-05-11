@@ -1,0 +1,16 @@
+#BOS 26762010
+Ich	Word	--	Terminal	500
+fühlte	Word	--	Terminal	501
+mich	Word	--	Terminal	501
+sehr	Word	--	Terminal	502
+schlecht	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	A	506
+#501	FN	--	S	506
+#502	FN	--	E	505
+#503	FN	--	C	505
+#504	PNCT	--	U	505
+#505	FN	--	D	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 26762010

@@ -1,0 +1,42 @@
+#BOS 26785008
+Das	Word	--	Terminal	500
+bedeutet	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+dass	Word	--	Terminal	503
+etwas	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+von	Word	--	Terminal	506
+baldigem	Word	--	Terminal	507
+Verschwinden	Word	--	Terminal	508
+bedroht	Word	--	Terminal	509
+'	Punctuation	--	Terminal	510
+ist	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+-	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	515
+#500	FN	--	A	519
+#501	FN	--	S	519
+#502	PNCT	--	U	519
+#503	FN	--	R	518
+#504	FN	--	A	518	A*	517
+#505	PNCT	--	U	518
+#506	FN	--	R	516
+#507	FN	--	T	517
+#508	FN	--	C	516
+#509	FN	--	S	518
+#510	PNCT	--	U	518
+#511	FN	--	F	518
+#512	PNCT	--	U	518
+#513	PNCT	--	U	518
+#514	PNCT	--	U	518
+#515	PNCT	--	U	518
+#516	FN	--	P	517
+#517	FN	--	A	518
+#518	FN	--	A	519
+#519	FN	--	A	522
+#520	FN	--	P	522
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 26785008

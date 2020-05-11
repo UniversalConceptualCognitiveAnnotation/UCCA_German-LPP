@@ -1,0 +1,50 @@
+#BOS 26768003
+Der	Word	--	Terminal	500
+König	Word	--	Terminal	501
+saß	Word	--	Terminal	502
+in	Word	--	Terminal	503
+Purpur	Word	--	Terminal	504
+und	Word	--	Terminal	505
+Hermelin	Word	--	Terminal	506
+gekleidet	Word	--	Terminal	507
+auf	Word	--	Terminal	508
+einem	Word	--	Terminal	509
+Thron	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+der	Word	--	Terminal	512
+schlicht	Word	--	Terminal	513
+aber	Word	--	Terminal	514
+majestätisch	Word	--	Terminal	515
+war	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+-	Punctuation	--	Terminal	518
+"	Punctuation	--	Terminal	519
+#500	FN	--	F	520
+#501	FN	--	C	520	A*	522
+#502	FN	--	S	526
+#503	FN	--	R	521
+#504	FN	--	C	521
+#505	FN	--	N	521
+#506	FN	--	C	521
+#507	FN	--	S	522
+#508	FN	--	R	525
+#509	FN	--	F	525
+#510	FN	--	C	525	A*	524
+#511	PNCT	--	U	525
+#512	FN	--	R	524
+#513	FN	--	C	523
+#514	FN	--	N	523
+#515	FN	--	C	523
+#516	FN	--	F	524
+#517	PNCT	--	U	524
+#518	PNCT	--	U	524
+#519	PNCT	--	U	524
+#520	FN	--	A	526
+#521	FN	--	A	522
+#522	FN	--	A	526
+#523	FN	--	S	524
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 26768003

@@ -1,0 +1,37 @@
+#BOS 26796000
+-	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
+Bitte	Word	--	Terminal	502
+...	Punctuation	--	Terminal	503
+zähme	Word	--	Terminal	504
+mich	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+,	Punctuation	--	Terminal	508
+sagte	Word	--	Terminal	509
+er	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	PNCT	--	U	519
+#501	PNCT	--	U	519
+#502	FN	--	P	515
+#503	PNCT	--	U	518
+#504	FN	--	P	517
+#505	FN	--	A	517
+#506	PNCT	--	U	519
+#507	PNCT	--	U	519
+#508	PNCT	--	U	519
+#509	FN	--	P	519
+#510	FN	--	A	519
+#511	PNCT	--	U	519
+#512	PNCT	--	U	519
+#513	PNCT	--	U	519
+#514	FN	--	A	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 26796000

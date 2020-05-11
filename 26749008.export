@@ -1,0 +1,30 @@
+#BOS 26749008
+Ich	Word	--	Terminal	500
+sprach	Word	--	Terminal	501
+über	Word	--	Terminal	502
+Bridge	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Golf	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+über	Word	--	Terminal	507
+Politik	Word	--	Terminal	508
+und	Word	--	Terminal	509
+Krawatten	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	R	513
+#503	FN	--	C	513
+#504	PNCT	--	U	513
+#505	FN	--	C	513
+#506	PNCT	--	U	513
+#507	FN	--	R	512
+#508	FN	--	C	512
+#509	FN	--	N	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	C	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26749008

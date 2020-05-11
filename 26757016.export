@@ -1,0 +1,45 @@
+#BOS 26757016
+Daher	Word	--	Terminal	500
+gab	Word	--	Terminal	501
+es	Word	--	Terminal	502
+auch	Word	--	Terminal	503
+gute	Word	--	Terminal	504
+Samen	Word	--	Terminal	505
+von	Word	--	Terminal	506
+guten	Word	--	Terminal	507
+Pflanzen	Word	--	Terminal	508
+und	Word	--	Terminal	509
+schlechte	Word	--	Terminal	510
+Samen	Word	--	Terminal	511
+von	Word	--	Terminal	512
+schlechten	Word	--	Terminal	513
+Pflanzen	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	526
+#501	FN	--	S	524	S*	525
+#502	FN	--	F	524
+#503	FN	--	L	526
+#504	FN	--	S	516
+#505	FN	--	C	517	A*	516
+#506	FN	--	R	519
+#507	FN	--	S	518
+#508	FN	--	C	519	A*	518
+#509	FN	--	L	526
+#510	FN	--	S	520
+#511	FN	--	C	521	A*	520
+#512	FN	--	R	523
+#513	FN	--	S	522
+#514	FN	--	C	523	A*	522
+#515	PNCT	--	U	523
+#516	FN	--	E	517
+#517	FN	--	A	524
+#518	FN	--	E	519
+#519	FN	--	A	524
+#520	FN	--	E	521
+#521	FN	--	A	525
+#522	FN	--	E	523
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 26757016

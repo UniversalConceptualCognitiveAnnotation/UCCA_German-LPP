@@ -1,0 +1,36 @@
+#BOS 26804003
+Es	Word	--	Terminal	500
+schien	Word	--	Terminal	501
+mir	Word	--	Terminal	502
+sogar	Word	--	Terminal	503
+so	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+als	Word	--	Terminal	506
+gäbe	Word	--	Terminal	507
+es	Word	--	Terminal	508
+nichts	Word	--	Terminal	509
+Zerbrechlicheres	Word	--	Terminal	510
+auf	Word	--	Terminal	511
+der	Word	--	Terminal	512
+Erde	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	F	517
+#501	FN	--	G	517
+#502	FN	--	A	517
+#503	FN	--	D	517
+#504	FN	--	F	517
+#505	PNCT	--	U	517
+#506	FN	--	F	517
+#507	FN	--	S	517
+#508	FN	--	F	517
+#509	FN	--	A	515
+#510	FN	--	S	515
+#511	FN	--	R	516
+#512	FN	--	F	516
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26804003

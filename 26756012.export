@@ -1,0 +1,43 @@
+#BOS 26756012
+Wenn	Word	--	Terminal	500
+ich	Word	--	Terminal	501
+versuche	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+ihn	Word	--	Terminal	504
+hier	Word	--	Terminal	505
+zu	Word	--	Terminal	506
+beschreiben	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+dann	Word	--	Terminal	509
+deswegen	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+um	Word	--	Terminal	512
+ihn	Word	--	Terminal	513
+nicht	Word	--	Terminal	514
+zu	Word	--	Terminal	515
+vergessen	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	522
+#501	FN	--	A	519	A*	521	A*	520	A*	518
+#502	FN	--	P	519
+#503	PNCT	--	U	519
+#504	FN	--	A	518
+#505	FN	--	A	518
+#506	FN	--	F	518
+#507	FN	--	P	518	P*	521
+#508	PNCT	--	U	522
+#509	FN	--	L	522
+#510	FN	--	A	521
+#511	PNCT	--	U	521
+#512	FN	--	R	520
+#513	FN	--	A	520
+#514	FN	--	D	520
+#515	FN	--	F	520
+#516	FN	--	P	520
+#517	PNCT	--	U	520
+#518	FN	--	A	519
+#519	FN	--	H	522
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26756012

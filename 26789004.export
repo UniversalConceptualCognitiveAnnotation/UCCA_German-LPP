@@ -1,0 +1,21 @@
+#BOS 26789004
+Ah	Word	--	Terminal	500
+!	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	502
+,	Punctuation	--	Terminal	503
+sagte	Word	--	Terminal	504
+die	Word	--	Terminal	505
+Schlange	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	509
+#501	PNCT	--	U	509
+#502	PNCT	--	U	509
+#503	PNCT	--	U	509
+#504	FN	--	P	509
+#505	FN	--	F	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26789004

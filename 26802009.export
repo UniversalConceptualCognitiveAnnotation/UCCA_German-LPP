@@ -1,0 +1,17 @@
+#BOS 26802009
+Dennoch	Word	--	Terminal	500
+machten	Word	--	Terminal	501
+wir	Word	--	Terminal	502
+uns	Word	--	Terminal	503
+auf	Word	--	Terminal	501
+den	Word	--	Terminal	501
+Weg	Word	--	Terminal	501
+.	Punctuation	--	Terminal	504
+#500	FN	--	L	506
+#501	FN	--	P	505
+#502	FN	--	A	505
+#503	FN	--	A	505
+#504	PNCT	--	U	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 26802009

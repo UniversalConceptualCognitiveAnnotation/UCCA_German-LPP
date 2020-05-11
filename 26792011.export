@@ -1,0 +1,28 @@
+#BOS 26792011
+Er	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+ganz	Word	--	Terminal	502
+trocken	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+alles	Word	--	Terminal	505
+ist	Word	--	Terminal	506
+spitz	Word	--	Terminal	507
+und	Word	--	Terminal	508
+salzig	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511
+#501	FN	--	F	511
+#502	FN	--	D	511
+#503	FN	--	S	511
+#504	PNCT	--	U	514
+#505	FN	--	A	513
+#506	FN	--	F	513
+#507	FN	--	C	512
+#508	FN	--	N	512
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	H	514
+#512	FN	--	S	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 26792011

@@ -1,0 +1,32 @@
+#BOS 26766012
+Auch	Word	--	Terminal	500
+die	Word	--	Terminal	501
+letzten	Word	--	Terminal	502
+Triebe	Word	--	Terminal	503
+der	Word	--	Terminal	504
+Affenbrotbäume	Word	--	Terminal	505
+riss	Word	--	Terminal	506
+der	Word	--	Terminal	507
+kleine	Word	--	Terminal	508
+Prinz	Word	--	Terminal	509
+betrübt	Word	--	Terminal	510
+heraus	Word	--	Terminal	506
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	516
+#501	FN	--	F	514
+#502	FN	--	E	514
+#503	FN	--	C	514
+#504	FN	--	R	512
+#505	FN	--	C	512
+#506	FN	--	P	515
+#507	FN	--	F	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	FN	--	D	515
+#511	PNCT	--	U	515
+#512	FN	--	E	514
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26766012

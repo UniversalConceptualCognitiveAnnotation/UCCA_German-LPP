@@ -1,0 +1,31 @@
+#BOS 26773013
+Eitle	Word	--	Terminal	500
+Menschen	Word	--	Terminal	501
+hören	Word	--	Terminal	502
+nur	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+wenn	Word	--	Terminal	505
+sie	Word	--	Terminal	506
+gelobt	Word	--	Terminal	507
+werden	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+#500	FN	--	E	512
+#501	FN	--	C	512
+#502	FN	--	P	513
+#503	FN	--	D	513
+#504	PNCT	--	U	516
+#505	FN	--	L	516
+#506	FN	--	A	515
+#507	FN	--	P	515
+#508	FN	--	F	515
+#509	PNCT	--	U	515
+#510	PNCT	--	U	515
+#511	PNCT	--	U	515
+#512	FN	--	A	513
+#513	FN	--	H	516
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 26773013

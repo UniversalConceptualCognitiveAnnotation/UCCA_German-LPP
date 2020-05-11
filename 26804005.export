@@ -1,0 +1,34 @@
+#BOS 26804005
+Man	Word	--	Terminal	500
+muss	Word	--	Terminal	501
+Kerzen	Word	--	Terminal	502
+gut	Word	--	Terminal	503
+schützen	Word	--	Terminal	504
+:	Punctuation	--	Terminal	505
+Schon	Word	--	Terminal	506
+ein	Word	--	Terminal	507
+Wind	Word	--	Terminal	508
+stoß	Word	--	Terminal	509
+kann	Word	--	Terminal	510
+sie	Word	--	Terminal	511
+auslöschen	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	A	514
+#503	FN	--	D	514
+#504	FN	--	P	514
+#505	PNCT	--	U	517
+#506	FN	--	D	516
+#507	FN	--	F	515
+#508	FN	--	E	515
+#509	FN	--	C	515
+#510	FN	--	D	516
+#511	FN	--	A	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 26804005

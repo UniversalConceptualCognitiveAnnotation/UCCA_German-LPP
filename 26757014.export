@@ -1,0 +1,39 @@
+#BOS 26757014
+Und	Word	--	Terminal	500
+es	Word	--	Terminal	501
+kostete	Word	--	Terminal	502
+mich	Word	--	Terminal	503
+ganz	Word	--	Terminal	504
+schön	Word	--	Terminal	505
+viel	Word	--	Terminal	506
+Intelligenz	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+um	Word	--	Terminal	509
+dieses	Word	--	Terminal	510
+Problem	Word	--	Terminal	511
+allein	Word	--	Terminal	512
+zu	Word	--	Terminal	513
+verstehen	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	520
+#501	FN	--	A	519
+#502	FN	--	P	519
+#503	FN	--	A	519	A*	518
+#504	FN	--	D	516
+#505	FN	--	D	516
+#506	FN	--	S	516
+#507	FN	--	A	516
+#508	PNCT	--	U	520
+#509	FN	--	L	520
+#510	FN	--	E	517
+#511	FN	--	C	517
+#512	FN	--	D	518
+#513	FN	--	F	518
+#514	FN	--	P	518
+#515	PNCT	--	U	518
+#516	FN	--	A	519
+#517	FN	--	A	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 26757014

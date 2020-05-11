@@ -1,0 +1,38 @@
+#BOS 26786000
+Da	Word	--	Terminal	500
+machte	Word	--	Terminal	501
+sich	Word	--	Terminal	501
+der	Word	--	Terminal	502
+kleine	Word	--	Terminal	503
+Prinz	Word	--	Terminal	504
+auf	Word	--	Terminal	501
+den	Word	--	Terminal	501
+Weg	Word	--	Terminal	501
+und	Word	--	Terminal	505
+war	Word	--	Terminal	506
+in	Word	--	Terminal	507
+Gedanken	Word	--	Terminal	508
+bei	Word	--	Terminal	509
+seiner	Word	--	Terminal	510
+Blume	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	518
+#501	FN	--	P	516
+#502	FN	--	F	513
+#503	FN	--	E	513
+#504	FN	--	C	513	A*	517
+#505	FN	--	L	518
+#506	FN	--	F	517
+#507	FN	--	R	514
+#508	FN	--	C	514
+#509	FN	--	R	515
+#510	FN	--	S	515
+#511	FN	--	A	515
+#512	PNCT	--	U	515
+#513	FN	--	A	516
+#514	FN	--	S	517
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26786000

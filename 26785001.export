@@ -1,0 +1,26 @@
+#BOS 26785001
+Eine	Word	--	Terminal	500
+Blume	Word	--	Terminal	501
+habe	Word	--	Terminal	502
+ich	Word	--	Terminal	503
+auch	Word	--	Terminal	504
+!	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	FN	--	Q	509
+#501	FN	--	C	509
+#502	FN	--	S	510
+#503	FN	--	A	510
+#504	FN	--	D	510
+#505	PNCT	--	U	510
+#506	PNCT	--	U	510
+#507	PNCT	--	U	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	A	513
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 26785001

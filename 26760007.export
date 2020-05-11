@@ -1,0 +1,51 @@
+#BOS 26760007
+Unterdessen	Word	--	Terminal	500
+war	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+mit	Word	--	Terminal	503
+dem	Word	--	Terminal	504
+Versuch	Word	--	Terminal	505
+beschäftigt	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+an	Word	--	Terminal	508
+meinem	Word	--	Terminal	509
+Motor	Word	--	Terminal	510
+einen	Word	--	Terminal	511
+Bolzen	Word	--	Terminal	512
+zu	Word	--	Terminal	513
+lockern	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+der	Word	--	Terminal	516
+zu	Word	--	Terminal	517
+festgezogen	Word	--	Terminal	518
+war	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	527
+#501	FN	--	F	522
+#502	FN	--	A	522	A*	526
+#503	FN	--	R	521
+#504	FN	--	F	521
+#505	FN	--	C	521
+#506	FN	--	D	522
+#507	PNCT	--	U	527
+#508	FN	--	R	523
+#509	FN	--	E	523
+#510	FN	--	C	523
+#511	FN	--	F	525
+#512	FN	--	C	525	A*	524
+#513	FN	--	F	526
+#514	FN	--	P	526
+#515	PNCT	--	U	526
+#516	FN	--	R	524
+#517	FN	--	D	524
+#518	FN	--	S	524
+#519	FN	--	F	524
+#520	PNCT	--	U	524
+#521	FN	--	P	522
+#522	FN	--	H	527
+#523	FN	--	A	526
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 26760007

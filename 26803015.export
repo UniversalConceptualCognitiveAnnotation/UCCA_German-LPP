@@ -1,0 +1,42 @@
+#BOS 26803015
+Natürlich	Word	--	Terminal	500
+gelang	Word	--	Terminal	501
+es	Word	--	Terminal	502
+nie	Word	--	Terminal	503
+jemandem	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+ihn	Word	--	Terminal	506
+zu	Word	--	Terminal	507
+entdecken	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+vielleicht	Word	--	Terminal	510
+nicht	Word	--	Terminal	511
+mal	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+danach	Word	--	Terminal	514
+zu	Word	--	Terminal	515
+suchen	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	G	519
+#501	FN	--	P	519
+#502	FN	--	F	519
+#503	FN	--	T	519
+#504	FN	--	A	519	A*	520	A*	518
+#505	PNCT	--	U	519
+#506	FN	--	A	518
+#507	FN	--	F	518
+#508	FN	--	P	518
+#509	PNCT	--	U	521
+#510	FN	--	G	520
+#511	FN	--	D	520
+#512	FN	--	D	520
+#513	PNCT	--	U	520
+#514	FN	--	A	520
+#515	FN	--	F	520
+#516	FN	--	P	520
+#517	PNCT	--	U	520
+#518	FN	--	A	519
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26803015

@@ -1,0 +1,22 @@
+#BOS 26772005
+Er	Word	--	Terminal	500
+legte	Word	--	Terminal	501
+große	Word	--	Terminal	502
+Autorität	Word	--	Terminal	503
+an	Word	--	Terminal	501
+den	Word	--	Terminal	501
+Tag	Word	--	Terminal	501
+.	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+#500	FN	--	A	508
+#501	FN	--	P	508
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	PNCT	--	U	508
+#505	PNCT	--	U	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 26772005

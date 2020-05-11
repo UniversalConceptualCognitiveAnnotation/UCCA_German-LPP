@@ -1,0 +1,31 @@
+#BOS 26785002
+Wir	Word	--	Terminal	500
+schreiben	Word	--	Terminal	501
+keine	Word	--	Terminal	502
+Blumen	Word	--	Terminal	503
+auf	Word	--	Terminal	501
+"	Punctuation	--	Terminal	504
+,	Punctuation	--	Terminal	505
+sagte	Word	--	Terminal	506
+der	Word	--	Terminal	507
+Geograph	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	P	512
+#502	FN	--	D	512
+#503	FN	--	A	512
+#504	PNCT	--	U	514
+#505	PNCT	--	U	514
+#506	FN	--	P	514
+#507	FN	--	F	513
+#508	FN	--	C	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	PNCT	--	U	513
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26785002

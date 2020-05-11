@@ -1,0 +1,26 @@
+#BOS 26767004
+Sie	Word	--	Terminal	500
+wollte	Word	--	Terminal	501
+nicht	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+dass	Word	--	Terminal	504
+er	Word	--	Terminal	505
+sie	Word	--	Terminal	506
+weinen	Word	--	Terminal	507
+sieht	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512
+#501	FN	--	S	512
+#502	FN	--	D	512
+#503	PNCT	--	U	512
+#504	FN	--	R	511
+#505	FN	--	A	511
+#506	FN	--	A	510
+#507	FN	--	P	510
+#508	FN	--	P	511
+#509	PNCT	--	U	511
+#510	FN	--	A	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 26767004

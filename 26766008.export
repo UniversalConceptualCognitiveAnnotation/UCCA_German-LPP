@@ -1,0 +1,42 @@
+#BOS 26766008
+Wenn	Word	--	Terminal	500
+Vulkane	Word	--	Terminal	501
+sauber	Word	--	Terminal	502
+gefegt	Word	--	Terminal	503
+sind	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+brennen	Word	--	Terminal	506
+sie	Word	--	Terminal	507
+nur	Word	--	Terminal	508
+ganz	Word	--	Terminal	509
+leicht	Word	--	Terminal	510
+und	Word	--	Terminal	511
+gleichmäßig	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+ohne	Word	--	Terminal	514
+auszubrechen	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	522
+#501	FN	--	A	517
+#502	FN	--	D	517
+#503	FN	--	P	517
+#504	FN	--	F	517
+#505	PNCT	--	U	522
+#506	FN	--	P	521
+#507	FN	--	A	521	A*	518
+#508	FN	--	D	521
+#509	FN	--	E	519
+#510	FN	--	C	519
+#511	FN	--	N	520
+#512	FN	--	C	520
+#513	PNCT	--	U	522
+#514	FN	--	L	522
+#515	FN	--	P	518
+#516	PNCT	--	U	518
+#517	FN	--	H	522
+#518	FN	--	H	522
+#519	FN	--	C	520
+#520	FN	--	D	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 26766008

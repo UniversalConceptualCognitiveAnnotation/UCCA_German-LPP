@@ -1,0 +1,22 @@
+#BOS 26783011
+Das	Word	--	Terminal	500
+ist	Word	--	Terminal	501
+endlich	Word	--	Terminal	502
+mal	Word	--	Terminal	503
+ein	Word	--	Terminal	504
+richtiger	Word	--	Terminal	505
+Beruf	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	510
+#501	FN	--	S	510
+#502	FN	--	C	508
+#503	FN	--	E	508
+#504	FN	--	F	509
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	D	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26783011

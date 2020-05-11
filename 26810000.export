@@ -1,0 +1,20 @@
+#BOS 26810000
+Er	Word	--	Terminal	500
+hatte	Word	--	Terminal	501
+Angst	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+ganz	Word	--	Terminal	504
+sicher	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+#500	FN	--	A	507
+#501	FN	--	F	507
+#502	FN	--	S	507
+#503	PNCT	--	U	510
+#504	FN	--	D	509
+#505	FN	--	S	509
+#506	PNCT	--	U	509
+#507	FN	--	H	510
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 26810000

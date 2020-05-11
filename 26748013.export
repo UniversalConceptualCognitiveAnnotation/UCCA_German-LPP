@@ -1,0 +1,37 @@
+#BOS 26748013
+So	Word	--	Terminal	500
+musste	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+einen	Word	--	Terminal	503
+anderen	Word	--	Terminal	504
+Beruf	Word	--	Terminal	505
+finden	Word	--	Terminal	506
+und	Word	--	Terminal	507
+ich	Word	--	Terminal	508
+lernte	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+Flugzeuge	Word	--	Terminal	511
+zu	Word	--	Terminal	512
+steuern	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	519
+#501	FN	--	D	516
+#502	FN	--	A	516
+#503	FN	--	F	515
+#504	FN	--	E	515
+#505	FN	--	C	515
+#506	FN	--	P	516
+#507	FN	--	L	519
+#508	FN	--	A	518	A*	517
+#509	FN	--	P	518
+#510	PNCT	--	U	518
+#511	FN	--	A	517
+#512	FN	--	F	517
+#513	FN	--	P	517
+#514	PNCT	--	U	517
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26748013

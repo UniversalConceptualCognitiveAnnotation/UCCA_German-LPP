@@ -1,0 +1,28 @@
+#BOS 26788003
+Die	Word	--	Terminal	500
+Menschen	Word	--	Terminal	501
+nehmen	Word	--	Terminal	502
+nur	Word	--	Terminal	503
+wenig	Word	--	Terminal	504
+Platz	Word	--	Terminal	505
+auf	Word	--	Terminal	506
+der	Word	--	Terminal	507
+Erde	Word	--	Terminal	508
+ein	Word	--	Terminal	502
+.	Punctuation	--	Terminal	509
+#500	FN	--	F	510
+#501	FN	--	C	510
+#502	FN	--	S	513
+#503	FN	--	D	513
+#504	FN	--	E	511
+#505	FN	--	C	511
+#506	FN	--	R	512
+#507	FN	--	F	512
+#508	FN	--	C	512
+#509	PNCT	--	U	513
+#510	FN	--	A	513
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 26788003

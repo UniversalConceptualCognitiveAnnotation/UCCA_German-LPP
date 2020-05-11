@@ -1,0 +1,44 @@
+#BOS 26808010
+So	Word	--	Terminal	500
+senkte	Word	--	Terminal	501
+ich	Word	--	Terminal	502
+selbst	Word	--	Terminal	503
+die	Word	--	Terminal	504
+Augen	Word	--	Terminal	505
+hinab	Word	--	Terminal	501
+an	Word	--	Terminal	506
+den	Word	--	Terminal	507
+Fuß	Word	--	Terminal	508
+der	Word	--	Terminal	509
+Mauer	Word	--	Terminal	510
+und	Word	--	Terminal	511
+sprang	Word	--	Terminal	512
+zu	Word	--	Terminal	513
+der	Word	--	Terminal	514
+Seite	Word	--	Terminal	515
+!	Punctuation	--	Terminal	516
+#500	FN	--	L	523
+#501	FN	--	P	522
+#502	FN	--	A	522	A*	520
+#503	FN	--	D	522
+#504	FN	--	F	517
+#505	FN	--	C	517
+#506	FN	--	R	521
+#507	FN	--	F	521
+#508	FN	--	C	521
+#509	FN	--	R	518
+#510	FN	--	C	518
+#511	FN	--	L	523
+#512	FN	--	P	520
+#513	FN	--	R	519
+#514	FN	--	F	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	A	522
+#518	FN	--	E	521
+#519	FN	--	A	520
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 26808010

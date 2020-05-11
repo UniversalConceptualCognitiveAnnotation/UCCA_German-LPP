@@ -1,0 +1,31 @@
+#BOS 26760004
+Ja	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+selbst	Word	--	Terminal	502
+Blumen	Word	--	Terminal	503
+mit	Word	--	Terminal	504
+Dornen	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+#500	FN	--	D	514
+#501	PNCT	--	U	514
+#502	FN	--	D	514
+#503	FN	--	C	513
+#504	FN	--	R	510
+#505	FN	--	C	510
+#506	PNCT	--	U	510
+#507	PNCT	--	U	510
+#508	PNCT	--	U	510
+#509	PNCT	--	U	510
+#510	FN	--	E	513
+#511	FN	--	A	514
+#512	FN	--	P	514
+#513	FN	--	A	514
+#514	FN	--	A	517
+#515	FN	--	P	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26760004

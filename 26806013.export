@@ -1,0 +1,18 @@
+#BOS 26806013
+Und	Word	--	Terminal	500
+wieder	Word	--	Terminal	501
+lachte	Word	--	Terminal	502
+er	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+#500	FN	--	L	508
+#501	FN	--	D	507
+#502	FN	--	P	507
+#503	FN	--	A	507
+#504	PNCT	--	U	507
+#505	PNCT	--	U	507
+#506	PNCT	--	U	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 26806013

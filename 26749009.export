@@ -1,0 +1,36 @@
+#BOS 26749009
+Und	Word	--	Terminal	500
+der	Word	--	Terminal	501
+Erwachsene	Word	--	Terminal	502
+war	Word	--	Terminal	503
+zufrieden	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+auf	Word	--	Terminal	506
+einen	Word	--	Terminal	507
+so	Word	--	Terminal	508
+vernünftigen	Word	--	Terminal	509
+Mann	Word	--	Terminal	510
+zu	Word	--	Terminal	511
+treffen	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	FN	--	F	514
+#502	FN	--	C	514	A*	517
+#503	FN	--	F	518
+#504	FN	--	S	518
+#505	PNCT	--	U	518
+#506	FN	--	R	517
+#507	FN	--	F	516
+#508	FN	--	D	515
+#509	FN	--	S	515
+#510	FN	--	C	516	A*	515
+#511	FN	--	F	517
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	FN	--	A	518
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26749009

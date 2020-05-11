@@ -1,0 +1,30 @@
+#BOS 26788005
+Man	Word	--	Terminal	500
+könnte	Word	--	Terminal	501
+die	Word	--	Terminal	502
+gesamte	Word	--	Terminal	503
+Menschheit	Word	--	Terminal	504
+auf	Word	--	Terminal	505
+der	Word	--	Terminal	506
+kleinsten	Word	--	Terminal	507
+pazifischen	Word	--	Terminal	508
+Insel	Word	--	Terminal	509
+unterkriegen	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	F	512
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	R	513
+#506	FN	--	F	513
+#507	FN	--	E	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	FN	--	P	514
+#511	PNCT	--	U	514
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 26788005

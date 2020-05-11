@@ -1,0 +1,40 @@
+#BOS 26757018
+Sie	Word	--	Terminal	500
+schlafen	Word	--	Terminal	501
+verborgen	Word	--	Terminal	502
+in	Word	--	Terminal	503
+der	Word	--	Terminal	504
+Erde	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+bis	Word	--	Terminal	507
+aus	Word	--	Terminal	508
+einer	Word	--	Terminal	509
+Laune	Word	--	Terminal	510
+heraus	Word	--	Terminal	508
+ein	Word	--	Terminal	511
+Korn	Word	--	Terminal	512
+erwacht	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	520	A*	515
+#501	FN	--	P	520
+#502	FN	--	S	515
+#503	FN	--	R	516
+#504	FN	--	F	516
+#505	FN	--	C	516
+#506	PNCT	--	U	521
+#507	FN	--	L	521
+#508	FN	--	R	517
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	F	518
+#512	FN	--	C	518
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	H	521
+#516	FN	--	A	520
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 26757018
