@@ -1,0 +1,14 @@
+# format = ucca
+1	Eigentlich	_	Word	-	-	_	_	_	_	G
+2	hätte	_	Word	-	-	_	_	_	_	D
+3	ich	_	Word	-	-	_	_	_	_	A
+4	die	_	Word	-	-	_	F	_	_	_
+5	Geschichte	_	Word	-	+	_	_	_	_	A
+6	viel	_	Word	-	-	_	_	E	_	_
+7	lieber	_	Word	-	+	_	_	_	_	D
+8	wie	_	Word	-	-	_	_	_	R	_
+9	ein	_	Word	-	-	_	_	_	F	_
+10	Märchen	_	Word	-	+	_	_	_	_	A
+11	begonnen	_	Word	-	+	_	_	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

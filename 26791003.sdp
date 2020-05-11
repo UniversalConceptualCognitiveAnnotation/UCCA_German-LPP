@@ -1,0 +1,15 @@
+# format = ucca
+1	Wo	_	Word	-	+	_	_	_	A	_
+2	sind	_	Word	-	-	_	F	_	_	_
+3	die	_	Word	-	-	_	_	F	_	_
+4	Menschen	_	Word	-	+	_	A	_	_	_
+5	?	_	Punctuation	-	-	_	_	_	U	_
+6	"	_	Punctuation	-	-	_	_	_	U	_
+7	,	_	Punctuation	-	-	_	_	_	U	_
+8	fragte	_	Word	-	+	_	_	_	_	_
+9	der	_	Word	-	-	_	_	_	_	F
+10	kleine	_	Word	-	-	_	_	_	_	E
+11	Prinz	_	Word	-	+	_	_	_	A	_
+12	höflich	_	Word	-	-	_	_	_	D	_
+13	.	_	Punctuation	-	-	_	_	_	U	_
+

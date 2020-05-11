@@ -1,0 +1,12 @@
+# format = ucca
+1	Auch	_	Word	-	-	_	_	L	_
+2	mit	_	Word	-	-	_	R	_	_
+3	der	_	Word	-	-	_	F	_	_
+4	Größe	_	Word	-	+	_	_	A	_
+5	liege	_	Word	-	+	_	_	_	_
+6	ich	_	Word	-	-	_	_	A	_
+7	ein	_	Word	-	+	_	_	D	_
+8	bisschen	_	Word	-	-	_	_	_	Terminal
+9	falsch	_	Word	-	-	_	_	Terminal	_
+10	.	_	Punctuation	-	-	_	_	U	_
+

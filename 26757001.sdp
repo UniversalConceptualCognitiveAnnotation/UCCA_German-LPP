@@ -1,0 +1,12 @@
+# format = ucca
+1	Das	_	Word	-	-	_	A	_	_
+2	kam	_	Word	-	+	_	_	_	_
+3	nach	_	Word	-	+	_	D	_	_
+4	und	_	Word	-	-	_	_	N	_
+5	nach	_	Word	-	-	_	_	C	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	durch	_	Word	-	-	_	_	_	R
+8	zufällige	_	Word	-	-	_	_	_	D
+9	Überlegungen	_	Word	-	+	_	A	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

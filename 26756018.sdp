@@ -1,0 +1,14 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_	A*
+2	werde	_	Word	-	-	_	F	_	_	_
+3	natürlich	_	Word	-	-	_	G	_	_	_
+4	versuchen	_	Word	-	+	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_
+6	die	_	Word	-	-	_	_	F	_	_
+7	Abbildungen	_	Word	-	+	_	_	_	_	A
+8	möglichst	_	Word	-	-	_	_	_	E	_
+9	wahrheitsgetreu	_	Word	-	+	_	_	_	_	D
+10	zu	_	Word	-	-	_	_	_	_	F
+11	zeichnen	_	Word	-	+	_	A	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

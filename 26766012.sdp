@@ -1,0 +1,15 @@
+# format = ucca
+1	Auch	_	Word	-	-	_	_	_	L	_
+2	die	_	Word	-	-	_	F	_	_	_
+3	letzten	_	Word	-	-	_	E	_	_	_
+4	Triebe	_	Word	-	+	_	_	_	A	_
+5	der	_	Word	-	-	_	_	R	_	_
+6	Affenbrotbäume	_	Word	-	+	_	E	_	_	_
+7	riss	_	Word	-	+	_	_	_	_	_
+8	der	_	Word	-	-	_	_	_	_	F
+9	kleine	_	Word	-	-	_	_	_	_	E
+10	Prinz	_	Word	-	+	_	_	_	A	_
+11	betrübt	_	Word	-	-	_	_	_	D	_
+12	heraus	_	Word	-	-	_	_	_	Terminal	_
+13	.	_	Punctuation	-	-	_	_	_	U	_
+

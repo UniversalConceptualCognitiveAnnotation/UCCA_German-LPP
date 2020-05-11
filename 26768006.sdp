@@ -1,0 +1,22 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	_	_	_	_	_
+2	wusste	_	Word	-	+	_	_	_	_	_	_	_
+3	nicht	_	Word	-	-	_	D	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+5	dass	_	Word	-	-	_	_	_	_	R	_	_
+6	die	_	Word	-	-	_	_	F	_	_	_	_
+7	Welt	_	Word	-	+	_	_	_	_	A	_	_
+8	für	_	Word	-	-	_	_	_	R	_	_	_
+9	Könige	_	Word	-	+	_	_	_	_	A	_	_
+10	sehr	_	Word	-	-	_	_	_	_	D	_	_
+11	einfach	_	Word	-	+	_	A	_	_	_	_	_
+12	ist	_	Word	-	-	_	_	_	_	F	_	_
+13	:	_	Punctuation	-	-	_	U	_	_	_	_	_
+14	Alle	_	Word	-	-	_	_	_	_	_	E	_
+15	Menschen	_	Word	-	+	_	_	_	_	_	_	A
+16	sind	_	Word	-	-	_	_	_	_	_	_	F
+17	Untertanen	_	Word	-	+	_	H	_	_	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+19	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+20	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

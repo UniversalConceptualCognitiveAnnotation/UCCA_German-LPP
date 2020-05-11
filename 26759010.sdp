@@ -1,0 +1,29 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L	_	_	_
+2	ein	_	Word	-	-	_	F	_	_	_	_
+3	wenig	_	Word	-	-	_	E	_	_	_	_
+4	später	_	Word	-	+	_	_	T	_	_	_
+5	fügtest	_	Word	-	+	_	_	_	_	_	_
+6	du	_	Word	-	-	_	_	A	_	_	_
+7	hinzu	_	Word	-	-	_	_	Terminal	_	_	_
+8	:	_	Punctuation	-	-	_	_	U	_	_	_
+9	-	_	Punctuation	-	-	_	_	U	_	_	_
+10	"	_	Punctuation	-	-	_	_	U	_	_	_
+11	Weißt	_	Word	-	+	_	_	A	_	_	_
+12	du	_	Word	-	-	_	_	_	A	_	_
+13	...	_	Punctuation	-	-	_	_	_	U	_	_
+14	wenn	_	Word	-	-	_	_	_	L	_	_
+15	man	_	Word	-	-	_	_	_	_	A	_
+16	sehr	_	Word	-	-	_	_	_	_	D	_
+17	traurig	_	Word	-	+	_	_	_	H	_	_
+18	ist	_	Word	-	-	_	_	_	_	F	_
+19	,	_	Punctuation	-	-	_	_	_	U	_	_
+20	dann	_	Word	-	-	_	_	_	L	_	_
+21	liebt	_	Word	-	+	_	_	_	H	_	_
+22	man	_	Word	-	-	_	_	_	_	_	A
+23	Sonnenuntergänge	_	Word	-	-	_	_	_	_	_	A
+24	.	_	Punctuation	-	-	_	_	_	_	_	U
+25	"	_	Punctuation	-	-	_	_	_	_	_	U
+26	-	_	Punctuation	-	-	_	_	_	_	_	U
+27	"	_	Punctuation	-	-	_	_	_	_	_	U
+

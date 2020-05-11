@@ -1,0 +1,14 @@
+# format = ucca
+1	Kapitel	_	Word	-	-	_	E	_	_	_
+2	XXI	_	Word	-	+	_	_	_	_	_
+3	In	_	Word	-	-	_	_	R	_	_
+4	diesem	_	Word	-	-	_	_	E	_	_
+5	Moment	_	Word	-	+	_	_	_	T	_
+6	tauchte	_	Word	-	+	_	H	_	_	_
+7	der	_	Word	-	-	_	_	_	_	F
+8	Fuchs	_	Word	-	+	_	_	_	A	_
+9	auf	_	Word	-	-	_	_	_	Terminal	_
+10	.	_	Punctuation	-	-	_	_	_	U	_
+11	-	_	Punctuation	-	-	_	_	_	U	_
+12	"	_	Punctuation	-	-	_	_	_	U	_
+

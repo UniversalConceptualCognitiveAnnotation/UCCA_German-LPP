@@ -1,0 +1,19 @@
+# format = ucca
+1	So	_	Word	-	-	_	E	_	_	_	_
+2	einen	_	Word	-	-	_	F	_	_	_	_
+3	Affenbrotbaum	_	Word	-	+	_	_	A	_	_	_
+4	wird	_	Word	-	+	_	_	_	_	_	_
+5	man	_	Word	-	-	_	_	A	_	_	_
+6	nicht	_	Word	-	+	_	_	D	_	_	_
+7	mehr	_	Word	-	-	_	_	_	E	_	_
+8	los	_	Word	-	-	_	_	Terminal	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_
+10	wenn	_	Word	-	-	_	_	L	_	_	_
+11	man	_	Word	-	-	_	_	_	_	A	_
+12	sich	_	Word	-	+	_	_	H	_	_	_
+13	zu	_	Word	-	-	_	_	_	_	_	E
+14	spät	_	Word	-	+	_	_	_	_	T	_
+15	darum	_	Word	-	-	_	_	_	_	A	_
+16	kümmert	_	Word	-	-	_	_	_	_	Terminal	_
+17	.	_	Punctuation	-	-	_	_	_	_	U	_
+

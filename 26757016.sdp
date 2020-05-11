@@ -1,0 +1,18 @@
+# format = ucca
+1	Daher	_	Word	-	-	_	L	_	_	_	_
+2	gab	_	Word	-	+	_	_	_	_	_	_
+3	es	_	Word	-	-	_	F	_	_	_	_
+4	auch	_	Word	-	-	_	L	_	_	_	_
+5	gute	_	Word	-	-	_	_	E	_	_	_
+6	Samen	_	Word	-	+	_	A	_	_	_	_
+7	von	_	Word	-	-	_	_	_	R	_	_
+8	guten	_	Word	-	-	_	_	_	E	_	_
+9	Pflanzen	_	Word	-	+	_	A	_	_	_	_
+10	und	_	Word	-	-	_	L	_	_	_	_
+11	schlechte	_	Word	-	-	_	_	_	_	E	_
+12	Samen	_	Word	-	+	_	H	_	_	_	_
+13	von	_	Word	-	-	_	_	_	_	_	R
+14	schlechten	_	Word	-	-	_	_	_	_	_	E
+15	Pflanzen	_	Word	-	+	_	_	_	_	A	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+

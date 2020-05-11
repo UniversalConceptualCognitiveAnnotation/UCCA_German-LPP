@@ -1,0 +1,20 @@
+# format = ucca
+1	Mit	_	Word	-	-	_	R	_	_	_	_	_
+2	der	_	Word	-	-	_	F	_	_	_	_	_
+3	Tinte	_	Word	-	+	_	_	A	_	_	_	_
+4	wartet	_	Word	-	+	_	_	_	_	_	_	_
+5	man	_	Word	-	-	_	_	A	_	_	_	_
+6	so	_	Word	-	-	_	_	_	E	_	_	_
+7	lange	_	Word	-	+	_	_	D	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+9	bis	_	Word	-	-	_	_	_	_	_	_	R
+10	der	_	Word	-	-	_	_	_	_	F	_	_
+11	Forscher	_	Word	-	+	_	_	_	_	_	_	A
+12	die	_	Word	-	-	_	_	_	_	_	F	_
+13	Beweise	_	Word	-	+	_	_	_	_	_	_	A
+14	geliefert	_	Word	-	+	_	_	A	_	_	_	_
+15	hat	_	Word	-	-	_	_	_	_	_	_	F
+16	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+17	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+18	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

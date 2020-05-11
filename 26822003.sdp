@@ -1,0 +1,15 @@
+# format = ucca
+1	Das	_	Word	-	-	_	_	A	A*	_
+2	ist	_	Word	-	-	_	_	F	_	_
+3	für	_	Word	-	-	_	R	_	_	_
+4	mich	_	Word	-	+	_	_	A	_	_
+5	die	_	Word	-	-	_	_	F	_	_
+6	schönste	_	Word	-	+	_	_	_	_	_
+7	und	_	Word	-	-	_	_	L	_	_
+8	die	_	Word	-	-	_	_	_	F	_
+9	traurigste	_	Word	-	+	_	_	H	_	_
+10	Landschaft	_	Word	-	-	_	_	A*	A	_
+11	der	_	Word	-	-	_	_	_	_	R
+12	Welt	_	Word	-	+	_	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

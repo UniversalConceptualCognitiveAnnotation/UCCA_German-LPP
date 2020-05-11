@@ -1,0 +1,37 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+2	trotzdem	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+3	leuchtet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	etwas	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+6	dem	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+7	Stillen	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+8	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+9	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+10	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+11	Was	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+12	die	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+13	Wüste	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+14	so	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+15	schön	_	Word	-	+	_	_	_	_	_	D	_	_	_	_
+16	macht	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+17	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+19	sagte	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+20	der	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+21	kleine	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+22	Prinz	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+25	ist	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+27	dass	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+28	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+29	irgendwo	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+30	einen	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+31	Brunnen	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+32	versteckt	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+33	hält	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

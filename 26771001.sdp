@@ -1,0 +1,33 @@
+# format = ucca
+1	Hm	_	Word	-	-	_	_	_	F	_	_
+2	!	_	Punctuation	-	-	_	_	_	U	_	_
+3	Hm	_	Word	-	-	_	_	_	F	_	_
+4	!	_	Punctuation	-	-	_	_	_	U	_	_
+5	das	_	Word	-	-	_	_	_	F	_	_
+6	wird	_	Word	-	-	_	_	_	F	_	_
+7	um	_	Word	-	-	_	_	_	F	_	_
+8	...	_	Punctuation	-	-	_	_	_	U	_	_
+9	um	_	Word	-	-	_	_	_	F	_	_
+10	...	_	Punctuation	-	-	_	_	_	U	_	_
+11	es	_	Word	-	-	_	_	_	A	_	_
+12	wird	_	Word	-	-	_	_	_	F	_	_
+13	heute	_	Word	-	-	_	E	_	_	_	_
+14	Abend	_	Word	-	+	_	_	_	T	_	_
+15	um	_	Word	-	-	_	_	R	_	_	_
+16	sieben	_	Word	-	-	_	_	Q	_	_	_
+17	Uhr	_	Word	-	+	_	_	_	T	_	_
+18	vierzig	_	Word	-	-	_	_	C	_	_	_
+19	sein	_	Word	-	+	_	_	_	_	_	_
+20	!	_	Punctuation	-	-	_	_	_	U	_	_
+21	Und	_	Word	-	-	_	_	_	L	_	_
+22	du	_	Word	-	-	_	_	_	_	A	_
+23	wirst	_	Word	-	-	_	_	_	_	F	_
+24	sehen	_	Word	-	+	_	_	_	H	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	U	_
+26	wie	_	Word	-	-	_	_	_	_	_	D
+27	man	_	Word	-	-	_	_	_	_	_	A
+28	mir	_	Word	-	-	_	_	_	_	_	A
+29	gehorcht	_	Word	-	+	_	_	_	_	A	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	U
+

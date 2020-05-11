@@ -1,0 +1,17 @@
+# format = ucca
+1	So	_	Word	-	-	_	_	L	_	_
+2	musste	_	Word	-	-	_	_	D	_	_
+3	ich	_	Word	-	-	_	_	A	_	_
+4	einen	_	Word	-	-	_	F	_	_	_
+5	anderen	_	Word	-	-	_	E	_	_	_
+6	Beruf	_	Word	-	+	_	_	A	_	_
+7	finden	_	Word	-	+	_	_	_	_	_
+8	und	_	Word	-	-	_	_	L	_	_
+9	ich	_	Word	-	-	_	_	_	A	A*
+10	lernte	_	Word	-	+	_	_	H	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_
+12	Flugzeuge	_	Word	-	-	_	_	_	_	A
+13	zu	_	Word	-	-	_	_	_	_	F
+14	steuern	_	Word	-	+	_	_	_	A	_
+15	.	_	Punctuation	-	-	_	_	_	_	U
+

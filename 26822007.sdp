@@ -1,0 +1,24 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_	_	_	_	_
+2	wenn	_	Word	-	-	_	L	_	_	_	_	_
+3	ihr	_	Word	-	-	_	A	_	_	_	_	_
+4	dort	_	Word	-	-	_	A	_	_	_	_	_
+5	vorbeikommt	_	Word	-	+	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+7	ich	_	Word	-	-	_	_	A	_	_	_	_
+8	bitte	_	Word	-	+	_	H	_	_	_	_	_
+9	euch	_	Word	-	-	_	_	A	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+11	dann	_	Word	-	-	_	L	_	_	_	_	_
+12	nehmt	_	Word	-	+	_	H	_	_	_	_	_
+13	euch	_	Word	-	-	_	_	_	A	_	_	_
+14	Zeit	_	Word	-	-	_	_	_	Terminal	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+16	wartet	_	Word	-	+	_	H	_	_	_	_	_
+17	ein	_	Word	-	-	_	_	_	_	_	F	_
+18	bisschen	_	Word	-	+	_	_	_	_	D	_	_
+19	unter	_	Word	-	-	_	_	_	_	_	_	R
+20	dem	_	Word	-	-	_	_	_	_	_	_	F
+21	Stern	_	Word	-	+	_	_	_	_	A	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

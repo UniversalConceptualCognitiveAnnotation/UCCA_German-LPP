@@ -1,0 +1,23 @@
+# format = ucca
+1	Dieser	_	Word	-	-	_	E	_	_	_	_	_
+2	Typ	_	Word	-	+	_	_	_	_	A	_	_
+3	"	_	Punctuation	-	-	_	_	U	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+5	sagte	_	Word	-	+	_	_	_	_	_	_	_
+6	sich	_	Word	-	-	_	_	A	_	_	_	_
+7	der	_	Word	-	-	_	_	_	F	_	_	_
+8	kleine	_	Word	-	-	_	_	_	E	_	_	_
+9	Prinz	_	Word	-	+	_	_	A	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+11	"	_	Punctuation	-	-	_	_	U	_	_	_	_
+12	er	_	Word	-	-	_	_	_	_	F	_	_
+13	denkt	_	Word	-	+	_	_	A	_	_	_	_
+14	ein	_	Word	-	+	_	_	_	_	D	_	_
+15	bisschen	_	Word	-	-	_	_	_	_	_	Terminal	_
+16	so	_	Word	-	-	_	_	_	_	A	_	_
+17	wie	_	Word	-	-	_	_	_	_	_	_	R
+18	mein	_	Word	-	+	_	_	_	_	A	_	_
+19	Säufer	_	Word	-	-	_	_	_	_	_	_	A
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

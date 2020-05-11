@@ -1,0 +1,15 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_	_
+2	da	_	Word	-	-	_	A	_	_
+3	war	_	Word	-	+	_	_	_	_
+4	kein	_	Word	-	-	_	D	_	_
+5	Dorf	_	Word	-	-	_	A	_	_
+6	und	_	Word	-	-	_	L	_	_
+7	ich	_	Word	-	-	_	_	A	A*
+8	glaubte	_	Word	-	+	_	H	_	_
+9	zu	_	Word	-	-	_	_	_	F
+10	träumen	_	Word	-	+	_	_	A	_
+11	.	_	Punctuation	-	-	_	_	_	U
+12	-	_	Punctuation	-	-	_	_	_	U
+13	"	_	Punctuation	-	-	_	_	_	U
+

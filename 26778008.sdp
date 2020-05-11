@@ -1,0 +1,29 @@
+# format = ucca
+1	Das	_	Word	-	-	_	A	_	_	_	_	_	_	_
+2	bedeutet	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+4	ich	_	Word	-	-	_	_	A	_	_	_	_	_	_
+5	schreibe	_	Word	-	+	_	H	_	_	_	_	_	_	_
+6	die	_	Word	-	-	_	_	_	F	_	_	_	_	_
+7	Anzahl	_	Word	-	+	_	_	A	_	_	_	_	_	_
+8	der	_	Word	-	-	_	_	_	_	R	_	_	_	_
+9	Sterne	_	Word	-	+	_	_	_	E	_	_	_	_	_
+10	auf	_	Word	-	-	_	_	_	_	_	R	_	_	_
+11	einen	_	Word	-	-	_	_	_	_	_	F	_	_	_
+12	kleinen	_	Word	-	-	_	_	_	_	_	E	_	_	_
+13	Zettel	_	Word	-	+	_	_	A	_	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+15	Und	_	Word	-	-	_	L	_	_	_	_	_	_	_
+16	diesen	_	Word	-	-	_	_	_	_	_	_	E	_	_
+17	Zettel	_	Word	-	+	_	_	_	_	_	_	_	A	_
+18	verschließe	_	Word	-	+	_	H	_	_	_	_	_	_	_
+19	ich	_	Word	-	-	_	_	_	_	_	_	_	A	_
+20	dann	_	Word	-	-	_	L	_	_	_	_	_	_	_
+21	in	_	Word	-	-	_	_	_	_	_	_	_	_	R
+22	einer	_	Word	-	-	_	_	_	_	_	_	_	_	E
+23	Schublade	_	Word	-	+	_	_	_	_	_	_	_	A	_
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+25	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+26	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

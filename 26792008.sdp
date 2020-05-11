@@ -1,0 +1,16 @@
+# format = ucca
+1	Werdet	_	Word	-	+	_	_	_	_	A
+2	meine	_	Word	-	+	_	A	_	_	_
+3	Freunde	_	Word	-	-	_	_	A	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_
+5	ich	_	Word	-	-	_	_	_	A	_
+6	bin	_	Word	-	-	_	_	_	F	_
+7	allein	_	Word	-	+	_	H	_	_	_
+8	"	_	Punctuation	-	-	_	_	_	_	U
+9	,	_	Punctuation	-	-	_	_	_	_	U
+10	sagte	_	Word	-	+	_	_	_	_	_
+11	er	_	Word	-	-	_	_	_	_	A
+12	.	_	Punctuation	-	-	_	_	_	_	U
+13	-	_	Punctuation	-	-	_	_	_	_	U
+14	"	_	Punctuation	-	-	_	_	_	_	U
+

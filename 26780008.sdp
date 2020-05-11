@@ -1,0 +1,11 @@
+# format = ucca
+1	Die	_	Word	-	-	_	F	_	_
+2	Laterne	_	Word	-	+	_	_	A	_
+3	zu	_	Word	-	-	_	_	F	_
+4	löschen	_	Word	-	+	_	_	_	_
+5	.	_	Punctuation	-	-	_	_	U	_
+6	Guten	_	Word	-	+	_	_	H	_
+7	Abend	_	Word	-	-	_	_	_	A
+8	.	_	Punctuation	-	-	_	_	_	U
+9	"	_	Punctuation	-	-	_	_	_	U
+

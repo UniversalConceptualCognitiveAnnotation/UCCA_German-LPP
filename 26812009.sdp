@@ -1,0 +1,11 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	A*
+2	ging	_	Word	-	+	_	_	_
+3	fort	_	Word	-	-	_	Terminal	_
+4	,	_	Punctuation	-	-	_	U	_
+5	ohne	_	Word	-	-	_	L	D*
+6	Lärm	_	Word	-	-	_	_	A
+7	zu	_	Word	-	-	_	_	F
+8	machen	_	Word	-	+	_	H	_
+9	.	_	Punctuation	-	-	_	_	U
+

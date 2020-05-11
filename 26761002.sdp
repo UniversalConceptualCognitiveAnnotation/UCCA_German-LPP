@@ -1,0 +1,7 @@
+# format = ucca
+1	Um	_	Word	-	-	_	R
+2	wichtige	_	Word	-	-	_	E
+3	Dinge	_	Word	-	+	_	_
+4	?	_	Punctuation	-	-	_	U
+5	"	_	Punctuation	-	-	_	U
+

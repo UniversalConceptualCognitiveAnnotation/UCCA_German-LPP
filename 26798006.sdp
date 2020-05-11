@@ -1,0 +1,35 @@
+# format = ucca
+1	Es	_	Word	-	-	_	F	_	_	_	_	_	_	_
+2	ist	_	Word	-	+	_	_	_	_	_	_	A	_	_
+3	die	_	Word	-	-	_	_	F	_	_	_	_	_	_
+4	Zeit	_	Word	-	+	_	A	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+6	die	_	Word	-	-	_	_	_	_	R	_	_	_	_
+7	ich	_	Word	-	-	_	_	_	_	A	_	_	_	_
+8	für	_	Word	-	-	_	_	_	R	_	_	_	_	_
+9	meine	_	Word	-	-	_	_	_	E	_	_	_	_	_
+10	Rose	_	Word	-	+	_	_	_	_	A	_	_	_	_
+11	geopfert	_	Word	-	+	_	_	E	_	_	_	_	_	_
+12	habe	_	Word	-	-	_	_	_	_	F	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+14	die	_	Word	-	-	_	_	_	_	_	R	_	_	_
+15	sie	_	Word	-	-	_	_	_	_	_	A	_	_	_
+16	so	_	Word	-	-	_	_	_	_	_	D	_	_	_
+17	bedeutsam	_	Word	-	-	_	_	_	_	_	D	_	_	_
+18	macht	_	Word	-	+	_	_	E	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+20	...	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+21	sagte	_	Word	-	+	_	_	_	_	_	_	_	_	_
+22	der	_	Word	-	-	_	_	_	_	_	_	_	F	_
+23	kleine	_	Word	-	-	_	_	_	_	_	_	_	E	_
+24	Prinz	_	Word	-	+	_	_	_	_	_	_	_	_	A*
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+26	um	_	Word	-	-	_	_	_	_	_	_	L	_	_
+27	sich	_	Word	-	+	_	_	_	_	_	_	H	_	_
+28	daran	_	Word	-	-	_	_	_	_	_	_	_	_	A
+29	zu	_	Word	-	-	_	_	_	_	_	_	_	_	F
+30	erinnern	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+32	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+33	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

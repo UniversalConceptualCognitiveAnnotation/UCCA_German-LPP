@@ -1,0 +1,27 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L	_	_	_
+2	als	_	Word	-	-	_	_	L	_	_	_
+3	die	_	Word	-	-	_	F	_	_	_	_
+4	Stunde	_	Word	-	-	_	A	_	_	_	_
+5	des	_	Word	-	-	_	R	_	_	_	_
+6	Abschieds	_	Word	-	+	_	_	A	_	_	_
+7	nahte	_	Word	-	+	_	_	_	_	_	_
+8	:	_	Punctuation	-	-	_	_	U	_	_	_
+9	-	_	Punctuation	-	-	_	_	U	_	_	_
+10	"	_	Punctuation	-	-	_	_	U	_	_	_
+11	Ach	_	Word	-	-	_	_	_	_	_	F
+12	!	_	Punctuation	-	-	_	_	_	U	_	_
+13	"	_	Punctuation	-	-	_	_	_	U	_	_
+14	sagte	_	Word	-	+	_	_	H	_	_	_
+15	der	_	Word	-	-	_	_	_	_	F	_
+16	Fuchs	_	Word	-	+	_	_	_	A	_	_
+17	,	_	Punctuation	-	-	_	_	_	U	_	_
+18	"	_	Punctuation	-	-	_	_	_	U	_	_
+19	ich	_	Word	-	-	_	_	_	_	_	A
+20	werde	_	Word	-	-	_	_	_	_	_	F
+21	weinen	_	Word	-	+	_	_	_	A	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	U
+23	"	_	Punctuation	-	-	_	_	_	_	_	U
+24	-	_	Punctuation	-	-	_	_	_	_	_	U
+25	"	_	Punctuation	-	-	_	_	_	_	_	U
+

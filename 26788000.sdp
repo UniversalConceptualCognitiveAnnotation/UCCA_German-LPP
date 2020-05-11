@@ -1,0 +1,19 @@
+# format = ucca
+1	Kapitel	_	Word	-	-	_	E	_	_	_	_
+2	XVII	_	Word	-	+	_	_	_	_	_	_
+3	Wenn	_	Word	-	-	_	L	_	_	_	_
+4	man	_	Word	-	-	_	_	A	_	_	_
+5	klug	_	Word	-	+	_	H	_	_	_	_
+6	wirken	_	Word	-	-	_	_	D	_	_	_
+7	will	_	Word	-	-	_	_	D	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_
+9	passiert	_	Word	-	+	_	H	_	_	_	_
+10	es	_	Word	-	-	_	_	_	F	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_
+12	dass	_	Word	-	-	_	_	_	_	_	R
+13	man	_	Word	-	-	_	_	_	_	_	A
+14	ein	_	Word	-	+	_	_	_	_	_	D
+15	wenig	_	Word	-	-	_	_	_	_	Terminal	_
+16	schwindelt	_	Word	-	+	_	_	_	A	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

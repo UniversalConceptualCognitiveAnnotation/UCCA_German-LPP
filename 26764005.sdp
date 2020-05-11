@@ -1,0 +1,27 @@
+# format = ucca
+1	Auf	_	Word	-	-	_	R	_	_	_	_
+2	meinem	_	Word	-	-	_	E	_	_	_	_
+3	Planeten	_	Word	-	+	_	_	A	_	_	_
+4	gibt	_	Word	-	+	_	_	_	A	_	_
+5	es	_	Word	-	-	_	_	F	_	_	_
+6	keine	_	Word	-	-	_	_	D	_	_	_
+7	Tiger	_	Word	-	-	_	_	A	_	_	_
+8	"	_	Punctuation	-	-	_	_	_	U	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_
+10	erwiderte	_	Word	-	+	_	_	_	_	_	_
+11	der	_	Word	-	-	_	_	_	_	F	_
+12	kleine	_	Word	-	-	_	_	_	_	E	_
+13	Prinz	_	Word	-	+	_	_	_	A	_	_
+14	.	_	Punctuation	-	-	_	_	_	U	_	_
+15	"	_	Punctuation	-	-	_	_	_	U	_	_
+16	Und	_	Word	-	-	_	_	L	_	_	_
+17	außerdem	_	Word	-	-	_	_	_	_	_	D
+18	fressen	_	Word	-	+	_	_	H	_	_	_
+19	Tiger	_	Word	-	-	_	_	_	_	_	A
+20	kein	_	Word	-	-	_	_	_	_	_	D
+21	Gras	_	Word	-	-	_	_	_	_	_	A
+22	.	_	Punctuation	-	-	_	_	_	_	_	U
+23	"	_	Punctuation	-	-	_	_	_	_	_	U
+24	-	_	Punctuation	-	-	_	_	_	_	_	U
+25	"	_	Punctuation	-	-	_	_	_	_	_	U
+

@@ -1,0 +1,7 @@
+# format = ucca
+1	Die	_	Word	-	-	_	F	_
+2	Blume	_	Word	-	+	_	_	A
+3	musste	_	Word	-	-	_	_	D
+4	husten	_	Word	-	+	_	_	_
+5	.	_	Punctuation	-	-	_	_	U
+

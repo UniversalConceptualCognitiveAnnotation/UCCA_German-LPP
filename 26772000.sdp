@@ -1,0 +1,31 @@
+# format = ucca
+1	-	_	Punctuation	-	-	_	_	_	_	U	_
+2	"	_	Punctuation	-	-	_	_	_	_	U	_
+3	Ich	_	Word	-	-	_	_	_	_	F	_
+4	"	_	Punctuation	-	-	_	U	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_
+6	sagte	_	Word	-	+	_	_	_	_	_	_
+7	der	_	Word	-	-	_	_	F	_	_	_
+8	kleine	_	Word	-	-	_	_	E	_	_	_
+9	Prinz	_	Word	-	+	_	A	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_
+11	"	_	Punctuation	-	-	_	U	_	_	_	_
+12	ich	_	Word	-	-	_	_	_	_	A	_
+13	kann	_	Word	-	-	_	_	_	_	D	_
+14	überall	_	Word	-	-	_	_	_	_	A	_
+15	über	_	Word	-	-	_	_	_	R	_	_
+16	mich	_	Word	-	+	_	_	_	_	A	_
+17	selbst	_	Word	-	-	_	_	_	E	_	_
+18	urteilen	_	Word	-	+	_	A	_	_	_	_
+19	.	_	Punctuation	-	-	_	_	_	_	U	_
+20	Dazu	_	Word	-	-	_	_	_	_	L	_
+21	muss	_	Word	-	-	_	_	_	_	_	D
+22	ich	_	Word	-	-	_	_	_	_	_	A
+23	nicht	_	Word	-	-	_	_	_	_	_	D
+24	hier	_	Word	-	-	_	_	_	_	_	A
+25	wohnen	_	Word	-	+	_	_	_	_	H	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	U
+27	"	_	Punctuation	-	-	_	_	_	_	_	U
+28	-	_	Punctuation	-	-	_	_	_	_	_	U
+29	"	_	Punctuation	-	-	_	_	_	_	_	U
+

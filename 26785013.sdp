@@ -1,0 +1,18 @@
+# format = ucca
+1	Den	_	Word	-	-	_	F	_	_	_	_
+2	Planeten	_	Word	-	-	_	E	_	_	_	_
+3	Erde	_	Word	-	+	_	_	A	_	_	_
+4	"	_	Punctuation	-	-	_	_	U	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_
+6	antwortete	_	Word	-	+	_	_	_	_	_	_
+7	der	_	Word	-	-	_	_	_	F	_	_
+8	Geograph	_	Word	-	+	_	_	A	_	_	_
+9	.	_	Punctuation	-	-	_	_	U	_	_	_
+10	Er	_	Word	-	-	_	_	_	_	A	_
+11	hat	_	Word	-	+	_	H	_	_	_	_
+12	einen	_	Word	-	-	_	_	_	_	_	F
+13	guten	_	Word	-	-	_	_	_	_	_	E
+14	Ruf	_	Word	-	+	_	_	_	_	A	_
+15	...	_	Punctuation	-	-	_	_	_	_	_	U
+16	"	_	Punctuation	-	-	_	_	_	_	_	U
+

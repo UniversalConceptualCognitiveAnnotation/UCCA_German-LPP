@@ -1,0 +1,19 @@
+# format = ucca
+1	Derart	_	Word	-	-	_	D	_	_	_	_
+2	entmutigt	_	Word	-	+	_	_	_	_	_	_
+3	war	_	Word	-	-	_	F	_	_	_	_
+4	ich	_	Word	-	-	_	A	_	_	_	_
+5	von	_	Word	-	-	_	_	R	_	_	_
+6	dem	_	Word	-	-	_	_	F	_	_	_
+7	Misserfolg	_	Word	-	+	_	A	_	_	_	_
+8	meiner	_	Word	-	-	_	_	_	R	_	_
+9	Zeichnungen	_	Word	-	+	_	_	A	_	_	_
+10	Nr	_	Word	-	-	_	_	_	_	E	_
+11	.	_	Punctuation	-	-	_	_	_	_	U	_
+12	1	_	Word	-	+	_	_	_	E	_	_
+13	und	_	Word	-	-	_	_	_	_	N	_
+14	Nr	_	Word	-	-	_	_	_	_	_	E
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+16	2	_	Word	-	+	_	_	_	_	C	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

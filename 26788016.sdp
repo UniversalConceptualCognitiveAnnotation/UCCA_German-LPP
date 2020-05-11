@@ -1,0 +1,15 @@
+# format = ucca
+1	Gute	_	Word	-	+	_	_	A	_	_
+2	Nacht	_	Word	-	-	_	A	_	_	_
+3	"	_	Punctuation	-	-	_	_	U	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_
+5	sagte	_	Word	-	+	_	_	_	_	_
+6	der	_	Word	-	-	_	_	_	F	_
+7	Prinz	_	Word	-	+	_	_	A	_	_
+8	auf	_	Word	-	-	_	_	_	_	R
+9	gut	_	Word	-	+	_	_	D	_	_
+10	Glück	_	Word	-	-	_	_	_	_	Terminal
+11	.	_	Punctuation	-	-	_	_	_	_	U
+12	-	_	Punctuation	-	-	_	_	_	_	U
+13	"	_	Punctuation	-	-	_	_	_	_	U
+

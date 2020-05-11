@@ -1,0 +1,23 @@
+# format = ucca
+1	Ah	_	Word	-	-	_	F	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+3	ah	_	Word	-	-	_	F	_	_	_	_	_
+4	!	_	Punctuation	-	-	_	U	_	_	_	_	_
+5	Besuch	_	Word	-	+	_	_	_	A	_	_	_
+6	eines	_	Word	-	-	_	_	R	_	_	_	_
+7	Verehrers	_	Word	-	+	_	A	_	_	_	_	_
+8	!	_	Punctuation	-	-	_	_	_	U	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	U	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+11	freute	_	Word	-	+	_	_	_	_	_	_	_
+12	sich	_	Word	-	-	_	_	_	Terminal	_	_	_
+13	der	_	Word	-	-	_	_	_	_	F	_	_
+14	Eitle	_	Word	-	+	_	_	_	A	_	_	_
+15	als	_	Word	-	-	_	_	_	L	_	_	_
+16	er	_	Word	-	-	_	_	_	_	_	_	A
+17	den	_	Word	-	-	_	_	_	_	_	F	_
+18	kleinen	_	Word	-	-	_	_	_	_	_	E	_
+19	Prinzen	_	Word	-	+	_	_	_	_	_	_	A
+20	sah	_	Word	-	+	_	_	_	H	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

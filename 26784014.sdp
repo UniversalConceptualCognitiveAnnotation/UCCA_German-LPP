@@ -1,0 +1,12 @@
+# format = ucca
+1	Also	_	Word	-	-	_	A	_
+2	?	_	Punctuation	-	-	_	U	_
+3	"	_	Punctuation	-	-	_	U	_
+4	,	_	Punctuation	-	-	_	U	_
+5	fragte	_	Word	-	+	_	_	_
+6	der	_	Word	-	-	_	_	F
+7	Geograph	_	Word	-	+	_	A	_
+8	.	_	Punctuation	-	-	_	_	U
+9	-	_	Punctuation	-	-	_	_	U
+10	"	_	Punctuation	-	-	_	_	U
+

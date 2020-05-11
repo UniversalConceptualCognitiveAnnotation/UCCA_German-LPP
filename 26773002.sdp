@@ -1,0 +1,13 @@
+# format = ucca
+1	Denn	_	Word	-	-	_	_	_	L
+2	für	_	Word	-	-	_	R	_	_
+3	eitle	_	Word	-	-	_	E	_	_
+4	Menschen	_	Word	-	+	_	_	_	A
+5	sind	_	Word	-	-	_	_	_	F
+6	alle	_	Word	-	-	_	_	Q	_
+7	anderen	_	Word	-	+	_	_	_	A
+8	Verehrer	_	Word	-	+	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	U
+10	-	_	Punctuation	-	-	_	_	_	U
+11	"	_	Punctuation	-	-	_	_	_	U
+

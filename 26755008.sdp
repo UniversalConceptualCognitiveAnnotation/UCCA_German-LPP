@@ -1,0 +1,13 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_
+2	wegen	_	Word	-	-	_	L	_
+3	seiner	_	Word	-	-	_	E	_
+4	traditionellen	_	Word	-	-	_	E	_
+5	Tracht	_	Word	-	+	_	_	_
+6	hatte	_	Word	-	-	_	_	F
+7	ihm	_	Word	-	-	_	_	A
+8	niemand	_	Word	-	-	_	_	A
+9	glauben	_	Word	-	+	_	H	_
+10	wollen	_	Word	-	-	_	_	D
+11	.	_	Punctuation	-	-	_	_	U
+

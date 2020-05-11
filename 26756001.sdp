@@ -1,0 +1,32 @@
+# format = ucca
+1	Sagt	_	Word	-	+	_	_	_	_	_	_	_	_
+2	ihr	_	Word	-	-	_	A	_	_	_	_	_	_
+3	ihnen	_	Word	-	-	_	A	_	_	_	_	_	_
+4	aber	_	Word	-	-	_	L	_	_	_	_	_	_
+5	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+6	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+7	Sein	_	Word	-	-	_	_	E	_	_	_	_	_
+8	Heimat	_	Word	-	-	_	_	E	_	_	_	_	_
+9	planet	_	Word	-	+	_	_	_	A	_	_	_	_
+10	ist	_	Word	-	+	_	A	_	_	_	_	_	_
+11	der	_	Word	-	-	_	_	_	_	F	_	_	_
+12	Asteroid	_	Word	-	+	_	_	_	A	_	_	_	_
+13	B	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+14	612	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+15	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+17	dann	_	Word	-	-	_	L	_	_	_	_	_	_
+18	werden	_	Word	-	-	_	_	_	_	_	F	_	_
+19	sie	_	Word	-	-	_	_	_	_	_	A	_	_
+20	überzeugt	_	Word	-	+	_	H	_	_	_	_	_	_
+21	sein	_	Word	-	-	_	_	_	_	_	F	_	_
+22	und	_	Word	-	-	_	L	_	_	_	_	_	_
+23	euch	_	Word	-	-	_	_	_	_	_	_	A	_
+24	in	_	Word	-	-	_	_	_	_	_	_	R	_
+25	Ruhe	_	Word	-	+	_	H	_	_	_	_	_	_
+26	lassen	_	Word	-	-	_	_	_	_	_	_	D	_
+27	mit	_	Word	-	-	_	_	_	_	_	_	_	R
+28	ihren	_	Word	-	-	_	_	_	_	_	_	_	E
+29	Fragen	_	Word	-	+	_	_	_	_	_	_	A	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

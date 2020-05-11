@@ -1,0 +1,10 @@
+# format = ucca
+1	Man	_	Word	-	-	_	A	A*
+2	kann	_	Word	-	-	_	D	_
+3	gleichzeitig	_	Word	-	-	_	D	_
+4	pflichtbewusst	_	Word	-	+	_	_	_
+5	und	_	Word	-	-	_	L	_
+6	faul	_	Word	-	+	_	H	_
+7	sein	_	Word	-	-	_	_	F
+8	.	_	Punctuation	-	-	_	_	U
+

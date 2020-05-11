@@ -1,0 +1,18 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	_	A	_	_
+2	habe	_	Word	-	-	_	_	F	_	_
+3	viel	_	Word	-	-	_	_	D	_	_
+4	bei	_	Word	-	-	_	R	_	_	_
+5	Erwachsenen	_	Word	-	+	_	_	A	_	_
+6	gelebt	_	Word	-	+	_	_	_	_	_
+7	und	_	Word	-	-	_	_	L	_	_
+8	ich	_	Word	-	-	_	_	_	_	A
+9	habe	_	Word	-	-	_	_	_	_	F
+10	sie	_	Word	-	-	_	_	_	_	A
+11	ganz	_	Word	-	-	_	_	_	_	D
+12	aus	_	Word	-	-	_	_	_	R	_
+13	der	_	Word	-	-	_	_	_	F	_
+14	Nähe	_	Word	-	+	_	_	_	_	A
+15	betrachtet	_	Word	-	+	_	_	H	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	U
+

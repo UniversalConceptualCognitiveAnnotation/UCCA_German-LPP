@@ -1,0 +1,15 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	_	_	L
+2	all	_	Word	-	-	_	Q	_	_
+3	diese	_	Word	-	-	_	E	_	_
+4	vertrauten	_	Word	-	-	_	E	_	_
+5	Handgriffe	_	Word	-	+	_	_	_	A
+6	erschienen	_	Word	-	-	_	_	_	G
+7	ihm	_	Word	-	-	_	_	_	A
+8	an	_	Word	-	-	_	_	R	_
+9	diesem	_	Word	-	-	_	_	E	_
+10	Morgen	_	Word	-	+	_	_	_	A
+11	sehr	_	Word	-	-	_	_	_	D
+12	angenehm	_	Word	-	+	_	_	_	_
+13	.	_	Punctuation	-	-	_	_	_	U
+

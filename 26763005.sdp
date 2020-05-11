@@ -1,0 +1,17 @@
+# format = ucca
+1	Doch	_	Word	-	-	_	_	_	L	_	_
+2	bald	_	Word	-	-	_	_	_	T	_	_
+3	schon	_	Word	-	-	_	_	_	D	_	_
+4	hörte	_	Word	-	+	_	_	_	D	_	_
+5	der	_	Word	-	-	_	_	F	_	_	_
+6	Strauch	_	Word	-	+	_	_	_	A	_	_
+7	auf	_	Word	-	-	_	Terminal	_	_	_	_
+8	zu	_	Word	-	-	_	_	_	F	_	_
+9	wachsen	_	Word	-	+	_	_	_	_	_	_
+10	und	_	Word	-	-	_	_	_	L	_	_
+11	eine	_	Word	-	-	_	_	_	_	F	_
+12	Blüte	_	Word	-	+	_	_	_	_	_	A
+13	gedieh	_	Word	-	+	_	_	_	H	_	_
+14	heran	_	Word	-	-	_	_	_	_	_	Terminal
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+

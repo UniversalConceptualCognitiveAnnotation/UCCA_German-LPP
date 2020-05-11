@@ -1,0 +1,14 @@
+# format = ucca
+1	Zuerst	_	Word	-	-	_	_	_	D
+2	waren	_	Word	-	-	_	_	_	F
+3	die	_	Word	-	-	_	F	_	_
+4	Anzünder	_	Word	-	+	_	_	_	A
+5	in	_	Word	-	-	_	_	R	_
+6	Neuseeland	_	Word	-	+	_	E	_	_
+7	und	_	Word	-	-	_	_	N	_
+8	Australien	_	Word	-	-	_	_	C	_
+9	an	_	Word	-	+	_	_	_	_
+10	der	_	Word	-	-	_	_	_	Terminal
+11	Reihe	_	Word	-	-	_	_	_	Terminal
+12	.	_	Punctuation	-	-	_	_	_	U
+

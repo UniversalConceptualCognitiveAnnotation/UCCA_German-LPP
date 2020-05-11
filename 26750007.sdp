@@ -1,0 +1,26 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_	_	_	_
+2	könnt	_	Word	-	-	_	D	_	_	_	_	_
+3	ihr	_	Word	-	-	_	A	_	_	_	_	_
+4	euch	_	Word	-	+	_	_	_	_	_	_	_
+5	vorstellen	_	Word	-	-	_	Terminal	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+7	wie	_	Word	-	-	_	_	D	_	_	_	_
+8	überrascht	_	Word	-	+	_	A	_	_	_	_	_
+9	ich	_	Word	-	-	_	_	A	_	_	_	_
+10	war	_	Word	-	-	_	_	F	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+12	als	_	Word	-	-	_	_	L	_	_	_	_
+13	ich	_	Word	-	-	_	_	_	_	_	_	A
+14	bei	_	Word	-	-	_	_	_	R	_	_	_
+15	Sonnenaufgang	_	Word	-	+	_	_	_	_	_	_	T
+16	von	_	Word	-	-	_	_	_	_	_	R	_
+17	einer	_	Word	-	-	_	_	_	_	_	E	_
+18	leisen	_	Word	-	+	_	_	_	_	_	E	_
+19	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+20	lustigen	_	Word	-	-	_	_	_	_	C	_	_
+21	Stimme	_	Word	-	+	_	_	_	_	_	_	A
+22	geweckt	_	Word	-	+	_	_	H	_	_	_	_
+23	wurde	_	Word	-	-	_	_	_	_	_	_	F
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

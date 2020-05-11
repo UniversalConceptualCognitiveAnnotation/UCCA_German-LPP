@@ -1,0 +1,34 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	_	_	A*	_	_	_	_
+2	beugte	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	den	_	Word	-	-	_	_	F	_	_	_	_	_	_
+4	Kopf	_	Word	-	+	_	A	_	_	_	_	_	_	_
+5	über	_	Word	-	-	_	_	_	R	_	_	_	_	_
+6	die	_	Word	-	-	_	_	_	F	_	_	_	_	_
+7	Zeichnung	_	Word	-	+	_	A	_	_	_	_	_	_	_
+8	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+9	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+10	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+11	Na	_	Word	-	-	_	_	_	_	F	_	_	_	_
+12	so	_	Word	-	-	_	_	_	_	D	_	_	_	_
+13	klein	_	Word	-	+	_	H	_	_	_	_	_	_	_
+14	auch	_	Word	-	-	_	_	_	_	_	E	_	_	_
+15	nicht	_	Word	-	+	_	_	_	_	D	_	_	_	_
+16	...	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+17	Schau	_	Word	-	-	_	_	_	_	H	_	_	_	_
+18	!	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+19	Es	_	Word	-	-	_	_	_	_	_	_	A	_	_
+20	ist	_	Word	-	-	_	_	_	_	_	_	F	_	_
+21	eingeschlafen	_	Word	-	+	_	_	_	_	H	_	_	_	_
+22	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+23	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+24	Und	_	Word	-	-	_	L	_	_	_	_	_	_	_
+25	so	_	Word	-	-	_	_	_	_	_	_	_	_	D
+26	habe	_	Word	-	-	_	_	_	_	_	_	_	_	F
+27	ich	_	Word	-	-	_	_	_	_	_	_	_	_	A
+28	den	_	Word	-	-	_	_	_	_	_	_	_	F	_
+29	kleinen	_	Word	-	-	_	_	_	_	_	_	_	E	_
+30	Prinzen	_	Word	-	+	_	_	_	_	_	_	_	_	A
+31	kennengelernt	_	Word	-	+	_	H	_	_	_	_	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

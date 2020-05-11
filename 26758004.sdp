@@ -1,0 +1,36 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+2	wie	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
+3	gefährlich	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+4	Affenbrotbäume	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+5	sind	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+7	ist	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+8	so	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+9	wenig	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_
+10	bekannt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+11	und	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+12	die	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+13	Risiken	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+14	für	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+15	jemanden	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+17	der	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+18	sich	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+19	auf	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+20	einen	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+21	Asteroiden	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+22	verirrt	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+24	sind	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+25	so	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
+26	groß	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+28	dass	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+29	ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+30	einmal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T
+31	eine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+32	Ausnahme	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+33	mache	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,24 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_	_
+2	sagte	_	Word	-	+	_	_	_	_	_
+3	:	_	Punctuation	-	-	_	U	_	_	_
+4	-	_	Punctuation	-	-	_	U	_	_	_
+5	"	_	Punctuation	-	-	_	U	_	_	_
+6	Hier	_	Word	-	-	_	_	A	_	_
+7	...	_	Punctuation	-	-	_	_	U	_	_
+8	Das	_	Word	-	-	_	_	A	_	_
+9	ist	_	Word	-	-	_	_	F	_	_
+10	alles	_	Word	-	+	_	A	_	_	_
+11	...	_	Punctuation	-	-	_	U	_	_	_
+12	"	_	Punctuation	-	-	_	U	_	_	_
+13	Er	_	Word	-	-	_	_	_	A	_
+14	zögerte	_	Word	-	+	_	H	_	_	_
+15	noch	_	Word	-	-	_	_	_	D	_
+16	kurz	_	Word	-	-	_	_	_	D	_
+17	,	_	Punctuation	-	-	_	U	_	_	_
+18	dann	_	Word	-	-	_	L	_	_	_
+19	stand	_	Word	-	+	_	H	_	_	_
+20	er	_	Word	-	-	_	_	_	_	A
+21	auf	_	Word	-	-	_	_	_	_	Terminal
+22	.	_	Punctuation	-	-	_	_	_	_	U
+

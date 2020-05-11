@@ -1,0 +1,9 @@
+# format = ucca
+1	Die	_	Word	-	-	_	F	_	_
+2	Erde	_	Word	-	+	_	_	A	_
+3	ist	_	Word	-	+	_	_	_	_
+4	nicht	_	Word	-	-	_	_	D	_
+5	irgendein	_	Word	-	-	_	_	_	E
+6	Planet	_	Word	-	+	_	_	A	_
+7	!	_	Punctuation	-	-	_	_	_	U
+

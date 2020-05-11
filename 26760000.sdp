@@ -1,0 +1,28 @@
+# format = ucca
+1	Kapitel	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+2	VII	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+3	An	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+4	dem	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+5	fünften	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+6	Tag	_	Word	-	+	_	_	_	T	_	_	_	_	_	_
+7	kam	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+8	ich	_	Word	-	-	_	_	_	A	_	A*	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+10	wieder	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	einmal	_	Word	-	+	_	_	_	_	_	D	_	_	_	_
+12	dank	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+13	des	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+14	Schafes	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+16	hinter	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+17	ein	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+18	weiteres	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+19	Geheimnis	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+20	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+21	dem	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+22	Leben	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+23	des	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+24	kleinen	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+25	Prinzen	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,26 @@
+# format = ucca
+1	Was	_	Word	-	+	_	_	A	_	_	_	_
+2	ist	_	Word	-	+	_	_	_	_	A	_	_
+3	das	_	Word	-	-	_	_	A	_	_	_	_
+4	für	_	Word	-	-	_	Terminal	_	_	_	_	_
+5	ein	_	Word	-	-	_	_	_	F	_	_	_
+6	dickes	_	Word	-	-	_	_	_	E	_	_	_
+7	Buch	_	Word	-	+	_	_	A	_	_	_	_
+8	?	_	Punctuation	-	-	_	_	_	_	U	_	_
+9	"	_	Punctuation	-	-	_	_	_	_	U	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+11	sagte	_	Word	-	+	_	_	_	_	_	_	_
+12	der	_	Word	-	-	_	_	_	_	_	F	_
+13	kleine	_	Word	-	-	_	_	_	_	_	E	_
+14	Prinz	_	Word	-	+	_	_	_	_	A	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+16	"	_	Punctuation	-	-	_	_	_	_	U	_	_
+17	Was	_	Word	-	-	_	_	_	_	_	_	A
+18	treiben	_	Word	-	+	_	_	H	_	_	_	_
+19	Sie	_	Word	-	-	_	_	_	_	_	_	A
+20	hier	_	Word	-	-	_	_	_	_	_	_	A
+21	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+22	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+23	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

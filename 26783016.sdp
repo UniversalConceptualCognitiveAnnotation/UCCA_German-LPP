@@ -1,0 +1,21 @@
+# format = ucca
+1	Ah	_	Word	-	-	_	_	_	F
+2	!	_	Punctuation	-	-	_	_	U	_
+3	"	_	Punctuation	-	-	_	_	U	_
+4	(	_	Punctuation	-	-	_	_	U	_
+5	Der	_	Word	-	-	_	F	_	_
+6	kleine	_	Word	-	-	_	E	_	_
+7	Prinz	_	Word	-	+	_	_	A	_
+8	war	_	Word	-	-	_	_	F	_
+9	schon	_	Word	-	-	_	_	D	_
+10	enttäuscht	_	Word	-	+	_	_	_	_
+11	.	_	Punctuation	-	-	_	_	U	_
+12	)	_	Punctuation	-	-	_	_	U	_
+13	"	_	Punctuation	-	-	_	_	U	_
+14	Und	_	Word	-	-	_	_	_	L
+15	Berge	_	Word	-	+	_	_	A	_
+16	?	_	Punctuation	-	-	_	_	_	U
+17	"	_	Punctuation	-	-	_	_	_	U
+18	-	_	Punctuation	-	-	_	_	_	U
+19	"	_	Punctuation	-	-	_	_	_	U
+

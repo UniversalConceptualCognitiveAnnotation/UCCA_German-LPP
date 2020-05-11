@@ -1,0 +1,10 @@
+# format = ucca
+1	Damit	_	Word	-	-	_	L
+2	glauben	_	Word	-	-	_	G
+3	sie	_	Word	-	-	_	A
+4	,	_	Punctuation	-	-	_	U
+5	ihn	_	Word	-	-	_	A
+6	zu	_	Word	-	-	_	F
+7	kennen	_	Word	-	+	_	_
+8	.	_	Punctuation	-	-	_	U
+

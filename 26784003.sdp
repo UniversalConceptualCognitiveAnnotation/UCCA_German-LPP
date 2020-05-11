@@ -1,0 +1,14 @@
+# format = ucca
+1	Wie	_	Word	-	-	_	D	_	_
+2	das	_	Word	-	+	_	_	A	_
+3	?	_	Punctuation	-	-	_	_	U	_
+4	"	_	Punctuation	-	-	_	_	U	_
+5	,	_	Punctuation	-	-	_	_	U	_
+6	fragte	_	Word	-	+	_	_	_	_
+7	der	_	Word	-	-	_	_	_	F
+8	kleine	_	Word	-	-	_	_	_	E
+9	Prinz	_	Word	-	+	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	U
+11	-	_	Punctuation	-	-	_	_	_	U
+12	"	_	Punctuation	-	-	_	_	_	U
+

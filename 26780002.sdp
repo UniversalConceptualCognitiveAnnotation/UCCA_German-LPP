@@ -1,0 +1,16 @@
+# format = ucca
+1	Es	_	Word	-	-	_	F	_	_
+2	gab	_	Word	-	-	_	F	_	_
+3	gerade	_	Word	-	-	_	D	_	_
+4	genug	_	Word	-	+	_	_	_	_
+5	Platz	_	Word	-	-	_	A	_	_
+6	für	_	Word	-	-	_	_	R	_
+7	eine	_	Word	-	-	_	_	Q	_
+8	Straßen	_	Word	-	-	_	_	E	_
+9	laterne	_	Word	-	+	_	A	_	_
+10	und	_	Word	-	-	_	_	N	_
+11	einen	_	Word	-	-	_	_	_	Q
+12	Laternen	_	Word	-	-	_	_	_	A*
+13	anzünder	_	Word	-	+	_	_	C	_
+14	.	_	Punctuation	-	-	_	_	_	U
+

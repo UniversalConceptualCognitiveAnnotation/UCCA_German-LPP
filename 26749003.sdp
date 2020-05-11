@@ -1,0 +1,32 @@
+# format = ucca
+1	Wenn	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+2	ich	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+3	einen	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+4	traf	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+6	der	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+7	mir	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+8	ein	_	Word	-	+	_	_	_	_	D	_	_	_	_	_
+9	bisschen	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+10	heller	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
+11	vorkam	_	Word	-	-	_	_	_	_	G	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+13	dann	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+14	testete	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+15	ich	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+16	ihn	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+17	mit	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+18	meiner	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+19	Zeichnung	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+20	Nr	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+22	1	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+24	die	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+25	ich	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+26	immer	_	Word	-	-	_	_	_	_	_	_	_	_	_	T
+27	bei	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+28	mir	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+29	trug	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,21 @@
+# format = ucca
+1	Wieder	_	Word	-	-	_	D	_	_	_	_
+2	unterbrach	_	Word	-	+	_	_	_	_	_	_
+3	der	_	Word	-	-	_	_	F	_	_	_
+4	kleine	_	Word	-	-	_	_	E	_	_	_
+5	Prinz	_	Word	-	+	_	A	_	_	_	_
+6	meine	_	Word	-	-	_	_	_	A	_	_
+7	Überlegungen	_	Word	-	+	_	A	_	_	_	_
+8	:	_	Punctuation	-	-	_	U	_	_	_	_
+9	-	_	Punctuation	-	-	_	U	_	_	_	_
+10	"	_	Punctuation	-	-	_	U	_	_	_	_
+11	Und	_	Word	-	-	_	_	_	_	L	_
+12	du	_	Word	-	-	_	_	_	_	A	_
+13	glaubst	_	Word	-	+	_	A	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	U	_
+15	dass	_	Word	-	-	_	_	_	_	_	R
+16	diese	_	Word	-	-	_	_	_	_	_	E
+17	Blumen	_	Word	-	+	_	_	_	_	A	_
+18	...	_	Punctuation	-	-	_	_	_	_	_	U
+19	"	_	Punctuation	-	-	_	_	_	_	_	U
+

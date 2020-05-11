@@ -1,0 +1,11 @@
+# format = ucca
+1	Dabei	_	Word	-	-	_	L	_	_
+2	war	_	Word	-	+	_	_	_	_
+3	auf	_	Word	-	-	_	_	R	_
+4	meinem	_	Word	-	-	_	_	E	_
+5	Bild	_	Word	-	+	_	A	_	_
+6	gar	_	Word	-	-	_	_	_	E
+7	kein	_	Word	-	+	_	D	_	_
+8	Hut	_	Word	-	-	_	A	_	_
+9	.	_	Punctuation	-	-	_	U	_	_
+

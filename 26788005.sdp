@@ -1,0 +1,14 @@
+# format = ucca
+1	Man	_	Word	-	-	_	_	_	A
+2	könnte	_	Word	-	-	_	_	_	D
+3	die	_	Word	-	-	_	F	_	_
+4	gesamte	_	Word	-	-	_	E	_	_
+5	Menschheit	_	Word	-	+	_	_	_	A
+6	auf	_	Word	-	-	_	_	R	_
+7	der	_	Word	-	-	_	_	F	_
+8	kleinsten	_	Word	-	-	_	_	E	_
+9	pazifischen	_	Word	-	-	_	_	E	_
+10	Insel	_	Word	-	+	_	_	_	A
+11	unterkriegen	_	Word	-	+	_	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	U
+

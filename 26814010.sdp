@@ -1,0 +1,23 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_	_	_	_
+2	frage	_	Word	-	+	_	_	_	_	_	_	_
+3	ich	_	Word	-	-	_	A	_	_	_	_	_
+4	mich	_	Word	-	-	_	Terminal	_	_	_	_	_
+5	:	_	Punctuation	-	-	_	U	_	_	_	_	_
+6	Was	_	Word	-	-	_	_	_	A	_	_	_
+7	ist	_	Word	-	-	_	_	_	F	_	_	_
+8	auf	_	Word	-	-	_	_	R	_	_	_	_
+9	seinem	_	Word	-	-	_	_	E	_	_	_	_
+10	Planeten	_	Word	-	+	_	_	_	A	_	_	_
+11	geschehen	_	Word	-	+	_	A	_	_	_	_	_
+12	?	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	Vielleicht	_	Word	-	-	_	_	_	_	_	_	G
+14	hat	_	Word	-	-	_	_	_	_	_	_	F
+15	das	_	Word	-	-	_	_	_	_	F	_	_
+16	Schaf	_	Word	-	+	_	_	_	_	_	_	A
+17	doch	_	Word	-	-	_	_	_	_	_	_	D
+18	die	_	Word	-	-	_	_	_	_	_	F	_
+19	Blume	_	Word	-	+	_	_	_	_	_	_	A
+20	gefressen	_	Word	-	+	_	_	_	H	_	_	_
+21	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+

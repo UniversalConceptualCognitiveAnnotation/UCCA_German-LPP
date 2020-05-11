@@ -1,0 +1,35 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	nickte	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+3	nur	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+4	sanft	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+5	während	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+6	er	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+7	mein	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+8	Flugzeug	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+9	betrachtete	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+10	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+11	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+13	Auf	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+14	diesem	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+15	Ding	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+16	kannst	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+17	du	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+18	nicht	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+19	von	_	Word	-	+	_	_	_	_	_	_	R	_	_	_
+20	sehr	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+21	weit	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+22	her	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+23	kommen	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+24	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+25	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+26	Und	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+27	er	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*
+28	verfiel	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+30	eine	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+31	lange	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+32	Träumerei	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,10 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_
+2	war	_	Word	-	-	_	F	_
+3	glücklich	_	Word	-	+	_	_	_
+4	über	_	Word	-	-	_	_	R
+5	diese	_	Word	-	-	_	_	E
+6	Honig	_	Word	-	-	_	_	E
+7	farbe	_	Word	-	+	_	A	_
+8	.	_	Punctuation	-	-	_	_	U
+

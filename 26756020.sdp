@@ -1,0 +1,15 @@
+# format = ucca
+1	Das	_	Word	-	-	_	F	_	_	_	_
+2	eine	_	Word	-	-	_	F	_	_	_	_
+3	Bild	_	Word	-	+	_	_	_	C*	_	_
+4	gelingt	_	Word	-	+	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_
+6	das	_	Word	-	-	_	_	_	F	_	_
+7	andere	_	Word	-	+	_	_	_	_	_	A
+8	hat	_	Word	-	-	_	_	_	_	_	F
+9	schon	_	Word	-	-	_	_	_	_	_	D
+10	keine	_	Word	-	+	_	_	_	_	_	D
+11	Ähnlichkeit	_	Word	-	+	_	_	H	_	_	_
+12	mehr	_	Word	-	-	_	_	_	_	E	_
+13	.	_	Punctuation	-	-	_	_	_	_	U	_
+

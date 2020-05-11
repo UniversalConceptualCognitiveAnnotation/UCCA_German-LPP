@@ -1,0 +1,30 @@
+# format = ucca
+1	Dann	_	Word	-	-	_	L	_	_	_	_	_
+2	fügte	_	Word	-	+	_	_	_	_	_	_	_
+3	sie	_	Word	-	-	_	A	_	_	_	_	_
+4	hinzu	_	Word	-	-	_	Terminal	_	_	_	_	_
+5	:	_	Punctuation	-	-	_	U	_	_	_	_	_
+6	-	_	Punctuation	-	-	_	U	_	_	_	_	_
+7	"	_	Punctuation	-	-	_	U	_	_	_	_	_
+8	Trödel	_	Word	-	+	_	A	_	_	_	_	_
+9	nicht	_	Word	-	-	_	_	D	_	_	_	_
+10	so	_	Word	-	-	_	_	D	_	_	_	_
+11	rum	_	Word	-	-	_	_	Terminal	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+13	das	_	Word	-	-	_	_	_	A	_	_	_
+14	ist	_	Word	-	-	_	_	_	F	_	_	_
+15	ärgerlich	_	Word	-	+	_	_	H	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	U	_	_	_	_
+17	Du	_	Word	-	-	_	_	A*	_	A	A*	A*
+18	hast	_	Word	-	-	_	_	_	_	F	_	_
+19	entschieden	_	Word	-	+	_	_	H	_	_	_	_
+20	fortzugehen	_	Word	-	+	_	_	_	_	A	_	_
+21	.	_	Punctuation	-	-	_	_	U	_	_	_	_
+22	Mach	_	Word	-	+	_	_	H	_	_	_	_
+23	dich	_	Word	-	-	_	_	_	_	_	_	Terminal
+24	auf	_	Word	-	-	_	_	_	_	_	_	Terminal
+25	den	_	Word	-	-	_	_	_	_	_	_	Terminal
+26	Weg	_	Word	-	-	_	_	_	_	_	_	Terminal
+27	!	_	Punctuation	-	-	_	_	_	_	_	_	U
+28	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

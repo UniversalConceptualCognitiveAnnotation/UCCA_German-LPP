@@ -1,0 +1,32 @@
+# format = ucca
+1	Um	_	Word	-	-	_	L	_	_	_	_	_	_
+2	zu	_	Word	-	-	_	F	_	_	_	_	_	_
+3	vergessen	_	Word	-	+	_	_	A	_	_	_	_	_
+4	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+6	sagte	_	Word	-	+	_	_	_	_	_	_	_	_
+7	der	_	Word	-	-	_	_	_	F	_	_	_	_
+8	Säufer	_	Word	-	+	_	_	_	_	A*	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+10	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+11	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+12	Um	_	Word	-	-	_	_	_	_	L	_	_	_
+13	was	_	Word	-	-	_	_	_	_	A	_	_	_
+14	zu	_	Word	-	-	_	_	_	_	F	_	_	_
+15	vergessen	_	Word	-	+	_	_	_	_	_	A	_	_
+16	?	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+17	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+19	erkundigte	_	Word	-	+	_	_	H	_	_	_	_	_
+20	sich	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+21	der	_	Word	-	-	_	_	_	_	_	_	F	_
+22	kleine	_	Word	-	-	_	_	_	_	_	_	E	_
+23	Prinz	_	Word	-	+	_	_	_	_	_	_	_	A*
+24	und	_	Word	-	-	_	_	L	_	_	_	_	_
+25	bedauerte	_	Word	-	+	_	_	H	_	_	_	_	_
+26	ihn	_	Word	-	-	_	_	_	_	_	_	_	A
+27	schon	_	Word	-	-	_	_	_	_	_	_	_	D
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

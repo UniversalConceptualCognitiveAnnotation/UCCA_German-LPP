@@ -1,0 +1,17 @@
+# format = ucca
+1	Denn	_	Word	-	-	_	L	_	_	_
+2	er	_	Word	-	-	_	A	_	A*	A*
+3	war	_	Word	-	+	_	_	_	_	_
+4	nicht	_	Word	-	+	_	_	_	N	_
+5	nur	_	Word	-	-	_	_	Terminal	_	_
+6	ein	_	Word	-	-	_	_	_	F	_
+7	absoluter	_	Word	-	-	_	_	_	D	_
+8	Monarch	_	Word	-	+	_	A	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_
+10	sondern	_	Word	-	-	_	_	_	N	_
+11	ein	_	Word	-	-	_	_	_	_	F
+12	universeller	_	Word	-	+	_	_	_	C	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+14	-	_	Punctuation	-	-	_	_	_	_	U
+15	"	_	Punctuation	-	-	_	_	_	_	U
+

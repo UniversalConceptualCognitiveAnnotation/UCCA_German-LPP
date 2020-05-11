@@ -1,0 +1,19 @@
+# format = ucca
+1	Meine	_	Word	-	-	_	E	_	_	_	_
+2	Kameraden	_	Word	-	+	_	_	_	A	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_
+4	die	_	Word	-	-	_	_	R	_	_	_
+5	mich	_	Word	-	-	_	_	A	_	_	_
+6	zu	_	Word	-	+	_	E	_	_	_	_
+7	Gesicht	_	Word	-	-	_	_	Terminal	_	_	_
+8	bekamen	_	Word	-	-	_	_	Terminal	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_
+10	waren	_	Word	-	-	_	_	_	F	_	_
+11	sehr	_	Word	-	-	_	_	_	D	_	_
+12	glücklich	_	Word	-	+	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_
+14	mich	_	Word	-	+	_	_	_	_	_	A
+15	lebend	_	Word	-	-	_	_	_	_	E	_
+16	wiederzusehen	_	Word	-	+	_	_	_	A	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

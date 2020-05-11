@@ -1,0 +1,15 @@
+# format = ucca
+1	Mein	_	Word	-	-	_	E	_	_	_	_
+2	Haus	_	Word	-	+	_	_	A	_	_	_
+3	versteckte	_	Word	-	+	_	_	_	_	_	_
+4	an	_	Word	-	-	_	_	_	R	_	_
+5	dem	_	Word	-	-	_	_	_	F	_	_
+6	Grunde	_	Word	-	+	_	_	A	_	_	_
+7	seines	_	Word	-	-	_	_	_	_	R	_
+8	Herzens	_	Word	-	+	_	_	_	E	_	_
+9	ein	_	Word	-	-	_	_	_	_	_	F
+10	Geheimnis	_	Word	-	+	_	_	A	_	_	_
+11	.	_	Punctuation	-	-	_	_	_	_	_	U
+12	-	_	Punctuation	-	-	_	_	_	_	_	U
+13	"	_	Punctuation	-	-	_	_	_	_	_	U
+

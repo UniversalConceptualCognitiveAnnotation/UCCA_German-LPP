@@ -1,0 +1,23 @@
+# format = ucca
+1	Die	_	Word	-	-	_	F	_	_	_	_	_	_
+2	einzigen	_	Word	-	-	_	E	_	_	_	_	_	_
+3	Berge	_	Word	-	+	_	_	_	A	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+5	die	_	Word	-	-	_	_	R	_	_	_	_	_
+6	er	_	Word	-	-	_	_	A	_	_	_	_	_
+7	kannte	_	Word	-	+	_	E	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+9	waren	_	Word	-	+	_	_	_	_	_	_	_	_
+10	die	_	Word	-	-	_	_	_	_	F	_	_	_
+11	drei	_	Word	-	-	_	_	_	_	Q	_	_	_
+12	Vulkane	_	Word	-	+	_	_	_	A	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+14	die	_	Word	-	-	_	_	_	_	_	_	_	R
+15	ihm	_	Word	-	-	_	_	_	_	_	_	_	A
+16	bis	_	Word	-	+	_	_	_	_	_	_	R	_
+17	zu	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+18	den	_	Word	-	-	_	_	_	_	_	_	F	_
+19	Knien	_	Word	-	+	_	_	_	_	_	_	_	A
+20	reichten	_	Word	-	+	_	_	_	_	E	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

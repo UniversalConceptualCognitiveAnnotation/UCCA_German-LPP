@@ -1,0 +1,12 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_
+2	er	_	Word	-	-	_	A	_
+3	sagte	_	Word	-	+	_	_	_
+4	sich	_	Word	-	-	_	A	_
+5	:	_	Punctuation	-	-	_	U	_
+6	Man	_	Word	-	-	_	_	A
+7	weiß	_	Word	-	+	_	H	_
+8	ja	_	Word	-	-	_	_	D
+9	nie	_	Word	-	-	_	_	T
+10	!	_	Punctuation	-	-	_	_	U
+

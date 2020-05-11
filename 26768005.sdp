@@ -1,0 +1,28 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L	_	_	_	_
+2	der	_	Word	-	-	_	F	_	_	_	_	_
+3	kleine	_	Word	-	-	_	E	_	_	_	_	_
+4	Prinz	_	Word	-	+	_	_	A	_	_	_	_
+5	fragte	_	Word	-	+	_	_	_	_	_	_	_
+6	:	_	Punctuation	-	-	_	_	U	_	_	_	_
+7	-	_	Punctuation	-	-	_	_	U	_	_	_	_
+8	"	_	Punctuation	-	-	_	_	U	_	_	_	_
+9	Wie	_	Word	-	-	_	_	_	D	_	_	_
+10	kommt	_	Word	-	+	_	_	A	_	_	_	_
+11	es	_	Word	-	-	_	_	_	F	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	dass	_	Word	-	-	_	_	_	_	R	_	_
+14	Sie	_	Word	-	-	_	_	_	_	A	_	_
+15	mich	_	Word	-	-	_	_	_	_	A	_	_
+16	kennen	_	Word	-	+	_	_	_	A	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	U	_	_	_
+18	Sie	_	Word	-	-	_	_	_	_	_	_	A
+19	haben	_	Word	-	-	_	_	_	_	_	_	F
+20	mich	_	Word	-	-	_	_	_	_	_	_	A
+21	noch	_	Word	-	-	_	_	_	_	_	E	_
+22	nie	_	Word	-	+	_	_	_	_	_	_	D
+23	zuvor	_	Word	-	-	_	_	_	_	_	_	T
+24	gesehen	_	Word	-	+	_	_	_	H	_	_	_
+25	!	_	Punctuation	-	-	_	_	_	_	_	_	U
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

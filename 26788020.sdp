@@ -1,0 +1,16 @@
+# format = ucca
+1	Ah	_	Word	-	-	_	F	_
+2	!	_	Punctuation	-	-	_	U	_
+3	...	_	Punctuation	-	-	_	U	_
+4	Gibt	_	Word	-	+	_	_	_
+5	es	_	Word	-	-	_	F	_
+6	denn	_	Word	-	-	_	F	_
+7	niemanden	_	Word	-	-	_	A	_
+8	auf	_	Word	-	-	_	_	R
+9	der	_	Word	-	-	_	_	F
+10	Erde	_	Word	-	+	_	A	_
+11	?	_	Punctuation	-	-	_	_	U
+12	"	_	Punctuation	-	-	_	_	U
+13	-	_	Punctuation	-	-	_	_	U
+14	"	_	Punctuation	-	-	_	_	U
+

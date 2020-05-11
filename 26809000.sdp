@@ -1,0 +1,33 @@
+# format = ucca
+1	Gerade	_	Word	-	-	_	E	_	_	_	_	_	_	_
+2	rechtzeitig	_	Word	-	+	_	_	T	_	_	_	_	_	_
+3	schaffte	_	Word	-	+	_	_	_	_	_	_	_	_	_
+4	ich	_	Word	-	-	_	_	A	_	_	_	_	_	A*
+5	es	_	Word	-	-	_	_	F	_	_	_	_	_	_
+6	zu	_	Word	-	-	_	_	_	R	_	_	_	_	_
+7	der	_	Word	-	-	_	_	_	F	_	_	_	_	_
+8	Mauer	_	Word	-	+	_	_	A	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+10	um	_	Word	-	-	_	_	L	_	_	_	_	_	_
+11	meinen	_	Word	-	-	_	_	_	_	E	_	_	_	_
+12	kleinen	_	Word	-	-	_	_	_	_	E	_	_	_	_
+13	Kerl	_	Word	-	+	_	_	_	_	_	_	_	_	A
+14	von	_	Word	-	-	_	_	_	_	_	R	_	_	_
+15	einem	_	Word	-	-	_	_	_	_	_	F	_	_	_
+16	Prinzen	_	Word	-	+	_	_	_	_	E	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+18	der	_	Word	-	-	_	_	_	_	_	_	R	_	_
+19	bleich	_	Word	-	+	_	_	_	_	E	_	_	_	_
+20	wie	_	Word	-	-	_	_	_	_	_	_	_	R	_
+21	Schnee	_	Word	-	+	_	_	_	_	_	_	A	_	_
+22	war	_	Word	-	-	_	_	_	_	_	_	F	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+24	in	_	Word	-	+	_	_	H	_	_	_	_	_	_
+25	die	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+26	Arme	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+27	zu	_	Word	-	-	_	_	_	_	_	_	_	_	F
+28	nehmen	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+30	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

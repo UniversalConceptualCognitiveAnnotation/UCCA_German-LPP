@@ -1,0 +1,21 @@
+# format = ucca
+1	Und	_	Word	-	-	_	L	_	_
+2	er	_	Word	-	-	_	A	_	_
+3	wandte	_	Word	-	+	_	_	_	_
+4	sich	_	Word	-	-	_	Terminal	_	_
+5	erneut	_	Word	-	-	_	D	_	_
+6	an	_	Word	-	-	_	_	R	_
+7	den	_	Word	-	-	_	_	F	_
+8	Fuchs	_	Word	-	+	_	A	_	_
+9	:	_	Punctuation	-	-	_	U	_	_
+10	Adieu	_	Word	-	-	_	_	_	A
+11	-	_	Punctuation	-	-	_	_	_	U
+12	"	_	Punctuation	-	-	_	_	_	U
+13	"	_	Punctuation	-	-	_	_	_	U
+14	,	_	Punctuation	-	-	_	_	_	U
+15	sagte	_	Word	-	+	_	H	_	_
+16	er	_	Word	-	-	_	_	_	A
+17	.	_	Punctuation	-	-	_	_	_	U
+18	-	_	Punctuation	-	-	_	_	_	U
+19	"	_	Punctuation	-	-	_	_	_	U
+

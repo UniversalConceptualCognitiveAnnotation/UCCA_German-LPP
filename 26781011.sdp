@@ -1,0 +1,19 @@
+# format = ucca
+1	Er	_	Word	-	-	_	A	_	_	_	_
+2	erinnerte	_	Word	-	+	_	_	_	_	_	_
+3	sich	_	Word	-	-	_	Terminal	_	_	_	_
+4	an	_	Word	-	-	_	_	R	_	_	_
+5	die	_	Word	-	-	_	_	F	_	_	_
+6	Sonnenuntergänge	_	Word	-	+	_	A	_	_	_	_
+7	und	_	Word	-	-	_	L	_	_	_	_
+8	wie	_	Word	-	-	_	_	_	_	_	D
+9	er	_	Word	-	-	_	_	_	_	_	A
+10	auf	_	Word	-	-	_	_	_	R	_	_
+11	deren	_	Word	-	-	_	_	_	E	_	_
+12	Suche	_	Word	-	+	_	_	_	_	_	A
+13	früher	_	Word	-	-	_	_	_	_	_	T
+14	seinen	_	Word	-	-	_	_	_	_	E	_
+15	Stuhl	_	Word	-	+	_	_	_	_	_	A
+16	rückte	_	Word	-	+	_	H	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

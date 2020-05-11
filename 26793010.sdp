@@ -1,0 +1,9 @@
+# format = ucca
+1	Und	_	Word	-	-	_	_	L
+2	er	_	Word	-	-	_	_	A
+3	fühlte	_	Word	-	+	_	_	D
+4	sich	_	Word	-	-	_	Terminal	_
+5	sehr	_	Word	-	-	_	_	D
+6	unglücklich	_	Word	-	+	_	_	_
+7	.	_	Punctuation	-	-	_	_	U
+

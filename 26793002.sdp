@@ -1,0 +1,9 @@
+# format = ucca
+1	Guten	_	Word	-	+	_	_	A
+2	Tag	_	Word	-	-	_	A	_
+3	"	_	Punctuation	-	-	_	_	U
+4	,	_	Punctuation	-	-	_	_	U
+5	sagte	_	Word	-	+	_	_	_
+6	er	_	Word	-	-	_	_	A
+7	.	_	Punctuation	-	-	_	_	U
+

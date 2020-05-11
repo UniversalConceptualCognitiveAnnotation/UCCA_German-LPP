@@ -1,0 +1,22 @@
+# format = ucca
+1	Dabei	_	Word	-	-	_	_	_	L
+2	schien	_	Word	-	+	_	_	_	G
+3	mir	_	Word	-	-	_	Terminal	_	_
+4	das	_	Word	-	-	_	_	F	_
+5	kleine	_	Word	-	-	_	_	E	_
+6	Kerlchen	_	Word	-	+	_	_	_	A
+7	weder	_	Word	-	-	_	_	_	N
+8	verirrt	_	Word	-	+	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U
+10	noch	_	Word	-	-	_	_	_	N
+11	todmüde	_	Word	-	-	_	_	_	C
+12	,	_	Punctuation	-	-	_	_	_	U
+13	weder	_	Word	-	-	_	_	_	N
+14	hungrig	_	Word	-	-	_	_	_	C
+15	oder	_	Word	-	-	_	_	_	N
+16	durstig	_	Word	-	-	_	_	_	C
+17	,	_	Punctuation	-	-	_	_	_	U
+18	noch	_	Word	-	-	_	_	_	N
+19	todängstlich	_	Word	-	-	_	_	_	C
+20	.	_	Punctuation	-	-	_	_	_	U
+

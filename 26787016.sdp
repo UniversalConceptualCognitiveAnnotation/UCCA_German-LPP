@@ -1,0 +1,36 @@
+# format = ucca
+1	Nur	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_
+2	der	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+3	Anzünder	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+4	der	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+5	einzigen	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+6	Laterne	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+7	an	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+8	dem	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+9	Nordpol	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+10	und	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_
+11	sein	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
+12	Kollege	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_
+13	mit	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+14	der	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+15	einzigen	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+16	Laterne	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+17	an	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+18	dem	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+19	Südpol	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+20	führten	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+21	ein	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+22	untätiges	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+23	und	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_
+24	gemächliches	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_
+25	Leben	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+26	:	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
+27	sie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
+28	arbeiteten	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_
+29	nur	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+30	zweimal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+32	dem	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+33	Jahr	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

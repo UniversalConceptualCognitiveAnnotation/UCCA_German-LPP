@@ -1,0 +1,17 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_	_
+2	hatte	_	Word	-	+	_	_	_	_	_
+3	ich	_	Word	-	-	_	A	_	_	_
+4	in	_	Word	-	-	_	_	R	_	_
+5	dem	_	Word	-	-	_	_	F	_	_
+6	Laufe	_	Word	-	+	_	A	_	_	_
+7	meines	_	Word	-	-	_	_	_	R	_
+8	Lebens	_	Word	-	+	_	_	A	_	_
+9	mit	_	Word	-	-	_	_	_	_	R
+10	vielen	_	Word	-	-	_	_	_	_	Q
+11	ernsthaften	_	Word	-	-	_	_	_	_	E
+12	Leuten	_	Word	-	+	_	A	_	_	_
+13	zu	_	Word	-	-	_	Terminal	_	_	_
+14	tun	_	Word	-	-	_	Terminal	_	_	_
+15	.	_	Punctuation	-	-	_	U	_	_	_
+

@@ -1,0 +1,10 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	L	_
+2	strengte	_	Word	-	+	_	_	_
+3	sich	_	Word	-	-	_	Terminal	_
+4	doch	_	Word	-	-	_	D	_
+5	noch	_	Word	-	-	_	_	E
+6	einmal	_	Word	-	+	_	D	_
+7	an	_	Word	-	-	_	Terminal	_
+8	:	_	Punctuation	-	-	_	U	_
+

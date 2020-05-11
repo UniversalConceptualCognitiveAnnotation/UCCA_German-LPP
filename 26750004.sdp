@@ -1,0 +1,11 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	A	_	_
+2	hatte	_	Word	-	+	_	_	_	_
+3	Trink	_	Word	-	-	_	_	E	_
+4	wasser	_	Word	-	+	_	A	_	_
+5	für	_	Word	-	-	_	_	_	R
+6	knapp	_	Word	-	-	_	_	_	E
+7	acht	_	Word	-	-	_	_	_	Q
+8	Tage	_	Word	-	+	_	T	_	_
+9	.	_	Punctuation	-	-	_	_	_	U
+

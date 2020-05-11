@@ -1,0 +1,17 @@
+# format = ucca
+1	So	_	Word	-	-	_	_	D	_	_	_
+2	wirst	_	Word	-	-	_	_	F	_	_	_
+3	du	_	Word	-	-	_	_	A	_	_	_
+4	alle	_	Word	-	-	_	Q	_	_	_	_
+5	Sterne	_	Word	-	+	_	_	A	_	_	_
+6	gerne	_	Word	-	-	_	_	D	_	_	_
+7	anschauen	_	Word	-	+	_	_	_	_	_	_
+8	...	_	Punctuation	-	-	_	_	U	_	_	_
+9	sie	_	Word	-	+	_	_	_	_	_	A
+10	alle	_	Word	-	-	_	_	_	Q	_	_
+11	werden	_	Word	-	-	_	_	_	_	_	F
+12	deine	_	Word	-	-	_	_	_	_	E	_
+13	Freunde	_	Word	-	+	_	_	_	_	_	A
+14	sein	_	Word	-	+	_	_	H	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+

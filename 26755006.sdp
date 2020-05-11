@@ -1,0 +1,23 @@
+# format = ucca
+1	Nur	_	Word	-	-	_	_	_	_	_	_	D
+2	ein	_	Word	-	-	_	F	_	_	_	_	_
+3	einziges	_	Word	-	-	_	E	_	_	_	_	_
+4	Mal	_	Word	-	+	_	_	_	_	_	_	D
+5	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+6	in	_	Word	-	-	_	_	R	_	_	_	_
+7	dem	_	Word	-	-	_	_	F	_	_	_	_
+8	Jahre	_	Word	-	+	_	_	_	_	_	_	T
+9	1909	_	Word	-	-	_	_	C	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+11	hat	_	Word	-	-	_	_	_	_	_	_	F
+12	ein	_	Word	-	-	_	_	_	F	_	_	_
+13	türkischer	_	Word	-	-	_	_	_	E	_	_	_
+14	Astronom	_	Word	-	+	_	_	_	_	_	_	A
+15	diesen	_	Word	-	-	_	_	_	_	E	_	_
+16	Asteroiden	_	Word	-	+	_	_	_	_	_	_	A
+17	durch	_	Word	-	-	_	_	_	_	_	R	_
+18	sein	_	Word	-	-	_	_	_	_	_	E	_
+19	Fernrohr	_	Word	-	+	_	_	_	_	_	_	A
+20	gesehen	_	Word	-	+	_	_	_	_	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

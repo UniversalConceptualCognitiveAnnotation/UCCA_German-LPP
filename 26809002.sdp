@@ -1,0 +1,10 @@
+# format = ucca
+1	Ich	_	Word	-	-	_	_	A
+2	hatte	_	Word	-	-	_	_	F
+3	ihm	_	Word	-	-	_	_	A
+4	seinen	_	Word	-	-	_	E	_
+5	goldenen	_	Word	-	-	_	E	_
+6	Schal	_	Word	-	+	_	_	A
+7	abgebunden	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

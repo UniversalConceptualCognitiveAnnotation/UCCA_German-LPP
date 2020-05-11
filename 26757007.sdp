@@ -1,0 +1,18 @@
+# format = ucca
+1	Aber	_	Word	-	-	_	_	L	_
+2	der	_	Word	-	-	_	F	_	_
+3	kleine	_	Word	-	-	_	E	_	_
+4	Prinz	_	Word	-	+	_	_	A	_
+5	fügte	_	Word	-	+	_	_	_	_
+6	hinzu	_	Word	-	-	_	_	Terminal	_
+7	:	_	Punctuation	-	-	_	_	U	_
+8	-	_	Punctuation	-	-	_	_	U	_
+9	"	_	Punctuation	-	-	_	_	U	_
+10	Also	_	Word	-	-	_	_	_	L
+11	fressen	_	Word	-	+	_	_	A	_
+12	sie	_	Word	-	-	_	_	_	A
+13	auch	_	Word	-	-	_	_	_	D
+14	Affenbrotbäume	_	Word	-	-	_	_	_	A
+15	?	_	Punctuation	-	-	_	_	_	U
+16	"	_	Punctuation	-	-	_	_	_	U
+

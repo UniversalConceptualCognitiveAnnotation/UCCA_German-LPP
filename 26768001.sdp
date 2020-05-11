@@ -1,0 +1,21 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_	_
+2	begann	_	Word	-	+	_	_	_	_	_
+3	er	_	Word	-	-	_	A	A*	A*	A*
+4	,	_	Punctuation	-	-	_	U	_	_	_
+5	ihnen	_	Word	-	-	_	_	A	_	_
+6	einen	_	Word	-	+	_	A	_	_	_
+7	Besuch	_	Word	-	-	_	_	Terminal	_	_
+8	abzustatten	_	Word	-	-	_	_	Terminal	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_
+10	um	_	Word	-	-	_	L	_	_	_
+11	sich	_	Word	-	+	_	H	_	_	_
+12	zu	_	Word	-	-	_	_	_	F	_
+13	beschäftigen	_	Word	-	-	_	_	_	Terminal	_
+14	und	_	Word	-	-	_	L	_	_	_
+15	sich	_	Word	-	+	_	H	_	_	_
+16	schlau	_	Word	-	-	_	_	_	_	Terminal
+17	zu	_	Word	-	-	_	_	_	_	F
+18	machen	_	Word	-	-	_	_	_	_	Terminal
+19	.	_	Punctuation	-	-	_	_	_	_	U
+
