@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26766011
+# text = Darum bereiten sie uns so viele Sorgen .
+1	Darum	_	Word	Word	_	7	L	7:L	_
+2	bereiten	_	Word	Word	_	7	F	7:F	_
+3	sie	_	Word	Word	_	7	A	7:A	_
+4	uns	_	Word	Word	_	7	A	7:A	_
+5	so	_	Word	Word	_	6	E	6:E	_
+6	viele	_	Word	Word	_	7	D	7:D	_
+7	Sorgen	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

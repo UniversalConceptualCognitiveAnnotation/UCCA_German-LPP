@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26811007
+# text = Es wird sein , als hätte ich dir statt der Sterne einen Haufen Glöckchen geschenkt , die lachen können ... "
+1	Es	_	Word	Word	_	3	A	3:A	_
+2	wird	_	Word	Word	_	3	F	3:F	_
+3	sein	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	als	_	Word	Word	_	15	L	15:L	_
+6	hätte	_	Word	Word	_	15	F	15:F	_
+7	ich	_	Word	Word	_	15	A	15:A	_
+8	dir	_	Word	Word	_	15	A	15:A	_
+9	statt	_	Word	Word	_	11	R	11:R	_
+10	der	_	Word	Word	_	11	F	11:F	_
+11	Sterne	_	Word	Word	_	15	A	15:A	_
+12	einen	_	Word	Word	_	14	F	14:F	_
+13	Haufen	_	Word	Word	_	14	Q	14:Q	_
+14	Glöckchen	_	Word	Word	_	15	A	15:A	_
+15	geschenkt	_	Word	Word	_	3	H	3:H	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	die	_	Word	Word	_	18	R	18:R	_
+18	lachen	_	Word	Word	_	14	E	14:E	_
+19	können	_	Word	Word	_	18	D	18:D	_
+20	...	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

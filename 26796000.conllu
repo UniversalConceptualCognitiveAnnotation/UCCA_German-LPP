@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26796000
+# text = - " Bitte ... zähme mich ! " , sagte er . - "
+1	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+2	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	Bitte	_	Word	Word	_	10	A	10:A	_
+4	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	zähme	_	Word	Word	_	3	H	3:H	_
+6	mich	_	Word	Word	_	5	A	5:A	_
+7	!	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	sagte	_	Word	Word	_	0	H	0:H	_
+11	er	_	Word	Word	_	10	A	10:A	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

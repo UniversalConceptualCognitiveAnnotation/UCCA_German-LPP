@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26760009
+# text = Wozu sind die Dornen gut ? "
+1	Wozu	_	Word	Word	_	0	H	0:H	_
+2	sind	_	Word	Word	_	5	F	5:F	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Dornen	_	Word	Word	_	5	A	5:A	_
+5	gut	_	Word	Word	_	1	H	1:H	_
+6	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

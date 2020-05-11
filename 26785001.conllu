@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26785001
+# text = Eine Blume habe ich auch ! " - "
+1	Eine	_	Word	Word	_	2	Q	2:Q	_
+2	Blume	_	Word	Word	_	3	A	3:A	_
+3	habe	_	Word	Word	_	0	H	0:H	_
+4	ich	_	Word	Word	_	3	A	3:A	_
+5	auch	_	Word	Word	_	3	D	3:D	_
+6	!	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+

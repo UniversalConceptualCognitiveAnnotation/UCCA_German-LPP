@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 26802000
+# text = Kapitel XXIV Nun war meine Panne in der Wüste schon acht Tage her und ich hatte mir gerade die Geschichte von dem Pillen händler angehört , als ich den letzten Tropfen meines Wasser vorrates trank . - "
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	XXIV	_	Word	Word	_	0	H	0:H	_
+3	Nun	_	Word	Word	_	13	D	13:D	_
+4	war	_	Word	Word	_	13	F	13:F	_
+5	meine	_	Word	Word	_	6	A	6:A	_
+6	Panne	_	Word	Word	_	13	A	13:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	der	_	Word	Word	_	9	F	9:F	_
+9	Wüste	_	Word	Word	_	6	A	6:A	_
+10	schon	_	Word	Word	_	13	D	13:D	_
+11	acht	_	Word	Word	_	12	Q	12:Q	_
+12	Tage	_	Word	Word	_	13	T	13:T	_
+13	her	_	Word	Word	_	2	H	2:H	_
+14	und	_	Word	Word	_	17	L	17:L	_
+15	ich	_	Word	Word	_	17	A	17:A	_
+16	hatte	_	Word	Word	_	17	F	17:F	_
+17	mir	_	Word	Word	_	2	H	2:H	_
+18	gerade	_	Word	Word	_	17	D	17:D	_
+19	die	_	Word	Word	_	20	F	20:F	_
+20	Geschichte	_	Word	Word	_	17	A	17:A	_
+21	von	_	Word	Word	_	24	R	24:R	_
+22	dem	_	Word	Word	_	24	F	24:F	_
+23	Pillen	_	Word	Word	_	24	E	24:E	_
+24	händler	_	Word	Word	_	20	E	20:E	_
+25	angehört	_	Word	Word	_	17	Terminal	17:Terminal	_
+26	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	als	_	Word	Word	_	35	L	35:L	_
+28	ich	_	Word	Word	_	35	A	35:A	_
+29	den	_	Word	Word	_	31	F	31:F	_
+30	letzten	_	Word	Word	_	31	E	31:E	_
+31	Tropfen	_	Word	Word	_	35	A	35:A	_
+32	meines	_	Word	Word	_	34	R	34:R	_
+33	Wasser	_	Word	Word	_	34	E	34:E	_
+34	vorrates	_	Word	Word	_	31	E	31:E	_
+35	trank	_	Word	Word	_	2	H	2:H	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+38	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

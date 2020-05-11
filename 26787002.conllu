@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 26787002
+# text = Man zählt dort hundertelf Könige ( natürlich nicht , ohne die Farbigen mitzuzählen ) , siebentausend Geographen , neunhunderttausend Geschäftsmänner , siebeneinhalb Millionen Säufer , dreihundertelf Millionen Eitle , das heißt ungefähr zwei Milliarden Erwachsene .
+1	Man	_	Word	Word	_	2	A	2:A|7:A|13:A	_
+2	zählt	_	Word	Word	_	0	H	0:H	_
+3	dort	_	Word	Word	_	2	A	2:A	_
+4	hundertelf	_	Word	Word	_	5	Q	5:Q	_
+5	Könige	_	Word	Word	_	2	A	2:A	_
+6	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	natürlich	_	Word	Word	_	5	E	5:E	_
+8	nicht	_	Word	Word	_	7	D	7:D	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	ohne	_	Word	Word	_	13	L	13:L	_
+11	die	_	Word	Word	_	12	F	12:F	_
+12	Farbigen	_	Word	Word	_	13	A	13:A	_
+13	mitzuzählen	_	Word	Word	_	7	H	7:H	_
+14	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+16	siebentausend	_	Word	Word	_	17	Q	17:Q	_
+17	Geographen	_	Word	Word	_	5	C	5:C	_
+18	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+19	neunhunderttausend	_	Word	Word	_	20	Q	20:Q	_
+20	Geschäftsmänner	_	Word	Word	_	5	C	5:C	_
+21	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	siebeneinhalb	_	Word	Word	_	24	Q	24:Q	_
+23	Millionen	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	Säufer	_	Word	Word	_	5	C	5:C	_
+25	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	dreihundertelf	_	Word	Word	_	28	Q	28:Q	_
+27	Millionen	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Eitle	_	Word	Word	_	5	C	5:C	_
+29	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	das	_	Word	Word	_	31	A	31:A	_
+31	heißt	_	Word	Word	_	2	H	2:H	_
+32	ungefähr	_	Word	Word	_	31	D	31:D	_
+33	zwei	_	Word	Word	_	35	Q	35:Q	_
+34	Milliarden	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	Erwachsene	_	Word	Word	_	31	A	31:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

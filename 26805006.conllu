@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 26805006
+# text = Hörst du " , sagte der kleine Prinz , " wir wecken diesen Brunnen und er singt ... " Ich wollte nicht , dass er sich zu sehr anstrengt : - " Lass mich das machen " , sagte ich , " das ist zu schwer für dich . "
+1	Hörst	_	Word	Word	_	5	A	5:A	_
+2	du	_	Word	Word	_	1	A	1:A	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	sagte	_	Word	Word	_	0	H	0:H	_
+6	der	_	Word	Word	_	8	F	8:F	_
+7	kleine	_	Word	Word	_	8	E	8:E	_
+8	Prinz	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	wir	_	Word	Word	_	12	A	12:A	_
+12	wecken	_	Word	Word	_	1	H	1:H	_
+13	diesen	_	Word	Word	_	14	E	14:E	_
+14	Brunnen	_	Word	Word	_	12	A	12:A	_
+15	und	_	Word	Word	_	17	L	17:L	_
+16	er	_	Word	Word	_	17	A	17:A	_
+17	singt	_	Word	Word	_	1	H	1:H	_
+18	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+19	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+20	Ich	_	Word	Word	_	21	A	21:A	_
+21	wollte	_	Word	Word	_	5	H	5:H	_
+22	nicht	_	Word	Word	_	21	D	21:D	_
+23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	dass	_	Word	Word	_	26	R	26:R	_
+25	er	_	Word	Word	_	26	A	26:A	_
+26	sich	_	Word	Word	_	21	A	21:A	_
+27	zu	_	Word	Word	_	28	E	28:E	_
+28	sehr	_	Word	Word	_	26	D	26:D	_
+29	anstrengt	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+31	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+32	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+33	Lass	_	Word	Word	_	36	D	36:D	_
+34	mich	_	Word	Word	_	36	A	36:A	_
+35	das	_	Word	Word	_	36	A	36:A	_
+36	machen	_	Word	Word	_	39	A	39:A	_
+37	"	_	Punctuation	Punctuation	_	39	U	39:U	_
+38	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+39	sagte	_	Word	Word	_	5	H	5:H	_
+40	ich	_	Word	Word	_	39	A	39:A	_
+41	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+42	"	_	Punctuation	Punctuation	_	39	U	39:U	_
+43	das	_	Word	Word	_	46	A	46:A	_
+44	ist	_	Word	Word	_	46	F	46:F	_
+45	zu	_	Word	Word	_	46	E	46:E	_
+46	schwer	_	Word	Word	_	36	H	36:H	_
+47	für	_	Word	Word	_	48	R	48:R	_
+48	dich	_	Word	Word	_	46	A	46:A	_
+49	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+50	"	_	Punctuation	Punctuation	_	48	U	48:U	_
+

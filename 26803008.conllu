@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26803008
+# text = Ich habe die Wüste immer geliebt .
+1	Ich	_	Word	Word	_	6	A	6:A	_
+2	habe	_	Word	Word	_	6	F	6:F	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Wüste	_	Word	Word	_	6	A	6:A	_
+5	immer	_	Word	Word	_	6	T	6:T	_
+6	geliebt	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

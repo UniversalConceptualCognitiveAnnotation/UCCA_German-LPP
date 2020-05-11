@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26766018
+# text = Adieu " , wiederholte er .
+1	Adieu	_	Word	Word	_	4	A	4:A	_
+2	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	wiederholte	_	Word	Word	_	0	H	0:H	_
+5	er	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

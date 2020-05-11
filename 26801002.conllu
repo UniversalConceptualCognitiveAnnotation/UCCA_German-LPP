@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26801002
+# text = Er handelte mit durststillenden Spezial pillen . Man schluckt eine pro Woche und schon hat man nicht mehr das Bedürfnis zu trinken . - "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	handelte	_	Word	Word	_	0	H	0:H	_
+3	mit	_	Word	Word	_	6	R	6:R	_
+4	durststillenden	_	Word	Word	_	6	E	6:E	_
+5	Spezial	_	Word	Word	_	6	E	6:E	_
+6	pillen	_	Word	Word	_	0	C	0:C|4:A|10:C	_
+7	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	Man	_	Word	Word	_	9	A	9:A	_
+9	schluckt	_	Word	Word	_	2	H	2:H	_
+10	eine	_	Word	Word	_	9	A	9:A	_
+11	pro	_	Word	Word	_	12	R	12:R	_
+12	Woche	_	Word	Word	_	9	T	9:T	_
+13	und	_	Word	Word	_	22	L	22:L	_
+14	schon	_	Word	Word	_	22	D	22:D	_
+15	hat	_	Word	Word	_	22	F	22:F	_
+16	man	_	Word	Word	_	22	A	22:A	_
+17	nicht	_	Word	Word	_	22	D	22:D	_
+18	mehr	_	Word	Word	_	17	E	17:E	_
+19	das	_	Word	Word	_	20	F	20:F	_
+20	Bedürfnis	_	Word	Word	_	22	D	22:D	_
+21	zu	_	Word	Word	_	22	F	22:F	_
+22	trinken	_	Word	Word	_	2	H	2:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+

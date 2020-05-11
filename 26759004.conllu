@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26759004
+# text = Und du hast zu mir gesagt : - " Ich glaube immer noch , ich sei bei mir ! "
+1	Und	_	Word	Word	_	6	L	6:L	_
+2	du	_	Word	Word	_	6	A	6:A	_
+3	hast	_	Word	Word	_	6	F	6:F	_
+4	zu	_	Word	Word	_	5	R	5:R	_
+5	mir	_	Word	Word	_	6	A	6:A	_
+6	gesagt	_	Word	Word	_	0	H	0:H	_
+7	:	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Ich	_	Word	Word	_	11	A	11:A	_
+11	glaube	_	Word	Word	_	6	A	6:A	_
+12	immer	_	Word	Word	_	11	D	11:D	_
+13	noch	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	ich	_	Word	Word	_	16	A	16:A	_
+16	sei	_	Word	Word	_	11	A	11:A	_
+17	bei	_	Word	Word	_	18	R	18:R	_
+18	mir	_	Word	Word	_	16	A	16:A	_
+19	!	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

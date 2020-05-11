@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 26784015
+# text = Oh ! Bei mir " , sagte der kleine Prinz , " ist es nicht sonderlich interessant , es ist winzig . Ich habe drei Vulkane . Zwei sind aktiv und einer ist erloschen . Aber man weiß ja nie . "
+1	Oh	_	Word	Word	_	17	F	17:F	_
+2	!	_	Punctuation	Punctuation	_	17	U	17:U	_
+3	Bei	_	Word	Word	_	4	R	4:R	_
+4	mir	_	Word	Word	_	17	A	17:A	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	sagte	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	7	A	7:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	ist	_	Word	Word	_	17	F	17:F	_
+14	es	_	Word	Word	_	17	F	17:F	_
+15	nicht	_	Word	Word	_	17	D	17:D	_
+16	sonderlich	_	Word	Word	_	17	D	17:D	_
+17	interessant	_	Word	Word	_	7	A	7:A	_
+18	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	es	_	Word	Word	_	21	A	21:A	_
+20	ist	_	Word	Word	_	21	F	21:F	_
+21	winzig	_	Word	Word	_	17	H	17:H	_
+22	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+23	Ich	_	Word	Word	_	24	A	24:A	_
+24	habe	_	Word	Word	_	17	H	17:H	_
+25	drei	_	Word	Word	_	26	Q	26:Q	_
+26	Vulkane	_	Word	Word	_	0	C	0:C|28:C|32:C	_
+27	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	Zwei	_	Word	Word	_	30	A	30:A	_
+29	sind	_	Word	Word	_	30	F	30:F	_
+30	aktiv	_	Word	Word	_	17	H	17:H	_
+31	und	_	Word	Word	_	34	L	34:L	_
+32	einer	_	Word	Word	_	34	A	34:A	_
+33	ist	_	Word	Word	_	34	F	34:F	_
+34	erloschen	_	Word	Word	_	17	H	17:H	_
+35	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+36	Aber	_	Word	Word	_	38	L	38:L	_
+37	man	_	Word	Word	_	38	A	38:A	_
+38	weiß	_	Word	Word	_	17	H	17:H	_
+39	ja	_	Word	Word	_	38	D	38:D	_
+40	nie	_	Word	Word	_	38	T	38:T	_
+41	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+42	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

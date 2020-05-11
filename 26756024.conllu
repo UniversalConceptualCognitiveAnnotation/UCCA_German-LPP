@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26756024
+# text = Auch zögere ich bei der Farbe seiner Kleidung .
+1	Auch	_	Word	Word	_	2	L	2:L	_
+2	zögere	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	bei	_	Word	Word	_	6	R	6:R	_
+5	der	_	Word	Word	_	6	F	6:F	_
+6	Farbe	_	Word	Word	_	2	A	2:A	_
+7	seiner	_	Word	Word	_	8	R	8:R	_
+8	Kleidung	_	Word	Word	_	6	E	6:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

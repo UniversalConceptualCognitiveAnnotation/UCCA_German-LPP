@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26755005
+# text = Ich habe ernstzunehmende Gründe zu glauben , dass der Heimatplanet des kleinen Prinzen der Asteroid B 612 ist .
+1	Ich	_	Word	Word	_	6	A	6:A	_
+2	habe	_	Word	Word	_	6	F	6:F	_
+3	ernstzunehmende	_	Word	Word	_	4	E	4:E	_
+4	Gründe	_	Word	Word	_	6	A	6:A	_
+5	zu	_	Word	Word	_	6	F	6:F	_
+6	glauben	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	dass	_	Word	Word	_	18	R	18:R	_
+9	der	_	Word	Word	_	10	F	10:F	_
+10	Heimatplanet	_	Word	Word	_	18	A	18:A	_
+11	des	_	Word	Word	_	13	R	13:R	_
+12	kleinen	_	Word	Word	_	13	E	13:E	_
+13	Prinzen	_	Word	Word	_	10	E	10:E	_
+14	der	_	Word	Word	_	15	F	15:F	_
+15	Asteroid	_	Word	Word	_	18	A	18:A	_
+16	B	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	612	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	ist	_	Word	Word	_	6	A	6:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

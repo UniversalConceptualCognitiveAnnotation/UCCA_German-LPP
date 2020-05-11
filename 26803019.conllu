@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26803019
+# text = Ich bin zufrieden " , sagte er , " dass du es genauso siehst wie mein Fuchs . "
+1	Ich	_	Word	Word	_	3	A	3:A	_
+2	bin	_	Word	Word	_	3	F	3:F	_
+3	zufrieden	_	Word	Word	_	6	A	6:A	_
+4	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sagte	_	Word	Word	_	0	H	0:H	_
+7	er	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	dass	_	Word	Word	_	14	R	14:R	_
+11	du	_	Word	Word	_	14	A	14:A	_
+12	es	_	Word	Word	_	14	F	14:F	_
+13	genauso	_	Word	Word	_	14	D	14:D	_
+14	siehst	_	Word	Word	_	3	A	3:A	_
+15	wie	_	Word	Word	_	17	R	17:R	_
+16	mein	_	Word	Word	_	17	E	17:E	_
+17	Fuchs	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+

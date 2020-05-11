@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26812002
+# text = Ich werde dich nicht verlassen . " - "
+1	Ich	_	Word	Word	_	5	A	5:A	_
+2	werde	_	Word	Word	_	5	F	5:F	_
+3	dich	_	Word	Word	_	5	A	5:A	_
+4	nicht	_	Word	Word	_	5	D	5:D	_
+5	verlassen	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

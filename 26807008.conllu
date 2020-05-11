@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26807008
+# text = Er antwortete nie auf Fragen , aber wenn man rot wird , dann heißt das doch , , ja ' , oder ? - "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	antwortete	_	Word	Word	_	0	H	0:H	_
+3	nie	_	Word	Word	_	2	T	2:T	_
+4	auf	_	Word	Word	_	5	R	5:R	_
+5	Fragen	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	aber	_	Word	Word	_	11	L	11:L	_
+8	wenn	_	Word	Word	_	11	L	11:L	_
+9	man	_	Word	Word	_	11	A	11:A	_
+10	rot	_	Word	Word	_	11	D	11:D	_
+11	wird	_	Word	Word	_	2	H	2:H	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	dann	_	Word	Word	_	14	L	14:L	_
+14	heißt	_	Word	Word	_	2	H	2:H	_
+15	das	_	Word	Word	_	14	A	14:A	_
+16	doch	_	Word	Word	_	14	D	14:D	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	ja	_	Word	Word	_	14	A	14:A	_
+20	'	_	Punctuation	Punctuation	_	14	U	14:U	_
+21	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	oder	_	Word	Word	_	14	F	14:F	_
+23	?	_	Punctuation	Punctuation	_	14	U	14:U	_
+24	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+25	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+

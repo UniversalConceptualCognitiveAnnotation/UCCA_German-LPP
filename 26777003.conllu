@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 26777003
+# text = Bienen ? " - " Aber nein . Kleine goldene Dinger , die Faulpelze zu dem Träumen bringen . Aber ich bin mit Ernst bei der Sache ! Ich habe keine Zeit zu dem Träumen . " - "
+1	Bienen	_	Word	Word	_	0	A	0:A|7:A	_
+2	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	Aber	_	Word	Word	_	11	L	11:L	_
+7	nein	_	Word	Word	_	1	H	1:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Kleine	_	Word	Word	_	11	E	11:E	_
+10	goldene	_	Word	Word	_	11	E	11:E	_
+11	Dinger	_	Word	Word	_	7	H	7:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	die	_	Word	Word	_	18	R	18:R	_
+14	Faulpelze	_	Word	Word	_	17	A	17:A	_
+15	zu	_	Word	Word	_	17	R	17:R	_
+16	dem	_	Word	Word	_	17	F	17:F	_
+17	Träumen	_	Word	Word	_	18	A	18:A	_
+18	bringen	_	Word	Word	_	11	E	11:E	_
+19	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+20	Aber	_	Word	Word	_	22	L	22:L	_
+21	ich	_	Word	Word	_	22	A	22:A	_
+22	bin	_	Word	Word	_	7	H	7:H	_
+23	mit	_	Word	Word	_	24	R	24:R	_
+24	Ernst	_	Word	Word	_	22	D	22:D	_
+25	bei	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	der	_	Word	Word	_	22	Terminal	22:Terminal	_
+27	Sache	_	Word	Word	_	22	Terminal	22:Terminal	_
+28	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+29	Ich	_	Word	Word	_	30	A	30:A|35:A	_
+30	habe	_	Word	Word	_	7	H	7:H	_
+31	keine	_	Word	Word	_	30	D	30:D	_
+32	Zeit	_	Word	Word	_	30	A	30:A	_
+33	zu	_	Word	Word	_	35	R	35:R	_
+34	dem	_	Word	Word	_	35	F	35:F	_
+35	Träumen	_	Word	Word	_	30	A	30:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+38	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+39	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

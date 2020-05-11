@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26757025
+# text = Er befällt den ganzen Planeten .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	befällt	_	Word	Word	_	0	H	0:H	_
+3	den	_	Word	Word	_	5	F	5:F	_
+4	ganzen	_	Word	Word	_	5	E	5:E	_
+5	Planeten	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

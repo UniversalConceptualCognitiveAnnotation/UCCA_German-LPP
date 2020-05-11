@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26751008
+# text = So habe ich also gezeichnet .
+1	So	_	Word	Word	_	5	L	5:L	_
+2	habe	_	Word	Word	_	5	F	5:F	_
+3	ich	_	Word	Word	_	5	A	5:A	_
+4	also	_	Word	Word	_	5	L	5:L	_
+5	gezeichnet	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

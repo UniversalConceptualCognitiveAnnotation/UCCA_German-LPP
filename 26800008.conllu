@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26800008
+# text = Sie kommen schon zurück ? " , fragte der kleine Prinz ... - " Das sind nicht dieselben " , sagte der Weichensteller . " Sie wurden ausgetauscht . " - "
+1	Sie	_	Word	Word	_	2	A	2:A	_
+2	kommen	_	Word	Word	_	8	A	8:A	_
+3	schon	_	Word	Word	_	2	D	2:D	_
+4	zurück	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	fragte	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	8	A	8:A	_
+12	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	Das	_	Word	Word	_	18	A	18:A	_
+16	sind	_	Word	Word	_	18	F	18:F	_
+17	nicht	_	Word	Word	_	18	D	18:D	_
+18	dieselben	_	Word	Word	_	21	A	21:A	_
+19	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	sagte	_	Word	Word	_	8	H	8:H	_
+22	der	_	Word	Word	_	23	F	23:F	_
+23	Weichensteller	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	Sie	_	Word	Word	_	28	A	28:A	_
+27	wurden	_	Word	Word	_	28	F	28:F	_
+28	ausgetauscht	_	Word	Word	_	18	H	18:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+32	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+

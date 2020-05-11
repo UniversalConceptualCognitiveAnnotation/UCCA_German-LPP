@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26787005
+# text = Die Bewegungen dieser Armee waren einstudiert wie bei einer Ballett truppe an der Oper .
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Bewegungen	_	Word	Word	_	6	A	6:A	_
+3	dieser	_	Word	Word	_	4	R	4:R	_
+4	Armee	_	Word	Word	_	2	A	2:A	_
+5	waren	_	Word	Word	_	6	F	6:F	_
+6	einstudiert	_	Word	Word	_	0	H	0:H	_
+7	wie	_	Word	Word	_	11	D	11:D	_
+8	bei	_	Word	Word	_	11	R	11:R	_
+9	einer	_	Word	Word	_	11	F	11:F	_
+10	Ballett	_	Word	Word	_	11	E	11:E	_
+11	truppe	_	Word	Word	_	6	A	6:A	_
+12	an	_	Word	Word	_	14	R	14:R	_
+13	der	_	Word	Word	_	14	F	14:F	_
+14	Oper	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

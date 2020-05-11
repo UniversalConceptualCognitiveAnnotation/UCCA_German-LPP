@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26757020
+# text = Handelt es sich um den Trieb eines Radieschens oder einer Rose , dann kann man ihn so wachsen lassen , wie es ihm gefällt .
+1	Handelt	_	Word	Word	_	0	H	0:H	_
+2	es	_	Word	Word	_	1	F	1:F	_
+3	sich	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	um	_	Word	Word	_	6	R	6:R	_
+5	den	_	Word	Word	_	6	F	6:F	_
+6	Trieb	_	Word	Word	_	1	A	1:A	_
+7	eines	_	Word	Word	_	8	R	8:R	_
+8	Radieschens	_	Word	Word	_	1	A	1:A	_
+9	oder	_	Word	Word	_	8	N	8:N	_
+10	einer	_	Word	Word	_	11	R	11:R	_
+11	Rose	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	dann	_	Word	Word	_	18	L	18:L	_
+14	kann	_	Word	Word	_	18	D	18:D	_
+15	man	_	Word	Word	_	18	A	18:A	_
+16	ihn	_	Word	Word	_	18	A	18:A	_
+17	so	_	Word	Word	_	18	L	18:L	_
+18	wachsen	_	Word	Word	_	1	H	1:H	_
+19	lassen	_	Word	Word	_	18	D	18:D	_
+20	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	wie	_	Word	Word	_	24	D	24:D	_
+22	es	_	Word	Word	_	24	F	24:F	_
+23	ihm	_	Word	Word	_	24	A	24:A	_
+24	gefällt	_	Word	Word	_	1	H	1:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

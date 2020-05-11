@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26781008
+# text = Ja . Dreißig Minuten . Dreißig Tage . Guten Abend . "
+1	Ja	_	Word	Word	_	0	H	0:H	_
+2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Dreißig	_	Word	Word	_	4	Q	4:Q	_
+4	Minuten	_	Word	Word	_	1	H	1:H	_
+5	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Dreißig	_	Word	Word	_	7	Q	7:Q	_
+7	Tage	_	Word	Word	_	1	H	1:H	_
+8	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	Guten	_	Word	Word	_	1	H	1:H	_
+10	Abend	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+

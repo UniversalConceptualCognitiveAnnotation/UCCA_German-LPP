@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26766022
+# text = Er war überrascht darüber , keine Vorwürfe zu hören .
+1	Er	_	Word	Word	_	3	A	3:A|9:A	_
+2	war	_	Word	Word	_	3	F	3:F	_
+3	überrascht	_	Word	Word	_	0	H	0:H	_
+4	darüber	_	Word	Word	_	3	F	3:F	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	keine	_	Word	Word	_	9	D	9:D	_
+7	Vorwürfe	_	Word	Word	_	9	A	9:A	_
+8	zu	_	Word	Word	_	9	F	9:F	_
+9	hören	_	Word	Word	_	3	A	3:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

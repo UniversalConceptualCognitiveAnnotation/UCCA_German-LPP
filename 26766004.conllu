@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26766004
+# text = Die waren nützlich , um sich sein Frühstück aufzuwärmen .
+1	Die	_	Word	Word	_	3	A	3:A	_
+2	waren	_	Word	Word	_	3	F	3:F	_
+3	nützlich	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	um	_	Word	Word	_	9	L	9:L	_
+6	sich	_	Word	Word	_	9	A	9:A	_
+7	sein	_	Word	Word	_	8	A	8:A	_
+8	Frühstück	_	Word	Word	_	9	A	9:A	_
+9	aufzuwärmen	_	Word	Word	_	3	H	3:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

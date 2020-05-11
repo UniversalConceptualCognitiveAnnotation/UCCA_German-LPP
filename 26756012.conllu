@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26756012
+# text = Wenn ich versuche , ihn hier zu beschreiben , dann deswegen , um ihn nicht zu vergessen .
+1	Wenn	_	Word	Word	_	11	L	11:L	_
+2	ich	_	Word	Word	_	3	A	3:A|8:A|11:A|17:A	_
+3	versuche	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	ihn	_	Word	Word	_	8	A	8:A	_
+6	hier	_	Word	Word	_	8	A	8:A	_
+7	zu	_	Word	Word	_	8	F	8:F	_
+8	beschreiben	_	Word	Word	_	0	P	0:P|11:P	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	dann	_	Word	Word	_	11	L	11:L	_
+11	deswegen	_	Word	Word	_	3	H	3:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	um	_	Word	Word	_	17	R	17:R	_
+14	ihn	_	Word	Word	_	17	A	17:A	_
+15	nicht	_	Word	Word	_	17	D	17:D	_
+16	zu	_	Word	Word	_	17	F	17:F	_
+17	vergessen	_	Word	Word	_	11	A	11:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

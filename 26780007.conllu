@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26780007
+# text = Was ist die Vorschrift ? " - "
+1	Was	_	Word	Word	_	4	A	4:A	_
+2	ist	_	Word	Word	_	4	F	4:F	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Vorschrift	_	Word	Word	_	0	H	0:H	_
+5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+

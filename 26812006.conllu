@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 26812006
+# text = Ich sage dir das auch ... wegen der Schlange . Sie soll dich nicht beißen ... Schlangen sind bösartig . Die beißen auch zu dem Spaß ... " - " Ich werde dich nicht verlassen . "
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	sage	_	Word	Word	_	0	H	0:H	_
+3	dir	_	Word	Word	_	2	A	2:A	_
+4	das	_	Word	Word	_	2	A	2:A	_
+5	auch	_	Word	Word	_	15	L	15:L	_
+6	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	wegen	_	Word	Word	_	9	R	9:R	_
+8	der	_	Word	Word	_	9	F	9:F	_
+9	Schlange	_	Word	Word	_	2	A	2:A	_
+10	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	Sie	_	Word	Word	_	15	A	15:A	_
+12	soll	_	Word	Word	_	15	D	15:D	_
+13	dich	_	Word	Word	_	15	A	15:A	_
+14	nicht	_	Word	Word	_	15	D	15:D	_
+15	beißen	_	Word	Word	_	2	H	2:H	_
+16	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	Schlangen	_	Word	Word	_	19	A	19:A	_
+18	sind	_	Word	Word	_	19	F	19:F	_
+19	bösartig	_	Word	Word	_	2	H	2:H	_
+20	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	Die	_	Word	Word	_	22	A	22:A	_
+22	beißen	_	Word	Word	_	2	H	2:H	_
+23	auch	_	Word	Word	_	35	L	35:L	_
+24	zu	_	Word	Word	_	22	D	22:D	_
+25	dem	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Spaß	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+28	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+29	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+31	Ich	_	Word	Word	_	35	A	35:A	_
+32	werde	_	Word	Word	_	35	F	35:F	_
+33	dich	_	Word	Word	_	35	A	35:A	_
+34	nicht	_	Word	Word	_	35	D	35:D	_
+35	verlassen	_	Word	Word	_	2	H	2:H	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

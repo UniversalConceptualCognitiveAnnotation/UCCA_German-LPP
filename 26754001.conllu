@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26754001
+# text = Ganz bestimmt . Und wenn du nett bist , gebe ich dir auch einen Strick , um es nachts festzubinden . Und einen Pflock . "
+1	Ganz	_	Word	Word	_	2	E	2:E	_
+2	bestimmt	_	Word	Word	_	0	H	0:H	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Und	_	Word	Word	_	7	L	7:L	_
+5	wenn	_	Word	Word	_	7	L	7:L	_
+6	du	_	Word	Word	_	7	A	7:A	_
+7	nett	_	Word	Word	_	2	H	2:H	_
+8	bist	_	Word	Word	_	7	F	7:F	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	gebe	_	Word	Word	_	2	H	2:H	_
+11	ich	_	Word	Word	_	10	A	10:A|24:A	_
+12	dir	_	Word	Word	_	10	A	10:A	_
+13	auch	_	Word	Word	_	10	D	10:D	_
+14	einen	_	Word	Word	_	15	F	15:F	_
+15	Strick	_	Word	Word	_	10	A	10:A	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	um	_	Word	Word	_	20	L	20:L	_
+18	es	_	Word	Word	_	20	A	20:A	_
+19	nachts	_	Word	Word	_	20	T	20:T	_
+20	festzubinden	_	Word	Word	_	2	H	2:H	_
+21	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+22	Und	_	Word	Word	_	24	L	24:L	_
+23	einen	_	Word	Word	_	24	F	24:F	_
+24	Pflock	_	Word	Word	_	2	H	2:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+

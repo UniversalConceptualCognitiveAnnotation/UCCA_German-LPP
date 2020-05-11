@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26773013
+# text = Eitle Menschen hören nur , wenn sie gelobt werden . - "
+1	Eitle	_	Word	Word	_	2	E	2:E	_
+2	Menschen	_	Word	Word	_	3	A	3:A	_
+3	hören	_	Word	Word	_	0	H	0:H	_
+4	nur	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	wenn	_	Word	Word	_	8	L	8:L	_
+7	sie	_	Word	Word	_	8	A	8:A	_
+8	gelobt	_	Word	Word	_	3	H	3:H	_
+9	werden	_	Word	Word	_	8	F	8:F	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+

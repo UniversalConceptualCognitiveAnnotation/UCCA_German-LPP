@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26780005
+# text = Als er auf dem Planeten landete , grüßte er den Laternen anzünder respektvoll : - " Guten Tag . Warum hast du denn gerade deine Laterne gelöscht ? " - "
+1	Als	_	Word	Word	_	8	L	8:L	_
+2	er	_	Word	Word	_	6	A	6:A	_
+3	auf	_	Word	Word	_	5	R	5:R	_
+4	dem	_	Word	Word	_	5	F	5:F	_
+5	Planeten	_	Word	Word	_	6	A	6:A	_
+6	landete	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	grüßte	_	Word	Word	_	6	H	6:H	_
+9	er	_	Word	Word	_	8	A	8:A	_
+10	den	_	Word	Word	_	12	F	12:F	_
+11	Laternen	_	Word	Word	_	12	E	12:E	_
+12	anzünder	_	Word	Word	_	8	A	8:A	_
+13	respektvoll	_	Word	Word	_	8	D	8:D	_
+14	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+16	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	Guten	_	Word	Word	_	8	A	8:A	_
+18	Tag	_	Word	Word	_	17	A	17:A	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	Warum	_	Word	Word	_	27	A	27:A	_
+21	hast	_	Word	Word	_	27	F	27:F	_
+22	du	_	Word	Word	_	27	A	27:A	_
+23	denn	_	Word	Word	_	27	F	27:F	_
+24	gerade	_	Word	Word	_	27	T	27:T	_
+25	deine	_	Word	Word	_	26	E	26:E	_
+26	Laterne	_	Word	Word	_	27	A	27:A	_
+27	gelöscht	_	Word	Word	_	17	H	17:H	_
+28	?	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+30	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+

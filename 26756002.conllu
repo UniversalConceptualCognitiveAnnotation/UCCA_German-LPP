@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 26756002
+# text = So sind sie .
+1	So	_	Word	Word	_	2	A	2:A	_
+2	sind	_	Word	Word	_	0	H	0:H	_
+3	sie	_	Word	Word	_	2	A	2:A	_
+4	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

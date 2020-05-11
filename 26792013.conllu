@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26792013
+# text = Sie wiederholen , was man ihnen sagt ... Bei mir zuhause hatte ich eine Blume .
+1	Sie	_	Word	Word	_	2	A	2:A	_
+2	wiederholen	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	was	_	Word	Word	_	2	A	2:A	_
+5	man	_	Word	Word	_	7	A	7:A	_
+6	ihnen	_	Word	Word	_	7	A	7:A	_
+7	sagt	_	Word	Word	_	4	E	4:E	_
+8	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	Bei	_	Word	Word	_	10	R	10:R	_
+10	mir	_	Word	Word	_	12	A	12:A	_
+11	zuhause	_	Word	Word	_	10	E	10:E	_
+12	hatte	_	Word	Word	_	2	H	2:H	_
+13	ich	_	Word	Word	_	12	A	12:A	_
+14	eine	_	Word	Word	_	15	F	15:F	_
+15	Blume	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

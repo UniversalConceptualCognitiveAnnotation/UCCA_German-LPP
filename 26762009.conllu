@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 26762009
+# text = Ich sagte zu ihm : " Deine geliebte Blume ist nicht in Gefahr ... Ich werde deinem Schaf einen Maul korb zeichnen . Ich zeichne dir eine Rüstung für deine Blume ... Ich ... " Ich wusste wirklich nicht , was ich sagen sollte .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	sagte	_	Word	Word	_	0	H	0:H	_
+3	zu	_	Word	Word	_	4	R	4:R	_
+4	ihm	_	Word	Word	_	2	A	2:A	_
+5	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	Deine	_	Word	Word	_	9	E	9:E|8:A	_
+8	geliebte	_	Word	Word	_	9	E	9:E	_
+9	Blume	_	Word	Word	_	13	A	13:A	_
+10	ist	_	Word	Word	_	13	F	13:F	_
+11	nicht	_	Word	Word	_	13	D	13:D	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Gefahr	_	Word	Word	_	2	A	2:A	_
+14	...	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Ich	_	Word	Word	_	22	A	22:A	_
+16	werde	_	Word	Word	_	22	F	22:F	_
+17	deinem	_	Word	Word	_	18	E	18:E	_
+18	Schaf	_	Word	Word	_	22	A	22:A	_
+19	einen	_	Word	Word	_	21	F	21:F	_
+20	Maul	_	Word	Word	_	21	E	21:E	_
+21	korb	_	Word	Word	_	22	A	22:A	_
+22	zeichnen	_	Word	Word	_	13	H	13:H	_
+23	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+24	Ich	_	Word	Word	_	25	A	25:A	_
+25	zeichne	_	Word	Word	_	13	H	13:H	_
+26	dir	_	Word	Word	_	25	A	25:A	_
+27	eine	_	Word	Word	_	28	F	28:F	_
+28	Rüstung	_	Word	Word	_	25	A	25:A	_
+29	für	_	Word	Word	_	31	R	31:R	_
+30	deine	_	Word	Word	_	31	E	31:E	_
+31	Blume	_	Word	Word	_	28	E	28:E	_
+32	...	_	Punctuation	Punctuation	_	13	U	13:U	_
+33	Ich	_	Word	Word	_	13	H	13:H	_
+34	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+35	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+36	Ich	_	Word	Word	_	37	A	37:A	_
+37	wusste	_	Word	Word	_	2	H	2:H	_
+38	wirklich	_	Word	Word	_	37	D	37:D	_
+39	nicht	_	Word	Word	_	37	D	37:D	_
+40	,	_	Punctuation	Punctuation	_	37	U	37:U	_
+41	was	_	Word	Word	_	37	A	37:A	_
+42	ich	_	Word	Word	_	43	A	43:A	_
+43	sagen	_	Word	Word	_	41	E	41:E	_
+44	sollte	_	Word	Word	_	43	D	43:D	_
+45	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

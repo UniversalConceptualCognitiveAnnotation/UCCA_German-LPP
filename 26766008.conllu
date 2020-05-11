@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26766008
+# text = Wenn Vulkane sauber gefegt sind , brennen sie nur ganz leicht und gleichmäßig , ohne auszubrechen .
+1	Wenn	_	Word	Word	_	7	L	7:L	_
+2	Vulkane	_	Word	Word	_	4	A	4:A	_
+3	sauber	_	Word	Word	_	4	D	4:D	_
+4	gefegt	_	Word	Word	_	0	H	0:H	_
+5	sind	_	Word	Word	_	4	F	4:F	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	brennen	_	Word	Word	_	4	H	4:H	_
+8	sie	_	Word	Word	_	7	A	7:A|16:A	_
+9	nur	_	Word	Word	_	7	D	7:D	_
+10	ganz	_	Word	Word	_	11	E	11:E	_
+11	leicht	_	Word	Word	_	7	D	7:D	_
+12	und	_	Word	Word	_	11	N	11:N	_
+13	gleichmäßig	_	Word	Word	_	11	C	11:C	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	ohne	_	Word	Word	_	16	L	16:L	_
+16	auszubrechen	_	Word	Word	_	4	H	4:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

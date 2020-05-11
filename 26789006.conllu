@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 26789006
+# text = Wo sind die Menschen ? " , fuhr der kleine Prinz fort . " Man ist ganz einsam in der Wüste ... " - " Bei den Menschen ist man auch einsam " , sagte die Schlange .
+1	Wo	_	Word	Word	_	2	A	2:A	_
+2	sind	_	Word	Word	_	8	A	8:A	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Menschen	_	Word	Word	_	2	A	2:A	_
+5	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	fuhr	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	11	F	11:F	_
+10	kleine	_	Word	Word	_	11	E	11:E	_
+11	Prinz	_	Word	Word	_	8	A	8:A	_
+12	fort	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	Man	_	Word	Word	_	18	A	18:A	_
+16	ist	_	Word	Word	_	18	F	18:F	_
+17	ganz	_	Word	Word	_	18	E	18:E	_
+18	einsam	_	Word	Word	_	2	H	2:H	_
+19	in	_	Word	Word	_	21	R	21:R	_
+20	der	_	Word	Word	_	21	F	21:F	_
+21	Wüste	_	Word	Word	_	18	A	18:A	_
+22	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+24	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+26	Bei	_	Word	Word	_	28	R	28:R	_
+27	den	_	Word	Word	_	28	F	28:F	_
+28	Menschen	_	Word	Word	_	32	A	32:A	_
+29	ist	_	Word	Word	_	32	F	32:F	_
+30	man	_	Word	Word	_	32	A	32:A	_
+31	auch	_	Word	Word	_	32	D	32:D	_
+32	einsam	_	Word	Word	_	35	A	35:A	_
+33	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+34	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	sagte	_	Word	Word	_	8	H	8:H	_
+36	die	_	Word	Word	_	37	F	37:F	_
+37	Schlange	_	Word	Word	_	35	A	35:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

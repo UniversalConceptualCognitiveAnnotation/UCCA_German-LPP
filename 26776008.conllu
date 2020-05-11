@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26776008
+# text = Der Geschäftsmann verstand , dass er nicht darauf hoffen konnte , in Ruhe gelassen zu werden :
+1	Der	_	Word	Word	_	2	F	2:F	_
+2	Geschäftsmann	_	Word	Word	_	3	A	3:A	_
+3	verstand	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	dass	_	Word	Word	_	9	R	9:R	_
+6	er	_	Word	Word	_	9	A	9:A|14:A	_
+7	nicht	_	Word	Word	_	9	D	9:D	_
+8	darauf	_	Word	Word	_	14	F	14:F	_
+9	hoffen	_	Word	Word	_	3	A	3:A	_
+10	konnte	_	Word	Word	_	9	D	9:D	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Ruhe	_	Word	Word	_	14	A	14:A	_
+14	gelassen	_	Word	Word	_	9	A	9:A	_
+15	zu	_	Word	Word	_	14	F	14:F	_
+16	werden	_	Word	Word	_	14	F	14:F	_
+17	:	_	Punctuation	Punctuation	_	14	U	14:U	_
+

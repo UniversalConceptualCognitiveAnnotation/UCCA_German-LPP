@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26793000
+# text = Kapitel XX Aber als der kleine Prinz lange über Sand , Felsen und durch Schnee gewandert war , geschah es , dass er endlich eine Straße entdeckte .
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	XX	_	Word	Word	_	0	H	0:H	_
+3	Aber	_	Word	Word	_	16	L	16:L	_
+4	als	_	Word	Word	_	16	L	16:L	_
+5	der	_	Word	Word	_	7	F	7:F	_
+6	kleine	_	Word	Word	_	7	E	7:E	_
+7	Prinz	_	Word	Word	_	16	A	16:A	_
+8	lange	_	Word	Word	_	16	D	16:D	_
+9	über	_	Word	Word	_	10	R	10:R	_
+10	Sand	_	Word	Word	_	16	A	16:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Felsen	_	Word	Word	_	10	C	10:C	_
+13	und	_	Word	Word	_	10	N	10:N	_
+14	durch	_	Word	Word	_	15	R	15:R	_
+15	Schnee	_	Word	Word	_	10	C	10:C	_
+16	gewandert	_	Word	Word	_	2	H	2:H	_
+17	war	_	Word	Word	_	16	F	16:F	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	geschah	_	Word	Word	_	2	H	2:H	_
+20	es	_	Word	Word	_	19	F	19:F	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	dass	_	Word	Word	_	27	R	27:R	_
+23	er	_	Word	Word	_	27	A	27:A	_
+24	endlich	_	Word	Word	_	27	T	27:T	_
+25	eine	_	Word	Word	_	26	F	26:F	_
+26	Straße	_	Word	Word	_	27	A	27:A	_
+27	entdeckte	_	Word	Word	_	19	A	19:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

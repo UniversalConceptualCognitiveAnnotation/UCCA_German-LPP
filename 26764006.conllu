@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26764006
+# text = Ich bin kein Gras " , antwortete die Blume sanft . - "
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	bin	_	Word	Word	_	7	A	7:A	_
+3	kein	_	Word	Word	_	2	D	2:D	_
+4	Gras	_	Word	Word	_	2	A	2:A	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	antwortete	_	Word	Word	_	0	H	0:H	_
+8	die	_	Word	Word	_	9	F	9:F	_
+9	Blume	_	Word	Word	_	7	A	7:A	_
+10	sanft	_	Word	Word	_	7	D	7:D	_
+11	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

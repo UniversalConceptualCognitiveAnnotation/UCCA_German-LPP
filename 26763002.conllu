@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26763002
+# text = Sie sprossen eines Morgens aus dem Gras und an dem Abend waren sie wieder verschwunden .
+1	Sie	_	Word	Word	_	2	A	2:A	_
+2	sprossen	_	Word	Word	_	0	H	0:H	_
+3	eines	_	Word	Word	_	4	F	4:F	_
+4	Morgens	_	Word	Word	_	2	T	2:T	_
+5	aus	_	Word	Word	_	7	R	7:R	_
+6	dem	_	Word	Word	_	7	F	7:F	_
+7	Gras	_	Word	Word	_	2	A	2:A	_
+8	und	_	Word	Word	_	15	L	15:L	_
+9	an	_	Word	Word	_	11	R	11:R	_
+10	dem	_	Word	Word	_	11	F	11:F	_
+11	Abend	_	Word	Word	_	15	T	15:T	_
+12	waren	_	Word	Word	_	15	F	15:F	_
+13	sie	_	Word	Word	_	15	A	15:A	_
+14	wieder	_	Word	Word	_	15	D	15:D	_
+15	verschwunden	_	Word	Word	_	2	H	2:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26750021
+# text = Es wirkte ganz und gar nicht wie ein Kind , verloren inmitten der Wüste , tausend Meilen entfernt von jeglicher Zivilisation .
+1	Es	_	Word	Word	_	2	A	2:A	_
+2	wirkte	_	Word	Word	_	0	H	0:H	_
+3	ganz	_	Word	Word	_	6	E	6:E	_
+4	und	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	gar	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	nicht	_	Word	Word	_	2	D	2:D	_
+7	wie	_	Word	Word	_	9	R	9:R	_
+8	ein	_	Word	Word	_	9	F	9:F	_
+9	Kind	_	Word	Word	_	2	A	2:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	verloren	_	Word	Word	_	9	E	9:E	_
+12	inmitten	_	Word	Word	_	14	R	14:R	_
+13	der	_	Word	Word	_	14	F	14:F	_
+14	Wüste	_	Word	Word	_	11	A	11:A	_
+15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	tausend	_	Word	Word	_	17	Q	17:Q	_
+17	Meilen	_	Word	Word	_	18	A	18:A	_
+18	entfernt	_	Word	Word	_	11	H	11:H	_
+19	von	_	Word	Word	_	21	R	21:R	_
+20	jeglicher	_	Word	Word	_	21	E	21:E	_
+21	Zivilisation	_	Word	Word	_	18	A	18:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

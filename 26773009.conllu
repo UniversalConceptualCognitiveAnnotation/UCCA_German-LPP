@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26773009
+# text = Wieder schlug er die Hände zusammen .
+1	Wieder	_	Word	Word	_	2	L	2:L	_
+2	schlug	_	Word	Word	_	0	H	0:H	_
+3	er	_	Word	Word	_	2	A	2:A	_
+4	die	_	Word	Word	_	5	F	5:F	_
+5	Hände	_	Word	Word	_	2	A	2:A	_
+6	zusammen	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

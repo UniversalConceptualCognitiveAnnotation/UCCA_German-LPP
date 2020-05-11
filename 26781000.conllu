@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 26781000
+# text = - " Ich habe einen schrecklichen Beruf . Früher war das vernünftig . An dem Morgen löschte ich sie aus und an dem Abend zündete ich sie wieder an . Der Rest des Tages blieb mir zu dem Erholen und die Nacht zu dem Schlafen . - "
+1	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	Ich	_	Word	Word	_	4	A	4:A	_
+4	habe	_	Word	Word	_	0	H	0:H	_
+5	einen	_	Word	Word	_	7	F	7:F	_
+6	schrecklichen	_	Word	Word	_	7	E	7:E	_
+7	Beruf	_	Word	Word	_	4	A	4:A	_
+8	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Früher	_	Word	Word	_	12	T	12:T	_
+10	war	_	Word	Word	_	12	F	12:F	_
+11	das	_	Word	Word	_	12	A	12:A	_
+12	vernünftig	_	Word	Word	_	4	H	4:H	_
+13	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	An	_	Word	Word	_	16	R	16:R	_
+15	dem	_	Word	Word	_	16	F	16:F	_
+16	Morgen	_	Word	Word	_	17	T	17:T	_
+17	löschte	_	Word	Word	_	4	H	4:H	_
+18	ich	_	Word	Word	_	17	A	17:A	_
+19	sie	_	Word	Word	_	17	A	17:A	_
+20	aus	_	Word	Word	_	17	Terminal	17:Terminal	_
+21	und	_	Word	Word	_	25	L	25:L	_
+22	an	_	Word	Word	_	24	R	24:R	_
+23	dem	_	Word	Word	_	24	F	24:F	_
+24	Abend	_	Word	Word	_	25	T	25:T	_
+25	zündete	_	Word	Word	_	4	H	4:H	_
+26	ich	_	Word	Word	_	25	A	25:A	_
+27	sie	_	Word	Word	_	25	A	25:A	_
+28	wieder	_	Word	Word	_	25	D	25:D	_
+29	an	_	Word	Word	_	25	Terminal	25:Terminal	_
+30	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+31	Der	_	Word	Word	_	32	F	32:F	_
+32	Rest	_	Word	Word	_	35	T	35:T	_
+33	des	_	Word	Word	_	34	R	34:R	_
+34	Tages	_	Word	Word	_	32	E	32:E	_
+35	blieb	_	Word	Word	_	4	H	4:H	_
+36	mir	_	Word	Word	_	35	A	35:A|39:A|45:A	_
+37	zu	_	Word	Word	_	39	R	39:R	_
+38	dem	_	Word	Word	_	39	F	39:F	_
+39	Erholen	_	Word	Word	_	35	A	35:A	_
+40	und	_	Word	Word	_	45	L	45:L	_
+41	die	_	Word	Word	_	42	F	42:F	_
+42	Nacht	_	Word	Word	_	45	A	45:A	_
+43	zu	_	Word	Word	_	45	R	45:R	_
+44	dem	_	Word	Word	_	45	F	45:F	_
+45	Schlafen	_	Word	Word	_	4	H	4:H	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+47	-	_	Punctuation	Punctuation	_	45	U	45:U	_
+48	"	_	Punctuation	Punctuation	_	45	U	45:U	_
+

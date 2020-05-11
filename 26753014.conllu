@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26753014
+# text = Ihr könnt euch vorstellen , wie sehr es mich beschäftigte , was er mir über die " anderen Planeten " schon halb anvertraut hatte .
+1	Ihr	_	Word	Word	_	3	A	3:A	_
+2	könnt	_	Word	Word	_	3	D	3:D	_
+3	euch	_	Word	Word	_	0	H	0:H	_
+4	vorstellen	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	wie	_	Word	Word	_	10	D	10:D	_
+7	sehr	_	Word	Word	_	10	D	10:D	_
+8	es	_	Word	Word	_	10	A	10:A	_
+9	mich	_	Word	Word	_	10	A	10:A	_
+10	beschäftigte	_	Word	Word	_	3	H	3:H	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	was	_	Word	Word	_	23	A	23:A	_
+13	er	_	Word	Word	_	23	A	23:A	_
+14	mir	_	Word	Word	_	23	A	23:A	_
+15	über	_	Word	Word	_	19	R	19:R	_
+16	die	_	Word	Word	_	19	F	19:F	_
+17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+18	anderen	_	Word	Word	_	19	E	19:E	_
+19	Planeten	_	Word	Word	_	23	A	23:A	_
+20	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+21	schon	_	Word	Word	_	23	T	23:T	_
+22	halb	_	Word	Word	_	23	D	23:D	_
+23	anvertraut	_	Word	Word	_	3	H	3:H	_
+24	hatte	_	Word	Word	_	23	F	23:F	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

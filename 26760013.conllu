@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 26760013
+# text = Sondern sagte mir in diesem Augenblick : - " Wenn dieser Bolzen nicht nachgibt , muss ich ihn mit dem Hammer herauslösen . "
+1	Sondern	_	Word	Word	_	2	L	2:L	_
+2	sagte	_	Word	Word	_	0	H	0:H	_
+3	mir	_	Word	Word	_	2	A	2:A	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	diesem	_	Word	Word	_	6	E	6:E	_
+6	Augenblick	_	Word	Word	_	2	T	2:T	_
+7	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	Wenn	_	Word	Word	_	22	L	22:L	_
+11	dieser	_	Word	Word	_	12	E	12:E	_
+12	Bolzen	_	Word	Word	_	14	A	14:A	_
+13	nicht	_	Word	Word	_	14	D	14:D	_
+14	nachgibt	_	Word	Word	_	2	A	2:A	_
+15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	muss	_	Word	Word	_	22	D	22:D	_
+17	ich	_	Word	Word	_	22	A	22:A	_
+18	ihn	_	Word	Word	_	22	A	22:A	_
+19	mit	_	Word	Word	_	21	R	21:R	_
+20	dem	_	Word	Word	_	21	F	21:F	_
+21	Hammer	_	Word	Word	_	22	A	22:A	_
+22	herauslösen	_	Word	Word	_	14	H	14:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+

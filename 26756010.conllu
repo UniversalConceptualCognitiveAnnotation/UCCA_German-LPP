@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26756010
+# text = Es betrübt mich , von diesen Erinnerungen zu erzählen .
+1	Es	_	Word	Word	_	2	F	2:F	_
+2	betrübt	_	Word	Word	_	0	H	0:H	_
+3	mich	_	Word	Word	_	2	A	2:A|9:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	von	_	Word	Word	_	7	R	7:R	_
+6	diesen	_	Word	Word	_	7	E	7:E	_
+7	Erinnerungen	_	Word	Word	_	9	A	9:A	_
+8	zu	_	Word	Word	_	9	F	9:F	_
+9	erzählen	_	Word	Word	_	2	A	2:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

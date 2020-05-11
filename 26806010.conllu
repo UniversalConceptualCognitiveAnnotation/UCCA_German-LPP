@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26806010
+# text = Der kleine Prinz sah sie und sagte lachend : - " Deine Affenbrotbäume sehen ein bisschen so aus wie Kohl köpfe ... " - " Oh ! "
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	0	C	0:C|7:A	_
+4	sah	_	Word	Word	_	0	H	0:H	_
+5	sie	_	Word	Word	_	4	A	4:A	_
+6	und	_	Word	Word	_	7	L	7:L	_
+7	sagte	_	Word	Word	_	4	H	4:H	_
+8	lachend	_	Word	Word	_	7	D	7:D	_
+9	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	Deine	_	Word	Word	_	13	E	13:E	_
+13	Affenbrotbäume	_	Word	Word	_	14	A	14:A	_
+14	sehen	_	Word	Word	_	7	A	7:A	_
+15	ein	_	Word	Word	_	14	D	14:D	_
+16	bisschen	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	so	_	Word	Word	_	14	D	14:D	_
+18	aus	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	wie	_	Word	Word	_	21	R	21:R	_
+20	Kohl	_	Word	Word	_	21	E	21:E	_
+21	köpfe	_	Word	Word	_	14	A	14:A	_
+22	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+23	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+24	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+25	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+26	Oh	_	Word	Word	_	4	H	4:H	_
+27	!	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

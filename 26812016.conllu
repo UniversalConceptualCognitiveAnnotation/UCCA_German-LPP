@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26812016
+# text = Aber strengte sich doch noch einmal an :
+1	Aber	_	Word	Word	_	2	L	2:L	_
+2	strengte	_	Word	Word	_	0	H	0:H	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	doch	_	Word	Word	_	2	D	2:D	_
+5	noch	_	Word	Word	_	6	E	6:E	_
+6	einmal	_	Word	Word	_	2	D	2:D	_
+7	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+8	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26772002
+# text = Ich mag kein Todes urteil sprechen " , sagte der kleine Prinz , " und ich werde jetzt lieber gehen . " - " Nein " , sagte der König .
+1	Ich	_	Word	Word	_	6	A	6:A	_
+2	mag	_	Word	Word	_	6	D	6:D	_
+3	kein	_	Word	Word	_	6	D	6:D	_
+4	Todes	_	Word	Word	_	5	E	5:E	_
+5	urteil	_	Word	Word	_	6	A	6:A	_
+6	sprechen	_	Word	Word	_	9	A	9:A	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	sagte	_	Word	Word	_	0	H	0:H	_
+10	der	_	Word	Word	_	12	F	12:F	_
+11	kleine	_	Word	Word	_	12	E	12:E	_
+12	Prinz	_	Word	Word	_	9	A	9:A	_
+13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	und	_	Word	Word	_	6	L	6:L	_
+16	ich	_	Word	Word	_	20	A	20:A	_
+17	werde	_	Word	Word	_	20	F	20:F	_
+18	jetzt	_	Word	Word	_	20	T	20:T	_
+19	lieber	_	Word	Word	_	20	D	20:D	_
+20	gehen	_	Word	Word	_	0	P	0:P|25:P	_
+21	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+22	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+23	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+24	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	Nein	_	Word	Word	_	28	A	28:A	_
+26	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	sagte	_	Word	Word	_	9	H	9:H	_
+29	der	_	Word	Word	_	30	F	30:F	_
+30	König	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

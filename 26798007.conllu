@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 26798007
+# text = Die Menschen haben diese Wahrheit vergessen " , sagte der Fuchs . Aber du sollst sie nicht vergessen . Du wirst immer verantwortlich sein für das , was du zähmst . Du bist verantwortlich für deine Rose ... "
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Menschen	_	Word	Word	_	6	A	6:A	_
+3	haben	_	Word	Word	_	6	F	6:F	_
+4	diese	_	Word	Word	_	5	E	5:E	_
+5	Wahrheit	_	Word	Word	_	6	A	6:A	_
+6	vergessen	_	Word	Word	_	9	A	9:A	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	sagte	_	Word	Word	_	0	H	0:H	_
+10	der	_	Word	Word	_	11	F	11:F	_
+11	Fuchs	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	Aber	_	Word	Word	_	18	L	18:L	_
+14	du	_	Word	Word	_	18	A	18:A	_
+15	sollst	_	Word	Word	_	18	D	18:D	_
+16	sie	_	Word	Word	_	18	A	18:A	_
+17	nicht	_	Word	Word	_	18	D	18:D	_
+18	vergessen	_	Word	Word	_	6	H	6:H	_
+19	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	Du	_	Word	Word	_	23	A	23:A	_
+21	wirst	_	Word	Word	_	23	F	23:F	_
+22	immer	_	Word	Word	_	23	T	23:T	_
+23	verantwortlich	_	Word	Word	_	6	H	6:H	_
+24	sein	_	Word	Word	_	23	F	23:F	_
+25	für	_	Word	Word	_	26	R	26:R	_
+26	das	_	Word	Word	_	23	A	23:A	_
+27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	was	_	Word	Word	_	30	R	30:R	_
+29	du	_	Word	Word	_	30	A	30:A	_
+30	zähmst	_	Word	Word	_	26	E	26:E	_
+31	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+32	Du	_	Word	Word	_	34	A	34:A	_
+33	bist	_	Word	Word	_	34	F	34:F	_
+34	verantwortlich	_	Word	Word	_	6	H	6:H	_
+35	für	_	Word	Word	_	37	R	37:R	_
+36	deine	_	Word	Word	_	37	E	37:E	_
+37	Rose	_	Word	Word	_	34	A	34:A	_
+38	...	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+

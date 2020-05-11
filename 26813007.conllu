@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26813007
+# text = Ich konnte mich nicht rühren .
+1	Ich	_	Word	Word	_	3	A	3:A	_
+2	konnte	_	Word	Word	_	3	D	3:D	_
+3	mich	_	Word	Word	_	0	H	0:H	_
+4	nicht	_	Word	Word	_	3	D	3:D	_
+5	rühren	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

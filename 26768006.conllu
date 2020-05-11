@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26768006
+# text = Er wusste nicht , dass die Welt für Könige sehr einfach ist : Alle Menschen sind Untertanen . - "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	wusste	_	Word	Word	_	0	H	0:H	_
+3	nicht	_	Word	Word	_	2	D	2:D	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	dass	_	Word	Word	_	11	R	11:R	_
+6	die	_	Word	Word	_	7	F	7:F	_
+7	Welt	_	Word	Word	_	11	A	11:A	_
+8	für	_	Word	Word	_	9	R	9:R	_
+9	Könige	_	Word	Word	_	11	A	11:A	_
+10	sehr	_	Word	Word	_	11	D	11:D	_
+11	einfach	_	Word	Word	_	2	A	2:A	_
+12	ist	_	Word	Word	_	11	F	11:F	_
+13	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	Alle	_	Word	Word	_	15	E	15:E	_
+15	Menschen	_	Word	Word	_	17	A	17:A	_
+16	sind	_	Word	Word	_	17	F	17:F	_
+17	Untertanen	_	Word	Word	_	2	H	2:H	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+

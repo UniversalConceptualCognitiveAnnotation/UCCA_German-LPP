@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26750001
+# text = Irgendetwas an meinem Motor war kaputt gegangen .
+1	Irgendetwas	_	Word	Word	_	6	A	6:A	_
+2	an	_	Word	Word	_	4	R	4:R	_
+3	meinem	_	Word	Word	_	4	E	4:E	_
+4	Motor	_	Word	Word	_	6	A	6:A	_
+5	war	_	Word	Word	_	6	F	6:F	_
+6	kaputt	_	Word	Word	_	0	H	0:H	_
+7	gegangen	_	Word	Word	_	6	D	6:D	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

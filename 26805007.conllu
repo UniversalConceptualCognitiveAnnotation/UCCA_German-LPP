@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26805007
+# text = Langsam zog ich den Eimer bis zu dem Rand hinauf .
+1	Langsam	_	Word	Word	_	2	D	2:D	_
+2	zog	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	den	_	Word	Word	_	5	F	5:F	_
+5	Eimer	_	Word	Word	_	2	A	2:A	_
+6	bis	_	Word	Word	_	9	R	9:R	_
+7	zu	_	Word	Word	_	9	R	9:R	_
+8	dem	_	Word	Word	_	9	F	9:F	_
+9	Rand	_	Word	Word	_	2	A	2:A	_
+10	hinauf	_	Word	Word	_	2	Terminal	2:Terminal	_
+11	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

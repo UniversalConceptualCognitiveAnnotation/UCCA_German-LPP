@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26792004
+# text = Guten Tag " , sagte er auf gut Glück . - "
+1	Guten	_	Word	Word	_	5	A	5:A	_
+2	Tag	_	Word	Word	_	1	A	1:A	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	sagte	_	Word	Word	_	0	H	0:H	_
+6	er	_	Word	Word	_	5	A	5:A	_
+7	auf	_	Word	Word	_	5	D	5:D	_
+8	gut	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Glück	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

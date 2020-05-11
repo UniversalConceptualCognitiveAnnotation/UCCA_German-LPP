@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26751002
+# text = So absurd es mir erschien , holte ich tausend Meilen entfernt von jeder Zivilisation meinen Farbstift hervor , ein Blatt Papier und einen Füller .
+1	So	_	Word	Word	_	2	D	2:D	_
+2	absurd	_	Word	Word	_	0	H	0:H	_
+3	es	_	Word	Word	_	2	A	2:A	_
+4	mir	_	Word	Word	_	2	A	2:A	_
+5	erschien	_	Word	Word	_	2	G	2:G	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	holte	_	Word	Word	_	2	H	2:H	_
+8	ich	_	Word	Word	_	7	A	7:A	_
+9	tausend	_	Word	Word	_	10	Q	10:Q	_
+10	Meilen	_	Word	Word	_	11	A	11:A	_
+11	entfernt	_	Word	Word	_	8	E	8:E	_
+12	von	_	Word	Word	_	14	R	14:R	_
+13	jeder	_	Word	Word	_	14	E	14:E	_
+14	Zivilisation	_	Word	Word	_	11	A	11:A	_
+15	meinen	_	Word	Word	_	16	E	16:E	_
+16	Farbstift	_	Word	Word	_	7	A	7:A	_
+17	hervor	_	Word	Word	_	7	Terminal	7:Terminal	_
+18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+19	ein	_	Word	Word	_	21	F	21:F	_
+20	Blatt	_	Word	Word	_	21	E	21:E	_
+21	Papier	_	Word	Word	_	16	C	16:C	_
+22	und	_	Word	Word	_	16	N	16:N	_
+23	einen	_	Word	Word	_	24	F	24:F	_
+24	Füller	_	Word	Word	_	16	C	16:C	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

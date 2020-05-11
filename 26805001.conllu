@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26805001
+# text = Die Brunnen in der Sahara sind nur einfache Löcher in dem Sand .
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Brunnen	_	Word	Word	_	6	A	6:A	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	der	_	Word	Word	_	5	F	5:F	_
+5	Sahara	_	Word	Word	_	2	E	2:E	_
+6	sind	_	Word	Word	_	0	H	0:H	_
+7	nur	_	Word	Word	_	6	D	6:D	_
+8	einfache	_	Word	Word	_	9	E	9:E	_
+9	Löcher	_	Word	Word	_	6	A	6:A	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	dem	_	Word	Word	_	12	F	12:F	_
+12	Sand	_	Word	Word	_	9	E	9:E	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

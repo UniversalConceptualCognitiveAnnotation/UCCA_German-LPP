@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26784001
+# text = Wozu denn ? " - "
+1	Wozu	_	Word	Word	_	0	H	0:H	_
+2	denn	_	Word	Word	_	1	F	1:F	_
+3	?	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+

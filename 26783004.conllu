@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26783004
+# text = Er war schon so viel herumgereist ! - "
+1	Er	_	Word	Word	_	6	A	6:A	_
+2	war	_	Word	Word	_	6	F	6:F	_
+3	schon	_	Word	Word	_	6	D	6:D	_
+4	so	_	Word	Word	_	5	E	5:E	_
+5	viel	_	Word	Word	_	6	D	6:D	_
+6	herumgereist	_	Word	Word	_	0	H	0:H	_
+7	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

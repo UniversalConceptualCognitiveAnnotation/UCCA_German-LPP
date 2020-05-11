@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26755007
+# text = Seine Entdeckung hatte er bei einem Internationalen Astronomie Kongress vorgeführt .
+1	Seine	_	Word	Word	_	2	E	2:E	_
+2	Entdeckung	_	Word	Word	_	10	A	10:A	_
+3	hatte	_	Word	Word	_	10	F	10:F	_
+4	er	_	Word	Word	_	10	A	10:A	_
+5	bei	_	Word	Word	_	9	R	9:R	_
+6	einem	_	Word	Word	_	9	F	9:F	_
+7	Internationalen	_	Word	Word	_	9	E	9:E	_
+8	Astronomie	_	Word	Word	_	9	E	9:E	_
+9	Kongress	_	Word	Word	_	10	A	10:A	_
+10	vorgeführt	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26764008
+# text = Grauen vor Luftzug ... das sind schlechte Aussichten für eine Blume " , bemerkte der kleine Prinz . " Diese Blume ist äußerst kompliziert . " - "
+1	Grauen	_	Word	Word	_	14	A	14:A	_
+2	vor	_	Word	Word	_	3	R	3:R	_
+3	Luftzug	_	Word	Word	_	1	A	1:A	_
+4	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	das	_	Word	Word	_	8	A	8:A	_
+6	sind	_	Word	Word	_	8	F	8:F	_
+7	schlechte	_	Word	Word	_	8	D	8:D	_
+8	Aussichten	_	Word	Word	_	1	H	1:H	_
+9	für	_	Word	Word	_	11	R	11:R	_
+10	eine	_	Word	Word	_	11	F	11:F	_
+11	Blume	_	Word	Word	_	8	A	8:A	_
+12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	bemerkte	_	Word	Word	_	0	H	0:H	_
+15	der	_	Word	Word	_	17	F	17:F	_
+16	kleine	_	Word	Word	_	17	E	17:E	_
+17	Prinz	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+20	Diese	_	Word	Word	_	21	E	21:E	_
+21	Blume	_	Word	Word	_	24	A	24:A	_
+22	ist	_	Word	Word	_	24	F	24:F	_
+23	äußerst	_	Word	Word	_	24	D	24:D	_
+24	kompliziert	_	Word	Word	_	1	H	1:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+28	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+

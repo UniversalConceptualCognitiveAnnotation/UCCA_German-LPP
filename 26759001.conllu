@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26759001
+# text = Lange Zeit blieb dir nur die Lieblichkeit der Sonnenuntergänge , um dich zu zerstreuen .
+1	Lange	_	Word	Word	_	2	E	2:E	_
+2	Zeit	_	Word	Word	_	3	A	3:A	_
+3	blieb	_	Word	Word	_	0	H	0:H	_
+4	dir	_	Word	Word	_	3	A	3:A	_
+5	nur	_	Word	Word	_	3	D	3:D	_
+6	die	_	Word	Word	_	7	F	7:F	_
+7	Lieblichkeit	_	Word	Word	_	3	A	3:A	_
+8	der	_	Word	Word	_	9	R	9:R	_
+9	Sonnenuntergänge	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	um	_	Word	Word	_	14	L	14:L	_
+12	dich	_	Word	Word	_	14	A	14:A	_
+13	zu	_	Word	Word	_	14	F	14:F	_
+14	zerstreuen	_	Word	Word	_	3	H	3:H	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

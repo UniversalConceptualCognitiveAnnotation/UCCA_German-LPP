@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 26756017
+# text = Es ist schwierig , in meinem Alter wieder mit dem Zeichnen anzufangen , wenn man nie etwas Anderes versucht hat , als mit sechs Jahren eine geschlossene und eine offene Riesen schlange zu malen .
+1	Es	_	Word	Word	_	3	F	3:F	_
+2	ist	_	Word	Word	_	3	F	3:F	_
+3	schwierig	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	in	_	Word	Word	_	7	R	7:R	_
+6	meinem	_	Word	Word	_	7	E	7:E	_
+7	Alter	_	Word	Word	_	12	A	12:A	_
+8	wieder	_	Word	Word	_	12	D	12:D	_
+9	mit	_	Word	Word	_	11	R	11:R	_
+10	dem	_	Word	Word	_	11	F	11:F	_
+11	Zeichnen	_	Word	Word	_	12	A	12:A	_
+12	anzufangen	_	Word	Word	_	3	A	3:A	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	wenn	_	Word	Word	_	19	L	19:L	_
+15	man	_	Word	Word	_	19	A	19:A|34:A	_
+16	nie	_	Word	Word	_	19	T	19:T	_
+17	etwas	_	Word	Word	_	18	E	18:E	_
+18	Anderes	_	Word	Word	_	19	A	19:A	_
+19	versucht	_	Word	Word	_	3	H	3:H	_
+20	hat	_	Word	Word	_	19	F	19:F	_
+21	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+22	als	_	Word	Word	_	34	L	34:L	_
+23	mit	_	Word	Word	_	25	R	25:R	_
+24	sechs	_	Word	Word	_	25	E	25:E	_
+25	Jahren	_	Word	Word	_	34	T	34:T	_
+26	eine	_	Word	Word	_	32	F	32:F	_
+27	geschlossene	_	Word	Word	_	32	E	32:E	_
+28	und	_	Word	Word	_	27	N	27:N	_
+29	eine	_	Word	Word	_	30	F	30:F	_
+30	offene	_	Word	Word	_	27	C	27:C	_
+31	Riesen	_	Word	Word	_	32	E	32:E	_
+32	schlange	_	Word	Word	_	34	A	34:A	_
+33	zu	_	Word	Word	_	34	F	34:F	_
+34	malen	_	Word	Word	_	3	H	3:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26773001
+# text = Ah , ah ! Besuch eines Verehrers ! " , freute sich der Eitle als er den kleinen Prinzen sah .
+1	Ah	_	Word	Word	_	5	F	5:F	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	ah	_	Word	Word	_	5	F	5:F	_
+4	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Besuch	_	Word	Word	_	11	A	11:A	_
+6	eines	_	Word	Word	_	7	R	7:R	_
+7	Verehrers	_	Word	Word	_	5	A	5:A	_
+8	!	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	freute	_	Word	Word	_	0	H	0:H	_
+12	sich	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	der	_	Word	Word	_	14	F	14:F	_
+14	Eitle	_	Word	Word	_	11	A	11:A	_
+15	als	_	Word	Word	_	20	L	20:L	_
+16	er	_	Word	Word	_	20	A	20:A	_
+17	den	_	Word	Word	_	19	F	19:F	_
+18	kleinen	_	Word	Word	_	19	E	19:E	_
+19	Prinzen	_	Word	Word	_	20	A	20:A	_
+20	sah	_	Word	Word	_	11	H	11:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

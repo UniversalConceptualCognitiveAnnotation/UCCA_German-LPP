@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 26768010
+# text = Es gehört sich nicht , in Gegenwart eines Königs zu gähnen " , ermahnte ihn der Monarch . Ich untersage es dir . - "
+1	Es	_	Word	Word	_	2	F	2:F	_
+2	gehört	_	Word	Word	_	14	A	14:A	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	nicht	_	Word	Word	_	2	D	2:D	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Gegenwart	_	Word	Word	_	11	A	11:A	_
+8	eines	_	Word	Word	_	9	R	9:R	_
+9	Königs	_	Word	Word	_	7	A	7:A	_
+10	zu	_	Word	Word	_	11	F	11:F	_
+11	gähnen	_	Word	Word	_	2	H	2:H	_
+12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	ermahnte	_	Word	Word	_	0	H	0:H	_
+15	ihn	_	Word	Word	_	14	A	14:A	_
+16	der	_	Word	Word	_	17	F	17:F	_
+17	Monarch	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	Ich	_	Word	Word	_	20	A	20:A	_
+20	untersage	_	Word	Word	_	2	H	2:H	_
+21	es	_	Word	Word	_	20	A	20:A	_
+22	dir	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+25	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+

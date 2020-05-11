@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26812007
+# text = Etwas beruhigte ihn . - "
+1	Etwas	_	Word	Word	_	2	A	2:A	_
+2	beruhigte	_	Word	Word	_	0	H	0:H	_
+3	ihn	_	Word	Word	_	2	A	2:A	_
+4	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26800006
+# text = Der Zugführer weiß es selbst nicht " , sagte der Weichensteller .
+1	Der	_	Word	Word	_	2	F	2:F	_
+2	Zugführer	_	Word	Word	_	3	A	3:A	_
+3	weiß	_	Word	Word	_	9	A	9:A	_
+4	es	_	Word	Word	_	3	A	3:A	_
+5	selbst	_	Word	Word	_	3	D	3:D	_
+6	nicht	_	Word	Word	_	3	D	3:D	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	sagte	_	Word	Word	_	0	H	0:H	_
+10	der	_	Word	Word	_	11	F	11:F	_
+11	Weichensteller	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

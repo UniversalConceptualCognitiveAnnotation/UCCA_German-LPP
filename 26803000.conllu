@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26803000
+# text = Aber er antwortete nicht auf meine Frage .
+1	Aber	_	Word	Word	_	3	L	3:L	_
+2	er	_	Word	Word	_	3	A	3:A	_
+3	antwortete	_	Word	Word	_	0	H	0:H	_
+4	nicht	_	Word	Word	_	3	D	3:D	_
+5	auf	_	Word	Word	_	7	R	7:R	_
+6	meine	_	Word	Word	_	7	A	7:A	_
+7	Frage	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

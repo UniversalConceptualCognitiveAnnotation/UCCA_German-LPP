@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26776001
+# text = Der Mann war so beschäftigt , dass er bei der Ankunft des kleinen Prinzen nicht einmal den Kopf hob . - "
+1	Der	_	Word	Word	_	2	F	2:F	_
+2	Mann	_	Word	Word	_	5	A	5:A	_
+3	war	_	Word	Word	_	5	F	5:F	_
+4	so	_	Word	Word	_	11	L	11:L	_
+5	beschäftigt	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	dass	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	er	_	Word	Word	_	19	A	19:A	_
+9	bei	_	Word	Word	_	11	L	11:L	_
+10	der	_	Word	Word	_	11	F	11:F	_
+11	Ankunft	_	Word	Word	_	5	H	5:H	_
+12	des	_	Word	Word	_	14	F	14:F	_
+13	kleinen	_	Word	Word	_	14	E	14:E	_
+14	Prinzen	_	Word	Word	_	11	A	11:A	_
+15	nicht	_	Word	Word	_	16	E	16:E	_
+16	einmal	_	Word	Word	_	19	D	19:D	_
+17	den	_	Word	Word	_	18	F	18:F	_
+18	Kopf	_	Word	Word	_	19	A	19:A	_
+19	hob	_	Word	Word	_	5	H	5:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+

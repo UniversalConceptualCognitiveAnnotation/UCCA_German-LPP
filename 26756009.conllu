@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26756009
+# text = Denn ich mag es nicht , wenn man mein Buch so leichtfertig liest .
+1	Denn	_	Word	Word	_	13	L	13:L	_
+2	ich	_	Word	Word	_	3	A	3:A	_
+3	mag	_	Word	Word	_	0	H	0:H	_
+4	es	_	Word	Word	_	3	A	3:A	_
+5	nicht	_	Word	Word	_	3	D	3:D	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	wenn	_	Word	Word	_	13	L	13:L	_
+8	man	_	Word	Word	_	13	A	13:A	_
+9	mein	_	Word	Word	_	10	E	10:E	_
+10	Buch	_	Word	Word	_	13	A	13:A	_
+11	so	_	Word	Word	_	13	D	13:D	_
+12	leichtfertig	_	Word	Word	_	13	D	13:D	_
+13	liest	_	Word	Word	_	3	H	3:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

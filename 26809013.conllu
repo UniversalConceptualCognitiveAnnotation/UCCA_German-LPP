@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26809013
+# text = Kleiner Mann , du hattest Angst ... "
+1	Kleiner	_	Word	Word	_	2	E	2:E	_
+2	Mann	_	Word	Word	_	6	G	6:G	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	du	_	Word	Word	_	6	A	6:A	_
+5	hattest	_	Word	Word	_	6	F	6:F	_
+6	Angst	_	Word	Word	_	0	H	0:H	_
+7	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

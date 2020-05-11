@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26763011
+# text = Oh ja ! Sie war sehr eitel !
+1	Oh	_	Word	Word	_	0	H	0:H	_
+2	ja	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	Sie	_	Word	Word	_	7	A	7:A	_
+5	war	_	Word	Word	_	7	F	7:F	_
+6	sehr	_	Word	Word	_	7	D	7:D	_
+7	eitel	_	Word	Word	_	1	H	1:H	_
+8	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+

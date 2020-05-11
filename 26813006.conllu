@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 26813006
+# text = Er machte einen Schritt .
+1	Er	_	Word	Word	_	4	A	4:A	_
+2	machte	_	Word	Word	_	4	F	4:F	_
+3	einen	_	Word	Word	_	4	Q	4:Q	_
+4	Schritt	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

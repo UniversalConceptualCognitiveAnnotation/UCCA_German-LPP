@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26756021
+# text = Auch mit der Größe liege ich ein bisschen falsch .
+1	Auch	_	Word	Word	_	5	L	5:L	_
+2	mit	_	Word	Word	_	4	R	4:R	_
+3	der	_	Word	Word	_	4	F	4:F	_
+4	Größe	_	Word	Word	_	5	A	5:A	_
+5	liege	_	Word	Word	_	0	H	0:H	_
+6	ich	_	Word	Word	_	5	A	5:A	_
+7	ein	_	Word	Word	_	5	D	5:D	_
+8	bisschen	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	falsch	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

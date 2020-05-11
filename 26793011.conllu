@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26793011
+# text = Seine Blume hatte ihm erzählt , sie sei in dem ganzen Universum die einzige ihrer Art .
+1	Seine	_	Word	Word	_	2	E	2:E	_
+2	Blume	_	Word	Word	_	5	A	5:A	_
+3	hatte	_	Word	Word	_	5	F	5:F	_
+4	ihm	_	Word	Word	_	5	A	5:A	_
+5	erzählt	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	sie	_	Word	Word	_	8	A	8:A|14:A	_
+8	sei	_	Word	Word	_	5	H	5:H	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	dem	_	Word	Word	_	12	F	12:F	_
+11	ganzen	_	Word	Word	_	12	E	12:E	_
+12	Universum	_	Word	Word	_	8	A	8:A	_
+13	die	_	Word	Word	_	14	F	14:F	_
+14	einzige	_	Word	Word	_	8	A	8:A	_
+15	ihrer	_	Word	Word	_	16	R	16:R	_
+16	Art	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

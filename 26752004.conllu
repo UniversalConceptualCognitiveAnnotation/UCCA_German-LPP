@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26752004
+# text = Er beugte den Kopf über die Zeichnung : - " Na so klein auch nicht ... Schau ! Es ist eingeschlafen ... " Und so habe ich den kleinen Prinzen kennengelernt .
+1	Er	_	Word	Word	_	2	A	2:A|13:A	_
+2	beugte	_	Word	Word	_	0	H	0:H	_
+3	den	_	Word	Word	_	4	F	4:F	_
+4	Kopf	_	Word	Word	_	2	A	2:A	_
+5	über	_	Word	Word	_	7	R	7:R	_
+6	die	_	Word	Word	_	7	F	7:F	_
+7	Zeichnung	_	Word	Word	_	2	A	2:A	_
+8	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	Na	_	Word	Word	_	13	F	13:F	_
+12	so	_	Word	Word	_	13	D	13:D	_
+13	klein	_	Word	Word	_	2	H	2:H	_
+14	auch	_	Word	Word	_	15	E	15:E	_
+15	nicht	_	Word	Word	_	13	D	13:D	_
+16	...	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	Schau	_	Word	Word	_	13	H	13:H	_
+18	!	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	Es	_	Word	Word	_	21	A	21:A	_
+20	ist	_	Word	Word	_	21	F	21:F	_
+21	eingeschlafen	_	Word	Word	_	13	H	13:H	_
+22	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+23	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	Und	_	Word	Word	_	31	L	31:L	_
+25	so	_	Word	Word	_	31	D	31:D	_
+26	habe	_	Word	Word	_	31	F	31:F	_
+27	ich	_	Word	Word	_	31	A	31:A	_
+28	den	_	Word	Word	_	30	F	30:F	_
+29	kleinen	_	Word	Word	_	30	E	30:E	_
+30	Prinzen	_	Word	Word	_	31	A	31:A	_
+31	kennengelernt	_	Word	Word	_	2	H	2:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

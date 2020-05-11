@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26793004
+# text = Guten Tag " , sagten die Rosen .
+1	Guten	_	Word	Word	_	5	A	5:A	_
+2	Tag	_	Word	Word	_	1	A	1:A	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	sagten	_	Word	Word	_	0	H	0:H	_
+6	die	_	Word	Word	_	7	F	7:F	_
+7	Rosen	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

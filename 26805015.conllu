@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26805015
+# text = Es war entstanden aus dem Marsch unter den Sternen , aus dem Gesang der Brunnen winde , aus der Anstrengung meiner Arme .
+1	Es	_	Word	Word	_	3	A	3:A	_
+2	war	_	Word	Word	_	3	F	3:F	_
+3	entstanden	_	Word	Word	_	0	H	0:H	_
+4	aus	_	Word	Word	_	6	R	6:R	_
+5	dem	_	Word	Word	_	6	F	6:F	_
+6	Marsch	_	Word	Word	_	3	A	3:A	_
+7	unter	_	Word	Word	_	9	R	9:R	_
+8	den	_	Word	Word	_	9	F	9:F	_
+9	Sternen	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	aus	_	Word	Word	_	13	R	13:R	_
+12	dem	_	Word	Word	_	13	F	13:F	_
+13	Gesang	_	Word	Word	_	6	C	6:C	_
+14	der	_	Word	Word	_	16	R	16:R	_
+15	Brunnen	_	Word	Word	_	16	E	16:E	_
+16	winde	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	aus	_	Word	Word	_	20	R	20:R	_
+19	der	_	Word	Word	_	20	F	20:F	_
+20	Anstrengung	_	Word	Word	_	6	C	6:C	_
+21	meiner	_	Word	Word	_	22	R	22:R	_
+22	Arme	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

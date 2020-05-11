@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 26770001
+# text = Wenn er sie selbst besäße , könnte er nicht nur vierundvierzig , sondern zweiundsiebzig oder gar hundert oder zweihundert Sonnenuntergänge an einem Tag sehen , ohne nur ein einziges Mal seinen Stuhl zu verrücken !
+1	Wenn	_	Word	Word	_	24	L	24:L	_
+2	er	_	Word	Word	_	5	A	5:A	_
+3	sie	_	Word	Word	_	5	A	5:A	_
+4	selbst	_	Word	Word	_	5	D	5:D	_
+5	besäße	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	könnte	_	Word	Word	_	24	D	24:D	_
+8	er	_	Word	Word	_	24	A	24:A|34:A	_
+9	nicht	_	Word	Word	_	11	N	11:N	_
+10	nur	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	vierundvierzig	_	Word	Word	_	24	A	24:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	sondern	_	Word	Word	_	11	N	11:N	_
+14	zweiundsiebzig	_	Word	Word	_	11	C	11:C	_
+15	oder	_	Word	Word	_	11	N	11:N	_
+16	gar	_	Word	Word	_	17	E	17:E	_
+17	hundert	_	Word	Word	_	11	C	11:C	_
+18	oder	_	Word	Word	_	11	N	11:N	_
+19	zweihundert	_	Word	Word	_	20	Q	20:Q	_
+20	Sonnenuntergänge	_	Word	Word	_	0	C	0:C|11:C|14:C|17:C	_
+21	an	_	Word	Word	_	23	R	23:R	_
+22	einem	_	Word	Word	_	23	Q	23:Q	_
+23	Tag	_	Word	Word	_	24	T	24:T	_
+24	sehen	_	Word	Word	_	5	H	5:H	_
+25	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	ohne	_	Word	Word	_	34	L	34:L|34:D	_
+27	nur	_	Word	Word	_	34	D	34:D	_
+28	ein	_	Word	Word	_	34	D	34:D	_
+29	einziges	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	Mal	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	seinen	_	Word	Word	_	32	E	32:E	_
+32	Stuhl	_	Word	Word	_	34	A	34:A	_
+33	zu	_	Word	Word	_	34	F	34:F	_
+34	verrücken	_	Word	Word	_	5	H	5:H	_
+35	!	_	Punctuation	Punctuation	_	34	U	34:U	_
+

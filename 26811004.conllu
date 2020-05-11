@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 26811004
+# text = Wenn du nachts in den Himmel schaust , wird es für dich sein , als lachten alle Sterne , weil ich auf einem von ihnen wohnen werde , weil ich auf einem von ihnen lachen werde . Du wirst Sterne haben , die lachen können ! "
+1	Wenn	_	Word	Word	_	13	L	13:L	_
+2	du	_	Word	Word	_	7	A	7:A	_
+3	nachts	_	Word	Word	_	7	T	7:T	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	den	_	Word	Word	_	6	F	6:F	_
+6	Himmel	_	Word	Word	_	7	A	7:A	_
+7	schaust	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	wird	_	Word	Word	_	13	F	13:F	_
+10	es	_	Word	Word	_	13	A	13:A	_
+11	für	_	Word	Word	_	12	R	12:R	_
+12	dich	_	Word	Word	_	13	A	13:A	_
+13	sein	_	Word	Word	_	7	H	7:H	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	als	_	Word	Word	_	16	L	16:L	_
+16	lachten	_	Word	Word	_	7	H	7:H	_
+17	alle	_	Word	Word	_	18	Q	18:Q	_
+18	Sterne	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+20	weil	_	Word	Word	_	26	L	26:L	_
+21	ich	_	Word	Word	_	26	A	26:A	_
+22	auf	_	Word	Word	_	23	R	23:R	_
+23	einem	_	Word	Word	_	26	A	26:A	_
+24	von	_	Word	Word	_	25	R	25:R	_
+25	ihnen	_	Word	Word	_	23	E	23:E	_
+26	wohnen	_	Word	Word	_	7	H	7:H	_
+27	werde	_	Word	Word	_	26	F	26:F	_
+28	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+29	weil	_	Word	Word	_	35	L	35:L	_
+30	ich	_	Word	Word	_	35	A	35:A	_
+31	auf	_	Word	Word	_	32	R	32:R	_
+32	einem	_	Word	Word	_	35	A	35:A	_
+33	von	_	Word	Word	_	34	R	34:R	_
+34	ihnen	_	Word	Word	_	32	E	32:E	_
+35	lachen	_	Word	Word	_	7	H	7:H	_
+36	werde	_	Word	Word	_	35	F	35:F	_
+37	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+38	Du	_	Word	Word	_	41	A	41:A	_
+39	wirst	_	Word	Word	_	41	F	41:F	_
+40	Sterne	_	Word	Word	_	41	A	41:A	_
+41	haben	_	Word	Word	_	7	H	7:H	_
+42	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+43	die	_	Word	Word	_	44	R	44:R	_
+44	lachen	_	Word	Word	_	40	E	40:E	_
+45	können	_	Word	Word	_	44	D	44:D	_
+46	!	_	Punctuation	Punctuation	_	44	U	44:U	_
+47	"	_	Punctuation	Punctuation	_	44	U	44:U	_
+

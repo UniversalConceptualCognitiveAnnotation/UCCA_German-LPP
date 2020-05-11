@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26770000
+# text = - Der kleine Prinz bewunderte solch eine große Macht .
+1	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	Der	_	Word	Word	_	4	F	4:F	_
+3	kleine	_	Word	Word	_	4	E	4:E	_
+4	Prinz	_	Word	Word	_	5	A	5:A	_
+5	bewunderte	_	Word	Word	_	0	H	0:H	_
+6	solch	_	Word	Word	_	5	D	5:D	_
+7	eine	_	Word	Word	_	9	F	9:F	_
+8	große	_	Word	Word	_	9	D	9:D	_
+9	Macht	_	Word	Word	_	5	A	5:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

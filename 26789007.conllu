@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 26789007
+# text = Der kleine Prinz schaute sie lange an : - " Du bist ein lustiges Tier " , sagte er schließlich , " so dünn wie ein Finger ... " - " Aber ich bin mächtiger als der Finger eines Königs " , sagte die Schlange .
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	4	A	4:A	_
+4	schaute	_	Word	Word	_	0	H	0:H	_
+5	sie	_	Word	Word	_	4	A	4:A	_
+6	lange	_	Word	Word	_	4	D	4:D	_
+7	an	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	Du	_	Word	Word	_	12	A	12:A	_
+12	bist	_	Word	Word	_	18	A	18:A	_
+13	ein	_	Word	Word	_	15	F	15:F	_
+14	lustiges	_	Word	Word	_	15	E	15:E	_
+15	Tier	_	Word	Word	_	12	A	12:A	_
+16	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	sagte	_	Word	Word	_	4	H	4:H	_
+19	er	_	Word	Word	_	18	A	18:A	_
+20	schließlich	_	Word	Word	_	18	D	18:D	_
+21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	so	_	Word	Word	_	24	D	24:D	_
+24	dünn	_	Word	Word	_	12	H	12:H	_
+25	wie	_	Word	Word	_	27	R	27:R	_
+26	ein	_	Word	Word	_	27	F	27:F	_
+27	Finger	_	Word	Word	_	24	A	24:A	_
+28	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+29	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+30	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+31	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+32	Aber	_	Word	Word	_	35	L	35:L	_
+33	ich	_	Word	Word	_	35	A	35:A	_
+34	bin	_	Word	Word	_	35	F	35:F	_
+35	mächtiger	_	Word	Word	_	43	A	43:A	_
+36	als	_	Word	Word	_	38	R	38:R	_
+37	der	_	Word	Word	_	38	F	38:F	_
+38	Finger	_	Word	Word	_	35	A	35:A	_
+39	eines	_	Word	Word	_	40	R	40:R	_
+40	Königs	_	Word	Word	_	38	E	38:E	_
+41	"	_	Punctuation	Punctuation	_	43	U	43:U	_
+42	,	_	Punctuation	Punctuation	_	43	U	43:U	_
+43	sagte	_	Word	Word	_	4	H	4:H	_
+44	die	_	Word	Word	_	45	F	45:F	_
+45	Schlange	_	Word	Word	_	43	A	43:A	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

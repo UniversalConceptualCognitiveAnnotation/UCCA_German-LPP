@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26763004
+# text = Das konnte eine neue Art des Affenbrotbaumes sein .
+1	Das	_	Word	Word	_	8	A	8:A	_
+2	konnte	_	Word	Word	_	8	D	8:D	_
+3	eine	_	Word	Word	_	5	F	5:F	_
+4	neue	_	Word	Word	_	5	E	5:E	_
+5	Art	_	Word	Word	_	8	A	8:A	_
+6	des	_	Word	Word	_	7	R	7:R	_
+7	Affenbrotbaumes	_	Word	Word	_	5	E	5:E	_
+8	sein	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

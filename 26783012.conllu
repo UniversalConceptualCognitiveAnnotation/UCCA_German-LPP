@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26783012
+# text = Er schaute sich den Planeten des Geographen an .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	schaute	_	Word	Word	_	0	H	0:H	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	den	_	Word	Word	_	5	F	5:F	_
+5	Planeten	_	Word	Word	_	2	A	2:A	_
+6	des	_	Word	Word	_	7	R	7:R	_
+7	Geographen	_	Word	Word	_	5	E	5:E	_
+8	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+9	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

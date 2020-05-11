@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26769000
+# text = - " Hm ! Hm ! " machte der König ... Dann befehle ich dir mal zu gähnen und mal zu ... " Er stammelte ein wenig und schien verärgert .
+1	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+3	Hm	_	Word	Word	_	8	A	8:A	_
+4	!	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Hm	_	Word	Word	_	3	F	3:F	_
+6	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	machte	_	Word	Word	_	0	H	0:H	_
+9	der	_	Word	Word	_	10	F	10:F	_
+10	König	_	Word	Word	_	8	A	8:A	_
+11	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	Dann	_	Word	Word	_	13	L	13:L	_
+13	befehle	_	Word	Word	_	3	H	3:H	_
+14	ich	_	Word	Word	_	13	A	13:A	_
+15	dir	_	Word	Word	_	13	A	13:A|18:A|20:A	_
+16	mal	_	Word	Word	_	18	D	18:D	_
+17	zu	_	Word	Word	_	18	F	18:F	_
+18	gähnen	_	Word	Word	_	13	A	13:A	_
+19	und	_	Word	Word	_	20	L	20:L	_
+20	mal	_	Word	Word	_	18	H	18:H	_
+21	zu	_	Word	Word	_	20	F	20:F	_
+22	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+24	Er	_	Word	Word	_	25	A	25:A|30:A	_
+25	stammelte	_	Word	Word	_	8	H	8:H	_
+26	ein	_	Word	Word	_	25	D	25:D	_
+27	wenig	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	und	_	Word	Word	_	30	L	30:L	_
+29	schien	_	Word	Word	_	30	G	30:G	_
+30	verärgert	_	Word	Word	_	8	H	8:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

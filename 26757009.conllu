@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26757009
+# text = Über die Idee mit den Elefanten musste der kleine Prinz lachen : - " Man müsste sie übereinander stapeln . "
+1	Über	_	Word	Word	_	3	R	3:R	_
+2	die	_	Word	Word	_	3	F	3:F	_
+3	Idee	_	Word	Word	_	11	A	11:A	_
+4	mit	_	Word	Word	_	6	R	6:R	_
+5	den	_	Word	Word	_	6	F	6:F	_
+6	Elefanten	_	Word	Word	_	3	E	3:E	_
+7	musste	_	Word	Word	_	11	D	11:D	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	11	A	11:A	_
+11	lachen	_	Word	Word	_	0	H	0:H	_
+12	:	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	Man	_	Word	Word	_	19	A	19:A	_
+16	müsste	_	Word	Word	_	19	D	19:D	_
+17	sie	_	Word	Word	_	19	A	19:A	_
+18	übereinander	_	Word	Word	_	19	D	19:D	_
+19	stapeln	_	Word	Word	_	11	H	11:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+

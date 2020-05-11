@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 26755001
+# text = Das wunderte mich nicht .
+1	Das	_	Word	Word	_	2	A	2:A	_
+2	wunderte	_	Word	Word	_	0	H	0:H	_
+3	mich	_	Word	Word	_	2	A	2:A	_
+4	nicht	_	Word	Word	_	2	D	2:D	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

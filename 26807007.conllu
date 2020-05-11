@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26807007
+# text = Der kleine Prinz errötete wieder .
+1	Der	_	Word	Word	_	3	F	3:F	_
+2	kleine	_	Word	Word	_	3	E	3:E	_
+3	Prinz	_	Word	Word	_	4	A	4:A	_
+4	errötete	_	Word	Word	_	0	H	0:H	_
+5	wieder	_	Word	Word	_	4	D	4:D	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26812008
+# text = Sie haben nicht ausreichend Gift für einen zweiten Biss ... " In dieser Nacht habe ich nicht gesehen , wie er sich auf den Weg machte .
+1	Sie	_	Word	Word	_	4	A	4:A|9:A	_
+2	haben	_	Word	Word	_	4	F	4:F	_
+3	nicht	_	Word	Word	_	4	D	4:D	_
+4	ausreichend	_	Word	Word	_	0	H	0:H	_
+5	Gift	_	Word	Word	_	4	A	4:A	_
+6	für	_	Word	Word	_	9	R	9:R	_
+7	einen	_	Word	Word	_	9	F	9:F	_
+8	zweiten	_	Word	Word	_	9	E	9:E	_
+9	Biss	_	Word	Word	_	4	A	4:A	_
+10	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	In	_	Word	Word	_	14	R	14:R	_
+13	dieser	_	Word	Word	_	14	E	14:E	_
+14	Nacht	_	Word	Word	_	18	T	18:T	_
+15	habe	_	Word	Word	_	18	F	18:F	_
+16	ich	_	Word	Word	_	18	A	18:A	_
+17	nicht	_	Word	Word	_	18	D	18:D	_
+18	gesehen	_	Word	Word	_	4	H	4:H	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	wie	_	Word	Word	_	22	R	22:R	_
+21	er	_	Word	Word	_	22	A	22:A	_
+22	sich	_	Word	Word	_	18	A	18:A	_
+23	auf	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	den	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	Weg	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	machte	_	Word	Word	_	22	Terminal	22:Terminal	_
+27	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

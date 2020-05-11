@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26813003
+# text = Und er setzte sich hin , denn er hatte Angst .
+1	Und	_	Word	Word	_	10	L	10:L	_
+2	er	_	Word	Word	_	3	A	3:A	_
+3	setzte	_	Word	Word	_	0	H	0:H	_
+4	sich	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	hin	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	denn	_	Word	Word	_	10	L	10:L	_
+8	er	_	Word	Word	_	10	A	10:A	_
+9	hatte	_	Word	Word	_	10	F	10:F	_
+10	Angst	_	Word	Word	_	3	H	3:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

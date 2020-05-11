@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26777004
+# text = Ah , die Sterne ? " - "
+1	Ah	_	Word	Word	_	4	F	4:F	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	die	_	Word	Word	_	4	F	4:F	_
+4	Sterne	_	Word	Word	_	0	H	0:H	_
+5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+

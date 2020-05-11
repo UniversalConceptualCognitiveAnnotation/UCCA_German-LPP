@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26775006
+# text = Für was schämst du dich ? " ,
+1	Für	_	Word	Word	_	2	R	2:R	_
+2	was	_	Word	Word	_	3	A	3:A	_
+3	schämst	_	Word	Word	_	0	H	0:H	_
+4	du	_	Word	Word	_	3	A	3:A	_
+5	dich	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+

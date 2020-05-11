@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26783020
+# text = Aber Sie sind doch Geograph ! " - "
+1	Aber	_	Word	Word	_	3	L	3:L	_
+2	Sie	_	Word	Word	_	3	A	3:A	_
+3	sind	_	Word	Word	_	0	H	0:H	_
+4	doch	_	Word	Word	_	3	D	3:D	_
+5	Geograph	_	Word	Word	_	3	A	3:A	_
+6	!	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+

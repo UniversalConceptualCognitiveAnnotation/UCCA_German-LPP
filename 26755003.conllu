@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26755003
+# text = Wenn ein Astronom einen von ihnen entdeckt , so gibt er ihm eine Nummer anstelle eines Namens .
+1	Wenn	_	Word	Word	_	10	L	10:L	_
+2	ein	_	Word	Word	_	3	F	3:F	_
+3	Astronom	_	Word	Word	_	7	A	7:A	_
+4	einen	_	Word	Word	_	7	A	7:A	_
+5	von	_	Word	Word	_	6	R	6:R	_
+6	ihnen	_	Word	Word	_	4	E	4:E	_
+7	entdeckt	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	so	_	Word	Word	_	10	L	10:L	_
+10	gibt	_	Word	Word	_	7	H	7:H	_
+11	er	_	Word	Word	_	10	A	10:A	_
+12	ihm	_	Word	Word	_	10	A	10:A	_
+13	eine	_	Word	Word	_	14	F	14:F	_
+14	Nummer	_	Word	Word	_	10	A	10:A	_
+15	anstelle	_	Word	Word	_	10	D	10:D	_
+16	eines	_	Word	Word	_	17	F	17:F	_
+17	Namens	_	Word	Word	_	10	A	10:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

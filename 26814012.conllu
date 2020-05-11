@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26814012
+# text = Und alle Sterne lächeln sanft .
+1	Und	_	Word	Word	_	4	L	4:L	_
+2	alle	_	Word	Word	_	3	Q	3:Q	_
+3	Sterne	_	Word	Word	_	4	A	4:A	_
+4	lächeln	_	Word	Word	_	0	H	0:H	_
+5	sanft	_	Word	Word	_	4	D	4:D	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

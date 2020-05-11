@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26758003
+# text = Ungern klinge ich wie ein Moralapostel .
+1	Ungern	_	Word	Word	_	2	D	2:D	_
+2	klinge	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	wie	_	Word	Word	_	6	R	6:R	_
+5	ein	_	Word	Word	_	6	F	6:F	_
+6	Moralapostel	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

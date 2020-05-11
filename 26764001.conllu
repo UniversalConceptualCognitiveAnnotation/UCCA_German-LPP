@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26764001
+# text = Es ist bald Zeit zu dem Frühstücken " , fügte sie kurz darauf hinzu . " Hätten Sie die Güte , an mich zu denken ? "
+1	Es	_	Word	Word	_	7	F	7:F	_
+2	ist	_	Word	Word	_	7	F	7:F	_
+3	bald	_	Word	Word	_	7	T	7:T	_
+4	Zeit	_	Word	Word	_	7	A	7:A	_
+5	zu	_	Word	Word	_	7	R	7:R	_
+6	dem	_	Word	Word	_	7	F	7:F	_
+7	Frühstücken	_	Word	Word	_	10	A	10:A	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	fügte	_	Word	Word	_	0	H	0:H	_
+11	sie	_	Word	Word	_	10	A	10:A	_
+12	kurz	_	Word	Word	_	13	E	13:E	_
+13	darauf	_	Word	Word	_	10	T	10:T	_
+14	hinzu	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	Hätten	_	Word	Word	_	25	F	25:F	_
+18	Sie	_	Word	Word	_	25	A	25:A	_
+19	die	_	Word	Word	_	20	F	20:F	_
+20	Güte	_	Word	Word	_	25	D	25:D	_
+21	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+22	an	_	Word	Word	_	23	R	23:R	_
+23	mich	_	Word	Word	_	25	A	25:A	_
+24	zu	_	Word	Word	_	25	F	25:F	_
+25	denken	_	Word	Word	_	7	H	7:H	_
+26	?	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+

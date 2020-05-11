@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26769008
+# text = Aber der kleine Prinz wunderte sich .
+1	Aber	_	Word	Word	_	5	L	5:L	_
+2	der	_	Word	Word	_	4	F	4:F	_
+3	kleine	_	Word	Word	_	4	E	4:E	_
+4	Prinz	_	Word	Word	_	5	A	5:A	_
+5	wunderte	_	Word	Word	_	0	H	0:H	_
+6	sich	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

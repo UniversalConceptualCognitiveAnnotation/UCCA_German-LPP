@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 26794005
+# text = Komm spiel mit mir " , schlug der kleine Prinz vor . " Ich bin so traurig ... " - " Ich kann nicht mit dir spielen " , sagte der Fuchs . " Ich bin nicht gezähmt . " - "
+1	Komm	_	Word	Word	_	2	D	2:D	_
+2	spiel	_	Word	Word	_	7	A	7:A	_
+3	mit	_	Word	Word	_	4	R	4:R	_
+4	mir	_	Word	Word	_	2	A	2:A	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	schlug	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	7	A	7:A	_
+11	vor	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+14	Ich	_	Word	Word	_	17	A	17:A	_
+15	bin	_	Word	Word	_	17	F	17:F	_
+16	so	_	Word	Word	_	17	D	17:D	_
+17	traurig	_	Word	Word	_	2	H	2:H	_
+18	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+19	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+20	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+22	Ich	_	Word	Word	_	27	A	27:A	_
+23	kann	_	Word	Word	_	27	D	27:D	_
+24	nicht	_	Word	Word	_	27	D	27:D	_
+25	mit	_	Word	Word	_	26	R	26:R	_
+26	dir	_	Word	Word	_	27	A	27:A	_
+27	spielen	_	Word	Word	_	30	A	30:A	_
+28	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+29	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	sagte	_	Word	Word	_	7	H	7:H	_
+31	der	_	Word	Word	_	32	F	32:F	_
+32	Fuchs	_	Word	Word	_	30	A	30:A	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+34	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+35	Ich	_	Word	Word	_	38	A	38:A	_
+36	bin	_	Word	Word	_	38	F	38:F	_
+37	nicht	_	Word	Word	_	38	D	38:D	_
+38	gezähmt	_	Word	Word	_	27	H	27:H	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+41	-	_	Punctuation	Punctuation	_	38	U	38:U	_
+42	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

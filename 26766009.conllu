@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26766009
+# text = Vulkanische Ausbrüche sind so wie Kamin feuer .
+1	Vulkanische	_	Word	Word	_	2	D	2:D	_
+2	Ausbrüche	_	Word	Word	_	4	A	4:A	_
+3	sind	_	Word	Word	_	4	F	4:F	_
+4	so	_	Word	Word	_	0	H	0:H	_
+5	wie	_	Word	Word	_	7	R	7:R	_
+6	Kamin	_	Word	Word	_	7	E	7:E	_
+7	feuer	_	Word	Word	_	4	A	4:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

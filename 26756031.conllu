@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26756031
+# text = Vielleicht bin ich doch schon ein bisschen wie die Erwachsenen .
+1	Vielleicht	_	Word	Word	_	2	G	2:G	_
+2	bin	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	doch	_	Word	Word	_	2	D	2:D	_
+5	schon	_	Word	Word	_	2	D	2:D	_
+6	ein	_	Word	Word	_	7	F	7:F	_
+7	bisschen	_	Word	Word	_	2	D	2:D	_
+8	wie	_	Word	Word	_	10	R	10:R	_
+9	die	_	Word	Word	_	10	F	10:F	_
+10	Erwachsenen	_	Word	Word	_	2	A	2:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

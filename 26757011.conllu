@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26757011
+# text = Das stimmt ! Aber warum möchtest du , dass deine Schafe die kleinen Affenbrotbäume fressen ? "
+1	Das	_	Word	Word	_	2	A	2:A	_
+2	stimmt	_	Word	Word	_	0	H	0:H	_
+3	!	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Aber	_	Word	Word	_	6	L	6:L	_
+5	warum	_	Word	Word	_	6	A	6:A	_
+6	möchtest	_	Word	Word	_	2	H	2:H	_
+7	du	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	dass	_	Word	Word	_	15	R	15:R	_
+10	deine	_	Word	Word	_	11	E	11:E	_
+11	Schafe	_	Word	Word	_	15	A	15:A	_
+12	die	_	Word	Word	_	14	F	14:F	_
+13	kleinen	_	Word	Word	_	14	E	14:E	_
+14	Affenbrotbäume	_	Word	Word	_	15	A	15:A	_
+15	fressen	_	Word	Word	_	6	A	6:A	_
+16	?	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26804005
+# text = Man muss Kerzen gut schützen : Schon ein Wind stoß kann sie auslöschen .
+1	Man	_	Word	Word	_	5	A	5:A	_
+2	muss	_	Word	Word	_	5	D	5:D	_
+3	Kerzen	_	Word	Word	_	5	A	5:A	_
+4	gut	_	Word	Word	_	5	D	5:D	_
+5	schützen	_	Word	Word	_	0	H	0:H	_
+6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Schon	_	Word	Word	_	13	D	13:D	_
+8	ein	_	Word	Word	_	10	F	10:F	_
+9	Wind	_	Word	Word	_	10	E	10:E	_
+10	stoß	_	Word	Word	_	13	A	13:A	_
+11	kann	_	Word	Word	_	13	D	13:D	_
+12	sie	_	Word	Word	_	13	A	13:A	_
+13	auslöschen	_	Word	Word	_	5	H	5:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26759008
+# text = Aber auf deinem kleinen Planeten , da musst du nur den Stuhl um ein paar Schritte verrücken und schon siehst du die Abenddämmerung , wann immer du willst . - "
+1	Aber	_	Word	Word	_	20	L	20:L	_
+2	auf	_	Word	Word	_	5	R	5:R	_
+3	deinem	_	Word	Word	_	5	E	5:E	_
+4	kleinen	_	Word	Word	_	5	E	5:E	_
+5	Planeten	_	Word	Word	_	17	A	17:A	_
+6	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+7	da	_	Word	Word	_	17	F	17:F	_
+8	musst	_	Word	Word	_	17	D	17:D	_
+9	du	_	Word	Word	_	17	A	17:A	_
+10	nur	_	Word	Word	_	17	D	17:D	_
+11	den	_	Word	Word	_	12	F	12:F	_
+12	Stuhl	_	Word	Word	_	17	A	17:A	_
+13	um	_	Word	Word	_	16	R	16:R	_
+14	ein	_	Word	Word	_	16	Q	16:Q	_
+15	paar	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Schritte	_	Word	Word	_	17	A	17:A	_
+17	verrücken	_	Word	Word	_	0	H	0:H	_
+18	und	_	Word	Word	_	20	L	20:L	_
+19	schon	_	Word	Word	_	20	D	20:D	_
+20	siehst	_	Word	Word	_	17	H	17:H	_
+21	du	_	Word	Word	_	20	A	20:A	_
+22	die	_	Word	Word	_	23	F	23:F	_
+23	Abenddämmerung	_	Word	Word	_	20	A	20:A	_
+24	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+25	wann	_	Word	Word	_	28	T	28:T	_
+26	immer	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	du	_	Word	Word	_	28	A	28:A	_
+28	willst	_	Word	Word	_	17	H	17:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+

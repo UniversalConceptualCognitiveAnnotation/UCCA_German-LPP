@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26750002
+# text = Und weil ich weder einen Mechaniker , noch Passagiere bei mir hatte , bereitete ich mich darauf vor , die schwierige Reparatur ganz allein vorzunehmen .
+1	Und	_	Word	Word	_	14	L	14:L	_
+2	weil	_	Word	Word	_	14	L	14:L	_
+3	ich	_	Word	Word	_	11	A	11:A	_
+4	weder	_	Word	Word	_	11	D	11:D	_
+5	einen	_	Word	Word	_	6	F	6:F	_
+6	Mechaniker	_	Word	Word	_	11	A	11:A	_
+7	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+8	noch	_	Word	Word	_	4	Terminal	4:Terminal	_
+9	Passagiere	_	Word	Word	_	6	C	6:C	_
+10	bei	_	Word	Word	_	11	R	11:R	_
+11	mir	_	Word	Word	_	0	H	0:H	_
+12	hatte	_	Word	Word	_	11	F	11:F	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	bereitete	_	Word	Word	_	11	H	11:H	_
+15	ich	_	Word	Word	_	14	A	14:A|25:A	_
+16	mich	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	darauf	_	Word	Word	_	14	F	14:F	_
+18	vor	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+20	die	_	Word	Word	_	22	F	22:F	_
+21	schwierige	_	Word	Word	_	22	D	22:D	_
+22	Reparatur	_	Word	Word	_	25	A	25:A	_
+23	ganz	_	Word	Word	_	24	E	24:E	_
+24	allein	_	Word	Word	_	25	D	25:D	_
+25	vorzunehmen	_	Word	Word	_	14	A	14:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

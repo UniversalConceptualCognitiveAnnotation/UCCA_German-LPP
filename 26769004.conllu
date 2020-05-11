@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26769004
+# text = Doch weil er sehr gütig war , gab er vernünftige Befehle . - "
+1	Doch	_	Word	Word	_	11	L	11:L	_
+2	weil	_	Word	Word	_	11	L	11:L	_
+3	er	_	Word	Word	_	5	A	5:A	_
+4	sehr	_	Word	Word	_	5	D	5:D	_
+5	gütig	_	Word	Word	_	0	H	0:H	_
+6	war	_	Word	Word	_	5	F	5:F	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	gab	_	Word	Word	_	11	D	11:D	_
+9	er	_	Word	Word	_	11	A	11:A	_
+10	vernünftige	_	Word	Word	_	11	D	11:D	_
+11	Befehle	_	Word	Word	_	5	H	5:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26759011
+# text = Also warst du an dem Tag mit den dreiundvierzig Mal besonders traurig ? "
+1	Also	_	Word	Word	_	12	L	12:L	_
+2	warst	_	Word	Word	_	12	F	12:F	_
+3	du	_	Word	Word	_	12	A	12:A	_
+4	an	_	Word	Word	_	6	R	6:R	_
+5	dem	_	Word	Word	_	6	F	6:F	_
+6	Tag	_	Word	Word	_	12	A	12:A	_
+7	mit	_	Word	Word	_	10	R	10:R	_
+8	den	_	Word	Word	_	10	F	10:F	_
+9	dreiundvierzig	_	Word	Word	_	10	Q	10:Q	_
+10	Mal	_	Word	Word	_	6	E	6:E	_
+11	besonders	_	Word	Word	_	12	D	12:D	_
+12	traurig	_	Word	Word	_	0	H	0:H	_
+13	?	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+

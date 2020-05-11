@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26803016
+# text = Aber er verzauberte das ganze Haus .
+1	Aber	_	Word	Word	_	3	L	3:L	_
+2	er	_	Word	Word	_	3	A	3:A	_
+3	verzauberte	_	Word	Word	_	0	H	0:H	_
+4	das	_	Word	Word	_	6	F	6:F	_
+5	ganze	_	Word	Word	_	6	E	6:E	_
+6	Haus	_	Word	Word	_	3	A	3:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

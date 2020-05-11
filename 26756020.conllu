@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26756020
+# text = Das eine Bild gelingt , das andere hat schon keine Ähnlichkeit mehr .
+1	Das	_	Word	Word	_	3	F	3:F	_
+2	eine	_	Word	Word	_	3	F	3:F	_
+3	Bild	_	Word	Word	_	0	C	0:C|7:C	_
+4	gelingt	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	das	_	Word	Word	_	7	F	7:F	_
+7	andere	_	Word	Word	_	11	A	11:A	_
+8	hat	_	Word	Word	_	11	F	11:F	_
+9	schon	_	Word	Word	_	11	D	11:D	_
+10	keine	_	Word	Word	_	11	D	11:D	_
+11	Ähnlichkeit	_	Word	Word	_	4	H	4:H	_
+12	mehr	_	Word	Word	_	10	E	10:E	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

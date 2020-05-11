@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 26762003
+# text = Die Nacht war hereingebrochen .
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Nacht	_	Word	Word	_	4	A	4:A	_
+3	war	_	Word	Word	_	4	F	4:F	_
+4	hereingebrochen	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

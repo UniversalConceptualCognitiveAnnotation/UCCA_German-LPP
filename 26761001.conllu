@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26761001
+# text = Er schaute mich erstaunt an . - "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	schaute	_	Word	Word	_	0	H	0:H	_
+3	mich	_	Word	Word	_	2	A	2:A	_
+4	erstaunt	_	Word	Word	_	2	D	2:D	_
+5	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+

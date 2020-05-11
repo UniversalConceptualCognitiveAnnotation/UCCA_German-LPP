@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26792010
+# text = Was für ein komischer Planet ! dachte er .
+1	Was	_	Word	Word	_	4	A	4:A	_
+2	für	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	ein	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	komischer	_	Word	Word	_	7	A	7:A	_
+5	Planet	_	Word	Word	_	4	A	4:A	_
+6	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	dachte	_	Word	Word	_	0	H	0:H	_
+8	er	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

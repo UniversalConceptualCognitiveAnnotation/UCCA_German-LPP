@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26814005
+# text = Aber ich weiß , dass er auf seinem Planeten gelandet ist , denn bei Tages anbruch habe ich seinen Körper nicht wiedergefunden .
+1	Aber	_	Word	Word	_	22	L	22:L	_
+2	ich	_	Word	Word	_	3	A	3:A	_
+3	weiß	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	dass	_	Word	Word	_	10	R	10:R	_
+6	er	_	Word	Word	_	10	A	10:A	_
+7	auf	_	Word	Word	_	9	R	9:R	_
+8	seinem	_	Word	Word	_	9	E	9:E	_
+9	Planeten	_	Word	Word	_	10	A	10:A	_
+10	gelandet	_	Word	Word	_	3	A	3:A	_
+11	ist	_	Word	Word	_	10	F	10:F	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	denn	_	Word	Word	_	22	L	22:L	_
+14	bei	_	Word	Word	_	16	R	16:R	_
+15	Tages	_	Word	Word	_	16	E	16:E	_
+16	anbruch	_	Word	Word	_	22	T	22:T	_
+17	habe	_	Word	Word	_	22	F	22:F	_
+18	ich	_	Word	Word	_	22	A	22:A	_
+19	seinen	_	Word	Word	_	20	E	20:E	_
+20	Körper	_	Word	Word	_	22	A	22:A	_
+21	nicht	_	Word	Word	_	22	D	22:D	_
+22	wiedergefunden	_	Word	Word	_	3	H	3:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

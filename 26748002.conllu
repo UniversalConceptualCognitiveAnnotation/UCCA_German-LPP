@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 26748002
+# text = Hier ist das Bild mal nachgezeichnet : In dem Buch hieß es : " Riesen schlangen verschlingen ihre Beute in einem Stück , ohne sie zu zerkauen . Danach können sie sich nicht mehr bewegen und halten sechs Monate lang Verdauungs schlaf . "
+1	Hier	_	Word	Word	_	6	A	6:A	_
+2	ist	_	Word	Word	_	6	F	6:F	_
+3	das	_	Word	Word	_	4	F	4:F	_
+4	Bild	_	Word	Word	_	6	A	6:A	_
+5	mal	_	Word	Word	_	6	D	6:D	_
+6	nachgezeichnet	_	Word	Word	_	0	H	0:H	_
+7	:	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	In	_	Word	Word	_	11	R	11:R	_
+9	dem	_	Word	Word	_	10	F	10:F	_
+10	Buch	_	Word	Word	_	11	A	11:A	_
+11	hieß	_	Word	Word	_	6	H	6:H	_
+12	es	_	Word	Word	_	11	F	11:F	_
+13	:	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	Riesen	_	Word	Word	_	16	E	16:E	_
+16	schlangen	_	Word	Word	_	0	C	0:C|27:A	_
+17	verschlingen	_	Word	Word	_	11	A	11:A	_
+18	ihre	_	Word	Word	_	19	E	19:E	_
+19	Beute	_	Word	Word	_	17	A	17:A	_
+20	in	_	Word	Word	_	22	R	22:R	_
+21	einem	_	Word	Word	_	22	F	22:F	_
+22	Stück	_	Word	Word	_	17	D	17:D	_
+23	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+24	ohne	_	Word	Word	_	27	L	27:L|27:D	_
+25	sie	_	Word	Word	_	27	A	27:A	_
+26	zu	_	Word	Word	_	27	F	27:F	_
+27	zerkauen	_	Word	Word	_	17	H	17:H	_
+28	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+29	Danach	_	Word	Word	_	32	L	32:L	_
+30	können	_	Word	Word	_	32	D	32:D	_
+31	sie	_	Word	Word	_	32	A	32:A|37:A	_
+32	sich	_	Word	Word	_	17	H	17:H	_
+33	nicht	_	Word	Word	_	32	D	32:D	_
+34	mehr	_	Word	Word	_	33	E	33:E	_
+35	bewegen	_	Word	Word	_	32	Terminal	32:Terminal	_
+36	und	_	Word	Word	_	37	L	37:L	_
+37	halten	_	Word	Word	_	17	H	17:H	_
+38	sechs	_	Word	Word	_	39	E	39:E	_
+39	Monate	_	Word	Word	_	37	T	37:T	_
+40	lang	_	Word	Word	_	37	D	37:D	_
+41	Verdauungs	_	Word	Word	_	37	A	37:A	_
+42	schlaf	_	Word	Word	_	41	A	41:A	_
+43	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+44	"	_	Punctuation	Punctuation	_	41	U	41:U	_
+

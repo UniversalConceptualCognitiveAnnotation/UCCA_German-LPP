@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26768007
+# text = Komm mal näher heran , damit ich dich besser sehen kann " , sagte der König , ganz stolz darauf , jemandes König sein zu können .
+1	Komm	_	Word	Word	_	14	A	14:A	_
+2	mal	_	Word	Word	_	1	F	1:F	_
+3	näher	_	Word	Word	_	1	D	1:D	_
+4	heran	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	damit	_	Word	Word	_	10	L	10:L	_
+7	ich	_	Word	Word	_	10	A	10:A	_
+8	dich	_	Word	Word	_	10	A	10:A	_
+9	besser	_	Word	Word	_	10	D	10:D	_
+10	sehen	_	Word	Word	_	1	H	1:H	_
+11	kann	_	Word	Word	_	10	D	10:D	_
+12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	sagte	_	Word	Word	_	0	H	0:H	_
+15	der	_	Word	Word	_	16	F	16:F	_
+16	König	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	ganz	_	Word	Word	_	19	D	19:D	_
+19	stolz	_	Word	Word	_	16	E	16:E	_
+20	darauf	_	Word	Word	_	19	F	19:F	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	jemandes	_	Word	Word	_	23	A	23:A	_
+23	König	_	Word	Word	_	19	A	19:A	_
+24	sein	_	Word	Word	_	23	F	23:F	_
+25	zu	_	Word	Word	_	23	F	23:F	_
+26	können	_	Word	Word	_	23	D	23:D	_
+27	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

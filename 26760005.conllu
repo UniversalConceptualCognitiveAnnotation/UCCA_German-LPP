@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26760005
+# text = Wozu dienen dann diese Dornen ? "
+1	Wozu	_	Word	Word	_	2	A	2:A	_
+2	dienen	_	Word	Word	_	0	H	0:H	_
+3	dann	_	Word	Word	_	2	F	2:F	_
+4	diese	_	Word	Word	_	5	E	5:E	_
+5	Dornen	_	Word	Word	_	2	A	2:A	_
+6	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

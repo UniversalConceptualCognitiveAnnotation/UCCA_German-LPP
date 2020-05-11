@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 26769014
+# text = Über alles ? "
+1	Über	_	Word	Word	_	2	R	2:R	_
+2	alles	_	Word	Word	_	0	H	0:H	_
+3	?	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+

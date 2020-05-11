@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26776004
+# text = Fünfhundert Millionen wovon ? " - "
+1	Fünfhundert	_	Word	Word	_	0	H	0:H	_
+2	Millionen	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	wovon	_	Word	Word	_	1	A	1:A	_
+4	?	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+

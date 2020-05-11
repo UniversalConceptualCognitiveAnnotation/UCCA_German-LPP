@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26749000
+# text = So hatte ich in dem Laufe meines Lebens mit vielen ernsthaften Leuten zu tun .
+1	So	_	Word	Word	_	2	L	2:L	_
+2	hatte	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	dem	_	Word	Word	_	6	F	6:F	_
+6	Laufe	_	Word	Word	_	2	A	2:A	_
+7	meines	_	Word	Word	_	8	R	8:R	_
+8	Lebens	_	Word	Word	_	6	A	6:A	_
+9	mit	_	Word	Word	_	12	R	12:R	_
+10	vielen	_	Word	Word	_	12	Q	12:Q	_
+11	ernsthaften	_	Word	Word	_	12	E	12:E	_
+12	Leuten	_	Word	Word	_	2	A	2:A	_
+13	zu	_	Word	Word	_	2	Terminal	2:Terminal	_
+14	tun	_	Word	Word	_	2	Terminal	2:Terminal	_
+15	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

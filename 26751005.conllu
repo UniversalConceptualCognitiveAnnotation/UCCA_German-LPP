@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26751005
+# text = Weil ich niemals ein Schaf gezeichnet hatte , malte ich einfach eines der zwei Bilder , die ich beherrschte .
+1	Weil	_	Word	Word	_	9	L	9:L	_
+2	ich	_	Word	Word	_	6	A	6:A	_
+3	niemals	_	Word	Word	_	6	T	6:T	_
+4	ein	_	Word	Word	_	5	F	5:F	_
+5	Schaf	_	Word	Word	_	6	A	6:A	_
+6	gezeichnet	_	Word	Word	_	0	H	0:H	_
+7	hatte	_	Word	Word	_	6	F	6:F	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	malte	_	Word	Word	_	6	H	6:H	_
+10	ich	_	Word	Word	_	9	A	9:A	_
+11	einfach	_	Word	Word	_	9	D	9:D	_
+12	eines	_	Word	Word	_	9	A	9:A	_
+13	der	_	Word	Word	_	15	R	15:R	_
+14	zwei	_	Word	Word	_	15	Q	15:Q	_
+15	Bilder	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	die	_	Word	Word	_	19	R	19:R	_
+18	ich	_	Word	Word	_	19	A	19:A	_
+19	beherrschte	_	Word	Word	_	15	E	15:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26806009
+# text = Ich holte aus meiner Tasche meine Zeichen entwürfe hervor .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	holte	_	Word	Word	_	0	H	0:H	_
+3	aus	_	Word	Word	_	5	R	5:R	_
+4	meiner	_	Word	Word	_	5	E	5:E	_
+5	Tasche	_	Word	Word	_	2	A	2:A	_
+6	meine	_	Word	Word	_	8	A	8:A	_
+7	Zeichen	_	Word	Word	_	8	E	8:E	_
+8	entwürfe	_	Word	Word	_	2	A	2:A	_
+9	hervor	_	Word	Word	_	2	Terminal	2:Terminal	_
+10	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26757019
+# text = Es reckt sich und schiebt ganz schüchtern noch einen entzückenden kleinen , ganz harmlosen Halm der Sonne entgegen .
+1	Es	_	Word	Word	_	2	A	2:A|5:A	_
+2	reckt	_	Word	Word	_	0	H	0:H	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	und	_	Word	Word	_	5	L	5:L	_
+5	schiebt	_	Word	Word	_	2	H	2:H	_
+6	ganz	_	Word	Word	_	7	E	7:E	_
+7	schüchtern	_	Word	Word	_	5	D	5:D	_
+8	noch	_	Word	Word	_	5	D	5:D	_
+9	einen	_	Word	Word	_	15	F	15:F	_
+10	entzückenden	_	Word	Word	_	11	D	11:D	_
+11	kleinen	_	Word	Word	_	15	E	15:E	_
+12	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+13	ganz	_	Word	Word	_	14	D	14:D	_
+14	harmlosen	_	Word	Word	_	15	E	15:E	_
+15	Halm	_	Word	Word	_	5	A	5:A	_
+16	der	_	Word	Word	_	17	F	17:F	_
+17	Sonne	_	Word	Word	_	5	A	5:A	_
+18	entgegen	_	Word	Word	_	17	R	17:R	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

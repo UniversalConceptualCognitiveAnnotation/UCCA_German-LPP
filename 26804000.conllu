@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26804000
+# text = Weil der kleine Prinz einschlief , nahm ich ihn in meine Arme und lief weiter .
+1	Weil	_	Word	Word	_	7	L	7:L	_
+2	der	_	Word	Word	_	4	F	4:F	_
+3	kleine	_	Word	Word	_	4	E	4:E	_
+4	Prinz	_	Word	Word	_	5	A	5:A	_
+5	einschlief	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	nahm	_	Word	Word	_	5	H	5:H	_
+8	ich	_	Word	Word	_	7	A	7:A|14:A	_
+9	ihn	_	Word	Word	_	7	A	7:A	_
+10	in	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	meine	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	Arme	_	Word	Word	_	7	Terminal	7:Terminal	_
+13	und	_	Word	Word	_	14	L	14:L	_
+14	lief	_	Word	Word	_	5	H	5:H	_
+15	weiter	_	Word	Word	_	14	D	14:D	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26808001
+# text = Als ich an dem Abend darauf von meiner Arbeit zurückkam , sah ich von weitem den kleinen Prinzen darauf sitzen , seine Beine baumelten herab .
+1	Als	_	Word	Word	_	12	L	12:L	_
+2	ich	_	Word	Word	_	10	A	10:A	_
+3	an	_	Word	Word	_	5	R	5:R	_
+4	dem	_	Word	Word	_	5	F	5:F	_
+5	Abend	_	Word	Word	_	10	T	10:T	_
+6	darauf	_	Word	Word	_	5	R	5:R	_
+7	von	_	Word	Word	_	9	R	9:R	_
+8	meiner	_	Word	Word	_	9	E	9:E	_
+9	Arbeit	_	Word	Word	_	10	A	10:A	_
+10	zurückkam	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	sah	_	Word	Word	_	10	H	10:H	_
+13	ich	_	Word	Word	_	12	A	12:A	_
+14	von	_	Word	Word	_	15	R	15:R	_
+15	weitem	_	Word	Word	_	12	A	12:A	_
+16	den	_	Word	Word	_	18	F	18:F	_
+17	kleinen	_	Word	Word	_	18	E	18:E	_
+18	Prinzen	_	Word	Word	_	20	A	20:A	_
+19	darauf	_	Word	Word	_	20	A	20:A	_
+20	sitzen	_	Word	Word	_	12	A	12:A	_
+21	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	seine	_	Word	Word	_	23	E	23:E	_
+23	Beine	_	Word	Word	_	24	A	24:A	_
+24	baumelten	_	Word	Word	_	10	H	10:H	_
+25	herab	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

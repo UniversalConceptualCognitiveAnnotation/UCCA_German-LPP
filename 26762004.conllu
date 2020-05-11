@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26762004
+# text = Ich hatte mein Werkzeug beiseitegelegt .
+1	Ich	_	Word	Word	_	5	A	5:A	_
+2	hatte	_	Word	Word	_	5	F	5:F	_
+3	mein	_	Word	Word	_	4	E	4:E	_
+4	Werkzeug	_	Word	Word	_	5	A	5:A	_
+5	beiseitegelegt	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

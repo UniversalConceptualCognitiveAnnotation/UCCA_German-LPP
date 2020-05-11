@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26792011
+# text = Er ist ganz trocken , alles ist spitz und salzig .
+1	Er	_	Word	Word	_	4	A	4:A	_
+2	ist	_	Word	Word	_	4	F	4:F	_
+3	ganz	_	Word	Word	_	4	D	4:D	_
+4	trocken	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	alles	_	Word	Word	_	8	A	8:A	_
+7	ist	_	Word	Word	_	8	F	8:F	_
+8	spitz	_	Word	Word	_	4	H	4:H	_
+9	und	_	Word	Word	_	8	N	8:N	_
+10	salzig	_	Word	Word	_	8	C	8:C	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

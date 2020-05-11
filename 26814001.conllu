@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26814001
+# text = Meine Kameraden , die mich zu Gesicht bekamen , waren sehr glücklich , mich lebend wiederzusehen .
+1	Meine	_	Word	Word	_	2	E	2:E	_
+2	Kameraden	_	Word	Word	_	12	A	12:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	die	_	Word	Word	_	6	R	6:R	_
+5	mich	_	Word	Word	_	6	A	6:A	_
+6	zu	_	Word	Word	_	2	E	2:E	_
+7	Gesicht	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	bekamen	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	waren	_	Word	Word	_	12	F	12:F	_
+11	sehr	_	Word	Word	_	12	D	12:D	_
+12	glücklich	_	Word	Word	_	0	H	0:H	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	mich	_	Word	Word	_	16	A	16:A	_
+15	lebend	_	Word	Word	_	14	E	14:E	_
+16	wiederzusehen	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

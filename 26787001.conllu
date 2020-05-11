@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26787001
+# text = Die Erde ist nicht irgendein Planet !
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Erde	_	Word	Word	_	3	A	3:A	_
+3	ist	_	Word	Word	_	0	H	0:H	_
+4	nicht	_	Word	Word	_	3	D	3:D	_
+5	irgendein	_	Word	Word	_	6	E	6:E	_
+6	Planet	_	Word	Word	_	3	A	3:A	_
+7	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+

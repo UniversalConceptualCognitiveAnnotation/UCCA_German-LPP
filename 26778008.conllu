@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26778008
+# text = Das bedeutet , ich schreibe die Anzahl der Sterne auf einen kleinen Zettel . Und diesen Zettel verschließe ich dann in einer Schublade . " - "
+1	Das	_	Word	Word	_	2	A	2:A	_
+2	bedeutet	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	ich	_	Word	Word	_	5	A	5:A	_
+5	schreibe	_	Word	Word	_	2	H	2:H	_
+6	die	_	Word	Word	_	7	F	7:F	_
+7	Anzahl	_	Word	Word	_	5	A	5:A	_
+8	der	_	Word	Word	_	9	R	9:R	_
+9	Sterne	_	Word	Word	_	7	E	7:E	_
+10	auf	_	Word	Word	_	13	R	13:R	_
+11	einen	_	Word	Word	_	13	F	13:F	_
+12	kleinen	_	Word	Word	_	13	E	13:E	_
+13	Zettel	_	Word	Word	_	5	A	5:A	_
+14	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	Und	_	Word	Word	_	18	L	18:L	_
+16	diesen	_	Word	Word	_	17	E	17:E	_
+17	Zettel	_	Word	Word	_	18	A	18:A	_
+18	verschließe	_	Word	Word	_	2	H	2:H	_
+19	ich	_	Word	Word	_	18	A	18:A	_
+20	dann	_	Word	Word	_	2	L	2:L	_
+21	in	_	Word	Word	_	23	R	23:R	_
+22	einer	_	Word	Word	_	23	E	23:E	_
+23	Schublade	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+

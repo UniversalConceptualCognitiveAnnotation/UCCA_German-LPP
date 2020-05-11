@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26822000
+# text = Schaut euch den Himmel an .
+1	Schaut	_	Word	Word	_	0	H	0:H	_
+2	euch	_	Word	Word	_	1	A	1:A	_
+3	den	_	Word	Word	_	4	F	4:F	_
+4	Himmel	_	Word	Word	_	1	A	1:A	_
+5	an	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+

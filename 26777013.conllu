@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26777013
+# text = Dadurch bin ich reich . " - "
+1	Dadurch	_	Word	Word	_	4	A	4:A	_
+2	bin	_	Word	Word	_	4	F	4:F	_
+3	ich	_	Word	Word	_	4	A	4:A	_
+4	reich	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+

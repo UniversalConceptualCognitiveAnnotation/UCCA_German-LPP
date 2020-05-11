@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26808002
+# text = Und ich hörte ihn reden : - " Du erinnerst dich also nicht ? " , sagte er . " Es ist nicht ganz genau hier ! "
+1	Und	_	Word	Word	_	17	L	17:L	_
+2	ich	_	Word	Word	_	3	A	3:A	_
+3	hörte	_	Word	Word	_	0	H	0:H	_
+4	ihn	_	Word	Word	_	5	A	5:A	_
+5	reden	_	Word	Word	_	3	A	3:A	_
+6	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	Du	_	Word	Word	_	10	A	10:A	_
+10	erinnerst	_	Word	Word	_	17	A	17:A	_
+11	dich	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	also	_	Word	Word	_	26	L	26:L	_
+13	nicht	_	Word	Word	_	10	D	10:D	_
+14	?	_	Punctuation	Punctuation	_	17	U	17:U	_
+15	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	sagte	_	Word	Word	_	3	H	3:H	_
+18	er	_	Word	Word	_	17	A	17:A	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	Es	_	Word	Word	_	26	A	26:A	_
+22	ist	_	Word	Word	_	26	F	26:F	_
+23	nicht	_	Word	Word	_	26	D	26:D	_
+24	ganz	_	Word	Word	_	25	E	25:E	_
+25	genau	_	Word	Word	_	26	D	26:D	_
+26	hier	_	Word	Word	_	10	H	10:H	_
+27	!	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26812010
+# text = Als ich ihn einholte , lief er entschlossen mit schnellem Schritt vorwärts .
+1	Als	_	Word	Word	_	6	L	6:L	_
+2	ich	_	Word	Word	_	4	A	4:A	_
+3	ihn	_	Word	Word	_	4	A	4:A	_
+4	einholte	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	lief	_	Word	Word	_	4	H	4:H	_
+7	er	_	Word	Word	_	6	A	6:A	_
+8	entschlossen	_	Word	Word	_	6	D	6:D	_
+9	mit	_	Word	Word	_	11	R	11:R	_
+10	schnellem	_	Word	Word	_	11	E	11:E	_
+11	Schritt	_	Word	Word	_	6	A	6:A	_
+12	vorwärts	_	Word	Word	_	6	Terminal	6:Terminal	_
+13	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

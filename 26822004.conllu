@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26822004
+# text = Es ist die gleiche Landschaft wie auf der vorigen Seite aber ich habe sie noch einmal gezeichnet , um sie euch noch besser zu zeigen .
+1	Es	_	Word	Word	_	4	A	4:A	_
+2	ist	_	Word	Word	_	4	F	4:F	_
+3	die	_	Word	Word	_	5	F	5:F	_
+4	gleiche	_	Word	Word	_	0	H	0:H	_
+5	Landschaft	_	Word	Word	_	4	A	4:A	_
+6	wie	_	Word	Word	_	9	R	9:R	_
+7	auf	_	Word	Word	_	10	R	10:R	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	vorigen	_	Word	Word	_	4	A	4:A	_
+10	Seite	_	Word	Word	_	9	A	9:A	_
+11	aber	_	Word	Word	_	17	L	17:L	_
+12	ich	_	Word	Word	_	17	A	17:A|25:A	_
+13	habe	_	Word	Word	_	17	F	17:F	_
+14	sie	_	Word	Word	_	17	A	17:A	_
+15	noch	_	Word	Word	_	16	E	16:E	_
+16	einmal	_	Word	Word	_	17	D	17:D	_
+17	gezeichnet	_	Word	Word	_	4	H	4:H	_
+18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+19	um	_	Word	Word	_	25	L	25:L	_
+20	sie	_	Word	Word	_	25	A	25:A	_
+21	euch	_	Word	Word	_	25	A	25:A	_
+22	noch	_	Word	Word	_	23	E	23:E	_
+23	besser	_	Word	Word	_	25	D	25:D	_
+24	zu	_	Word	Word	_	25	F	25:F	_
+25	zeigen	_	Word	Word	_	4	H	4:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

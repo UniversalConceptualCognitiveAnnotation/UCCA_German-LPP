@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 26750017
+# text = Die Großen haben mich von meiner Maler karriere abgebracht als ich sechs Jahre alt war , sodass ich nichts zu zeichnen gelernt hatte als geschlossene und offene Riesen schlangen .
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Großen	_	Word	Word	_	4	A	4:A	_
+3	haben	_	Word	Word	_	4	F	4:F	_
+4	mich	_	Word	Word	_	0	H	0:H	_
+5	von	_	Word	Word	_	8	R	8:R	_
+6	meiner	_	Word	Word	_	8	E	8:E	_
+7	Maler	_	Word	Word	_	8	E	8:E	_
+8	karriere	_	Word	Word	_	4	A	4:A	_
+9	abgebracht	_	Word	Word	_	4	Terminal	4:Terminal	_
+10	als	_	Word	Word	_	14	R	14:R	_
+11	ich	_	Word	Word	_	14	A	14:A	_
+12	sechs	_	Word	Word	_	13	Q	13:Q	_
+13	Jahre	_	Word	Word	_	14	T	14:T	_
+14	alt	_	Word	Word	_	4	A	4:A	_
+15	war	_	Word	Word	_	14	F	14:F	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	sodass	_	Word	Word	_	22	L	22:L	_
+18	ich	_	Word	Word	_	22	A	22:A|29:A	_
+19	nichts	_	Word	Word	_	21	A	21:A	_
+20	zu	_	Word	Word	_	21	F	21:F	_
+21	zeichnen	_	Word	Word	_	0	P	0:P|29:P	_
+22	gelernt	_	Word	Word	_	4	H	4:H	_
+23	hatte	_	Word	Word	_	22	F	22:F	_
+24	als	_	Word	Word	_	29	L	29:L	_
+25	geschlossene	_	Word	Word	_	29	E	29:E	_
+26	und	_	Word	Word	_	25	N	25:N	_
+27	offene	_	Word	Word	_	25	C	25:C	_
+28	Riesen	_	Word	Word	_	29	E	29:E	_
+29	schlangen	_	Word	Word	_	4	H	4:H	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

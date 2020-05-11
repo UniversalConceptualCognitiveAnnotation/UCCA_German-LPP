@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26773007
+# text = Der Eitle grüßte in aller Bescheidenheit , indem er den Hut zog . - "
+1	Der	_	Word	Word	_	2	F	2:F	_
+2	Eitle	_	Word	Word	_	3	A	3:A	_
+3	grüßte	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	aller	_	Word	Word	_	6	E	6:E	_
+6	Bescheidenheit	_	Word	Word	_	3	D	3:D	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	indem	_	Word	Word	_	12	L	12:L	_
+9	er	_	Word	Word	_	12	A	12:A	_
+10	den	_	Word	Word	_	11	F	11:F	_
+11	Hut	_	Word	Word	_	12	A	12:A	_
+12	zog	_	Word	Word	_	3	H	3:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+

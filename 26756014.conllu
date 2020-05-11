@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26756014
+# text = Nicht jeder hatte schon mal einen Freund .
+1	Nicht	_	Word	Word	_	3	D	3:D	_
+2	jeder	_	Word	Word	_	3	A	3:A	_
+3	hatte	_	Word	Word	_	0	H	0:H	_
+4	schon	_	Word	Word	_	3	D	3:D	_
+5	mal	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	einen	_	Word	Word	_	7	F	7:F	_
+7	Freund	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

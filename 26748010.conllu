@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26748010
+# text = So gab ich mit sechs Jahren meine vielversprechende Maler karriere auf .
+1	So	_	Word	Word	_	2	L	2:L	_
+2	gab	_	Word	Word	_	0	H	0:H	_
+3	ich	_	Word	Word	_	2	A	2:A	_
+4	mit	_	Word	Word	_	6	R	6:R	_
+5	sechs	_	Word	Word	_	6	E	6:E	_
+6	Jahren	_	Word	Word	_	2	T	2:T	_
+7	meine	_	Word	Word	_	10	E	10:E	_
+8	vielversprechende	_	Word	Word	_	10	E	10:E	_
+9	Maler	_	Word	Word	_	10	E	10:E	_
+10	karriere	_	Word	Word	_	2	A	2:A	_
+11	auf	_	Word	Word	_	2	Terminal	2:Terminal	_
+12	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

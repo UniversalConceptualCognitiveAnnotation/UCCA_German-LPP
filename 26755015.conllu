@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26755015
+# text = Erzählt ihr ihnen von einem neuen Freund , stellen sie euch nie Fragen über das Wesentliche .
+1	Erzählt	_	Word	Word	_	0	H	0:H	_
+2	ihr	_	Word	Word	_	1	A	1:A	_
+3	ihnen	_	Word	Word	_	1	A	1:A	_
+4	von	_	Word	Word	_	7	R	7:R	_
+5	einem	_	Word	Word	_	7	F	7:F	_
+6	neuen	_	Word	Word	_	7	E	7:E	_
+7	Freund	_	Word	Word	_	1	A	1:A	_
+8	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	stellen	_	Word	Word	_	1	H	1:H	_
+10	sie	_	Word	Word	_	9	A	9:A	_
+11	euch	_	Word	Word	_	9	A	9:A	_
+12	nie	_	Word	Word	_	9	T	9:T	_
+13	Fragen	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	über	_	Word	Word	_	16	R	16:R	_
+15	das	_	Word	Word	_	16	F	16:F	_
+16	Wesentliche	_	Word	Word	_	9	A	9:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

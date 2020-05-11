@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26803009
+# text = Man setzt sich auf eine Sanddüne .
+1	Man	_	Word	Word	_	2	A	2:A	_
+2	setzt	_	Word	Word	_	0	H	0:H	_
+3	sich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	auf	_	Word	Word	_	6	R	6:R	_
+5	eine	_	Word	Word	_	6	F	6:F	_
+6	Sanddüne	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

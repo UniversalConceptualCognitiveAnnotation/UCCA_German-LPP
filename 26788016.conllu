@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26788016
+# text = Gute Nacht " , sagte der Prinz auf gut Glück . - "
+1	Gute	_	Word	Word	_	5	A	5:A	_
+2	Nacht	_	Word	Word	_	1	A	1:A	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	sagte	_	Word	Word	_	0	H	0:H	_
+6	der	_	Word	Word	_	7	F	7:F	_
+7	Prinz	_	Word	Word	_	5	A	5:A	_
+8	auf	_	Word	Word	_	9	R	9:R	_
+9	gut	_	Word	Word	_	5	D	5:D	_
+10	Glück	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+

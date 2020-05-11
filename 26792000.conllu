@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26792000
+# text = Kapitel XIX Der kleine Prinz bestieg einen hohen Berg .
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	XIX	_	Word	Word	_	0	H	0:H	_
+3	Der	_	Word	Word	_	5	F	5:F	_
+4	kleine	_	Word	Word	_	5	E	5:E	_
+5	Prinz	_	Word	Word	_	6	A	6:A	_
+6	bestieg	_	Word	Word	_	2	H	2:H	_
+7	einen	_	Word	Word	_	9	F	9:F	_
+8	hohen	_	Word	Word	_	9	E	9:E	_
+9	Berg	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

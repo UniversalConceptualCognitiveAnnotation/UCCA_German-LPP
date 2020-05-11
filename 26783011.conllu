@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26783011
+# text = Das ist endlich mal ein richtiger Beruf .
+1	Das	_	Word	Word	_	2	A	2:A	_
+2	ist	_	Word	Word	_	0	H	0:H	_
+3	endlich	_	Word	Word	_	2	D	2:D	_
+4	mal	_	Word	Word	_	3	E	3:E	_
+5	ein	_	Word	Word	_	7	F	7:F	_
+6	richtiger	_	Word	Word	_	7	E	7:E	_
+7	Beruf	_	Word	Word	_	2	A	2:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

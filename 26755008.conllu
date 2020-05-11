@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26755008
+# text = Aber wegen seiner traditionellen Tracht hatte ihm niemand glauben wollen .
+1	Aber	_	Word	Word	_	9	L	9:L	_
+2	wegen	_	Word	Word	_	9	L	9:L	_
+3	seiner	_	Word	Word	_	5	E	5:E	_
+4	traditionellen	_	Word	Word	_	5	E	5:E	_
+5	Tracht	_	Word	Word	_	0	H	0:H	_
+6	hatte	_	Word	Word	_	9	F	9:F	_
+7	ihm	_	Word	Word	_	9	A	9:A	_
+8	niemand	_	Word	Word	_	9	A	9:A	_
+9	glauben	_	Word	Word	_	5	H	5:H	_
+10	wollen	_	Word	Word	_	9	D	9:D	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

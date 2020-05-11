@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26777014
+# text = Und was bringt es dir , reich zu sein ? " - "
+1	Und	_	Word	Word	_	7	L	7:L	_
+2	was	_	Word	Word	_	3	A	3:A	_
+3	bringt	_	Word	Word	_	0	H	0:H	_
+4	es	_	Word	Word	_	3	F	3:F	_
+5	dir	_	Word	Word	_	3	A	3:A|7:A	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	reich	_	Word	Word	_	3	H	3:H	_
+8	zu	_	Word	Word	_	7	F	7:F	_
+9	sein	_	Word	Word	_	7	F	7:F	_
+10	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

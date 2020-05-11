@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26766024
+# text = Diese ruhige Liebenswürdigkeit verstand er nicht . - "
+1	Diese	_	Word	Word	_	3	E	3:E	_
+2	ruhige	_	Word	Word	_	3	D	3:D	_
+3	Liebenswürdigkeit	_	Word	Word	_	4	A	4:A	_
+4	verstand	_	Word	Word	_	0	H	0:H	_
+5	er	_	Word	Word	_	4	A	4:A	_
+6	nicht	_	Word	Word	_	4	D	4:D	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+

@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26766012
+# text = Auch die letzten Triebe der Affenbrotbäume riss der kleine Prinz betrübt heraus .
+1	Auch	_	Word	Word	_	7	L	7:L	_
+2	die	_	Word	Word	_	4	F	4:F	_
+3	letzten	_	Word	Word	_	4	E	4:E	_
+4	Triebe	_	Word	Word	_	7	A	7:A	_
+5	der	_	Word	Word	_	6	R	6:R	_
+6	Affenbrotbäume	_	Word	Word	_	4	E	4:E	_
+7	riss	_	Word	Word	_	0	H	0:H	_
+8	der	_	Word	Word	_	10	F	10:F	_
+9	kleine	_	Word	Word	_	10	E	10:E	_
+10	Prinz	_	Word	Word	_	7	A	7:A	_
+11	betrübt	_	Word	Word	_	7	D	7:D	_
+12	heraus	_	Word	Word	_	7	Terminal	7:Terminal	_
+13	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26806008
+# text = Du weißt ... ein Maul korb für mein Schaf ... ich bin verantwortlich für diese Blume ! "
+1	Du	_	Word	Word	_	2	A	2:A	_
+2	weißt	_	Word	Word	_	0	H	0:H	_
+3	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	ein	_	Word	Word	_	6	F	6:F	_
+5	Maul	_	Word	Word	_	6	E	6:E	_
+6	korb	_	Word	Word	_	2	H	2:H	_
+7	für	_	Word	Word	_	9	R	9:R	_
+8	mein	_	Word	Word	_	9	E	9:E	_
+9	Schaf	_	Word	Word	_	6	A	6:A	_
+10	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	ich	_	Word	Word	_	13	A	13:A	_
+12	bin	_	Word	Word	_	13	F	13:F	_
+13	verantwortlich	_	Word	Word	_	2	H	2:H	_
+14	für	_	Word	Word	_	16	R	16:R	_
+15	diese	_	Word	Word	_	16	E	16:E	_
+16	Blume	_	Word	Word	_	13	A	13:A	_
+17	!	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+

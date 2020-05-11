@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26748015
+# text = Und es stimmt , dabei half mir die Geographie .
+1	Und	_	Word	Word	_	6	L	6:L	_
+2	es	_	Word	Word	_	3	A	3:A	_
+3	stimmt	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	dabei	_	Word	Word	_	6	A	6:A	_
+6	half	_	Word	Word	_	3	H	3:H	_
+7	mir	_	Word	Word	_	6	A	6:A	_
+8	die	_	Word	Word	_	9	F	9:F	_
+9	Geographie	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

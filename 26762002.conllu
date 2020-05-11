@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26762002
+# text = Er fing auf einmal an zu schluchzen .
+1	Er	_	Word	Word	_	7	A	7:A	_
+2	fing	_	Word	Word	_	7	D	7:D	_
+3	auf	_	Word	Word	_	7	T	7:T	_
+4	einmal	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	an	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	zu	_	Word	Word	_	7	F	7:F	_
+7	schluchzen	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

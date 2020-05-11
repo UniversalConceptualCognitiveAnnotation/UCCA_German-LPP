@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26749007
+# text = Ich ließ mich auf ihn ein .
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	ließ	_	Word	Word	_	0	H	0:H	_
+3	mich	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	auf	_	Word	Word	_	5	R	5:R	_
+5	ihn	_	Word	Word	_	2	A	2:A	_
+6	ein	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

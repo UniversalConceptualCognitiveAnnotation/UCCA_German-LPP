@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26756023
+# text = Da ist er zu klein .
+1	Da	_	Word	Word	_	4	A	4:A	_
+2	ist	_	Word	Word	_	4	F	4:F	_
+3	er	_	Word	Word	_	4	A	4:A	_
+4	zu	_	Word	Word	_	0	H	0:H	_
+5	klein	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

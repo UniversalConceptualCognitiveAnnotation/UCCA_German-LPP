@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26766000
+# text = Kapitel IX Ich glaube , für seine Flucht diente ihm ein Schwarm wilder Zug vögel .
+1	Kapitel	_	Word	Word	_	2	E	2:E	_
+2	IX	_	Word	Word	_	0	H	0:H	_
+3	Ich	_	Word	Word	_	4	A	4:A	_
+4	glaube	_	Word	Word	_	2	H	2:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	für	_	Word	Word	_	8	R	8:R	_
+7	seine	_	Word	Word	_	8	A	8:A	_
+8	Flucht	_	Word	Word	_	9	A	9:A	_
+9	diente	_	Word	Word	_	4	A	4:A	_
+10	ihm	_	Word	Word	_	9	A	9:A	_
+11	ein	_	Word	Word	_	12	F	12:F	_
+12	Schwarm	_	Word	Word	_	9	A	9:A	_
+13	wilder	_	Word	Word	_	15	E	15:E	_
+14	Zug	_	Word	Word	_	15	E	15:E	_
+15	vögel	_	Word	Word	_	12	E	12:E	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

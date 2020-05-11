@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26750013
+# text = Und ich sah ein außergewöhnliches , kleines Kerlchen , das mich ernst betrachtete .
+1	Und	_	Word	Word	_	3	L	3:L	_
+2	ich	_	Word	Word	_	3	A	3:A	_
+3	sah	_	Word	Word	_	0	H	0:H	_
+4	ein	_	Word	Word	_	8	F	8:F	_
+5	außergewöhnliches	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	kleines	_	Word	Word	_	5	C	5:C	_
+8	Kerlchen	_	Word	Word	_	3	A	3:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	das	_	Word	Word	_	13	R	13:R	_
+11	mich	_	Word	Word	_	13	A	13:A	_
+12	ernst	_	Word	Word	_	13	D	13:D	_
+13	betrachtete	_	Word	Word	_	8	E	8:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

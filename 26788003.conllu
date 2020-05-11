@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26788003
+# text = Die Menschen nehmen nur wenig Platz auf der Erde ein .
+1	Die	_	Word	Word	_	2	F	2:F	_
+2	Menschen	_	Word	Word	_	3	A	3:A	_
+3	nehmen	_	Word	Word	_	0	H	0:H	_
+4	nur	_	Word	Word	_	3	D	3:D	_
+5	wenig	_	Word	Word	_	6	E	6:E	_
+6	Platz	_	Word	Word	_	3	A	3:A	_
+7	auf	_	Word	Word	_	9	R	9:R	_
+8	der	_	Word	Word	_	9	F	9:F	_
+9	Erde	_	Word	Word	_	3	A	3:A	_
+10	ein	_	Word	Word	_	3	Terminal	3:Terminal	_
+11	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

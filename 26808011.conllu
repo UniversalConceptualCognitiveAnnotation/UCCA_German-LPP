@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26808011
+# text = Da war eine dieser gelben Schlangen , die euch in dreißig Sekunden töten , und sie reckte sich dem kleinen Prinzen entgegen .
+1	Da	_	Word	Word	_	2	A	2:A	_
+2	war	_	Word	Word	_	0	H	0:H	_
+3	eine	_	Word	Word	_	6	F	6:F	_
+4	dieser	_	Word	Word	_	6	R	6:R	_
+5	gelben	_	Word	Word	_	6	E	6:E	_
+6	Schlangen	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	die	_	Word	Word	_	13	R	13:R	_
+9	euch	_	Word	Word	_	13	A	13:A	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	dreißig	_	Word	Word	_	12	Q	12:Q	_
+12	Sekunden	_	Word	Word	_	13	T	13:T	_
+13	töten	_	Word	Word	_	6	E	6:E	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	und	_	Word	Word	_	17	L	17:L	_
+16	sie	_	Word	Word	_	17	A	17:A	_
+17	reckte	_	Word	Word	_	2	H	2:H	_
+18	sich	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	dem	_	Word	Word	_	21	F	21:F	_
+20	kleinen	_	Word	Word	_	21	E	21:E	_
+21	Prinzen	_	Word	Word	_	17	A	17:A	_
+22	entgegen	_	Word	Word	_	17	Terminal	17:Terminal	_
+23	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

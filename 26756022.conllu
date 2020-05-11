@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26756022
+# text = Hier ist der kleine Prinz zu groß .
+1	Hier	_	Word	Word	_	6	A	6:A	_
+2	ist	_	Word	Word	_	6	F	6:F	_
+3	der	_	Word	Word	_	5	F	5:F	_
+4	kleine	_	Word	Word	_	5	E	5:E	_
+5	Prinz	_	Word	Word	_	6	A	6:A	_
+6	zu	_	Word	Word	_	0	H	0:H	_
+7	groß	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

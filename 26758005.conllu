@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26758005
+# text = Ich sage " Kinder ! Vorsicht vor Affenbrotbäumen ! "
+1	Ich	_	Word	Word	_	2	A	2:A	_
+2	sage	_	Word	Word	_	0	H	0:H	_
+3	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Kinder	_	Word	Word	_	6	G	6:G	_
+5	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	Vorsicht	_	Word	Word	_	2	A	2:A	_
+7	vor	_	Word	Word	_	8	R	8:R	_
+8	Affenbrotbäumen	_	Word	Word	_	6	A	6:A	_
+9	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+

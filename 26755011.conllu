@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26755011
+# text = So wiederholte der Astronom in sehr eleganter Kleidung seine Vorführung in dem Jahre 1920 .
+1	So	_	Word	Word	_	2	L	2:L	_
+2	wiederholte	_	Word	Word	_	0	H	0:H	_
+3	der	_	Word	Word	_	4	F	4:F	_
+4	Astronom	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	8	R	8:R	_
+6	sehr	_	Word	Word	_	8	E	8:E	_
+7	eleganter	_	Word	Word	_	8	E	8:E	_
+8	Kleidung	_	Word	Word	_	2	A	2:A	_
+9	seine	_	Word	Word	_	0	root	0:root	_
+10	Vorführung	_	Word	Word	_	2	A	2:A	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	dem	_	Word	Word	_	13	F	13:F	_
+13	Jahre	_	Word	Word	_	2	T	2:T	_
+14	1920	_	Word	Word	_	13	C	13:C	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

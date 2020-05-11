@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26812015
+# text = Er verlor ein bisschen den Mut .
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	verlor	_	Word	Word	_	0	H	0:H	_
+3	ein	_	Word	Word	_	2	D	2:D	_
+4	bisschen	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	den	_	Word	Word	_	6	F	6:F	_
+6	Mut	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26780015
+# text = Dann wischte er sich mit einem rotkarierten Taschentuch die Stirn ab .
+1	Dann	_	Word	Word	_	2	L	2:L	_
+2	wischte	_	Word	Word	_	0	H	0:H	_
+3	er	_	Word	Word	_	2	A	2:A	_
+4	sich	_	Word	Word	_	2	A	2:A	_
+5	mit	_	Word	Word	_	8	R	8:R	_
+6	einem	_	Word	Word	_	8	F	8:F	_
+7	rotkarierten	_	Word	Word	_	8	E	8:E	_
+8	Taschentuch	_	Word	Word	_	2	A	2:A	_
+9	die	_	Word	Word	_	10	F	10:F	_
+10	Stirn	_	Word	Word	_	2	A	2:A	_
+11	ab	_	Word	Word	_	2	Terminal	2:Terminal	_
+12	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26755004
+# text = Er nennt ihn zu dem Beispiel : " Asteroid 3251 . "
+1	Er	_	Word	Word	_	2	A	2:A	_
+2	nennt	_	Word	Word	_	0	H	0:H	_
+3	ihn	_	Word	Word	_	2	A	2:A	_
+4	zu	_	Word	Word	_	6	R	6:R	_
+5	dem	_	Word	Word	_	6	F	6:F	_
+6	Beispiel	_	Word	Word	_	2	G	2:G	_
+7	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	Asteroid	_	Word	Word	_	2	A	2:A	_
+10	3251	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+

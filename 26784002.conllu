@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 26784002
+# text = Weil ein Forscher , der Lügen verbreitet , an Katastrophen in unseren Geographie büchern schuld wäre . Und auch ein Forscher , der zu viel säuft . - "
+1	Weil	_	Word	Word	_	21	L	21:L	_
+2	ein	_	Word	Word	_	3	F	3:F	_
+3	Forscher	_	Word	Word	_	15	A	15:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	der	_	Word	Word	_	7	R	7:R	_
+6	Lügen	_	Word	Word	_	7	A	7:A	_
+7	verbreitet	_	Word	Word	_	3	E	3:E	_
+8	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+9	an	_	Word	Word	_	10	R	10:R	_
+10	Katastrophen	_	Word	Word	_	15	A	15:A	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	unseren	_	Word	Word	_	10	A	10:A	_
+13	Geographie	_	Word	Word	_	14	E	14:E	_
+14	büchern	_	Word	Word	_	12	A	12:A	_
+15	schuld	_	Word	Word	_	0	H	0:H	_
+16	wäre	_	Word	Word	_	15	D	15:D	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	Und	_	Word	Word	_	21	L	21:L	_
+19	auch	_	Word	Word	_	21	L	21:L	_
+20	ein	_	Word	Word	_	21	F	21:F	_
+21	Forscher	_	Word	Word	_	15	H	15:H	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	der	_	Word	Word	_	26	R	26:R	_
+24	zu	_	Word	Word	_	25	E	25:E	_
+25	viel	_	Word	Word	_	26	D	26:D	_
+26	säuft	_	Word	Word	_	21	E	21:E	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+29	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

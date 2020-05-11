@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26748005
+# text = Dabei war auf meinem Bild gar kein Hut .
+1	Dabei	_	Word	Word	_	2	L	2:L	_
+2	war	_	Word	Word	_	0	H	0:H	_
+3	auf	_	Word	Word	_	5	R	5:R	_
+4	meinem	_	Word	Word	_	5	E	5:E	_
+5	Bild	_	Word	Word	_	2	A	2:A	_
+6	gar	_	Word	Word	_	7	E	7:E	_
+7	kein	_	Word	Word	_	2	D	2:D	_
+8	Hut	_	Word	Word	_	2	A	2:A	_
+9	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

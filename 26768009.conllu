@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26768009
+# text = So blieb er stehen , doch vor Müdigkeit musste er gähnen . - "
+1	So	_	Word	Word	_	11	L	11:L	_
+2	blieb	_	Word	Word	_	4	D	4:D	_
+3	er	_	Word	Word	_	4	A	4:A	_
+4	stehen	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	doch	_	Word	Word	_	11	L	11:L	_
+7	vor	_	Word	Word	_	8	R	8:R	_
+8	Müdigkeit	_	Word	Word	_	11	A	11:A	_
+9	musste	_	Word	Word	_	11	D	11:D	_
+10	er	_	Word	Word	_	11	A	11:A|8:A	_
+11	gähnen	_	Word	Word	_	4	H	4:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+

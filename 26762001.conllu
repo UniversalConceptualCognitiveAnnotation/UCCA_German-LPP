@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 26762001
+# text = Mehr brachte er nicht hervor .
+1	Mehr	_	Word	Word	_	2	A	2:A	_
+2	brachte	_	Word	Word	_	0	H	0:H	_
+3	er	_	Word	Word	_	2	A	2:A	_
+4	nicht	_	Word	Word	_	2	D	2:D	_
+5	hervor	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+
