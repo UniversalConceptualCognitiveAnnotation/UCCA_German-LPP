@@ -1,0 +1,41 @@
+# ::id 26756017
+# ::tok Es ist schwierig , in meinem Alter wieder mit dem Zeichnen anzufangen , wenn man nie etwas Anderes versucht hat , als mit sechs Jahren eine geschlossene und eine offene Riesen schlange zu malen .
+# ::alignments 2-1.1.3 4-1.1.4.1.1 5-1.1.4.1.2 6-1.1.4.1.3 7-1.1.4.2 8-1.1.4.3.1 10-1.1.4.3.3 11-1.1.4.4 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.4 21-1.4 22-1.5.1.1 23-1.5.1.2 24-1.5.1.3 26-1.5.2.2.1 27-1.5.2.2.2 29-1.5.2.2.3.2 30-1.5.2.3 31-1.5.2.4 33-1.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v7 / label~e.2)
+           :A (v8 / label
+                  :A (v16 / label
+                          :R (v28 / label~e.4)
+                          :E (v29 / label~e.5)
+                          :C (v30 / label~e.6))
+                  :D (v17 / label~e.7)
+                  :A (v18 / label
+                          :R (v31 / label~e.8)
+                          :C (v32 / label~e.10))
+                  :P (v19 / label~e.11)))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :A (v9 / label~e.14)
+           :T (v10 / label~e.15)
+           :A (v11 / label
+                   :E (v20 / label~e.16)
+                   :C (v21 / label~e.17))
+           :P (v12 / label~e.18))
+    :L (v5 / label~e.21)
+    :H (v6 / label
+           :T (v13 / label
+                   :R (v22 / label~e.22)
+                   :E (v23 / label~e.23)
+                   :C (v24 / label~e.24))
+           :A (v14 / label
+                   :E (v25 / label
+                           :C (v33 / label~e.26)
+                           :N (v34 / label~e.27)
+                           :C (v35 / label
+                                   :C (v36 / label~e.29)))
+                   :E (v26 / label~e.30)
+                   :C (v27 / label~e.31))
+           :P (v15 / label~e.33)
+           :A v9))

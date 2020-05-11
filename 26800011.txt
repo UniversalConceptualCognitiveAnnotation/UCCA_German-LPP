@@ -1,0 +1,15 @@
+# ::id 26800011
+# ::tok Und der Donner eines dritten Schnell zugs grollte . - "
+# ::alignments 0-1.1 2-1.2.4.1 3-1.2.4.2.1 4-1.2.4.2.2 5-1.2.4.2.3 6-1.2.4.2.4 7-1.2.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :C (v6 / label~e.2)
+                  :E (v7 / label
+                         :R (v8 / label~e.3)
+                         :E (v9 / label~e.4)
+                         :E (v10 / label~e.5)
+                         :C (v11 / label~e.6)))
+           :P (v5 / label~e.7)))

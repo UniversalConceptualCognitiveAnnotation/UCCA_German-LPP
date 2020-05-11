@@ -1,0 +1,60 @@
+# ::id 26759002
+# ::tok Dieses Detail erfuhr ich an dem Morgen des vierten Tages , als du mir sagtest : - " Ich mag Sonnenuntergänge . Lass uns einen Sonnenuntergang anschauen ... " - " Aber man muss warten ... " - " Worauf denn warten ? " - " Darauf , dass die Sonne untergeht . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 6-1.1.4.3 7-1.1.4.4.1 8-1.1.4.4.2 9-1.1.4.4.3 11-1.2 12-1.3.1 13-1.3.2 14-1.3.3 18-1.3.4.1.1 19-1.3.4.1.2 20-1.3.4.1.3 22-1.3.4.2.1 23-1.3.4.2.2 25-1.3.4.2.3.2 26-1.3.4.2.4 31-1.4.3.1 32-1.4.3.2.1 33-1.5.3.4 34-1.4.3.2.3 39-1.5.3.1 41-1.5.3.3 48-1.6.3.2.1 50-1.6.3.2.2.2 51-1.6.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v25 / label~e.0)
+                  :C (v26 / label~e.1))
+           :P (v9 / label~e.2)
+           :A (v10 / label~e.3)
+           :T (v11 / label
+                   :R (v27 / label~e.4)
+                   :C (v28 / label~e.6)
+                   :E (v29 / label
+                           :R (v38 / label~e.7)
+                           :E (v39 / label~e.8)
+                           :C (v40 / label~e.9))))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A (v12 / label~e.12)
+           :A (v13 / label~e.13)
+           :P (v14 / label~e.14)
+           :A (v15 / label
+                   :H (v30 / label
+                           :A (v41 / label~e.18)
+                           :S (v42 / label~e.19)
+                           :A (v43 / label~e.20))
+                   :H (v31 / label
+                           :D (v44 / label~e.22)
+                           :A (v45 / label~e.23)
+                           :A (v46 / label
+                                   :C (v53 / label~e.25))
+                           :P (v47 / label~e.26))))
+    :H (v5 / label
+           :P (v16 / label)
+           :A (v17 / label)
+           :A (v18 / label
+                   :L (v32 / label~e.31)
+                   :H (v33 / label
+                           :A (v48 / label~e.32)
+                           :D (v36 / label~e.33)
+                           :P (v49 / label~e.34))))
+    :H (v6 / label
+           :P (v19 / label)
+           :A (v20 / label)
+           :A (v21 / label
+                   :A (v34 / label~e.39)
+                   :P (v35 / label~e.41)
+                   :D v36))
+    :H (v7 / label
+           :P (v22 / label)
+           :A (v23 / label)
+           :A (v24 / label
+                   :A (v37 / label
+                           :R (v50 / label~e.48)
+                           :A (v51 / label
+                                   :C (v54 / label~e.50))
+                           :P (v52 / label~e.51))
+                   :P v35)))

@@ -1,0 +1,63 @@
+# ::id 26767001
+# ::tok Aber die Insekten ... " - " Ich muss schon zwei oder drei Raupen aushalten , wenn ich die Schmetterlinge kennenlernen will . Sie sollen so wunderschön sein . Wer wird mich ansonsten besuchen ? Du wirst weit fort sein . Was die großen Tiere angeht , habe ich keine Angst . Ich habe meine Dornen . "
+# ::alignments 0-1.1.1 2-1.1.2.2.2 7-1.2.3.1.1 8-1.2.3.1.2 9-1.2.3.1.3 10-1.2.3.1.4.1.1 11-1.2.3.1.4.1.2 12-1.2.3.1.4.1.3 13-1.2.3.1.4.2 14-1.2.3.1.5 16-1.2.3.2 17-1.2.3.3.1 19-1.2.3.3.2.2 20-1.2.3.3.3 21-1.2.3.3.4 23-1.2.3.4.1 24-1.2.3.4.2 25-1.2.3.4.3 26-1.2.3.4.4 29-1.2.3.5.1 31-1.2.3.5.3 32-1.2.3.5.4 33-1.2.3.5.5 35-1.2.3.6.1 37-1.2.3.6.3 38-1.2.3.6.4 41-1.2.3.7.1 43-1.2.3.7.2.2 44-1.2.3.7.2.3 45-1.2.3.7.3 48-1.2.3.8.2 49-1.2.3.8.3 50-1.2.3.8.4 52-1.2.3.9.1 53-1.2.3.9.2 54-1.2.3.9.3.1 55-1.2.3.9.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :L (v4 / label~e.0)
+           :H (v5 / label
+                  :P (v9 / label)
+                  :A (v10 / label
+                          :C (v20 / label~e.2))))
+    :H (v3 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :H (v11 / label
+                          :A (v21 / label~e.7)
+                          :D (v22 / label~e.8)
+                          :D (v23 / label~e.9)
+                          :A (v24 / label
+                                  :Q (v50 / label
+                                          :C (v57 / label~e.10)
+                                          :N (v58 / label~e.11)
+                                          :C (v59 / label~e.12))
+                                  :C (v51 / label~e.13))
+                          :P (v25 / label~e.14))
+                  :L (v12 / label~e.16)
+                  :H (v13 / label
+                          :A (v26 / label~e.17)
+                          :A (v27 / label
+                                  :C (v52 / label~e.19))
+                          :P (v28 / label~e.20)
+                          :D (v29 / label~e.21))
+                  :H (v14 / label
+                          :A (v30 / label~e.23)
+                          :D (v31 / label~e.24)
+                          :D (v32 / label~e.25)
+                          :S (v33 / label~e.26))
+                  :H (v15 / label
+                          :A (v34 / label~e.29)
+                          :A (v35 / label~e.31)
+                          :D (v36 / label~e.32)
+                          :P (v37 / label~e.33))
+                  :H (v16 / label
+                          :A (v38 / label~e.35)
+                          :D (v39 / label~e.37)
+                          :S (v40 / label~e.38))
+                  :H (v17 / label
+                          :A (v41 / label~e.41)
+                          :A (v42 / label
+                                  :E (v53 / label~e.43)
+                                  :C (v54 / label~e.44))
+                          :S (v43 / label~e.45))
+                  :H (v18 / label
+                          :A (v44 / label~e.48)
+                          :D (v45 / label~e.49)
+                          :S (v46 / label~e.50))
+                  :H (v19 / label
+                          :A (v47 / label~e.52)
+                          :S (v48 / label~e.53)
+                          :A (v49 / label
+                                  :E (v55 / label~e.54)
+                                  :C (v56 / label~e.55))))))

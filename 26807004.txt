@@ -1,0 +1,16 @@
+# ::id 26807004
+# ::tok Du bist zu der Stelle zurückgekehrt , wohin du gefallen warst ? "
+# ::alignments 0-1.1.2 2-1.1.4.1 4-1.1.4.3 5-1.1.5 7-1.1.4.4.2 8-1.1.4.4.3 9-1.1.4.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :A (v4 / label
+                  :R (v6 / label~e.2)
+                  :C (v7 / label~e.4)
+                  :E (v8 / label
+                         :A v7
+                         :R (v9 / label~e.7)
+                         :A (v10 / label~e.8)
+                         :S (v11 / label~e.9)))
+           :P (v5 / label~e.5)))

@@ -1,0 +1,18 @@
+# ::id 26760004
+# ::tok Ja , selbst Blumen mit Dornen . " - "
+# ::alignments 0-1.1.3.3 2-1.1.3.4 3-1.1.3.5.1 4-1.1.3.5.2.1 5-1.1.3.5.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :P (v7 / label)
+                  :D (v8 / label~e.0)
+                  :D (v9 / label~e.2)
+                  :A (v10 / label
+                          :C (v11 / label~e.3)
+                          :E (v12 / label
+                                  :R (v13 / label~e.4)
+                                  :C (v14 / label~e.5))))))

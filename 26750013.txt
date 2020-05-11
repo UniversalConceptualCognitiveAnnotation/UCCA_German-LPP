@@ -1,0 +1,20 @@
+# ::id 26750013
+# ::tok Und ich sah ein außergewöhnliches , kleines Kerlchen , das mich ernst betrachtete .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 4-1.2.3.5.1 6-1.2.3.5.2 7-1.2.3.1 9-1.2.3.2.2 10-1.2.3.2.3 11-1.2.3.2.4 12-1.2.3.2.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :C (v7 / label~e.7)
+                  :E (v8 / label
+                         :A v7
+                         :R (v10 / label~e.9)
+                         :A (v11 / label~e.10)
+                         :D (v12 / label~e.11)
+                         :P (v13 / label~e.12))
+                  :E (v9 / label
+                         :C (v14 / label~e.4)
+                         :C (v15 / label~e.6)))))

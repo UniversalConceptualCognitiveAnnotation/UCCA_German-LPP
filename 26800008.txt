@@ -1,0 +1,28 @@
+# ::id 26800008
+# ::tok Sie kommen schon zurück ? " , fragte der kleine Prinz ... - " Das sind nicht dieselben " , sagte der Weichensteller . " Sie wurden ausgetauscht . " - "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.2 7-1.1.2 9-1.1.3.2 10-1.1.3.3 14-1.2.1.1.1 16-1.2.1.1.3 17-1.2.1.1.4 20-1.2.2 22-1.2.3.2.1 25-1.2.1.2.2 27-1.2.1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v10 / label~e.0)
+                  :P (v11 / label~e.1,3)
+                  :D (v12 / label~e.2))
+           :P (v5 / label~e.7)
+           :A (v6 / label
+                  :E (v13 / label~e.9)
+                  :C (v14 / label~e.10)))
+    :H (v3 / label
+           :A (v7 / label
+                  :H (v15 / label
+                          :A (v18 / label~e.14)
+                          :D (v19 / label~e.16)
+                          :S (v20 / label~e.17))
+                  :H (v16 / label
+                          :A (v21 / label)
+                          :A (v22 / label~e.25)
+                          :P (v23 / label~e.27)))
+           :P (v8 / label~e.20)
+           :A (v9 / label
+                  :C (v17 / label
+                          :S (v24 / label~e.22)))))

@@ -1,0 +1,22 @@
+# ::id 26780002
+# ::tok Es gab gerade genug Platz für eine Straßen laterne und einen Laternen anzünder .
+# ::alignments 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6.1.1 6-1.1.6.1.2 7-1.1.6.1.3 8-1.1.6.1.4 9-1.1.6.2 10-1.1.6.3.1 11-1.1.6.3.2 12-1.1.6.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.2)
+           :S (v4 / label~e.3)
+           :A (v5 / label~e.4)
+           :A (v6 / label
+                  :C (v7 / label
+                         :R (v10 / label~e.5)
+                         :Q (v11 / label~e.6)
+                         :E (v12 / label~e.7)
+                         :C (v13 / label~e.8))
+                  :N (v8 / label~e.9)
+                  :C (v9 / label
+                         :Q (v14 / label~e.10)
+                         :E (v15 / label~e.11)
+                         :C (v16 / label
+                                 :A v15
+                                 :P (v17 / label~e.12))))))

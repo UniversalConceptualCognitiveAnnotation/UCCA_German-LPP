@@ -1,0 +1,51 @@
+# ::id 26802001
+# ::tok Ach " , sagte ich zu dem kleinen Prinzen , " sie sind sehr schön , deine Erinnerungen . Aber ich habe mein Flugzeug noch nicht repariert , ich habe nichts mehr zu trinken und ich wäre glücklich , wenn auch ich ganz in Ruhe zu einem Brunnen laufen könnte . - "
+# ::alignments 3-1.1.6 4-1.1.7 5-1.1.8.1 7-1.1.8.3 8-1.1.8.4 13-1.1.1.1.4 14-1.1.1.1.5 16-1.1.1.1.6.1 17-1.1.1.1.6.2 19-1.1.1.2 20-1.1.1.3.1 22-1.1.1.3.3.1 23-1.1.1.3.3.2 24-1.1.1.3.4.1 25-1.1.1.3.4.2 26-1.1.1.3.5 28-1.1.1.4.1 30-1.1.1.4.3.1 31-1.1.1.4.3.2 33-1.1.1.4.5 34-1.1.1.5 35-1.1.1.6.1 36-1.1.1.6.2 37-1.1.1.6.3 39-1.1.1.7 40-1.1.1.8.1.1 41-1.1.1.8.1.2 42-1.1.1.8.2 43-1.1.1.8.2 44-1.1.1.8.2 45-1.1.1.8.3.1 47-1.1.1.8.3.3 48-1.1.1.8.4 49-1.1.1.8.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :D (v18 / label~e.13)
+                         :S (v19 / label~e.14)
+                         :A (v20 / label
+                                 :A (v36 / label~e.16)
+                                 :P (v37 / label~e.17)))
+                  :L (v8 / label~e.19)
+                  :H (v9 / label
+                         :A (v21 / label~e.20)
+                         :A (v22 / label
+                                 :E (v38 / label~e.22)
+                                 :C (v39 / label~e.23))
+                         :D (v23 / label
+                                 :E (v40 / label~e.24)
+                                 :C (v41 / label~e.25))
+                         :P (v24 / label~e.26))
+                  :H (v10 / label
+                          :A (v25 / label~e.28)
+                          :A (v26 / label
+                                  :C (v42 / label~e.30)
+                                  :E (v43 / label~e.31))
+                          :P (v27 / label~e.33))
+                  :L (v11 / label~e.34)
+                  :H (v12 / label
+                          :A (v28 / label~e.35)
+                          :D (v29 / label~e.36)
+                          :S (v30 / label~e.37))
+                  :L (v13 / label~e.39)
+                  :H (v14 / label
+                          :A (v31 / label
+                                  :E (v44 / label~e.40)
+                                  :C (v45 / label~e.41))
+                          :D (v32 / label~e.42,43,44)
+                          :A (v33 / label
+                                  :R (v46 / label~e.45)
+                                  :C (v47 / label~e.47))
+                          :P (v34 / label~e.48)
+                          :D (v35 / label~e.49)))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)
+           :A (v6 / label
+                  :R (v15 / label~e.5)
+                  :E (v16 / label~e.7)
+                  :C (v17 / label~e.8))))

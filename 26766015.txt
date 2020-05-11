@@ -1,0 +1,39 @@
+# ::id 26766015
+# ::tok Und als er die Blume zu dem letzten Mal goss und sie unter ihre schützende Glas glocke stellen wollte , da überkam ihn das Bedürfnis zu weinen .
+# ::alignments 0-1.1 1-1.2 2-1.3.1 4-1.3.2.2 5-1.3.3.1 7-1.3.3.3 8-1.3.3.4 9-1.3.4 10-1.4 11-1.5.1 12-1.5.2.1 13-1.5.2.2 14-1.5.2.3.2 15-1.5.2.4 16-1.5.2.5 17-1.5.3 18-1.5.4 20-1.6 21-1.7.1 22-1.7.2 24-1.7.3.2.2 26-1.7.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v9 / label~e.2)
+           :A (v10 / label
+                   :C (v20 / label~e.4))
+           :D (v11 / label
+                   :R (v21 / label~e.5)
+                   :E (v22 / label~e.7)
+                   :C (v23 / label~e.8))
+           :P (v12 / label~e.9))
+    :L (v5 / label~e.10)
+    :H (v6 / label
+           :A (v13 / label~e.11)
+           :A (v14 / label
+                   :R (v24 / label~e.12)
+                   :E (v25 / label~e.13)
+                   :E (v26 / label
+                           :A (v28 / label~e.16)
+                           :S (v31 / label~e.14))
+                   :E (v27 / label~e.15)
+                   :C v28)
+           :P (v15 / label~e.17)
+           :D (v16 / label~e.18)
+           :A v9)
+    :L (v7 / label~e.20)
+    :H (v8 / label
+           :P (v17 / label~e.21)
+           :A (v18 / label~e.22)
+           :A (v19 / label
+                   :A v18
+                   :A (v29 / label
+                           :C (v32 / label~e.24))
+                   :P (v30 / label~e.26))))

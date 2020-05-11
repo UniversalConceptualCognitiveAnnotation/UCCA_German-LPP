@@ -1,0 +1,28 @@
+# ::id 26768005
+# ::tok Und der kleine Prinz fragte : - " Wie kommt es , dass Sie mich kennen . Sie haben mich noch nie zuvor gesehen ! "
+# ::alignments 0-1.1 2-1.2.4.2 3-1.2.4.3 4-1.2.5 8-1.2.6.1.1 9-1.2.6.1.2 12-1.2.6.1.4.1 13-1.2.6.1.4.2 14-1.2.6.1.4.3 15-1.2.6.1.4.4 17-1.2.6.2.1 19-1.2.6.2.3 20-1.2.6.2.4.1 21-1.2.6.2.4.2 22-1.2.6.2.5 23-1.2.6.2.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :H (v9 / label
+                         :D (v11 / label~e.8)
+                         :P (v12 / label~e.9)
+                         :A (v13 / label
+                                 :R (v19 / label~e.12)
+                                 :A (v20 / label~e.13)
+                                 :A (v21 / label~e.14)
+                                 :S (v22 / label~e.15)))
+                  :H (v10 / label
+                          :A (v14 / label~e.17)
+                          :A (v15 / label~e.19)
+                          :D (v16 / label
+                                  :E (v23 / label~e.20)
+                                  :C (v24 / label~e.21))
+                          :T (v17 / label~e.22)
+                          :P (v18 / label~e.23)))))

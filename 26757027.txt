@@ -1,0 +1,25 @@
+# ::id 26757027
+# ::tok Und wenn der Planet zu klein ist und die Affenbrotbäume zu zahlreich werden , dann sprengen sie ihn .
+# ::alignments 0-1.1 1-1.2 3-1.3.1.2 4-1.3.2.1 5-1.3.2.2 7-1.4 9-1.5.1.2 10-1.5.2.1 11-1.5.2.2 14-1.6 15-1.7.1 16-1.7.2 17-1.7.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v9 / label
+                  :C (v16 / label~e.3))
+           :S (v10 / label
+                   :E (v17 / label~e.4)
+                   :C (v18 / label~e.5)))
+    :L (v5 / label~e.7)
+    :H (v6 / label
+           :A (v11 / label
+                   :C (v19 / label~e.9))
+           :S (v12 / label
+                   :E (v20 / label~e.10)
+                   :C (v21 / label~e.11)))
+    :L (v7 / label~e.14)
+    :H (v8 / label
+           :P (v13 / label~e.15)
+           :A (v14 / label~e.16)
+           :A (v15 / label~e.17)))

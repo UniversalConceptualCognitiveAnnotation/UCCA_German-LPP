@@ -1,0 +1,18 @@
+# ::id 26806015
+# ::tok Oh ! Das wird schon gehen " , sagte er , " die Kinder verstehen es . "
+# ::alignments 2-1.1.5.2.1 4-1.1.5.2.3 5-1.1.5.2.4 8-1.1.6 9-1.1.7 13-1.1.5.3.1.2 14-1.1.5.3.2 15-1.1.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v8 / label~e.2)
+                         :D (v9 / label~e.4)
+                         :S (v10 / label~e.5))
+                  :H (v7 / label
+                         :A (v11 / label
+                                 :C (v14 / label~e.13))
+                         :P (v12 / label~e.14)
+                         :A (v13 / label~e.15)))
+           :P (v4 / label~e.8)
+           :A (v5 / label~e.9)))

@@ -1,0 +1,13 @@
+# ::id 26785004
+# ::tok Weil Blumen vergänglich sind . " - "
+# ::alignments 0-1.1.3.1 1-1.1.3.2.1 2-1.1.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :A (v8 / label~e.1)
+                         :S (v9 / label~e.2)))))

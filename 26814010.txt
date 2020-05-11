@@ -1,0 +1,25 @@
+# ::id 26814010
+# ::tok So frage ich mich : Was ist auf seinem Planeten geschehen ? Vielleicht hat das Schaf doch die Blume gefressen ?
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.2 5-1.2.4.3.1 7-1.2.4.3.3.1 8-1.2.4.3.3.2 9-1.2.4.3.3.3 10-1.2.4.3.4 12-1.2.4.1.1 15-1.2.4.1.3.2 16-1.2.4.1.4 18-1.2.4.1.5.2 19-1.2.4.1.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1,3)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :H (v7 / label
+                         :G (v9 / label~e.12)
+                         :A (v10 / label
+                                 :C (v17 / label~e.15))
+                         :D (v11 / label~e.16)
+                         :A (v12 / label
+                                 :C (v18 / label~e.18))
+                         :P (v13 / label~e.19))
+                  :H (v8 / label
+                         :A (v14 / label~e.5)
+                         :A (v15 / label
+                                 :R (v19 / label~e.7)
+                                 :E (v20 / label~e.8)
+                                 :C (v21 / label~e.9))
+                         :P (v16 / label~e.10)))))

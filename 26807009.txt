@@ -1,0 +1,11 @@
+# ::id 26807009
+# ::tok Ach " , sagte ich , " ich habe Angst ! " ...
+# ::alignments 3-1.1.6 4-1.1.7 7-1.1.5.2 9-1.1.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.7)
+                  :S (v7 / label~e.9))
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4)))

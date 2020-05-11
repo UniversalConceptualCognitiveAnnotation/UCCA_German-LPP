@@ -1,0 +1,17 @@
+# ::id 26810007
+# ::tok Natürlich ... " - " Du wirst nachts die Sterne beobachten .
+# ::alignments 0-1.1.3.1 5-1.2.1.1 7-1.2.1.3 9-1.2.1.4.2 10-1.2.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :S (v8 / label~e.0)))
+    :H (v3 / label
+           :H (v7 / label
+                  :A (v9 / label~e.5)
+                  :T (v10 / label~e.7)
+                  :A (v11 / label
+                          :C (v13 / label~e.9))
+                  :P (v12 / label~e.10))))

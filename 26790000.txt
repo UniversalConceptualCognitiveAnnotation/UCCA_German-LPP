@@ -1,0 +1,26 @@
+# ::id 26790000
+# ::tok - " Oh ! Ich habe sehr gut verstanden " , sagte der kleine Prinz , " aber warum sprichst du immer in Rätseln ? " - "
+# ::alignments 4-1.1.7.1.2 6-1.1.7.1.4.1 7-1.1.7.1.4.2 8-1.1.7.1.5 11-1.1.1 13-1.1.2.2 14-1.1.2.3 17-1.1.7.2 18-1.1.7.3.1 19-1.1.7.3.2 20-1.1.7.3.3 21-1.1.7.3.4 22-1.1.7.3.5.1 23-1.1.7.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.11)
+           :A (v4 / label
+                  :E (v6 / label~e.13)
+                  :C (v7 / label~e.14))
+           :A (v5 / label
+                  :H (v8 / label
+                         :A (v11 / label~e.4)
+                         :D (v12 / label
+                                 :E (v19 / label~e.6)
+                                 :C (v20 / label~e.7))
+                         :S (v13 / label~e.8))
+                  :L (v9 / label~e.17)
+                  :H (v10 / label
+                          :A (v14 / label~e.18)
+                          :P (v15 / label~e.19)
+                          :A (v16 / label~e.20)
+                          :T (v17 / label~e.21)
+                          :A (v18 / label
+                                  :R (v21 / label~e.22)
+                                  :C (v22 / label~e.23))))))

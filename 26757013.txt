@@ -1,0 +1,12 @@
+# ::id 26757013
+# ::tok als ginge es um eine Selbstverständlichkeit .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.3 5-1.2.3.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :C (v7 / label~e.5)
+                  :R (v8 / label~e.3))))

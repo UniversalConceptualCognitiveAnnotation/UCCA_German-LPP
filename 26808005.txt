@@ -1,0 +1,43 @@
+# ::id 26808005
+# ::tok Trotzdem wiederholte der kleine Prinz noch einmal : - " Natürlich . Du wirst sehen , wo meine Spur in dem Sand beginnt . Du brauchst dort nur auf mich zu warten . Heute Nacht werde ich dort sein . "
+# ::alignments 0-1.1 1-1.2.4 3-1.2.5.2 4-1.2.5.3 5-1.2.6 6-1.2.6 10-1.2.7.1.1 12-1.2.7.2.1 14-1.2.7.2.3 16-1.2.7.2.4.1 17-1.2.7.2.4.2.1 18-1.2.7.2.4.2.2 19-1.2.7.2.4.3.1 21-1.2.7.2.4.3.3 22-1.2.7.2.4.4 24-1.2.7.3.1 25-1.2.7.3.2 26-1.2.7.3.3 27-1.2.7.3.4 28-1.2.7.3.5.1 29-1.2.7.3.5.2 31-1.2.7.3.7 33-1.2.7.4.1.1 34-1.2.7.4.1.2 36-1.2.7.4.3 37-1.2.7.4.4 38-1.2.7.4.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))
+           :D (v6 / label~e.5,6)
+           :A (v7 / label
+                  :H (v10 / label
+                          :S (v14 / label~e.10))
+                  :H (v11 / label
+                          :A (v15 / label~e.12)
+                          :P (v16 / label~e.14)
+                          :A (v17 / label
+                                  :A (v28 / label~e.16)
+                                  :A (v29 / label
+                                          :E (v36 / label~e.17)
+                                          :C (v37 / label~e.18))
+                                  :A (v30 / label
+                                          :R (v38 / label~e.19)
+                                          :C (v39 / label~e.21))
+                                  :S (v31 / label~e.22)))
+                  :H (v12 / label
+                          :A (v18 / label~e.24)
+                          :D (v19 / label~e.25)
+                          :A (v20 / label~e.26)
+                          :D (v21 / label~e.27)
+                          :A (v22 / label
+                                  :R (v32 / label~e.28)
+                                  :C (v33 / label~e.29))
+                          :P (v23 / label~e.31))
+                  :H (v13 / label
+                          :T (v24 / label
+                                  :E (v34 / label~e.33)
+                                  :C (v35 / label~e.34))
+                          :A (v25 / label~e.36)
+                          :A (v26 / label~e.37)
+                          :S (v27 / label~e.38)))))

@@ -1,0 +1,26 @@
+# ::id 26776001
+# ::tok Der Mann war so beschäftigt , dass er bei der Ankunft des kleinen Prinzen nicht einmal den Kopf hob . - "
+# ::alignments 1-1.1.3.1.2 3-1.1.4 4-1.1.3.3 6-1.1.4 7-1.1.5.1 8-1.1.6 10-1.1.1.1.2 12-1.1.1.2.2 13-1.1.1.2.3 14-1.1.5.2.1 15-1.1.5.2.2 17-1.1.5.3.2 18-1.1.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :H (v3 / label
+                  :P (v8 / label
+                         :C (v16 / label~e.10))
+                  :A (v9 / label
+                         :E (v17 / label~e.12)
+                         :C (v18 / label~e.13)))
+           :H (v4 / label
+                  :A (v10 / label
+                          :C (v19 / label~e.1))
+                  :S (v11 / label~e.4))
+           :L (v5 / label~e.3,6)
+           :H (v6 / label
+                  :A (v12 / label~e.7)
+                  :D (v13 / label
+                          :E (v20 / label~e.14)
+                          :C (v21 / label~e.15))
+                  :A (v14 / label
+                          :C (v22 / label~e.17))
+                  :P (v15 / label~e.18))
+           :L (v7 / label~e.8)))

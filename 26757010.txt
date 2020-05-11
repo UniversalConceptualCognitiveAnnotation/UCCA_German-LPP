@@ -1,0 +1,22 @@
+# ::id 26757010
+# ::tok Aber dann bemerkte er weise : - " Bevor die Affenbrotbäume wachsen , sind sie doch erst klein . " - "
+# ::alignments 0-1.1 1-1.2 2-1.3.7 3-1.3.1 4-1.3.2 8-1.3.3.1 10-1.3.3.2.1.2 11-1.3.3.2.2 14-1.3.3.3.2 15-1.3.3.3.3 16-1.3.3.3.4 17-1.3.3.3.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :A (v7 / label
+                  :L (v9 / label~e.8)
+                  :H (v10 / label
+                          :A (v12 / label
+                                  :C (v18 / label~e.10))
+                          :P (v13 / label~e.11))
+                  :H (v11 / label
+                          :A (v14 / label~e.14)
+                          :D (v15 / label~e.15)
+                          :D (v16 / label~e.16)
+                          :S (v17 / label~e.17)))
+           :P (v8 / label~e.2)))

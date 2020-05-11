@@ -1,0 +1,66 @@
+# ::id 26770004
+# ::tok Genau . Man muss von jedem das verlangen , was er geben kann " , erwiderte der König . Autorität erlangt man zuallererst durch Vernunft . Befiehlst Du einem Volk , sich in das Meer zu schmeißen , so wird es eine Revolution anzetteln . Ich habe das Recht , Gehorsam zu verlangen , weil meine Befehle vernünftig sind . " - "
+# ::alignments 0-1.1.1.1.1 2-1.1.1.2.1 3-1.1.1.2.2 4-1.1.1.2.3.1 5-1.1.1.2.3.2 6-1.1.1.2.4.1 7-1.1.1.2.5 9-1.1.1.2.4.2.2 10-1.1.1.2.4.2.3 11-1.1.1.2.4.2.4 12-1.1.1.2.4.2.5 15-1.1.2 17-1.1.6.2 19-1.1.1.3.1 20-1.1.1.3.2 21-1.1.1.3.3 22-1.1.1.3.4 23-1.1.1.3.5.1 24-1.1.1.3.5.2 26-1.1.1.4.1 27-1.1.1.4.2 29-1.1.1.4.3.2 31-1.1.1.4.4.1 32-1.1.1.4.4.2.1 34-1.1.1.4.4.2.3 36-1.1.1.4.4.1 38-1.1.1.5 40-1.1.1.6.2 42-1.1.1.6.3.2 43-1.1.1.6.4 45-1.1.1.7.1 48-1.1.1.7.3.2 50-1.1.1.7.4.2 52-1.1.1.7.6 54-1.1.1.8 55-1.1.1.9.1.1 56-1.1.1.9.1.2 57-1.1.1.9.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :S (v16 / label~e.0))
+                  :H (v7 / label
+                         :A (v17 / label~e.2)
+                         :D (v18 / label~e.3)
+                         :A (v19 / label
+                                 :R (v40 / label~e.4)
+                                 :C (v41 / label~e.5))
+                         :A (v20 / label
+                                 :C (v42 / label~e.6)
+                                 :E (v43 / label
+                                         :A v42
+                                         :R (v55 / label~e.9)
+                                         :A (v56 / label~e.10)
+                                         :P (v57 / label~e.11)
+                                         :D (v58 / label~e.12)))
+                         :P (v21 / label~e.7))
+                  :H (v8 / label
+                         :A (v22 / label~e.19)
+                         :P (v23 / label~e.20)
+                         :A (v24 / label~e.21)
+                         :G (v25 / label~e.22)
+                         :A (v26 / label
+                                 :R (v44 / label~e.23)
+                                 :C (v45 / label~e.24)))
+                  :H (v9 / label
+                         :P (v27 / label~e.26)
+                         :A (v28 / label~e.27)
+                         :A (v29 / label
+                                 :C (v46 / label~e.29))
+                         :A (v30 / label
+                                 :P (v47 / label~e.31,36)
+                                 :A (v48 / label
+                                         :R (v59 / label~e.32)
+                                         :C (v60 / label~e.34))
+                                 :A v46))
+                  :L (v10 / label~e.38)
+                  :H (v11 / label
+                          :A (v31 / label~e.40)
+                          :A (v32 / label
+                                  :C (v49 / label~e.42))
+                          :P (v33 / label~e.43))
+                  :H (v12 / label
+                          :A (v34 / label~e.45)
+                          :D (v35 / label
+                                  :C (v50 / label~e.48))
+                          :A (v36 / label
+                                  :A (v51 / label)
+                                  :S (v52 / label~e.50))
+                          :P (v37 / label~e.52))
+                  :L (v13 / label~e.54)
+                  :H (v14 / label
+                          :A (v38 / label
+                                  :A (v53 / label~e.55)
+                                  :P (v54 / label~e.56))
+                          :S (v39 / label~e.57)))
+           :P (v4 / label~e.15)
+           :A (v5 / label
+                  :C (v15 / label~e.17))))

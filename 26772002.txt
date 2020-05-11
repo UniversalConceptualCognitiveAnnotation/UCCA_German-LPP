@@ -1,0 +1,33 @@
+# ::id 26772002
+# ::tok Ich mag kein Todes urteil sprechen " , sagte der kleine Prinz , " und ich werde jetzt lieber gehen . " - " Nein " , sagte der König .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.4.1 4-1.1.1.1.4.2 5-1.1.1.1.5 8-1.1.2 10-1.1.3.2 11-1.1.3.3 14-1.1.1.2 15-1.1.1.3.1 17-1.1.1.3.3 18-1.1.1.3.4 19-1.2.1.3 24-1.2.1.2 27-1.2.4 29-1.2.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :H (v10 / label
+                          :A (v19 / label~e.0)
+                          :D (v20 / label~e.1)
+                          :D (v21 / label~e.2)
+                          :A (v22 / label
+                                  :E (v27 / label~e.3)
+                                  :C (v28 / label~e.4))
+                          :P (v23 / label~e.5))
+                  :L (v11 / label~e.14)
+                  :H (v12 / label
+                          :A (v24 / label~e.15)
+                          :T (v25 / label~e.17)
+                          :D (v26 / label~e.18)
+                          :P (v17 / label~e.19)))
+           :P (v5 / label~e.8)
+           :A (v6 / label
+                  :E (v13 / label~e.10)
+                  :C (v14 / label~e.11)))
+    :H (v3 / label
+           :A (v7 / label
+                  :A (v15 / label)
+                  :D (v16 / label~e.24)
+                  :P v17)
+           :P (v8 / label~e.27)
+           :A (v9 / label
+                  :C (v18 / label~e.29))))

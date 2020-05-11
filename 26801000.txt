@@ -1,0 +1,16 @@
+# ::id 26801000
+# ::tok Kapitel XXIII - " Guten Tag " , sagte der kleine Prinz . - "
+# ::alignments 0-1.1.1 1-1.1.2 4-1.2.5.1 5-1.2.5.2 8-1.2.1 10-1.2.2.2 11-1.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :P (v6 / label~e.8)
+           :A (v7 / label
+                  :E (v9 / label~e.10)
+                  :C (v10 / label~e.11))
+           :A (v8 / label
+                  :S (v11 / label~e.4)
+                  :A (v12 / label~e.5))))

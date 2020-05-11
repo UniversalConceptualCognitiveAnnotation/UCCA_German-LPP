@@ -1,0 +1,13 @@
+# ::id 26813012
+# ::tok Durch den Sand war nicht mal ein Geräusch zu hören .
+# ::alignments 0-1.1.2.1 2-1.1.2.3 4-1.1.4 5-1.1.4 7-1.1.5.2 9-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.2))
+           :D (v4 / label~e.4,5)
+           :P (v5 / label
+                  :C (v9 / label~e.7))
+           :D (v6 / label~e.9)))

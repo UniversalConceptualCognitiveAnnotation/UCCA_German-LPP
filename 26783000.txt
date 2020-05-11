@@ -1,0 +1,16 @@
+# ::id 26783000
+# ::tok Kapitel XV Der sechste Planet war um das Zehnfache größer .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.2.2 4-1.2.2.3 6-1.2.4.3 8-1.2.4.2 9-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))
+           :D (v7 / label
+                  :C (v11 / label~e.8)
+                  :R (v12 / label~e.6))
+           :S (v8 / label~e.9)))

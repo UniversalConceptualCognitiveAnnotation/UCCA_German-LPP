@@ -1,0 +1,19 @@
+# ::id 26771000
+# ::tok - " Hm . hm ! " , antworte der König und schaute zunächst in einen dicken Kalender . "
+# ::alignments 8-1.1.2 10-1.3.3 11-1.2 12-1.3.4 13-1.3.1 14-1.3.2.1 16-1.3.2.3 17-1.3.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label~e.8)
+           :A (v7 / label
+                  :C (v10 / label~e.10)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :T (v8 / label~e.13)
+           :A (v9 / label
+                  :R (v12 / label~e.14)
+                  :E (v13 / label~e.16)
+                  :C (v14 / label~e.17))
+           :A v10
+           :P (v11 / label~e.12)))

@@ -1,0 +1,12 @@
+# ::id 26784007
+# ::tok Schaut man nach ? " - "
+# ::alignments 0-1.1.3.2 1-1.1.3.3 2-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :P (v7 / label~e.0,2)
+                  :A (v8 / label~e.1))))

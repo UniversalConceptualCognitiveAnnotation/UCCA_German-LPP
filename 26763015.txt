@@ -1,0 +1,14 @@
+# ::id 26763015
+# ::tok Das ist wohl wahr ! " , antwortete die Blume sanftmütig .
+# ::alignments 0-1.1.5.1 2-1.1.5.3 3-1.1.5.4 7-1.1.6 9-1.1.7.2 10-1.1.8
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v7 / label~e.0)
+                  :G (v8 / label~e.2)
+                  :S (v9 / label~e.3))
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :C (v10 / label~e.9))
+           :D (v6 / label~e.10)))

@@ -1,0 +1,27 @@
+# ::id 26753007
+# ::tok Ah ! Das ist lustig ... " Und der kleine Prinz brach in ein herzliches Lachen aus , das mich sehr verärgerte .
+# ::alignments 2-1.1.3.2 4-1.1.3.4 7-1.2 9-1.3.3.2 10-1.3.3.3 11-1.3.4 12-1.3.1.1 14-1.3.1.3 15-1.3.1.4 16-1.3.4 18-1.3.1.5.2 19-1.3.1.5.3 20-1.3.1.5.4 21-1.3.1.5.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :A (v11 / label~e.2)
+                  :S (v12 / label~e.4)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v13 / label~e.12)
+                  :E (v14 / label~e.14)
+                  :C (v15 / label~e.15)
+                  :E (v16 / label
+                          :A v15
+                          :R (v19 / label~e.18)
+                          :A (v20 / label~e.19)
+                          :D (v21 / label~e.20)
+                          :P (v22 / label~e.21)))
+           :A (v9 / label
+                  :E (v17 / label~e.9)
+                  :C (v18 / label~e.10))
+           :P (v10 / label~e.11,16)))

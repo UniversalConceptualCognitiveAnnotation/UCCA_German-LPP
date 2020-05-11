@@ -1,0 +1,22 @@
+# ::id 26764013
+# ::tok Ich wollte ihn eben holen gehen , aber Sie sprachen mit mir ! "
+# ::alignments 0-1.1.3.2.1 1-1.1.3.2.2 2-1.1.3.2.3 3-1.1.3.2.4 4-1.1.3.2.5 7-1.1.3.3 8-1.1.3.4.1 9-1.1.3.4.2 10-1.1.3.4.3.1 11-1.1.3.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v9 / label~e.0)
+                         :D (v10 / label~e.1)
+                         :A (v11 / label~e.2)
+                         :T (v12 / label~e.3)
+                         :P (v13 / label~e.4))
+                  :L (v7 / label~e.7)
+                  :H (v8 / label
+                         :A (v14 / label~e.8)
+                         :P (v15 / label~e.9)
+                         :A (v16 / label
+                                 :R (v17 / label~e.10)
+                                 :C (v18 / label~e.11))))))

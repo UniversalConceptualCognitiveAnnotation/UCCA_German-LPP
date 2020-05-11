@@ -1,0 +1,14 @@
+# ::id 26777018
+# ::tok Wem gehören sie denn ? " , gab der Geschäftsmann mürrisch zurück .
+# ::alignments 0-1.1.5.1 1-1.1.5.2 2-1.1.5.3 7-1.1.6 9-1.1.7.2 10-1.1.8 11-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v7 / label~e.0)
+                  :S (v8 / label~e.1)
+                  :A (v9 / label~e.2))
+           :P (v4 / label~e.7,11)
+           :A (v5 / label
+                  :C (v10 / label~e.9))
+           :D (v6 / label~e.10)))

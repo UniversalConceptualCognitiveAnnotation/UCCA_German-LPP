@@ -1,0 +1,20 @@
+# ::id 26753001
+# ::tok Der kleine Prinz stellte mir viele Fragen , aber schien meine zu überhören .
+# ::alignments 1-1.1.1.2 2-1.3.2 3-1.1.2 4-1.1.3 5-1.1.4 6-1.1.2 8-1.2 9-1.3.4 10-1.3.5.2 12-1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label~e.1)
+                  :C (v10 / label~e.2))
+           :P (v6 / label~e.3,6)
+           :A (v7 / label~e.4)
+           :D (v8 / label~e.5))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :P (v9 / label~e.12)
+           :A v10
+           :G (v11 / label~e.9)
+           :A (v12 / label
+                   :C (v14 / label)
+                   :E (v15 / label~e.10))))

@@ -1,0 +1,24 @@
+# ::id 26814001
+# ::tok Meine Kameraden , die mich zu Gesicht bekamen , waren sehr glücklich , mich lebend wiederzusehen .
+# ::alignments 0-1.1.3.1 1-1.1.3.2 3-1.1.3.3.2 4-1.1.3.3.3 5-1.1.3.3.4 6-1.1.3.3.4 7-1.1.3.3.4 10-1.1.5 11-1.1.6 13-1.1.7.1.1 14-1.1.7.1.2.2 15-1.1.7.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1)
+                  :E (v9 / label
+                         :A v8
+                         :R (v12 / label~e.3)
+                         :A (v13 / label~e.4)
+                         :P (v14 / label~e.5,6,7)))
+           :D (v4 / label~e.10)
+           :S (v5 / label~e.11)
+           :A (v6 / label
+                  :A (v10 / label
+                          :C (v15 / label~e.13)
+                          :E (v16 / label
+                                  :A v15
+                                  :S (v17 / label~e.14)))
+                  :P (v11 / label~e.15)
+                  :A v8)))

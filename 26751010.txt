@@ -1,0 +1,78 @@
+# ::id 26751010
+# ::tok Und ich zeichnete : Mein Freund lächelte lieb und sagte nachsichtig : - " Siehst du ... das ist kein Schaf , das ist ein Hammel . Das hat Hörner ... " So machte ich einen neuen Versuch : Aber er wurde wie die vorherigen abgelehnt : - " Das da ist zu alt . Ich möchte ein Schaf , das lange lebt . "
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 4-1.3.1.1 5-1.5.4.2 6-1.3.2 7-1.3.3 8-1.4 9-1.5.1 10-1.5.2 14-1.5.3.2.1 15-1.5.3.2.2 17-1.5.3.3.2 18-1.5.3.3.3 19-1.5.3.3.4 20-1.5.3.3.5 22-1.5.3.4.1 23-1.5.3.4.2 25-1.5.3.4.3.2 27-1.5.3.5.1 28-1.5.3.5.2 29-1.5.3.5.3 32-1.6 33-1.7.1 34-1.7.2 36-1.7.4 37-1.7.3.2 39-1.8 40-1.9.1 42-1.9.3.2 44-1.9.3.3.2 45-1.9.4 49-1.10.3.2.1 50-1.10.3.2.2 52-1.10.3.2.4.1 53-1.10.3.2.4.2 55-1.10.3.3.1 56-1.10.3.3.2 58-1.10.3.3.3.3 60-1.10.3.3.3.4.4 61-1.10.3.3.3.4.5 62-1.10.3.3.3.4.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v12 / label)
+           :A (v13 / label~e.1)
+           :P (v14 / label~e.2))
+    :H (v4 / label
+           :A (v15 / label
+                   :E (v32 / label~e.4)
+                   :C (v21 / label
+                           :A v32
+                           :S (v37 / label~e.5)))
+           :P (v16 / label~e.6)
+           :D (v17 / label~e.7))
+    :L (v5 / label~e.8)
+    :H (v6 / label
+           :P (v18 / label~e.9)
+           :D (v19 / label~e.10)
+           :A (v20 / label
+                   :H (v33 / label
+                           :P (v43 / label~e.14)
+                           :A (v44 / label~e.15))
+                   :H (v34 / label
+                           :D (v45 / label)
+                           :A (v46 / label~e.17)
+                           :S (v47 / label~e.18)
+                           :D (v48 / label~e.19)
+                           :A (v49 / label~e.20))
+                   :H (v35 / label
+                           :A (v50 / label~e.22)
+                           :S (v51 / label~e.23)
+                           :A (v52 / label
+                                   :C (v63 / label~e.25)))
+                   :H (v36 / label
+                           :A (v53 / label~e.27)
+                           :S (v54 / label~e.28)
+                           :A (v55 / label~e.29)))
+           :A v21)
+    :L (v7 / label~e.32)
+    :H (v8 / label
+           :D (v22 / label~e.33)
+           :A (v23 / label~e.34)
+           :P (v24 / label
+                   :C (v38 / label~e.37))
+           :D (v25 / label~e.36))
+    :L (v9 / label~e.39)
+    :H (v10 / label
+            :A (v26 / label~e.40)
+            :A (v27 / label
+                    :P (v28 / label~e.45)
+                    :D (v39 / label~e.42)
+                    :A (v40 / label
+                            :C (v56 / label~e.44)))
+            :P v28)
+    :H (v11 / label
+            :P (v29 / label)
+            :A (v30 / label)
+            :A (v31 / label
+                    :H (v41 / label
+                            :A (v57 / label~e.49)
+                            :A (v58 / label~e.50)
+                            :S (v59 / label
+                                    :E (v64 / label~e.52)
+                                    :C (v65 / label~e.53)))
+                    :H (v42 / label
+                            :A (v60 / label~e.55)
+                            :S (v61 / label~e.56)
+                            :A (v62 / label
+                                    :C (v66 / label~e.58)
+                                    :E (v67 / label
+                                            :A v66
+                                            :R (v68 / label~e.60)
+                                            :D (v69 / label~e.61)
+                                            :P (v70 / label~e.62)))))))

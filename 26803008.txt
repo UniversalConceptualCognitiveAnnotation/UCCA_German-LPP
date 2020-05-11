@@ -1,0 +1,11 @@
+# ::id 26803008
+# ::tok Ich habe die Wüste immer geliebt .
+# ::alignments 0-1.1.2 3-1.1.4.1 4-1.1.5 5-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v7 / label~e.3))
+           :T (v5 / label~e.4)
+           :P (v6 / label~e.5)))

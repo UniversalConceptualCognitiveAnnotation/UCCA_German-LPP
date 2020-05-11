@@ -1,0 +1,25 @@
+# ::id 26748011
+# ::tok Derart entmutigt war ich von dem Misserfolg meiner Zeichnungen Nr . 1 und Nr . 2 .
+# ::alignments 0-1.1.2 1-1.1.3 3-1.1.5 4-1.1.6.1 6-1.1.6.2.2 7-1.1.6.3.1 8-1.1.6.3.2 9-1.1.6.3.3.1.1 11-1.1.6.3.3.1.2 12-1.1.6.3.3.2 13-1.1.6.3.3.3.1 15-1.1.6.3.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label~e.3)
+           :A (v7 / label
+                  :R (v8 / label~e.4)
+                  :S (v9 / label
+                         :C (v11 / label~e.6))
+                  :A (v10 / label
+                          :R (v12 / label~e.7)
+                          :C (v13 / label~e.8)
+                          :E (v14 / label
+                                  :C (v15 / label
+                                          :E (v18 / label~e.9)
+                                          :C (v19 / label~e.11))
+                                  :N (v16 / label~e.12)
+                                  :C (v17 / label
+                                          :E (v20 / label~e.13)
+                                          :C (v21 / label~e.15)))))))

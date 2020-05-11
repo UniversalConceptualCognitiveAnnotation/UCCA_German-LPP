@@ -1,0 +1,73 @@
+# ::id 26797010
+# ::tok Ihr seht meiner Rose überhaupt nicht ähnlich , ihr taugt rein gar nichts " , sagte er ihnen . " Niemand hat euch gezähmt und ihr habt niemanden gezähmt . Ihr seid wie mein Fuchs . Er war nur ein Fuchs wie hunderttausend andere . Aber ich habe aus ihm meinen Freund gemacht und nun ist er einmalig auf der ganzen Welt . "
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3.1.2 3-1.1.1.1.3.2 4-1.1.1.1.4.1 5-1.1.1.1.4.2 6-1.1.1.1.2 8-1.1.1.2.1 9-1.1.1.2.2 10-1.1.1.2.3 11-1.1.1.2.3 12-1.1.1.2.3 15-1.1.2 16-1.1.3 17-1.1.4 20-1.1.1.3.1 22-1.1.1.3.3 23-1.1.1.3.4 24-1.1.1.4 25-1.1.1.5.1 27-1.1.1.5.3 28-1.1.1.5.4 30-1.1.1.6.1 31-1.1.1.6.2 32-1.1.1.6.3.1 33-1.1.1.6.3.2.2 34-1.1.1.6.3.3 36-1.1.1.7.1 37-1.1.1.7.2 38-1.1.1.7.3 40-1.1.1.7.4.2 41-1.1.1.7.4.3.2 42-1.1.1.7.4.3.3 43-1.1.1.7.4.3.4 45-1.1.1.8 46-1.1.1.9.1 48-1.1.1.9.3.1 49-1.1.1.9.3.2 50-1.1.1.9.4.1 51-1.1.1.9.4.2 52-1.1.1.9.5 53-1.1.1.10 54-1.1.1.11.1 56-1.1.1.11.3 57-1.1.1.11.4 58-1.1.1.11.5.1 60-1.1.1.11.5.3 61-1.1.1.11.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :A (v18 / label~e.0)
+                         :P (v19 / label~e.1,6)
+                         :A (v20 / label
+                                 :E (v46 / label
+                                         :A (v47 / label~e.3)
+                                         :S (v62 / label~e.2))
+                                 :C v47)
+                         :D (v21 / label
+                                 :E (v48 / label~e.4)
+                                 :C (v49 / label~e.5)))
+                  :H (v8 / label
+                         :A (v22 / label~e.8)
+                         :S (v23 / label~e.9)
+                         :A (v24 / label~e.10,11,12))
+                  :H (v9 / label
+                         :A (v25 / label~e.20)
+                         :A (v26 / label~e.22)
+                         :P (v27 / label~e.23))
+                  :L (v10 / label~e.24)
+                  :H (v11 / label
+                          :A (v28 / label~e.25)
+                          :A (v29 / label~e.27)
+                          :P (v30 / label~e.28))
+                  :H (v12 / label
+                          :A (v31 / label~e.30)
+                          :S (v32 / label~e.31)
+                          :A (v33 / label
+                                  :R (v50 / label~e.32)
+                                  :E (v51 / label
+                                          :A (v52 / label~e.34)
+                                          :S (v63 / label~e.33))
+                                  :C v52))
+                  :H (v13 / label
+                          :A (v34 / label~e.36)
+                          :S (v35 / label~e.37)
+                          :D (v36 / label~e.38)
+                          :A (v37 / label
+                                  :C (v53 / label~e.40)
+                                  :E (v54 / label
+                                          :C v53
+                                          :R (v64 / label~e.41)
+                                          :Q (v65 / label~e.42)
+                                          :E (v66 / label~e.43))))
+                  :L (v14 / label~e.45)
+                  :H (v15 / label
+                          :A (v38 / label~e.46)
+                          :A (v39 / label
+                                  :R (v55 / label~e.48)
+                                  :C (v56 / label~e.49))
+                          :A (v40 / label
+                                  :S (v57 / label~e.50)
+                                  :A (v58 / label~e.51))
+                          :P (v41 / label~e.52))
+                  :L (v16 / label~e.53)
+                  :H (v17 / label
+                          :T (v42 / label~e.54)
+                          :A (v43 / label~e.56)
+                          :S (v44 / label~e.57)
+                          :A (v45 / label
+                                  :R (v59 / label~e.58)
+                                  :E (v60 / label~e.60)
+                                  :C (v61 / label~e.61))))
+           :P (v4 / label~e.15)
+           :A (v5 / label~e.16)
+           :A (v6 / label~e.17)))

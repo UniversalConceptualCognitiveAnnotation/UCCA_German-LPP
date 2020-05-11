@@ -1,0 +1,17 @@
+# ::id 26756010
+# ::tok Es betrübt mich , von diesen Erinnerungen zu erzählen .
+# ::alignments 1-1.1.3 2-1.1.4 4-1.1.5.5.1 5-1.1.5.5.2 6-1.1.5.5.3.2 8-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.1)
+           :A (v4 / label~e.2)
+           :A (v5 / label
+                  :P (v6 / label~e.8)
+                  :A v4
+                  :A (v7 / label
+                         :R (v8 / label~e.4)
+                         :E (v9 / label~e.5)
+                         :C (v10 / label
+                                 :A (v11 / label)
+                                 :P (v12 / label~e.6))))))

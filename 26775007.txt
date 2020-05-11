@@ -1,0 +1,17 @@
+# ::id 26775007
+# ::tok fragte der kleine Prinz , der den Wunsch hatte , ihm zu helfen . - "
+# ::alignments 0-1.1.1 2-1.1.2.5 3-1.1.2.1 5-1.1.2.2.2 7-1.1.2.2.3.2 10-1.1.2.2.5 12-1.1.2.2.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v5 / label~e.3)
+                  :E (v6 / label
+                         :A v5
+                         :R (v8 / label~e.5)
+                         :D (v9 / label
+                                :C (v12 / label~e.7))
+                         :A (v10 / label~e.10)
+                         :P (v11 / label~e.12))
+                  :E (v7 / label~e.2))))

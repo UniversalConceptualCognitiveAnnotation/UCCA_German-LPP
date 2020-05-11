@@ -1,0 +1,16 @@
+# ::id 26769004
+# ::tok Doch weil er sehr gütig war , gab er vernünftige Befehle . - "
+# ::alignments 0-1.1 1-1.2 2-1.3.1 3-1.3.2 4-1.3.3 7-1.4.1 8-1.4.2 9-1.4.3 10-1.4.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v6 / label~e.2)
+           :D (v7 / label~e.3)
+           :S (v8 / label~e.4))
+    :H (v5 / label
+           :D (v9 / label~e.7)
+           :A (v10 / label~e.8)
+           :D (v11 / label~e.9)
+           :P (v12 / label~e.10)))

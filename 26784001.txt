@@ -1,0 +1,12 @@
+# ::id 26784001
+# ::tok Wozu denn ? " - "
+# ::alignments 0-1.1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label)
+                  :A (v7 / label)
+                  :A (v8 / label~e.0))))

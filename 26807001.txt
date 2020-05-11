@@ -1,0 +1,22 @@
+# ::id 26807001
+# ::tok Er sagte : - " Weißt du , mein Fall zu der Erde ... morgen jährt er sich . "
+# ::alignments 0-1.1.4 1-1.1.5 5-1.1.6.1.1 6-1.1.6.1.2 8-1.1.6.2.1 9-1.1.6.2.2 10-1.1.6.2.3.1 12-1.1.6.2.3.3 14-1.1.6.3.1 15-1.1.6.3.2 16-1.1.6.3.3 17-1.1.6.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :H (v6 / label
+                         :S (v9 / label~e.5)
+                         :A (v10 / label~e.6))
+                  :H (v7 / label
+                         :A (v11 / label~e.8)
+                         :P (v12 / label~e.9)
+                         :A (v13 / label
+                                 :R (v17 / label~e.10)
+                                 :C (v18 / label~e.12)))
+                  :H (v8 / label
+                         :T (v14 / label~e.14)
+                         :S (v15 / label~e.15,17)
+                         :A (v16 / label~e.16)))))

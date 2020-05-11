@@ -1,0 +1,15 @@
+# ::id 26787000
+# ::tok Kapitel XVI Der siebente Planet war die Erde .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1.2 4-1.2.1.3 5-1.2.2 7-1.2.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))
+           :S (v7 / label~e.5)
+           :A (v8 / label
+                  :C (v11 / label~e.7))))

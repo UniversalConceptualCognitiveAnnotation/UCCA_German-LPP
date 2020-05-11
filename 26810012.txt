@@ -1,0 +1,13 @@
+# ::id 26810012
+# ::tok Dann werde ich dir ein Geschenk machen ... "
+# ::alignments 0-1.1.1 2-1.1.2.4 3-1.1.2.5 5-1.1.2.6.2 6-1.1.2.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :L (v3 / label~e.0)
+           :H (v4 / label
+                  :A (v5 / label~e.2)
+                  :A (v6 / label~e.3)
+                  :A (v7 / label
+                         :C (v9 / label~e.5))
+                  :P (v8 / label~e.6))))

@@ -1,0 +1,20 @@
+# ::id 26756015
+# ::tok Ich könnte wie die Großen werden , die sich nur noch für Zahlen interessieren .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.1 4-1.1.4.3 5-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3 10-1.1.6.3 11-1.1.6.4.1 12-1.1.6.4.2 13-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :A (v5 / label
+                  :R (v8 / label~e.2)
+                  :C (v9 / label~e.4))
+           :S (v6 / label~e.5)
+           :A (v7 / label
+                  :R (v10 / label~e.7)
+                  :P (v11 / label~e.8,13)
+                  :D (v12 / label~e.9,10)
+                  :A (v13 / label
+                          :R (v14 / label~e.11)
+                          :C (v15 / label~e.12))
+                  :A v9)))

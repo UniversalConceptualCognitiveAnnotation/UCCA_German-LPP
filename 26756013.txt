@@ -1,0 +1,12 @@
+# ::id 26756013
+# ::tok Es ist traurig , einen Freund zu vergessen .
+# ::alignments 2-1.1.4 5-1.1.5.1.2 7-1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.2)
+           :A (v4 / label
+                  :A (v5 / label
+                         :C (v8 / label~e.5))
+                  :P (v6 / label~e.7)
+                  :A (v7 / label))))

@@ -1,0 +1,14 @@
+# ::id 26750010
+# ::tok Zeichne mir ein Schaf . "
+# ::alignments 0-1.1.3.4 1-1.1.3.1 3-1.1.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label~e.1)
+                  :A (v7 / label
+                         :C (v10 / label~e.3))
+                  :A (v8 / label)
+                  :P (v9 / label~e.0))))

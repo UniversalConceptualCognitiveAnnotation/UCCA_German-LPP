@@ -1,0 +1,21 @@
+# ::id 26803015
+# ::tok Natürlich gelang es nie jemandem , ihn zu entdecken , vielleicht nicht mal , danach zu suchen .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5 6-1.1.6.2 8-1.1.6.4 10-1.2.6 11-1.2.7 12-1.2.8 14-1.2.9 16-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :G (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :T (v6 / label~e.3)
+           :A (v7 / label~e.4)
+           :A (v8 / label
+                  :A v7
+                  :A (v14 / label~e.6)
+                  :P (v15 / label~e.8)))
+    :H (v3 / label
+           :P (v9 / label~e.16)
+           :A v7
+           :G (v10 / label~e.10)
+           :D (v11 / label~e.11)
+           :D (v12 / label~e.12)
+           :A (v13 / label~e.14)))

@@ -1,0 +1,14 @@
+# ::id 26781013
+# ::tok Man kann gleichzeitig pflichtbewusst und faul sein .
+# ::alignments 0-1.1.3 1-1.1.4 2-1.1.1 3-1.1.2 4-1.2 5-1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label~e.2)
+           :S (v6 / label~e.3)
+           :A (v7 / label~e.0)
+           :D (v8 / label~e.1))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :S (v9 / label~e.5)
+           :A v7))

@@ -1,0 +1,26 @@
+# ::id 26764001
+# ::tok Es ist bald Zeit zu dem Frühstücken " , fügte sie kurz darauf hinzu . " Hätten Sie die Güte , an mich zu denken ? "
+# ::alignments 2-1.1.5.1.3 3-1.1.5.1.4 4-1.1.5.1.5.1 6-1.1.5.1.5.3 9-1.1.6 10-1.1.7 11-1.1.8.1 12-1.1.8.2 13-1.1.6 17-1.1.5.2.2 19-1.1.5.2.3.2 21-1.1.5.2.4.1 22-1.1.5.2.4.2 24-1.1.5.2.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :T (v11 / label~e.2)
+                         :A (v12 / label~e.3)
+                         :P (v13 / label
+                                 :R (v18 / label~e.4)
+                                 :C (v19 / label~e.6)))
+                  :H (v8 / label
+                         :A (v14 / label~e.17)
+                         :D (v15 / label
+                                 :C (v20 / label~e.19))
+                         :A (v16 / label
+                                 :R (v21 / label~e.21)
+                                 :C (v22 / label~e.22))
+                         :P (v17 / label~e.24)))
+           :P (v4 / label~e.9,13)
+           :A (v5 / label~e.10)
+           :T (v6 / label
+                  :E (v9 / label~e.11)
+                  :C (v10 / label~e.12))))

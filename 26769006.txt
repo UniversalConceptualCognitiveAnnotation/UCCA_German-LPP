@@ -1,0 +1,15 @@
+# ::id 26769006
+# ::tok Darf ich mich setzen ? " , fragte der kleine Prinz schüchtern . - "
+# ::alignments 0-1.1.7.1 1-1.1.7.2 2-1.1.7.3 3-1.1.7.3 7-1.1.8 9-1.1.9.2 10-1.1.9.3 11-1.1.10
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v7 / label~e.0)
+                  :A (v8 / label~e.1)
+                  :P (v9 / label~e.2,3))
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :E (v10 / label~e.9)
+                  :C (v11 / label~e.10))
+           :D (v6 / label~e.11)))
