@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26768003
+1	Der	_	Word	Word	_	2	F	_	_
+2	König	_	Word	Word	_	3	A	_	_
+3	saß	_	Word	Word	_	0	H	_	_
+4	in	_	Word	Word	_	5	R	_	_
+5	Purpur	_	Word	Word	_	8	A	_	_
+6	und	_	Word	Word	_	5	N	_	_
+7	Hermelin	_	Word	Word	_	5	C	_	_
+8	gekleidet	_	Word	Word	_	3	A	_	_
+9	auf	_	Word	Word	_	11	R	_	_
+10	einem	_	Word	Word	_	11	F	_	_
+11	Thron	_	Word	Word	_	3	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	der	_	Word	Word	_	14	R	_	_
+14	schlicht	_	Word	Word	_	11	E	_	_
+15	aber	_	Word	Word	_	14	N	_	_
+16	majestätisch	_	Word	Word	_	14	C	_	_
+17	war	_	Word	Word	_	14	F	_	_
+18	.	_	Punctuation	Punctuation	_	14	U	_	_
+19	-	_	Punctuation	Punctuation	_	14	U	_	_
+20	"	_	Punctuation	Punctuation	_	14	U	_	_
+

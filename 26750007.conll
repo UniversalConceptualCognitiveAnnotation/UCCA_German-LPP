@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 26750007
+1	So	_	Word	Word	_	4	L	_	_
+2	könnt	_	Word	Word	_	4	D	_	_
+3	ihr	_	Word	Word	_	4	A	_	_
+4	euch	_	Word	Word	_	0	H	_	_
+5	vorstellen	_	Word	Word	_	4	Terminal	_	_
+6	,	_	Punctuation	Punctuation	_	4	U	_	_
+7	wie	_	Word	Word	_	8	D	_	_
+8	überrascht	_	Word	Word	_	4	A	_	_
+9	ich	_	Word	Word	_	8	A	_	_
+10	war	_	Word	Word	_	8	F	_	_
+11	,	_	Punctuation	Punctuation	_	8	U	_	_
+12	als	_	Word	Word	_	8	L	_	_
+13	ich	_	Word	Word	_	22	A	_	_
+14	bei	_	Word	Word	_	15	R	_	_
+15	Sonnenaufgang	_	Word	Word	_	22	T	_	_
+16	von	_	Word	Word	_	21	R	_	_
+17	einer	_	Word	Word	_	21	E	_	_
+18	leisen	_	Word	Word	_	21	E	_	_
+19	,	_	Punctuation	Punctuation	_	18	U	_	_
+20	lustigen	_	Word	Word	_	18	C	_	_
+21	Stimme	_	Word	Word	_	22	A	_	_
+22	geweckt	_	Word	Word	_	8	H	_	_
+23	wurde	_	Word	Word	_	22	F	_	_
+24	.	_	Punctuation	Punctuation	_	22	U	_	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26756008
+1	Für	_	Word	Word	_	3	R	_	_
+2	all	_	Word	Word	_	3	Q	_	_
+3	jene	_	Word	Word	_	14	A	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	die	_	Word	Word	_	8	R	_	_
+6	das	_	Word	Word	_	7	F	_	_
+7	Leben	_	Word	Word	_	8	A	_	_
+8	verstehen	_	Word	Word	_	3	E	_	_
+9	,	_	Punctuation	Punctuation	_	14	U	_	_
+10	würde	_	Word	Word	_	14	D	_	_
+11	das	_	Word	Word	_	14	A	_	_
+12	viel	_	Word	Word	_	13	E	_	_
+13	richtiger	_	Word	Word	_	14	D	_	_
+14	klingen	_	Word	Word	_	0	H	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26791003
+1	Wo	_	Word	Word	_	8	A	_	_
+2	sind	_	Word	Word	_	1	F	_	_
+3	die	_	Word	Word	_	4	F	_	_
+4	Menschen	_	Word	Word	_	1	A	_	_
+5	?	_	Punctuation	Punctuation	_	8	U	_	_
+6	"	_	Punctuation	Punctuation	_	8	U	_	_
+7	,	_	Punctuation	Punctuation	_	8	U	_	_
+8	fragte	_	Word	Word	_	0	H	_	_
+9	der	_	Word	Word	_	11	F	_	_
+10	kleine	_	Word	Word	_	11	E	_	_
+11	Prinz	_	Word	Word	_	8	A	_	_
+12	höflich	_	Word	Word	_	8	D	_	_
+13	.	_	Punctuation	Punctuation	_	8	U	_	_
+

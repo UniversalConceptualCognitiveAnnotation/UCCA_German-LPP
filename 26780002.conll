@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26780002
+1	Es	_	Word	Word	_	4	F	_	_
+2	gab	_	Word	Word	_	4	F	_	_
+3	gerade	_	Word	Word	_	4	D	_	_
+4	genug	_	Word	Word	_	0	H	_	_
+5	Platz	_	Word	Word	_	4	A	_	_
+6	für	_	Word	Word	_	9	R	_	_
+7	eine	_	Word	Word	_	9	Q	_	_
+8	Straßen	_	Word	Word	_	9	E	_	_
+9	laterne	_	Word	Word	_	4	A	_	_
+10	und	_	Word	Word	_	9	N	_	_
+11	einen	_	Word	Word	_	13	Q	_	_
+12	Laternen	_	Word	Word	_	13	A*	_	_
+13	anzünder	_	Word	Word	_	9	C	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

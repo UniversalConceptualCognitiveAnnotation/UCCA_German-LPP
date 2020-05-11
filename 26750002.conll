@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26750002
+1	Und	_	Word	Word	_	11	L	_	_
+2	weil	_	Word	Word	_	11	L	_	_
+3	ich	_	Word	Word	_	11	A	_	_
+4	weder	_	Word	Word	_	11	D	_	_
+5	einen	_	Word	Word	_	6	F	_	_
+6	Mechaniker	_	Word	Word	_	11	A	_	_
+7	,	_	Punctuation	Punctuation	_	11	U	_	_
+8	noch	_	Word	Word	_	4	Terminal	_	_
+9	Passagiere	_	Word	Word	_	6	C	_	_
+10	bei	_	Word	Word	_	11	R	_	_
+11	mir	_	Word	Word	_	0	H	_	_
+12	hatte	_	Word	Word	_	11	F	_	_
+13	,	_	Punctuation	Punctuation	_	11	U	_	_
+14	bereitete	_	Word	Word	_	11	H	_	_
+15	ich	_	Word	Word	_	14	A	_	_
+15	ich	_	Word	Word	_	25	A*	_	_
+16	mich	_	Word	Word	_	14	Terminal	_	_
+17	darauf	_	Word	Word	_	14	F	_	_
+18	vor	_	Word	Word	_	14	Terminal	_	_
+19	,	_	Punctuation	Punctuation	_	14	U	_	_
+20	die	_	Word	Word	_	22	F	_	_
+21	schwierige	_	Word	Word	_	22	D	_	_
+22	Reparatur	_	Word	Word	_	25	A	_	_
+23	ganz	_	Word	Word	_	24	E	_	_
+24	allein	_	Word	Word	_	25	D	_	_
+25	vorzunehmen	_	Word	Word	_	14	A	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

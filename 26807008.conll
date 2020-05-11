@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 26807008
+1	Er	_	Word	Word	_	2	A	_	_
+2	antwortete	_	Word	Word	_	0	H	_	_
+3	nie	_	Word	Word	_	2	T	_	_
+4	auf	_	Word	Word	_	5	R	_	_
+5	Fragen	_	Word	Word	_	2	A	_	_
+6	,	_	Punctuation	Punctuation	_	2	U	_	_
+7	aber	_	Word	Word	_	2	L	_	_
+8	wenn	_	Word	Word	_	2	L	_	_
+9	man	_	Word	Word	_	11	A	_	_
+10	rot	_	Word	Word	_	11	D	_	_
+11	wird	_	Word	Word	_	2	H	_	_
+12	,	_	Punctuation	Punctuation	_	2	U	_	_
+13	dann	_	Word	Word	_	2	L	_	_
+14	heißt	_	Word	Word	_	2	H	_	_
+15	das	_	Word	Word	_	14	A	_	_
+16	doch	_	Word	Word	_	14	D	_	_
+17	,	_	Punctuation	Punctuation	_	14	U	_	_
+18	,	_	Punctuation	Punctuation	_	14	U	_	_
+19	ja	_	Word	Word	_	14	A	_	_
+20	'	_	Punctuation	Punctuation	_	14	U	_	_
+21	,	_	Punctuation	Punctuation	_	14	U	_	_
+22	oder	_	Word	Word	_	14	F	_	_
+23	?	_	Punctuation	Punctuation	_	14	U	_	_
+24	-	_	Punctuation	Punctuation	_	14	U	_	_
+25	"	_	Punctuation	Punctuation	_	14	U	_	_
+

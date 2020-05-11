@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 26751001
+1	Da	_	Word	Word	_	2	T	_	_
+2	wiederholte	_	Word	Word	_	0	H	_	_
+3	er	_	Word	Word	_	2	A	_	_
+4	ganz	_	Word	Word	_	5	E	_	_
+5	sacht	_	Word	Word	_	2	D	_	_
+6	,	_	Punctuation	Punctuation	_	2	U	_	_
+7	als	_	Word	Word	_	2	L	_	_
+8	handele	_	Word	Word	_	2	H	_	_
+9	es	_	Word	Word	_	8	F	_	_
+10	sich	_	Word	Word	_	8	Terminal	_	_
+11	um	_	Word	Word	_	15	R	_	_
+12	eine	_	Word	Word	_	15	F	_	_
+13	sehr	_	Word	Word	_	14	D	_	_
+14	ernstzunehmende	_	Word	Word	_	15	E	_	_
+15	Angelegenheit	_	Word	Word	_	8	A	_	_
+16	:	_	Punctuation	Punctuation	_	2	U	_	_
+17	-	_	Punctuation	Punctuation	_	2	U	_	_
+18	"	_	Punctuation	Punctuation	_	2	U	_	_
+19	Bitte	_	Word	Word	_	21	F	_	_
+20	...	_	Punctuation	Punctuation	_	21	U	_	_
+21	zeichne	_	Word	Word	_	2	A	_	_
+22	mir	_	Word	Word	_	21	A	_	_
+23	ein	_	Word	Word	_	24	F	_	_
+24	Schaf	_	Word	Word	_	21	A	_	_
+25	...	_	Punctuation	Punctuation	_	2	U	_	_
+26	"	_	Punctuation	Punctuation	_	2	U	_	_
+27	Bei	_	Word	Word	_	2	L	_	_
+28	etwas	_	Word	Word	_	31	A	_	_
+29	so	_	Word	Word	_	30	E	_	_
+30	beeindruckend	_	Word	Word	_	31	D	_	_
+31	Rätselhaftem	_	Word	Word	_	2	H	_	_
+32	wagt	_	Word	Word	_	36	D	_	_
+33	man	_	Word	Word	_	36	A	_	_
+34	nicht	_	Word	Word	_	36	D	_	_
+35	zu	_	Word	Word	_	36	F	_	_
+36	widersprechen	_	Word	Word	_	2	H	_	_
+37	.	_	Punctuation	Punctuation	_	36	U	_	_
+

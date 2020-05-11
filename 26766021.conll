@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26766021
+1	Ich	_	Word	Word	_	3	A	_	_
+2	bin	_	Word	Word	_	3	F	_	_
+3	dumm	_	Word	Word	_	7	A	_	_
+4	gewesen	_	Word	Word	_	3	F	_	_
+5	"	_	Punctuation	Punctuation	_	7	U	_	_
+6	,	_	Punctuation	Punctuation	_	7	U	_	_
+7	sagte	_	Word	Word	_	0	H	_	_
+8	sie	_	Word	Word	_	7	A	_	_
+9	schließlich	_	Word	Word	_	7	D	_	_
+10	.	_	Punctuation	Punctuation	_	7	U	_	_
+11	"	_	Punctuation	Punctuation	_	7	U	_	_
+12	Bitte	_	Word	Word	_	13	F	_	_
+13	verzeih	_	Word	Word	_	3	H	_	_
+14	mir	_	Word	Word	_	13	A	_	_
+15	.	_	Punctuation	Punctuation	_	3	U	_	_
+16	Versuche	_	Word	Word	_	18	D	_	_
+17	,	_	Punctuation	Punctuation	_	18	U	_	_
+18	glücklich	_	Word	Word	_	3	H	_	_
+19	zu	_	Word	Word	_	18	F	_	_
+20	sein	_	Word	Word	_	18	F	_	_
+21	.	_	Punctuation	Punctuation	_	18	U	_	_
+22	"	_	Punctuation	Punctuation	_	18	U	_	_
+

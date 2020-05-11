@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 26766015
+1	Und	_	Word	Word	_	10	L	_	_
+2	als	_	Word	Word	_	10	L	_	_
+3	er	_	Word	Word	_	10	A	_	_
+3	er	_	Word	Word	_	18	A*	_	_
+4	die	_	Word	Word	_	5	F	_	_
+5	Blume	_	Word	Word	_	10	A	_	_
+6	zu	_	Word	Word	_	9	R	_	_
+7	dem	_	Word	Word	_	9	F	_	_
+8	letzten	_	Word	Word	_	9	E	_	_
+9	Mal	_	Word	Word	_	10	D	_	_
+10	goss	_	Word	Word	_	0	H	_	_
+11	und	_	Word	Word	_	10	L	_	_
+12	sie	_	Word	Word	_	18	A	_	_
+13	unter	_	Word	Word	_	17	R	_	_
+14	ihre	_	Word	Word	_	17	E	_	_
+15	schützende	_	Word	Word	_	17	E	_	_
+16	Glas	_	Word	Word	_	17	E	_	_
+17	glocke	_	Word	Word	_	18	A	_	_
+18	stellen	_	Word	Word	_	10	H	_	_
+19	wollte	_	Word	Word	_	18	D	_	_
+20	,	_	Punctuation	Punctuation	_	10	U	_	_
+21	da	_	Word	Word	_	10	L	_	_
+22	überkam	_	Word	Word	_	10	H	_	_
+23	ihn	_	Word	Word	_	22	A	_	_
+23	ihn	_	Word	Word	_	27	A*	_	_
+24	das	_	Word	Word	_	25	F	_	_
+25	Bedürfnis	_	Word	Word	_	27	A	_	_
+26	zu	_	Word	Word	_	27	F	_	_
+27	weinen	_	Word	Word	_	22	A	_	_
+28	.	_	Punctuation	Punctuation	_	27	U	_	_
+

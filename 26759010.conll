@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26759010
+1	Und	_	Word	Word	_	5	L	_	_
+2	ein	_	Word	Word	_	4	F	_	_
+3	wenig	_	Word	Word	_	4	E	_	_
+4	später	_	Word	Word	_	5	T	_	_
+5	fügtest	_	Word	Word	_	0	H	_	_
+6	du	_	Word	Word	_	5	A	_	_
+7	hinzu	_	Word	Word	_	5	Terminal	_	_
+8	:	_	Punctuation	Punctuation	_	5	U	_	_
+9	-	_	Punctuation	Punctuation	_	5	U	_	_
+10	"	_	Punctuation	Punctuation	_	5	U	_	_
+11	Weißt	_	Word	Word	_	5	A	_	_
+12	du	_	Word	Word	_	11	A	_	_
+13	...	_	Punctuation	Punctuation	_	11	U	_	_
+14	wenn	_	Word	Word	_	11	L	_	_
+15	man	_	Word	Word	_	17	A	_	_
+16	sehr	_	Word	Word	_	17	D	_	_
+17	traurig	_	Word	Word	_	11	H	_	_
+18	ist	_	Word	Word	_	17	F	_	_
+19	,	_	Punctuation	Punctuation	_	11	U	_	_
+20	dann	_	Word	Word	_	11	L	_	_
+21	liebt	_	Word	Word	_	11	H	_	_
+22	man	_	Word	Word	_	21	A	_	_
+23	Sonnenuntergänge	_	Word	Word	_	21	A	_	_
+24	.	_	Punctuation	Punctuation	_	21	U	_	_
+25	"	_	Punctuation	Punctuation	_	21	U	_	_
+26	-	_	Punctuation	Punctuation	_	21	U	_	_
+27	"	_	Punctuation	Punctuation	_	21	U	_	_
+

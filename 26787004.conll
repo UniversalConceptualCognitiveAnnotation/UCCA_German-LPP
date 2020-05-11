@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 26787004
+1	Aus	_	Word	Word	_	3	R	_	_
+2	der	_	Word	Word	_	3	F	_	_
+3	Ferne	_	Word	Word	_	4	A	_	_
+4	sah	_	Word	Word	_	0	H	_	_
+5	das	_	Word	Word	_	4	A	_	_
+6	umwerfend	_	Word	Word	_	4	D	_	_
+7	aus	_	Word	Word	_	4	Terminal	_	_
+8	.	_	Punctuation	Punctuation	_	4	U	_	_
+

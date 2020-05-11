@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 26812006
+1	Ich	_	Word	Word	_	2	A	_	_
+2	sage	_	Word	Word	_	0	H	_	_
+3	dir	_	Word	Word	_	2	A	_	_
+4	das	_	Word	Word	_	2	A	_	_
+5	auch	_	Word	Word	_	2	L	_	_
+6	...	_	Punctuation	Punctuation	_	2	U	_	_
+7	wegen	_	Word	Word	_	9	R	_	_
+8	der	_	Word	Word	_	9	F	_	_
+9	Schlange	_	Word	Word	_	2	A	_	_
+10	.	_	Punctuation	Punctuation	_	2	U	_	_
+11	Sie	_	Word	Word	_	15	A	_	_
+12	soll	_	Word	Word	_	15	D	_	_
+13	dich	_	Word	Word	_	15	A	_	_
+14	nicht	_	Word	Word	_	15	D	_	_
+15	beißen	_	Word	Word	_	2	H	_	_
+16	...	_	Punctuation	Punctuation	_	2	U	_	_
+17	Schlangen	_	Word	Word	_	19	A	_	_
+18	sind	_	Word	Word	_	19	F	_	_
+19	bösartig	_	Word	Word	_	2	H	_	_
+20	.	_	Punctuation	Punctuation	_	2	U	_	_
+21	Die	_	Word	Word	_	22	A	_	_
+22	beißen	_	Word	Word	_	2	H	_	_
+23	auch	_	Word	Word	_	2	L	_	_
+24	zu	_	Word	Word	_	22	D	_	_
+25	dem	_	Word	Word	_	24	Terminal	_	_
+26	Spaß	_	Word	Word	_	24	Terminal	_	_
+27	...	_	Punctuation	Punctuation	_	2	U	_	_
+28	"	_	Punctuation	Punctuation	_	2	U	_	_
+29	-	_	Punctuation	Punctuation	_	2	U	_	_
+30	"	_	Punctuation	Punctuation	_	2	U	_	_
+31	Ich	_	Word	Word	_	35	A	_	_
+32	werde	_	Word	Word	_	35	F	_	_
+33	dich	_	Word	Word	_	35	A	_	_
+34	nicht	_	Word	Word	_	35	D	_	_
+35	verlassen	_	Word	Word	_	2	H	_	_
+36	.	_	Punctuation	Punctuation	_	35	U	_	_
+37	"	_	Punctuation	Punctuation	_	35	U	_	_
+

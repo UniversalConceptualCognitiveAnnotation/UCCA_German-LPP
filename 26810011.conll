@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 26810011
+1	So	_	Word	Word	_	7	D	_	_
+2	wirst	_	Word	Word	_	7	F	_	_
+3	du	_	Word	Word	_	7	A	_	_
+4	alle	_	Word	Word	_	5	Q	_	_
+5	Sterne	_	Word	Word	_	7	A	_	_
+6	gerne	_	Word	Word	_	7	D	_	_
+7	anschauen	_	Word	Word	_	0	H	_	_
+8	...	_	Punctuation	Punctuation	_	7	U	_	_
+9	sie	_	Word	Word	_	14	A	_	_
+10	alle	_	Word	Word	_	9	Q	_	_
+11	werden	_	Word	Word	_	14	F	_	_
+12	deine	_	Word	Word	_	13	E	_	_
+13	Freunde	_	Word	Word	_	14	A	_	_
+14	sein	_	Word	Word	_	7	H	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

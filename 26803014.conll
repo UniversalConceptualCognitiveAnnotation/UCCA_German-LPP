@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26803014
+1	Als	_	Word	Word	_	6	L	_	_
+2	ich	_	Word	Word	_	6	A	_	_
+3	ein	_	Word	Word	_	5	F	_	_
+4	kleiner	_	Word	Word	_	5	E	_	_
+5	Junge	_	Word	Word	_	6	A	_	_
+6	war	_	Word	Word	_	0	H	_	_
+7	,	_	Punctuation	Punctuation	_	6	U	_	_
+8	wohnte	_	Word	Word	_	6	H	_	_
+9	ich	_	Word	Word	_	8	A	_	_
+10	in	_	Word	Word	_	13	R	_	_
+11	einem	_	Word	Word	_	13	F	_	_
+12	alten	_	Word	Word	_	13	E	_	_
+13	Haus	_	Word	Word	_	8	A	_	_
+14	und	_	Word	Word	_	6	L	_	_
+15	der	_	Word	Word	_	16	F	_	_
+16	Legende	_	Word	Word	_	22	A	_	_
+17	nach	_	Word	Word	_	16	R	_	_
+18	war	_	Word	Word	_	22	F	_	_
+19	dort	_	Word	Word	_	22	A	_	_
+20	ein	_	Word	Word	_	21	F	_	_
+21	Schatz	_	Word	Word	_	22	A	_	_
+22	versteckt	_	Word	Word	_	6	H	_	_
+23	.	_	Punctuation	Punctuation	_	22	U	_	_
+

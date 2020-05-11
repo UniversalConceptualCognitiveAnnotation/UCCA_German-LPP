@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26788019
+1	Auf	_	Word	Word	_	3	R	_	_
+2	der	_	Word	Word	_	3	F	_	_
+3	Erde	_	Word	Word	_	9	A	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	in	_	Word	Word	_	6	R	_	_
+6	Afrika	_	Word	Word	_	3	H	_	_
+7	"	_	Punctuation	Punctuation	_	9	U	_	_
+8	,	_	Punctuation	Punctuation	_	9	U	_	_
+9	antwortete	_	Word	Word	_	0	H	_	_
+10	die	_	Word	Word	_	11	F	_	_
+11	Schlange	_	Word	Word	_	9	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+13	-	_	Punctuation	Punctuation	_	11	U	_	_
+14	"	_	Punctuation	Punctuation	_	11	U	_	_
+

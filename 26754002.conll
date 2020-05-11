@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26754002
+1	Dieser	_	Word	Word	_	2	E	_	_
+2	Vorschlag	_	Word	Word	_	8	A	_	_
+3	schien	_	Word	Word	_	8	G	_	_
+4	den	_	Word	Word	_	6	F	_	_
+5	kleinen	_	Word	Word	_	6	E	_	_
+6	Prinzen	_	Word	Word	_	8	A	_	_
+7	zu	_	Word	Word	_	8	F	_	_
+8	schockieren	_	Word	Word	_	0	H	_	_
+9	:	_	Punctuation	Punctuation	_	8	U	_	_
+10	-	_	Punctuation	Punctuation	_	8	U	_	_
+11	"	_	Punctuation	Punctuation	_	8	U	_	_
+12	Es	_	Word	Word	_	13	A	_	_
+13	festbinden	_	Word	Word	_	8	H	_	_
+14	?	_	Punctuation	Punctuation	_	13	U	_	_
+15	Was	_	Word	Word	_	18	A	_	_
+16	für	_	Word	Word	_	15	Terminal	_	_
+17	eine	_	Word	Word	_	15	Terminal	_	_
+18	merkwürdige	_	Word	Word	_	13	H	_	_
+19	Idee	_	Word	Word	_	18	A	_	_
+20	.	_	Punctuation	Punctuation	_	18	U	_	_
+21	"	_	Punctuation	Punctuation	_	18	U	_	_
+22	-	_	Punctuation	Punctuation	_	18	U	_	_
+23	"	_	Punctuation	Punctuation	_	18	U	_	_
+

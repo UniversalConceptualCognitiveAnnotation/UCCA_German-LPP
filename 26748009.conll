@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 26748009
+1	Meine	_	Word	Word	_	2	E	_	_
+2	Zeichnung	_	Word	Word	_	6	A	_	_
+3	Nr	_	Word	Word	_	5	E	_	_
+4	.	_	Punctuation	Punctuation	_	5	U	_	_
+5	2	_	Word	Word	_	2	E	_	_
+6	sah	_	Word	Word	_	0	H	_	_
+7	so	_	Word	Word	_	6	A	_	_
+8	aus	_	Word	Word	_	6	Terminal	_	_
+9	:	_	Punctuation	Punctuation	_	6	U	_	_
+10	Die	_	Word	Word	_	11	F	_	_
+11	Erwachsenen	_	Word	Word	_	14	A	_	_
+12	haben	_	Word	Word	_	14	F	_	_
+13	mir	_	Word	Word	_	14	A	_	_
+14	geraten	_	Word	Word	_	6	H	_	_
+15	,	_	Punctuation	Punctuation	_	14	U	_	_
+16	mich	_	Word	Word	_	14	A	_	_
+17	nicht	_	Word	Word	_	16	D	_	_
+18	mehr	_	Word	Word	_	17	E	_	_
+19	mit	_	Word	Word	_	24	R	_	_
+20	offenen	_	Word	Word	_	24	E	_	_
+21	oder	_	Word	Word	_	20	N	_	_
+22	geschlossenen	_	Word	Word	_	20	C	_	_
+23	Riesen	_	Word	Word	_	24	E	_	_
+24	schlangen	_	Word	Word	_	16	A	_	_
+25	zu	_	Word	Word	_	16	F	_	_
+26	beschäftigen	_	Word	Word	_	16	Terminal	_	_
+27	,	_	Punctuation	Punctuation	_	6	U	_	_
+28	sondern	_	Word	Word	_	6	L	_	_
+29	mich	_	Word	Word	_	6	H	_	_
+30	stattdessen	_	Word	Word	_	6	L	_	_
+31	mehr	_	Word	Word	_	29	D	_	_
+32	für	_	Word	Word	_	33	R	_	_
+33	Geografie	_	Word	Word	_	29	A	_	_
+34	,	_	Punctuation	Punctuation	_	33	U	_	_
+35	Geschichte	_	Word	Word	_	33	C	_	_
+36	,	_	Punctuation	Punctuation	_	33	U	_	_
+37	Mathe	_	Word	Word	_	33	C	_	_
+38	und	_	Word	Word	_	33	N	_	_
+39	Grammatik	_	Word	Word	_	33	C	_	_
+40	zu	_	Word	Word	_	29	F	_	_
+41	interessieren	_	Word	Word	_	29	Terminal	_	_
+42	.	_	Punctuation	Punctuation	_	29	U	_	_
+

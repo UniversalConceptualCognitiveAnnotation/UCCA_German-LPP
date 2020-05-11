@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 26769017
+1	Über	_	Word	Word	_	2	R	_	_
+2	das	_	Word	Word	_	7	A	_	_
+3	alles	_	Word	Word	_	2	E	_	_
+4	...	_	Punctuation	Punctuation	_	7	U	_	_
+5	"	_	Punctuation	Punctuation	_	7	U	_	_
+6	,	_	Punctuation	Punctuation	_	7	U	_	_
+7	antwortete	_	Word	Word	_	0	H	_	_
+8	der	_	Word	Word	_	9	F	_	_
+9	König	_	Word	Word	_	7	A	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

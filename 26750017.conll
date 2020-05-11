@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26750017
+1	Die	_	Word	Word	_	2	F	_	_
+2	Großen	_	Word	Word	_	4	A	_	_
+3	haben	_	Word	Word	_	4	F	_	_
+4	mich	_	Word	Word	_	0	H	_	_
+5	von	_	Word	Word	_	8	R	_	_
+6	meiner	_	Word	Word	_	8	E	_	_
+7	Maler	_	Word	Word	_	8	E	_	_
+8	karriere	_	Word	Word	_	4	A	_	_
+9	abgebracht	_	Word	Word	_	4	Terminal	_	_
+10	als	_	Word	Word	_	14	R	_	_
+11	ich	_	Word	Word	_	14	A	_	_
+12	sechs	_	Word	Word	_	13	Q	_	_
+13	Jahre	_	Word	Word	_	14	T	_	_
+14	alt	_	Word	Word	_	4	A	_	_
+15	war	_	Word	Word	_	14	F	_	_
+16	,	_	Punctuation	Punctuation	_	4	U	_	_
+17	sodass	_	Word	Word	_	4	L	_	_
+18	ich	_	Word	Word	_	22	A	_	_
+18	ich	_	Word	Word	_	29	A*	_	_
+19	nichts	_	Word	Word	_	21	A	_	_
+20	zu	_	Word	Word	_	21	F	_	_
+21	zeichnen	_	Word	Word	_	0	P	_	_
+21	zeichnen	_	Word	Word	_	29	P*	_	_
+22	gelernt	_	Word	Word	_	4	H	_	_
+23	hatte	_	Word	Word	_	22	F	_	_
+24	als	_	Word	Word	_	4	L	_	_
+25	geschlossene	_	Word	Word	_	29	E	_	_
+26	und	_	Word	Word	_	25	N	_	_
+27	offene	_	Word	Word	_	25	C	_	_
+28	Riesen	_	Word	Word	_	29	E	_	_
+29	schlangen	_	Word	Word	_	4	H	_	_
+30	.	_	Punctuation	Punctuation	_	29	U	_	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26750020
+1	Dabei	_	Word	Word	_	8	L	_	_
+2	schien	_	Word	Word	_	8	G	_	_
+3	mir	_	Word	Word	_	2	Terminal	_	_
+4	das	_	Word	Word	_	6	F	_	_
+5	kleine	_	Word	Word	_	6	E	_	_
+6	Kerlchen	_	Word	Word	_	8	A	_	_
+7	weder	_	Word	Word	_	8	N	_	_
+8	verirrt	_	Word	Word	_	0	H	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	noch	_	Word	Word	_	8	N	_	_
+11	todmüde	_	Word	Word	_	8	C	_	_
+12	,	_	Punctuation	Punctuation	_	8	U	_	_
+13	weder	_	Word	Word	_	8	N	_	_
+14	hungrig	_	Word	Word	_	8	C	_	_
+15	oder	_	Word	Word	_	8	N	_	_
+16	durstig	_	Word	Word	_	8	C	_	_
+17	,	_	Punctuation	Punctuation	_	8	U	_	_
+18	noch	_	Word	Word	_	8	N	_	_
+19	todängstlich	_	Word	Word	_	8	C	_	_
+20	.	_	Punctuation	Punctuation	_	8	U	_	_
+

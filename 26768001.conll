@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26768001
+1	So	_	Word	Word	_	2	L	_	_
+2	begann	_	Word	Word	_	0	H	_	_
+3	er	_	Word	Word	_	2	A	_	_
+3	er	_	Word	Word	_	6	A*	_	_
+3	er	_	Word	Word	_	11	A*	_	_
+3	er	_	Word	Word	_	15	A*	_	_
+4	,	_	Punctuation	Punctuation	_	2	U	_	_
+5	ihnen	_	Word	Word	_	6	A	_	_
+6	einen	_	Word	Word	_	2	A	_	_
+7	Besuch	_	Word	Word	_	6	Terminal	_	_
+8	abzustatten	_	Word	Word	_	6	Terminal	_	_
+9	,	_	Punctuation	Punctuation	_	2	U	_	_
+10	um	_	Word	Word	_	2	L	_	_
+11	sich	_	Word	Word	_	2	H	_	_
+12	zu	_	Word	Word	_	11	F	_	_
+13	beschäftigen	_	Word	Word	_	11	Terminal	_	_
+14	und	_	Word	Word	_	2	L	_	_
+15	sich	_	Word	Word	_	2	H	_	_
+16	schlau	_	Word	Word	_	15	Terminal	_	_
+17	zu	_	Word	Word	_	15	F	_	_
+18	machen	_	Word	Word	_	15	Terminal	_	_
+19	.	_	Punctuation	Punctuation	_	15	U	_	_
+

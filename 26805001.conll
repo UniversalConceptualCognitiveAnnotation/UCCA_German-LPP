@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26805001
+1	Die	_	Word	Word	_	2	F	_	_
+2	Brunnen	_	Word	Word	_	6	A	_	_
+3	in	_	Word	Word	_	5	R	_	_
+4	der	_	Word	Word	_	5	F	_	_
+5	Sahara	_	Word	Word	_	2	E	_	_
+6	sind	_	Word	Word	_	0	H	_	_
+7	nur	_	Word	Word	_	6	D	_	_
+8	einfache	_	Word	Word	_	9	E	_	_
+9	Löcher	_	Word	Word	_	6	A	_	_
+10	in	_	Word	Word	_	12	R	_	_
+11	dem	_	Word	Word	_	12	F	_	_
+12	Sand	_	Word	Word	_	9	E	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+

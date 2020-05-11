@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 26768012
+1	Das	_	Word	Word	_	2	A	_	_
+2	schüchtert	_	Word	Word	_	12	A	_	_
+3	mich	_	Word	Word	_	2	A	_	_
+4	ein	_	Word	Word	_	2	Terminal	_	_
+5	...	_	Punctuation	Punctuation	_	2	U	_	_
+6	ich	_	Word	Word	_	2	H	_	_
+7	kann	_	Word	Word	_	6	D	_	_
+8	nicht	_	Word	Word	_	6	D	_	_
+9	mehr	_	Word	Word	_	8	E	_	_
+10	"	_	Punctuation	Punctuation	_	12	U	_	_
+11	,	_	Punctuation	Punctuation	_	12	U	_	_
+12	erwiderte	_	Word	Word	_	0	H	_	_
+13	der	_	Word	Word	_	14	F	_	_
+14	Prinz	_	Word	Word	_	0	C	_	_
+14	Prinz	_	Word	Word	_	18	A*	_	_
+15	und	_	Word	Word	_	12	L	_	_
+16	wurde	_	Word	Word	_	18	F	_	_
+17	ganz	_	Word	Word	_	18	D	_	_
+18	rot	_	Word	Word	_	12	H	_	_
+19	.	_	Punctuation	Punctuation	_	18	U	_	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26822004
+1	Es	_	Word	Word	_	4	A	_	_
+2	ist	_	Word	Word	_	4	F	_	_
+3	die	_	Word	Word	_	5	F	_	_
+4	gleiche	_	Word	Word	_	0	H	_	_
+5	Landschaft	_	Word	Word	_	4	A	_	_
+6	wie	_	Word	Word	_	9	R	_	_
+7	auf	_	Word	Word	_	10	R	_	_
+8	der	_	Word	Word	_	10	F	_	_
+9	vorigen	_	Word	Word	_	4	A	_	_
+10	Seite	_	Word	Word	_	9	A	_	_
+11	aber	_	Word	Word	_	4	L	_	_
+12	ich	_	Word	Word	_	17	A	_	_
+12	ich	_	Word	Word	_	25	A*	_	_
+13	habe	_	Word	Word	_	17	F	_	_
+14	sie	_	Word	Word	_	17	A	_	_
+15	noch	_	Word	Word	_	16	E	_	_
+16	einmal	_	Word	Word	_	17	D	_	_
+17	gezeichnet	_	Word	Word	_	4	H	_	_
+18	,	_	Punctuation	Punctuation	_	4	U	_	_
+19	um	_	Word	Word	_	4	L	_	_
+20	sie	_	Word	Word	_	25	A	_	_
+21	euch	_	Word	Word	_	25	A	_	_
+22	noch	_	Word	Word	_	23	E	_	_
+23	besser	_	Word	Word	_	25	D	_	_
+24	zu	_	Word	Word	_	25	F	_	_
+25	zeigen	_	Word	Word	_	4	H	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

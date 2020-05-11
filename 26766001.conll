@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26766001
+1	An	_	Word	Word	_	3	R	_	_
+2	dem	_	Word	Word	_	3	F	_	_
+3	Tag	_	Word	Word	_	6	T	_	_
+4	seiner	_	Word	Word	_	5	A	_	_
+5	Abreise	_	Word	Word	_	6	H	_	_
+6	räumte	_	Word	Word	_	0	H	_	_
+7	er	_	Word	Word	_	6	A	_	_
+8	seinen	_	Word	Word	_	9	E	_	_
+9	Planeten	_	Word	Word	_	6	A	_	_
+10	auf	_	Word	Word	_	6	Terminal	_	_
+11	.	_	Punctuation	Punctuation	_	6	U	_	_
+

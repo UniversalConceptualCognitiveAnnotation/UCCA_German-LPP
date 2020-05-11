@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26788003
+1	Die	_	Word	Word	_	2	F	_	_
+2	Menschen	_	Word	Word	_	3	A	_	_
+3	nehmen	_	Word	Word	_	0	H	_	_
+4	nur	_	Word	Word	_	3	D	_	_
+5	wenig	_	Word	Word	_	6	E	_	_
+6	Platz	_	Word	Word	_	3	A	_	_
+7	auf	_	Word	Word	_	9	R	_	_
+8	der	_	Word	Word	_	9	F	_	_
+9	Erde	_	Word	Word	_	3	A	_	_
+10	ein	_	Word	Word	_	3	Terminal	_	_
+11	.	_	Punctuation	Punctuation	_	3	U	_	_
+

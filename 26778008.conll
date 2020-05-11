@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26778008
+1	Das	_	Word	Word	_	2	A	_	_
+2	bedeutet	_	Word	Word	_	0	H	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	ich	_	Word	Word	_	5	A	_	_
+5	schreibe	_	Word	Word	_	2	H	_	_
+6	die	_	Word	Word	_	7	F	_	_
+7	Anzahl	_	Word	Word	_	5	A	_	_
+8	der	_	Word	Word	_	9	R	_	_
+9	Sterne	_	Word	Word	_	7	E	_	_
+10	auf	_	Word	Word	_	13	R	_	_
+11	einen	_	Word	Word	_	13	F	_	_
+12	kleinen	_	Word	Word	_	13	E	_	_
+13	Zettel	_	Word	Word	_	5	A	_	_
+14	.	_	Punctuation	Punctuation	_	2	U	_	_
+15	Und	_	Word	Word	_	2	L	_	_
+16	diesen	_	Word	Word	_	17	E	_	_
+17	Zettel	_	Word	Word	_	18	A	_	_
+18	verschließe	_	Word	Word	_	2	H	_	_
+19	ich	_	Word	Word	_	18	A	_	_
+20	dann	_	Word	Word	_	2	L	_	_
+21	in	_	Word	Word	_	23	R	_	_
+22	einer	_	Word	Word	_	23	E	_	_
+23	Schublade	_	Word	Word	_	18	A	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+25	"	_	Punctuation	Punctuation	_	23	U	_	_
+26	-	_	Punctuation	Punctuation	_	23	U	_	_
+27	"	_	Punctuation	Punctuation	_	23	U	_	_
+

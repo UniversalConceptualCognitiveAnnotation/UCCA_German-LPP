@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26813012
+1	Durch	_	Word	Word	_	3	R	_	_
+2	den	_	Word	Word	_	3	F	_	_
+3	Sand	_	Word	Word	_	8	A	_	_
+4	war	_	Word	Word	_	8	F	_	_
+5	nicht	_	Word	Word	_	8	D	_	_
+6	mal	_	Word	Word	_	5	Terminal	_	_
+7	ein	_	Word	Word	_	8	F	_	_
+8	Geräusch	_	Word	Word	_	0	H	_	_
+9	zu	_	Word	Word	_	8	F	_	_
+10	hören	_	Word	Word	_	8	D	_	_
+11	.	_	Punctuation	Punctuation	_	8	U	_	_
+

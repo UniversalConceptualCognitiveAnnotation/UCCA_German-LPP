@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 26758004
+1	Aber	_	Word	Word	_	10	L	_	_
+2	wie	_	Word	Word	_	3	D	_	_
+3	gefährlich	_	Word	Word	_	10	A	_	_
+4	Affenbrotbäume	_	Word	Word	_	3	A	_	_
+5	sind	_	Word	Word	_	3	F	_	_
+6	,	_	Punctuation	Punctuation	_	10	U	_	_
+7	ist	_	Word	Word	_	10	F	_	_
+8	so	_	Word	Word	_	9	E	_	_
+9	wenig	_	Word	Word	_	10	D	_	_
+10	bekannt	_	Word	Word	_	0	H	_	_
+11	und	_	Word	Word	_	10	L	_	_
+12	die	_	Word	Word	_	13	F	_	_
+13	Risiken	_	Word	Word	_	26	A	_	_
+14	für	_	Word	Word	_	15	R	_	_
+15	jemanden	_	Word	Word	_	26	A	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	der	_	Word	Word	_	15	E	_	_
+18	sich	_	Word	Word	_	17	E	_	_
+19	auf	_	Word	Word	_	21	R	_	_
+20	einen	_	Word	Word	_	21	F	_	_
+21	Asteroiden	_	Word	Word	_	18	A	_	_
+22	verirrt	_	Word	Word	_	18	Terminal	_	_
+23	,	_	Punctuation	Punctuation	_	26	U	_	_
+24	sind	_	Word	Word	_	26	F	_	_
+25	so	_	Word	Word	_	26	D	_	_
+26	groß	_	Word	Word	_	10	H	_	_
+27	,	_	Punctuation	Punctuation	_	10	U	_	_
+28	dass	_	Word	Word	_	10	L	_	_
+29	ich	_	Word	Word	_	33	A	_	_
+30	einmal	_	Word	Word	_	33	T	_	_
+31	eine	_	Word	Word	_	32	F	_	_
+32	Ausnahme	_	Word	Word	_	33	A	_	_
+33	mache	_	Word	Word	_	10	H	_	_
+34	.	_	Punctuation	Punctuation	_	33	U	_	_
+

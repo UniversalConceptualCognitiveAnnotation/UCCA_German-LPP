@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 26767003
+1	Dann	_	Word	Word	_	2	L	_	_
+2	fügte	_	Word	Word	_	0	H	_	_
+3	sie	_	Word	Word	_	2	A	_	_
+4	hinzu	_	Word	Word	_	2	Terminal	_	_
+5	:	_	Punctuation	Punctuation	_	2	U	_	_
+6	-	_	Punctuation	Punctuation	_	2	U	_	_
+7	"	_	Punctuation	Punctuation	_	2	U	_	_
+8	Trödel	_	Word	Word	_	2	A	_	_
+9	nicht	_	Word	Word	_	8	D	_	_
+10	so	_	Word	Word	_	8	D	_	_
+11	rum	_	Word	Word	_	8	Terminal	_	_
+12	,	_	Punctuation	Punctuation	_	8	U	_	_
+13	das	_	Word	Word	_	15	A	_	_
+14	ist	_	Word	Word	_	15	F	_	_
+15	ärgerlich	_	Word	Word	_	8	H	_	_
+16	.	_	Punctuation	Punctuation	_	8	U	_	_
+17	Du	_	Word	Word	_	19	A	_	_
+17	Du	_	Word	Word	_	8	A*	_	_
+17	Du	_	Word	Word	_	20	A*	_	_
+17	Du	_	Word	Word	_	22	A*	_	_
+18	hast	_	Word	Word	_	19	F	_	_
+19	entschieden	_	Word	Word	_	8	H	_	_
+20	fortzugehen	_	Word	Word	_	19	A	_	_
+21	.	_	Punctuation	Punctuation	_	8	U	_	_
+22	Mach	_	Word	Word	_	8	H	_	_
+23	dich	_	Word	Word	_	22	Terminal	_	_
+24	auf	_	Word	Word	_	22	Terminal	_	_
+25	den	_	Word	Word	_	22	Terminal	_	_
+26	Weg	_	Word	Word	_	22	Terminal	_	_
+27	!	_	Punctuation	Punctuation	_	22	U	_	_
+28	"	_	Punctuation	Punctuation	_	22	U	_	_
+

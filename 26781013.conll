@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26781013
+1	Man	_	Word	Word	_	4	A	_	_
+1	Man	_	Word	Word	_	6	A*	_	_
+2	kann	_	Word	Word	_	4	D	_	_
+3	gleichzeitig	_	Word	Word	_	4	D	_	_
+4	pflichtbewusst	_	Word	Word	_	0	H	_	_
+5	und	_	Word	Word	_	4	L	_	_
+6	faul	_	Word	Word	_	4	H	_	_
+7	sein	_	Word	Word	_	6	F	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+

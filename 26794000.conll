@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26794000
+1	Kapitel	_	Word	Word	_	2	E	_	_
+2	XXI	_	Word	Word	_	0	H	_	_
+3	In	_	Word	Word	_	5	R	_	_
+4	diesem	_	Word	Word	_	5	E	_	_
+5	Moment	_	Word	Word	_	6	T	_	_
+6	tauchte	_	Word	Word	_	2	H	_	_
+7	der	_	Word	Word	_	8	F	_	_
+8	Fuchs	_	Word	Word	_	6	A	_	_
+9	auf	_	Word	Word	_	6	Terminal	_	_
+10	.	_	Punctuation	Punctuation	_	6	U	_	_
+11	-	_	Punctuation	Punctuation	_	6	U	_	_
+12	"	_	Punctuation	Punctuation	_	6	U	_	_
+

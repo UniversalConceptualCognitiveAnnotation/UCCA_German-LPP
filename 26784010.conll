@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26784010
+1	Aber	_	Word	Word	_	5	L	_	_
+2	du	_	Word	Word	_	5	F	_	_
+3	,	_	Punctuation	Punctuation	_	5	U	_	_
+4	du	_	Word	Word	_	5	A	_	_
+5	kommst	_	Word	Word	_	0	H	_	_
+6	doch	_	Word	Word	_	5	D	_	_
+7	von	_	Word	Word	_	8	R	_	_
+8	weit	_	Word	Word	_	5	A	_	_
+9	her	_	Word	Word	_	5	Terminal	_	_
+10	!	_	Punctuation	Punctuation	_	5	U	_	_
+11	Du	_	Word	Word	_	12	A	_	_
+12	bist	_	Word	Word	_	5	H	_	_
+13	ein	_	Word	Word	_	14	F	_	_
+14	Forscher	_	Word	Word	_	12	A	_	_
+15	!	_	Punctuation	Punctuation	_	5	U	_	_
+16	Du	_	Word	Word	_	21	A	_	_
+17	wirst	_	Word	Word	_	21	F	_	_
+18	mir	_	Word	Word	_	21	A	_	_
+19	deinen	_	Word	Word	_	21	A	_	_
+20	Planeten	_	Word	Word	_	19	A	_	_
+21	beschreiben	_	Word	Word	_	5	H	_	_
+22	!	_	Punctuation	Punctuation	_	21	U	_	_
+23	"	_	Punctuation	Punctuation	_	21	U	_	_
+

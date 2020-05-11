@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26814001
+1	Meine	_	Word	Word	_	2	E	_	_
+2	Kameraden	_	Word	Word	_	12	A	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	die	_	Word	Word	_	6	R	_	_
+5	mich	_	Word	Word	_	6	A	_	_
+6	zu	_	Word	Word	_	2	E	_	_
+7	Gesicht	_	Word	Word	_	6	Terminal	_	_
+8	bekamen	_	Word	Word	_	6	Terminal	_	_
+9	,	_	Punctuation	Punctuation	_	12	U	_	_
+10	waren	_	Word	Word	_	12	F	_	_
+11	sehr	_	Word	Word	_	12	D	_	_
+12	glücklich	_	Word	Word	_	0	H	_	_
+13	,	_	Punctuation	Punctuation	_	12	U	_	_
+14	mich	_	Word	Word	_	16	A	_	_
+15	lebend	_	Word	Word	_	14	E	_	_
+16	wiederzusehen	_	Word	Word	_	12	A	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26764001
+1	Es	_	Word	Word	_	7	F	_	_
+2	ist	_	Word	Word	_	7	F	_	_
+3	bald	_	Word	Word	_	7	T	_	_
+4	Zeit	_	Word	Word	_	7	A	_	_
+5	zu	_	Word	Word	_	7	R	_	_
+6	dem	_	Word	Word	_	7	F	_	_
+7	Frühstücken	_	Word	Word	_	10	A	_	_
+8	"	_	Punctuation	Punctuation	_	10	U	_	_
+9	,	_	Punctuation	Punctuation	_	10	U	_	_
+10	fügte	_	Word	Word	_	0	H	_	_
+11	sie	_	Word	Word	_	10	A	_	_
+12	kurz	_	Word	Word	_	13	E	_	_
+13	darauf	_	Word	Word	_	10	T	_	_
+14	hinzu	_	Word	Word	_	10	Terminal	_	_
+15	.	_	Punctuation	Punctuation	_	10	U	_	_
+16	"	_	Punctuation	Punctuation	_	10	U	_	_
+17	Hätten	_	Word	Word	_	25	F	_	_
+18	Sie	_	Word	Word	_	25	A	_	_
+19	die	_	Word	Word	_	20	F	_	_
+20	Güte	_	Word	Word	_	25	D	_	_
+21	,	_	Punctuation	Punctuation	_	25	U	_	_
+22	an	_	Word	Word	_	23	R	_	_
+23	mich	_	Word	Word	_	25	A	_	_
+24	zu	_	Word	Word	_	25	F	_	_
+25	denken	_	Word	Word	_	7	H	_	_
+26	?	_	Punctuation	Punctuation	_	25	U	_	_
+27	"	_	Punctuation	Punctuation	_	25	U	_	_
+

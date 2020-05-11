@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 26808005
+1	Trotzdem	_	Word	Word	_	2	L	_	_
+2	wiederholte	_	Word	Word	_	0	H	_	_
+3	der	_	Word	Word	_	5	F	_	_
+4	kleine	_	Word	Word	_	5	E	_	_
+5	Prinz	_	Word	Word	_	2	A	_	_
+6	noch	_	Word	Word	_	2	D	_	_
+7	einmal	_	Word	Word	_	6	Terminal	_	_
+8	:	_	Punctuation	Punctuation	_	2	U	_	_
+9	-	_	Punctuation	Punctuation	_	2	U	_	_
+10	"	_	Punctuation	Punctuation	_	2	U	_	_
+11	Natürlich	_	Word	Word	_	2	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+13	Du	_	Word	Word	_	15	A	_	_
+14	wirst	_	Word	Word	_	15	F	_	_
+15	sehen	_	Word	Word	_	11	H	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	wo	_	Word	Word	_	23	A	_	_
+18	meine	_	Word	Word	_	19	E	_	_
+19	Spur	_	Word	Word	_	23	A	_	_
+20	in	_	Word	Word	_	22	R	_	_
+21	dem	_	Word	Word	_	22	F	_	_
+22	Sand	_	Word	Word	_	23	A	_	_
+23	beginnt	_	Word	Word	_	15	A	_	_
+24	.	_	Punctuation	Punctuation	_	11	U	_	_
+25	Du	_	Word	Word	_	32	A	_	_
+26	brauchst	_	Word	Word	_	32	D	_	_
+27	dort	_	Word	Word	_	32	A	_	_
+28	nur	_	Word	Word	_	32	D	_	_
+29	auf	_	Word	Word	_	30	R	_	_
+30	mich	_	Word	Word	_	32	A	_	_
+31	zu	_	Word	Word	_	32	F	_	_
+32	warten	_	Word	Word	_	11	H	_	_
+33	.	_	Punctuation	Punctuation	_	11	U	_	_
+34	Heute	_	Word	Word	_	35	E	_	_
+35	Nacht	_	Word	Word	_	39	T	_	_
+36	werde	_	Word	Word	_	39	F	_	_
+37	ich	_	Word	Word	_	39	A	_	_
+38	dort	_	Word	Word	_	39	A	_	_
+39	sein	_	Word	Word	_	11	H	_	_
+40	.	_	Punctuation	Punctuation	_	39	U	_	_
+41	"	_	Punctuation	Punctuation	_	39	U	_	_
+

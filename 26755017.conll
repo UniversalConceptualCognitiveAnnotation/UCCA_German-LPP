@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 26755017
+1	Sie	_	Word	Word	_	2	A	_	_
+2	fragen	_	Word	Word	_	0	H	_	_
+3	euch	_	Word	Word	_	2	A	_	_
+4	:	_	Punctuation	Punctuation	_	2	U	_	_
+5	"	_	Punctuation	Punctuation	_	2	U	_	_
+6	Wie	_	Word	Word	_	7	D	_	_
+7	alt	_	Word	Word	_	2	A	_	_
+8	ist	_	Word	Word	_	7	F	_	_
+9	er	_	Word	Word	_	7	A	_	_
+10	?	_	Punctuation	Punctuation	_	7	U	_	_
+11	Wie	_	Word	Word	_	14	D	_	_
+12	viele	_	Word	Word	_	11	Terminal	_	_
+13	Geschwister	_	Word	Word	_	14	A	_	_
+14	hat	_	Word	Word	_	7	H	_	_
+15	er	_	Word	Word	_	14	A	_	_
+16	?	_	Punctuation	Punctuation	_	7	U	_	_
+17	Wie	_	Word	Word	_	19	D	_	_
+18	viel	_	Word	Word	_	17	Terminal	_	_
+19	wiegt	_	Word	Word	_	7	H	_	_
+20	er	_	Word	Word	_	19	A	_	_
+21	?	_	Punctuation	Punctuation	_	7	U	_	_
+22	Wie	_	Word	Word	_	24	D	_	_
+23	viel	_	Word	Word	_	22	Terminal	_	_
+24	verdient	_	Word	Word	_	7	H	_	_
+25	sein	_	Word	Word	_	26	E	_	_
+26	Vater	_	Word	Word	_	24	A	_	_
+27	?	_	Punctuation	Punctuation	_	26	U	_	_
+28	"	_	Punctuation	Punctuation	_	26	U	_	_
+

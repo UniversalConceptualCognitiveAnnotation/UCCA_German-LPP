@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 26756007
+1	Ich	_	Word	Word	_	4	A	_	_
+2	hätte	_	Word	Word	_	4	D	_	_
+3	gerne	_	Word	Word	_	4	D	_	_
+4	gesagt	_	Word	Word	_	0	H	_	_
+5	:	_	Punctuation	Punctuation	_	4	U	_	_
+6	"	_	Punctuation	Punctuation	_	4	U	_	_
+7	Es	_	Word	Word	_	8	F	_	_
+8	war	_	Word	Word	_	4	A	_	_
+9	einmal	_	Word	Word	_	8	T	_	_
+10	ein	_	Word	Word	_	12	F	_	_
+11	kleiner	_	Word	Word	_	12	E	_	_
+12	Prinz	_	Word	Word	_	0	C	_	_
+12	Prinz	_	Word	Word	_	15	A*	_	_
+13	,	_	Punctuation	Punctuation	_	15	U	_	_
+14	der	_	Word	Word	_	15	R	_	_
+15	lebte	_	Word	Word	_	8	H	_	_
+16	auf	_	Word	Word	_	18	R	_	_
+17	einem	_	Word	Word	_	18	F	_	_
+18	Planeten	_	Word	Word	_	15	A	_	_
+19	,	_	Punctuation	Punctuation	_	18	U	_	_
+20	der	_	Word	Word	_	23	R	_	_
+21	war	_	Word	Word	_	23	F	_	_
+22	kaum	_	Word	Word	_	23	D	_	_
+23	größer	_	Word	Word	_	18	E	_	_
+24	als	_	Word	Word	_	25	R	_	_
+25	er	_	Word	Word	_	23	A	_	_
+26	selbst	_	Word	Word	_	25	D	_	_
+27	und	_	Word	Word	_	8	L	_	_
+28	er	_	Word	Word	_	29	A	_	_
+29	brauchte	_	Word	Word	_	8	H	_	_
+30	einen	_	Word	Word	_	31	F	_	_
+31	Freund	_	Word	Word	_	29	A	_	_
+32	.	_	Punctuation	Punctuation	_	31	U	_	_
+

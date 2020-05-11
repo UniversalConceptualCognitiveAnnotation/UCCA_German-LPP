@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 26763008
+1	Langsam	_	Word	Word	_	2	D	_	_
+2	zog	_	Word	Word	_	0	H	_	_
+3	sie	_	Word	Word	_	2	A	_	_
+3	sie	_	Word	Word	_	7	A*	_	_
+4	sich	_	Word	Word	_	2	Terminal	_	_
+5	an	_	Word	Word	_	2	Terminal	_	_
+6	und	_	Word	Word	_	2	L	_	_
+7	rückte	_	Word	Word	_	2	H	_	_
+8	ihre	_	Word	Word	_	9	E	_	_
+9	Blütenblätter	_	Word	Word	_	7	A	_	_
+10	eines	_	Word	Word	_	7	D	_	_
+11	nach	_	Word	Word	_	10	Terminal	_	_
+12	dem	_	Word	Word	_	10	Terminal	_	_
+13	anderen	_	Word	Word	_	10	Terminal	_	_
+14	zurecht	_	Word	Word	_	7	Terminal	_	_
+15	.	_	Punctuation	Punctuation	_	7	U	_	_
+

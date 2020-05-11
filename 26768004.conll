@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 26768004
+1	Ah	_	Word	Word	_	4	F	_	_
+2	!	_	Punctuation	Punctuation	_	4	U	_	_
+3	Ein	_	Word	Word	_	4	F	_	_
+4	Untertan	_	Word	Word	_	7	A	_	_
+5	"	_	Punctuation	Punctuation	_	7	U	_	_
+6	,	_	Punctuation	Punctuation	_	7	U	_	_
+7	freute	_	Word	Word	_	0	H	_	_
+8	er	_	Word	Word	_	7	A	_	_
+9	sich	_	Word	Word	_	7	Terminal	_	_
+10	,	_	Punctuation	Punctuation	_	7	U	_	_
+11	als	_	Word	Word	_	7	L	_	_
+12	er	_	Word	Word	_	16	A	_	_
+13	den	_	Word	Word	_	15	F	_	_
+14	kleinen	_	Word	Word	_	15	E	_	_
+15	Prinzen	_	Word	Word	_	16	A	_	_
+16	sah	_	Word	Word	_	7	H	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+

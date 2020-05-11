@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 26748006
+1	Es	_	Word	Word	_	2	A	_	_
+2	zeigte	_	Word	Word	_	0	H	_	_
+3	eine	_	Word	Word	_	5	F	_	_
+4	Riesen	_	Word	Word	_	5	E	_	_
+5	schlange	_	Word	Word	_	2	A	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	die	_	Word	Word	_	10	R	_	_
+8	einen	_	Word	Word	_	9	F	_	_
+9	Elefanten	_	Word	Word	_	10	A	_	_
+10	verdaut	_	Word	Word	_	5	E	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+

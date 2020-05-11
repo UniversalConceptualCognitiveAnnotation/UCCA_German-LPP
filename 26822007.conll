@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 26822007
+1	Und	_	Word	Word	_	5	L	_	_
+2	wenn	_	Word	Word	_	5	L	_	_
+3	ihr	_	Word	Word	_	5	A	_	_
+4	dort	_	Word	Word	_	5	A	_	_
+5	vorbeikommt	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	ich	_	Word	Word	_	8	A	_	_
+8	bitte	_	Word	Word	_	5	H	_	_
+9	euch	_	Word	Word	_	8	A	_	_
+10	,	_	Punctuation	Punctuation	_	5	U	_	_
+11	dann	_	Word	Word	_	5	L	_	_
+12	nehmt	_	Word	Word	_	5	H	_	_
+13	euch	_	Word	Word	_	12	A	_	_
+14	Zeit	_	Word	Word	_	12	Terminal	_	_
+15	,	_	Punctuation	Punctuation	_	5	U	_	_
+16	wartet	_	Word	Word	_	5	H	_	_
+17	ein	_	Word	Word	_	18	F	_	_
+18	bisschen	_	Word	Word	_	16	D	_	_
+19	unter	_	Word	Word	_	21	R	_	_
+20	dem	_	Word	Word	_	21	F	_	_
+21	Stern	_	Word	Word	_	16	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

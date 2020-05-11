@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26755006
+1	Nur	_	Word	Word	_	20	D	_	_
+2	ein	_	Word	Word	_	4	F	_	_
+3	einziges	_	Word	Word	_	4	E	_	_
+4	Mal	_	Word	Word	_	20	D	_	_
+5	,	_	Punctuation	Punctuation	_	20	U	_	_
+6	in	_	Word	Word	_	8	R	_	_
+7	dem	_	Word	Word	_	8	F	_	_
+8	Jahre	_	Word	Word	_	20	T	_	_
+9	1909	_	Word	Word	_	8	C	_	_
+10	,	_	Punctuation	Punctuation	_	20	U	_	_
+11	hat	_	Word	Word	_	20	F	_	_
+12	ein	_	Word	Word	_	14	F	_	_
+13	türkischer	_	Word	Word	_	14	E	_	_
+14	Astronom	_	Word	Word	_	20	A	_	_
+15	diesen	_	Word	Word	_	16	E	_	_
+16	Asteroiden	_	Word	Word	_	20	A	_	_
+17	durch	_	Word	Word	_	19	R	_	_
+18	sein	_	Word	Word	_	19	E	_	_
+19	Fernrohr	_	Word	Word	_	20	A	_	_
+20	gesehen	_	Word	Word	_	0	H	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

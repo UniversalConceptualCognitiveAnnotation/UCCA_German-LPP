@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 26807010
+1	Aber	_	Word	Word	_	3	L	_	_
+2	er	_	Word	Word	_	3	A	_	_
+3	antwortete	_	Word	Word	_	0	H	_	_
+4	:	_	Punctuation	Punctuation	_	3	U	_	_
+5	-	_	Punctuation	Punctuation	_	3	U	_	_
+6	"	_	Punctuation	Punctuation	_	3	U	_	_
+7	Du	_	Word	Word	_	10	A	_	_
+8	musst	_	Word	Word	_	10	D	_	_
+9	jetzt	_	Word	Word	_	10	T	_	_
+10	arbeiten	_	Word	Word	_	3	A	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+12	Du	_	Word	Word	_	14	A	_	_
+13	musst	_	Word	Word	_	14	D	_	_
+14	zurück	_	Word	Word	_	10	H	_	_
+15	zu	_	Word	Word	_	17	R	_	_
+16	deiner	_	Word	Word	_	17	E	_	_
+17	Maschine	_	Word	Word	_	14	A	_	_
+18	.	_	Punctuation	Punctuation	_	10	U	_	_
+19	Ich	_	Word	Word	_	20	A	_	_
+20	warte	_	Word	Word	_	10	H	_	_
+21	hier	_	Word	Word	_	20	A	_	_
+22	auf	_	Word	Word	_	23	R	_	_
+23	dich	_	Word	Word	_	20	A	_	_
+24	.	_	Punctuation	Punctuation	_	10	U	_	_
+25	Komm	_	Word	Word	_	10	H	_	_
+26	morgen	_	Word	Word	_	25	T	_	_
+27	Abend	_	Word	Word	_	26	E	_	_
+28	wieder	_	Word	Word	_	25	D	_	_
+29	...	_	Punctuation	Punctuation	_	3	U	_	_
+30	"	_	Punctuation	Punctuation	_	3	U	_	_
+31	Aber	_	Word	Word	_	3	L	_	_
+32	ich	_	Word	Word	_	34	A	_	_
+33	konnte	_	Word	Word	_	34	D	_	_
+34	mich	_	Word	Word	_	3	H	_	_
+35	nicht	_	Word	Word	_	34	D	_	_
+36	beruhigen	_	Word	Word	_	34	Terminal	_	_
+37	.	_	Punctuation	Punctuation	_	34	U	_	_
+

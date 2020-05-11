@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 26750000
+1	Kapitel	_	Word	Word	_	2	E	_	_
+2	II	_	Word	Word	_	0	H	_	_
+3	So	_	Word	Word	_	2	L	_	_
+4	lebte	_	Word	Word	_	2	H	_	_
+5	ich	_	Word	Word	_	4	A	_	_
+5	ich	_	Word	Word	_	9	A*	_	_
+6	allein	_	Word	Word	_	4	D	_	_
+7	,	_	Punctuation	Punctuation	_	2	U	_	_
+8	ohne	_	Word	Word	_	2	L	_	_
+9	jemanden	_	Word	Word	_	2	H	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	mit	_	Word	Word	_	12	R	_	_
+12	dem	_	Word	Word	_	16	R	_	_
+13	ich	_	Word	Word	_	16	A	_	_
+14	wirklich	_	Word	Word	_	16	G	_	_
+15	hätte	_	Word	Word	_	16	F	_	_
+16	sprechen	_	Word	Word	_	9	E	_	_
+17	können	_	Word	Word	_	16	D	_	_
+18	,	_	Punctuation	Punctuation	_	2	U	_	_
+19	bis	_	Word	Word	_	2	L	_	_
+20	ich	_	Word	Word	_	25	A	_	_
+21	vor	_	Word	Word	_	23	R	_	_
+22	sechs	_	Word	Word	_	23	Q	_	_
+23	Jahren	_	Word	Word	_	25	T	_	_
+24	eine	_	Word	Word	_	25	F	_	_
+25	Panne	_	Word	Word	_	2	H	_	_
+26	in	_	Word	Word	_	29	R	_	_
+27	der	_	Word	Word	_	28	F	_	_
+28	Wüste	_	Word	Word	_	29	E	_	_
+29	Sahara	_	Word	Word	_	25	A	_	_
+30	hatte	_	Word	Word	_	25	F	_	_
+31	.	_	Punctuation	Punctuation	_	25	U	_	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26757015
+1	Es	_	Word	Word	_	3	F	_	_
+2	gab	_	Word	Word	_	3	F	_	_
+2	gab	_	Word	Word	_	12	S*	_	_
+3	auf	_	Word	Word	_	0	H	_	_
+4	dem	_	Word	Word	_	5	F	_	_
+5	Planeten	_	Word	Word	_	3	A	_	_
+6	des	_	Word	Word	_	8	R	_	_
+7	kleinen	_	Word	Word	_	8	E	_	_
+8	Prinzen	_	Word	Word	_	5	E	_	_
+9	wie	_	Word	Word	_	12	D	_	_
+10	auf	_	Word	Word	_	12	R	_	_
+11	jedem	_	Word	Word	_	12	E	_	_
+12	Planeten	_	Word	Word	_	3	A	_	_
+13	natürlich	_	Word	Word	_	3	G	_	_
+14	gute	_	Word	Word	_	17	E	_	_
+15	und	_	Word	Word	_	14	N	_	_
+16	schlechte	_	Word	Word	_	14	C	_	_
+17	Pflanzen	_	Word	Word	_	0	C	_	_
+17	Pflanzen	_	Word	Word	_	12	A*	_	_
+17	Pflanzen	_	Word	Word	_	14	A*	_	_
+18	.	_	Punctuation	Punctuation	_	12	U	_	_
+

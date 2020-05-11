@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26766008
+1	Wenn	_	Word	Word	_	4	L	_	_
+2	Vulkane	_	Word	Word	_	4	A	_	_
+3	sauber	_	Word	Word	_	4	D	_	_
+4	gefegt	_	Word	Word	_	0	H	_	_
+5	sind	_	Word	Word	_	4	F	_	_
+6	,	_	Punctuation	Punctuation	_	4	U	_	_
+7	brennen	_	Word	Word	_	4	H	_	_
+8	sie	_	Word	Word	_	7	A	_	_
+8	sie	_	Word	Word	_	16	A*	_	_
+9	nur	_	Word	Word	_	7	D	_	_
+10	ganz	_	Word	Word	_	11	E	_	_
+11	leicht	_	Word	Word	_	7	D	_	_
+12	und	_	Word	Word	_	11	N	_	_
+13	gleichmäßig	_	Word	Word	_	11	C	_	_
+14	,	_	Punctuation	Punctuation	_	4	U	_	_
+15	ohne	_	Word	Word	_	4	L	_	_
+16	auszubrechen	_	Word	Word	_	4	H	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+

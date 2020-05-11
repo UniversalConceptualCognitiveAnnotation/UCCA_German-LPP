@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 26792010
+1	Was	_	Word	Word	_	4	A	_	_
+2	für	_	Word	Word	_	1	Terminal	_	_
+3	ein	_	Word	Word	_	1	Terminal	_	_
+4	komischer	_	Word	Word	_	7	A	_	_
+5	Planet	_	Word	Word	_	4	A	_	_
+6	!	_	Punctuation	Punctuation	_	7	U	_	_
+7	dachte	_	Word	Word	_	0	H	_	_
+8	er	_	Word	Word	_	7	A	_	_
+9	.	_	Punctuation	Punctuation	_	7	U	_	_
+

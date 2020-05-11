@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 26805005
+1	Und	_	Word	Word	_	3	L	_	_
+2	sie	_	Word	Word	_	3	A	_	_
+3	ächzte	_	Word	Word	_	0	H	_	_
+4	wie	_	Word	Word	_	8	R	_	_
+5	ein	_	Word	Word	_	8	F	_	_
+6	alter	_	Word	Word	_	8	E	_	_
+7	Wetter	_	Word	Word	_	8	E	_	_
+8	hahn	_	Word	Word	_	3	A	_	_
+9	,	_	Punctuation	Punctuation	_	3	U	_	_
+10	wenn	_	Word	Word	_	3	L	_	_
+11	der	_	Word	Word	_	12	F	_	_
+12	Wind	_	Word	Word	_	14	A	_	_
+13	lange	_	Word	Word	_	14	D	_	_
+14	geschlafen	_	Word	Word	_	3	H	_	_
+15	hat	_	Word	Word	_	14	F	_	_
+16	.	_	Punctuation	Punctuation	_	14	U	_	_
+17	-	_	Punctuation	Punctuation	_	14	U	_	_
+18	"	_	Punctuation	Punctuation	_	14	U	_	_
+

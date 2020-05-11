@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 26759005
+1	Tatsächlich	_	Word	Word	_	0	H	_	_
+2	.	_	Punctuation	Punctuation	_	1	U	_	_
+3	Wenn	_	Word	Word	_	1	L	_	_
+4	es	_	Word	Word	_	13	F	_	_
+5	in	_	Word	Word	_	7	R	_	_
+6	den	_	Word	Word	_	7	F	_	_
+7	Vereinigten	_	Word	Word	_	13	A	_	_
+8	Staaten	_	Word	Word	_	7	Terminal	_	_
+9	von	_	Word	Word	_	7	Terminal	_	_
+10	Amerika	_	Word	Word	_	7	Terminal	_	_
+11	Mittags	_	Word	Word	_	12	E	_	_
+12	zeit	_	Word	Word	_	13	T	_	_
+13	ist	_	Word	Word	_	1	H	_	_
+14	,	_	Punctuation	Punctuation	_	1	U	_	_
+15	das	_	Word	Word	_	16	A	_	_
+16	weiß	_	Word	Word	_	1	H	_	_
+17	ja	_	Word	Word	_	16	D	_	_
+18	jeder	_	Word	Word	_	16	A	_	_
+19	,	_	Punctuation	Punctuation	_	1	U	_	_
+20	dann	_	Word	Word	_	1	L	_	_
+21	geht	_	Word	Word	_	1	H	_	_
+22	in	_	Word	Word	_	23	R	_	_
+23	Frankreich	_	Word	Word	_	21	A	_	_
+24	die	_	Word	Word	_	25	F	_	_
+25	Sonne	_	Word	Word	_	21	A	_	_
+26	unter	_	Word	Word	_	21	Terminal	_	_
+27	.	_	Punctuation	Punctuation	_	21	U	_	_
+

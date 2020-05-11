@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 26785007
+1	Aber	_	Word	Word	_	3	L	_	_
+2	was	_	Word	Word	_	3	A	_	_
+3	heißt	_	Word	Word	_	10	A	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	vergänglich	_	Word	Word	_	3	A	_	_
+6	'	_	Punctuation	Punctuation	_	10	U	_	_
+7	?	_	Punctuation	Punctuation	_	10	U	_	_
+8	"	_	Punctuation	Punctuation	_	10	U	_	_
+9	,	_	Punctuation	Punctuation	_	10	U	_	_
+10	wiederholte	_	Word	Word	_	0	H	_	_
+11	der	_	Word	Word	_	13	F	_	_
+12	kleine	_	Word	Word	_	13	E	_	_
+13	Prinz	_	Word	Word	_	10	A	_	_
+14	,	_	Punctuation	Punctuation	_	13	U	_	_
+15	der	_	Word	Word	_	20	R	_	_
+16	niemals	_	Word	Word	_	20	T	_	_
+17	von	_	Word	Word	_	19	R	_	_
+18	einer	_	Word	Word	_	19	E	_	_
+19	Frage	_	Word	Word	_	20	A	_	_
+20	abließ	_	Word	Word	_	13	E	_	_
+21	,	_	Punctuation	Punctuation	_	20	U	_	_
+22	die	_	Word	Word	_	25	R	_	_
+23	er	_	Word	Word	_	25	A	_	_
+24	einmal	_	Word	Word	_	25	T	_	_
+25	gestellt	_	Word	Word	_	19	E	_	_
+26	hatte	_	Word	Word	_	25	F	_	_
+27	.	_	Punctuation	Punctuation	_	25	U	_	_
+28	-	_	Punctuation	Punctuation	_	25	U	_	_
+29	"	_	Punctuation	Punctuation	_	25	U	_	_
+

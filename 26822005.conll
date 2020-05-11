@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26822005
+1	Hier	_	Word	Word	_	9	A	_	_
+2	ist	_	Word	Word	_	9	F	_	_
+3	der	_	Word	Word	_	5	F	_	_
+4	kleine	_	Word	Word	_	5	E	_	_
+5	Prinz	_	Word	Word	_	0	C	_	_
+5	Prinz	_	Word	Word	_	12	A*	_	_
+6	auf	_	Word	Word	_	8	R	_	_
+7	die	_	Word	Word	_	8	F	_	_
+8	Erde	_	Word	Word	_	9	A	_	_
+9	gekommen	_	Word	Word	_	0	H	_	_
+10	und	_	Word	Word	_	9	L	_	_
+11	wieder	_	Word	Word	_	12	D	_	_
+12	verschwunden	_	Word	Word	_	9	H	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 26759003
+1	Du	_	Word	Word	_	5	A	_	_
+1	Du	_	Word	Word	_	11	A*	_	_
+2	wirktest	_	Word	Word	_	5	G	_	_
+3	zunächst	_	Word	Word	_	5	T	_	_
+4	sehr	_	Word	Word	_	5	D	_	_
+5	überrascht	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	aber	_	Word	Word	_	5	L	_	_
+8	musstest	_	Word	Word	_	11	D	_	_
+9	dann	_	Word	Word	_	5	L	_	_
+10	selbst	_	Word	Word	_	11	D	_	_
+11	lachen	_	Word	Word	_	5	H	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

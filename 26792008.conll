@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 26792008
+1	Werdet	_	Word	Word	_	10	A	_	_
+2	meine	_	Word	Word	_	1	A	_	_
+3	Freunde	_	Word	Word	_	2	A	_	_
+4	,	_	Punctuation	Punctuation	_	1	U	_	_
+5	ich	_	Word	Word	_	7	A	_	_
+6	bin	_	Word	Word	_	7	F	_	_
+7	allein	_	Word	Word	_	1	H	_	_
+8	"	_	Punctuation	Punctuation	_	10	U	_	_
+9	,	_	Punctuation	Punctuation	_	10	U	_	_
+10	sagte	_	Word	Word	_	0	H	_	_
+11	er	_	Word	Word	_	10	A	_	_
+12	.	_	Punctuation	Punctuation	_	10	U	_	_
+13	-	_	Punctuation	Punctuation	_	10	U	_	_
+14	"	_	Punctuation	Punctuation	_	10	U	_	_
+

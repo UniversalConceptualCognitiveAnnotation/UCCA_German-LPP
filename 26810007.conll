@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26810007
+1	Natürlich	_	Word	Word	_	0	H	_	_
+2	...	_	Punctuation	Punctuation	_	1	U	_	_
+3	"	_	Punctuation	Punctuation	_	1	U	_	_
+4	-	_	Punctuation	Punctuation	_	1	U	_	_
+5	"	_	Punctuation	Punctuation	_	1	U	_	_
+6	Du	_	Word	Word	_	11	A	_	_
+7	wirst	_	Word	Word	_	11	F	_	_
+8	nachts	_	Word	Word	_	11	T	_	_
+9	die	_	Word	Word	_	10	F	_	_
+10	Sterne	_	Word	Word	_	11	A	_	_
+11	beobachten	_	Word	Word	_	1	H	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+
