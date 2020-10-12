@@ -21,6 +21,21 @@ Format and Source Code:
 Information about the format of the xml files and source code for reading and manipulating them are
 available at https://universalconceptualcognitiveannotation.github.io/.
 
+Citation:
+---------
+The annotation was conducted at the Hebrew University of Jerusalem. If you use this corpus, please cite:
+```
+@inproceedings{Oep:Abe:Abz:20,
+  author = {Oepen, Stephan and Abend, Omri and Abzianidze, Lasha and
+            Bos, Johan and Haji\v{c}, Jan and Hershcovich, Daniel and
+            Li, Bin and O'Gorman, Tim and Xue, Nianwen and Zeman, Daniel},
+  title = {{MRP}~2020: {T}he {S}econd {S}hared {T}ask on
+           {C}ross-Framework and {C}ross-{L}inguistic
+           {M}eaning {R}epresentation {P}arsing},
+  booktitle = {Proc. of CoNLL Shared Task},
+  year = 2020
+}
+```
 
 Licensing:
 ----------
