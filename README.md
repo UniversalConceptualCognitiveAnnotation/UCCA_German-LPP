@@ -1,6 +1,6 @@
 UCCA-Annotated German Corpus: Der kleine Prinz (The Little Prince)
 ==================================================================
-Version 1.0 (April 12, 2020)
+Version 2.0 (April 12, 2020)
 ----------------------------------
 
 This bundle contains 68 passages annotated according to the foundational layer of UCCA.
