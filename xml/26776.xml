@@ -2720,13 +2720,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.154" type="D">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
-      </edge>
       <edge toID="1.155" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="D" />
       </edge>
     </node>
     <node ID="1.149" type="FN">
@@ -2784,9 +2781,13 @@
     <node ID="1.155" type="FN">
       <attributes />
       <extra tree_id="7-3-7-5" />
-      <edge toID="0.138" type="Terminal">
+      <edge toID="1.154" type="Q">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+      </edge>
+      <edge toID="1.419" type="C">
+        <attributes />
+        <category tag="C" />
       </edge>
     </node>
     <node ID="1.156" type="FN">
@@ -4328,13 +4329,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.292" type="D">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
-      </edge>
       <edge toID="1.293" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="D" />
       </edge>
       <edge toID="1.294" type="F">
         <attributes />
@@ -4372,9 +4370,13 @@
     <node ID="1.293" type="FN">
       <attributes />
       <extra tree_id="10-3-8-4" />
-      <edge toID="0.255" type="Terminal">
+      <edge toID="1.292" type="Q">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+      </edge>
+      <edge toID="1.420" type="C">
+        <attributes />
+        <category tag="C" />
       </edge>
     </node>
     <node ID="1.294" type="FN">
@@ -5441,6 +5443,20 @@
     <node ID="1.418" type="PNCT">
       <attributes />
       <edge toID="0.307" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.419" type="FN">
+      <attributes />
+      <edge toID="0.138" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.420" type="FN">
+      <attributes />
+      <edge toID="0.255" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
